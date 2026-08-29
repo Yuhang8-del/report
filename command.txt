@@ -1,0 +1,1 @@
+E:\bishe\fruit\.worktrees\fruit-ssod-implementation\src\fruit_ssod\cli\train_supervised.py --config configs\experiments\supervised_v3_domain_balanced_yolov8m_1024_seed42.yaml --run-id supervised-v3-domain-balanced-yolov8m-1024-seed42-r3

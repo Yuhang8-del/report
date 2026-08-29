@@ -1,0 +1,10 @@
+{
+  "cuda_available": true,
+  "cuda_version": "12.1",
+  "gpu_name": "NVIDIA GeForce RTX 3080",
+  "platform": "Windows-10-10.0.26200-SP0",
+  "python": "3.10.20 | packaged by Anaconda, Inc. | (main, Jun 11 2026, 15:13:20) [MSC v.1942 64 bit (AMD64)]",
+  "python_executable": "E:\\anaconda\\envs\\fruit-ssod\\python.exe",
+  "torch": "2.5.1+cu121",
+  "ultralytics": "8.4.31"
+}

@@ -1,0 +1,73 @@
+{
+  "amp": false,
+  "artifact_root": "E:\\fruit_ssod_runtime\\artifacts_v17",
+  "batch": 2,
+  "canonical_classes": [
+    "Apple",
+    "Banana",
+    "Orange",
+    "Strawberry",
+    "Pineapple"
+  ],
+  "close_mosaic": 20,
+  "cos_lr": true,
+  "dataset_paths": {
+    "test": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\processed\\yolo\\supervised_v3_domain_balanced_teacher_seed42\\test.txt",
+    "train": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\processed\\yolo\\supervised_v3_domain_balanced_teacher_seed42\\train_domain_balanced.txt",
+    "val": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\processed\\yolo\\supervised_v3_domain_balanced_teacher_seed42\\val.txt"
+  },
+  "dataset_yaml": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\processed\\yolo\\supervised_v3_domain_balanced_teacher_seed42\\dataset.yaml",
+  "dataset_yaml_effective": {
+    "names": [
+      "Apple",
+      "Banana",
+      "Orange",
+      "Strawberry",
+      "Pineapple"
+    ],
+    "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\processed\\yolo\\supervised_v3_domain_balanced_teacher_seed42",
+    "test": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\processed\\yolo\\supervised_v3_domain_balanced_teacher_seed42\\test.txt",
+    "train": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\processed\\yolo\\supervised_v3_domain_balanced_teacher_seed42\\train_domain_balanced.txt",
+    "val": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\processed\\yolo\\supervised_v3_domain_balanced_teacher_seed42\\val.txt"
+  },
+  "dataset_yaml_sha256": "40ff4c31546fcb03c6cafbfe245f087471ba8a359da8a32abfcc04e323d3e548",
+  "device": "cuda:0",
+  "epochs": 120,
+  "experiment_name": "supervised_v3_domain_balanced_yolov8m_1024_seed42",
+  "image_size": 1024,
+  "initialization_policy": {
+    "comparison_group": "optimized_teacher_v3_domain_balanced_seed42",
+    "model_initialization": "shared_pretrained_weights",
+    "policy_id": "v3_domain_balanced_teacher_from_v12n_v1"
+  },
+  "learning_rate": 0.0001,
+  "mixup": 0.05,
+  "model_config": "E:\\bishe\\fruit\\.worktrees\\fruit-ssod-implementation\\configs\\models\\yolov8m_1024.yaml",
+  "model_config_effective": {
+    "amp": true,
+    "batch": 2,
+    "image_size": 1024,
+    "model": "yolov8m.yaml",
+    "names": [
+      "Apple",
+      "Banana",
+      "Orange",
+      "Strawberry",
+      "Pineapple"
+    ]
+  },
+  "model_config_sha256": "61cc833a605d5379276a6aecd1296968b16919c29d9f2d6ffe6c4660d7609d30",
+  "model_reference": "yolov8m.yaml",
+  "mosaic": 0.65,
+  "optimizer": "AdamW",
+  "patience": 30,
+  "pretrained_weights": {
+    "bytes": 52051339,
+    "path": "E:\\fruit_ssod_runtime\\artifacts_v12\\runs\\run-v12n-v8m-balanced-1024-ft40-seed42\\weights\\best.pt",
+    "sha256": "f625cab6f16dfb1bc2888aa3159179393bdf1c530e979a755b14021f93cac72c"
+  },
+  "save_period": 1,
+  "seed": 42,
+  "split_manifest": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\manifests\\splits_v2\\split_manifest.json",
+  "workers": 0
+}

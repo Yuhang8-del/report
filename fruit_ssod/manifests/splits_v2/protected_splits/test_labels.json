@@ -1,0 +1,6857 @@
+{
+  "records": [
+    {
+      "class_presence": [
+        0,
+        4
+      ],
+      "duplicate_group_id": "unique:open_images_v7:00a70c466ad1fe24",
+      "file_path": "images/00a70c466ad1fe24.jpg",
+      "height": 683,
+      "labels": [
+        {
+          "class_id": 0,
+          "xyxy": [
+            13.999616000000003,
+            464.000148,
+            69.999104,
+            513.9998459999999
+          ]
+        },
+        {
+          "class_id": 4,
+          "xyxy": [
+            339.000832,
+            12.00031,
+            388.000256,
+            155.00002
+          ]
+        },
+        {
+          "class_id": 4,
+          "xyxy": [
+            364.99916800000005,
+            9.999803,
+            440.0,
+            164.999823
+          ]
+        },
+        {
+          "class_id": 4,
+          "xyxy": [
+            404.99967999999996,
+            0.0,
+            480.999936,
+            175.99987950000002
+          ]
+        }
+      ],
+      "license_metadata": {
+        "attribution": "Bruno Soares",
+        "name": "Open Images recorded image license",
+        "url": "https://creativecommons.org/licenses/by/2.0/"
+      },
+      "protected_split": null,
+      "source": "open_images_v7",
+      "source_image_id": "00a70c466ad1fe24",
+      "width": 1024
+    },
+    {
+      "class_presence": [
+        1,
+        4
+      ],
+      "duplicate_group_id": "unique:open_images_v7:092d59a67c16195a",
+      "file_path": "images/092d59a67c16195a.jpg",
+      "height": 1024,
+      "labels": [
+        {
+          "class_id": 1,
+          "xyxy": [
+            176.1757215,
+            852.4794880000001,
+            399.1180965,
+            1009.279488
+          ]
+        },
+        {
+          "class_id": 1,
+          "xyxy": [
+            296.61636000000004,
+            743.04,
+            473.432562,
+            823.6800000000001
+          ]
+        },
+        {
+          "class_id": 4,
+          "xyxy": [
+            166.56613049999999,
+            321.28000000000003,
+            385.66494149999994,
+            794.8800000000001
+          ]
+        }
+      ],
+      "license_metadata": {
+        "attribution": "Wonderlane",
+        "name": "Open Images recorded image license",
+        "url": "https://creativecommons.org/licenses/by/2.0/"
+      },
+      "protected_split": null,
+      "source": "open_images_v7",
+      "source_image_id": "092d59a67c16195a",
+      "width": 681
+    },
+    {
+      "class_presence": [
+        1,
+        2
+      ],
+      "duplicate_group_id": "unique:open_images_v7:0ff437803b1cb719",
+      "file_path": "images/0ff437803b1cb719.jpg",
+      "height": 768,
+      "labels": [
+        {
+          "class_id": 1,
+          "xyxy": [
+            919.0000640000001,
+            186.000384,
+            1022.999552,
+            215.000064
+          ]
+        },
+        {
+          "class_id": 1,
+          "xyxy": [
+            919.0000640000001,
+            203.00006399999998,
+            1022.999552,
+            228.0
+          ]
+        },
+        {
+          "class_id": 1,
+          "xyxy": [
+            942.99904,
+            160.99967999999998,
+            1022.99904,
+            201.00019199999997
+          ]
+        },
+        {
+          "class_id": 2,
+          "xyxy": [
+            0.0,
+            0.00038400000000038403,
+            213.000192,
+            179.000448
+          ]
+        },
+        {
+          "class_id": 2,
+          "xyxy": [
+            55.00006400000001,
+            192.99993600000002,
+            204.99968,
+            306.00038399999994
+          ]
+        },
+        {
+          "class_id": 2,
+          "xyxy": [
+            165.999616,
+            72.0,
+            410.999808,
+            306.000384
+          ]
+        },
+        {
+          "class_id": 2,
+          "xyxy": [
+            225.000448,
+            286.00051199999996,
+            403.99974399999996,
+            371.000448
+          ]
+        },
+        {
+          "class_id": 2,
+          "xyxy": [
+            273.99935999999997,
+            19.000704000000006,
+            317.999616,
+            86.00025600000001
+          ]
+        },
+        {
+          "class_id": 2,
+          "xyxy": [
+            309.999616,
+            0.0,
+            508.000256,
+            123.99974399999999
+          ]
+        },
+        {
+          "class_id": 2,
+          "xyxy": [
+            403.00032,
+            107.999616,
+            584.999936,
+            317.999232
+          ]
+        },
+        {
+          "class_id": 2,
+          "xyxy": [
+            403.999744,
+            301.99948800000004,
+            520.999936,
+            360.999552
+          ]
+        },
+        {
+          "class_id": 2,
+          "xyxy": [
+            519.999488,
+            0.0,
+            725.999616,
+            184.99929600000002
+          ]
+        },
+        {
+          "class_id": 2,
+          "xyxy": [
+            622.0006400000001,
+            490.00012799999996,
+            699.00032,
+            542.999808
+          ]
+        },
+        {
+          "class_id": 2,
+          "xyxy": [
+            695.0000640000001,
+            515.000064,
+            794.999808,
+            585.000192
+          ]
+        },
+        {
+          "class_id": 2,
+          "xyxy": [
+            698.999808,
+            395.00006400000007,
+            816.0,
+            516.0
+          ]
+        },
+        {
+          "class_id": 2,
+          "xyxy": [
+            780.000768,
+            476.00064,
+            839.000576,
+            567.000192
+          ]
+        },
+        {
+          "class_id": 2,
+          "xyxy": [
+            807.999488,
+            450.00038399999994,
+            888.999936,
+            531.999744
+          ]
+        },
+        {
+          "class_id": 2,
+          "xyxy": [
+            839.000064,
+            422.999424,
+            935.999488,
+            502.9996799999999
+          ]
+        },
+        {
+          "class_id": 2,
+          "xyxy": [
+            884.0002559999999,
+            382.000128,
+            967.000576,
+            474.00038399999994
+          ]
+        }
+      ],
+      "license_metadata": {
+        "attribution": "Shannon B. (Zeer.com)",
+        "name": "Open Images recorded image license",
+        "url": "https://creativecommons.org/licenses/by/2.0/"
+      },
+      "protected_split": null,
+      "source": "open_images_v7",
+      "source_image_id": "0ff437803b1cb719",
+      "width": 1024
+    },
+    {
+      "class_presence": [
+        1,
+        4
+      ],
+      "duplicate_group_id": "unique:open_images_v7:1e2b090f4f0090ce",
+      "file_path": "images/1e2b090f4f0090ce.jpg",
+      "height": 685,
+      "labels": [
+        {
+          "class_id": 1,
+          "xyxy": [
+            351.36,
+            294.85037249999993,
+            433.28,
+            339.6212875
+          ]
+        },
+        {
+          "class_id": 4,
+          "xyxy": [
+            397.44,
+            2.5588174999999924,
+            502.40000000000003,
+            165.0141025
+          ]
+        },
+        {
+          "class_id": 4,
+          "xyxy": [
+            827.5200000000001,
+            0.0,
+            1023.36,
+            278.86076
+          ]
+        }
+      ],
+      "license_metadata": {
+        "attribution": "Aaron Epstein",
+        "name": "Open Images recorded image license",
+        "url": "https://creativecommons.org/licenses/by/2.0/"
+      },
+      "protected_split": null,
+      "source": "open_images_v7",
+      "source_image_id": "1e2b090f4f0090ce",
+      "width": 1024
+    },
+    {
+      "class_presence": [
+        0,
+        1
+      ],
+      "duplicate_group_id": "unique:open_images_v7:22be77f706b5f9f6",
+      "file_path": "images/22be77f706b5f9f6.jpg",
+      "height": 637,
+      "labels": [
+        {
+          "class_id": 0,
+          "xyxy": [
+            21.75999999999999,
+            60.11878599999998,
+            334.08,
+            385.014266
+          ]
+        },
+        {
+          "class_id": 0,
+          "xyxy": [
+            290.56,
+            77.38626350000001,
+            625.9200000000001,
+            432.9806845
+          ]
+        },
+        {
+          "class_id": 1,
+          "xyxy": [
+            312.959488,
+            17.267796000000015,
+            825.5994880000001,
+            402.282062
+          ]
+        },
+        {
+          "class_id": 1,
+          "xyxy": [
+            588.1600000000001,
+            30.0597115,
+            900.48,
+            335.76811449999997
+          ]
+        },
+        {
+          "class_id": 1,
+          "xyxy": [
+            846.720512,
+            214.251765,
+            1003.5205119999999,
+            502.05346099999997
+          ]
+        }
+      ],
+      "license_metadata": {
+        "attribution": "Turinboy",
+        "name": "Open Images recorded image license",
+        "url": "https://creativecommons.org/licenses/by/2.0/"
+      },
+      "protected_split": null,
+      "source": "open_images_v7",
+      "source_image_id": "22be77f706b5f9f6",
+      "width": 1024
+    },
+    {
+      "class_presence": [
+        1,
+        2
+      ],
+      "duplicate_group_id": "unique:open_images_v7:23cd5401edecf974",
+      "file_path": "images/23cd5401edecf974.jpg",
+      "height": 1024,
+      "labels": [
+        {
+          "class_id": 1,
+          "xyxy": [
+            307.451137,
+            355.840512,
+            510.496847,
+            640.6405120000001
+          ]
+        },
+        {
+          "class_id": 1,
+          "xyxy": [
+            477.18948900000004,
+            39.03999999999999,
+            648.849327,
+            257.91999999999996
+          ]
+        },
+        {
+          "class_id": 2,
+          "xyxy": [
+            106.32656999999999,
+            149.759488,
+            220.980494,
+            266.87948800000004
+          ]
+        },
+        {
+          "class_id": 2,
+          "xyxy": [
+            236.99413499999997,
+            321.27948799999996,
+            361.255489,
+            437.119488
+          ]
+        }
+      ],
+      "license_metadata": {
+        "attribution": "r. nial bradshaw",
+        "name": "Open Images recorded image license",
+        "url": "https://creativecommons.org/licenses/by/2.0/"
+      },
+      "protected_split": null,
+      "source": "open_images_v7",
+      "source_image_id": "23cd5401edecf974",
+      "width": 686
+    },
+    {
+      "class_presence": [
+        0,
+        1
+      ],
+      "duplicate_group_id": "unique:open_images_v7:251c49d623e62eeb",
+      "file_path": "images/251c49d623e62eeb.jpg",
+      "height": 681,
+      "labels": [
+        {
+          "class_id": 0,
+          "xyxy": [
+            342.4,
+            265.2253245,
+            533.12,
+            427.3067295
+          ]
+        },
+        {
+          "class_id": 0,
+          "xyxy": [
+            535.679488,
+            221.020593,
+            761.5994880000001,
+            419.619261
+          ]
+        },
+        {
+          "class_id": 0,
+          "xyxy": [
+            838.4005119999999,
+            279.959781,
+            903.040512,
+            379.899255
+          ]
+        },
+        {
+          "class_id": 1,
+          "xyxy": [
+            175.36051200000003,
+            133.8931125,
+            351.360512,
+            422.8216635
+          ]
+        },
+        {
+          "class_id": 1,
+          "xyxy": [
+            252.79999999999998,
+            132.6121515,
+            356.48,
+            425.3842665
+          ]
+        },
+        {
+          "class_id": 1,
+          "xyxy": [
+            341.12,
+            142.86324449999998,
+            402.55999999999995,
+            430.51015349999994
+          ]
+        },
+        {
+          "class_id": 1,
+          "xyxy": [
+            402.56051199999996,
+            128.7679065,
+            582.4005119999999,
+            274.19341349999996
+          ]
+        },
+        {
+          "class_id": 1,
+          "xyxy": [
+            474.88051199999995,
+            112.75248900000001,
+            725.120512,
+            266.505945
+          ]
+        }
+      ],
+      "license_metadata": {
+        "attribution": "Clare Bell",
+        "name": "Open Images recorded image license",
+        "url": "https://creativecommons.org/licenses/by/2.0/"
+      },
+      "protected_split": null,
+      "source": "open_images_v7",
+      "source_image_id": "251c49d623e62eeb",
+      "width": 1024
+    },
+    {
+      "class_presence": [
+        4
+      ],
+      "duplicate_group_id": "unique:open_images_v7:2f1b102b1df8618f",
+      "file_path": "images/2f1b102b1df8618f.jpg",
+      "height": 1024,
+      "labels": [
+        {
+          "class_id": 4,
+          "xyxy": [
+            456.96000000000004,
+            0.0,
+            731.52,
+            483.199488
+          ]
+        }
+      ],
+      "license_metadata": {
+        "attribution": "Luca Conti",
+        "name": "Open Images recorded image license",
+        "url": "https://creativecommons.org/licenses/by/2.0/"
+      },
+      "protected_split": null,
+      "source": "open_images_v7",
+      "source_image_id": "2f1b102b1df8618f",
+      "width": 768
+    },
+    {
+      "class_presence": [
+        4
+      ],
+      "duplicate_group_id": "unique:open_images_v7:34de6424889709b5",
+      "file_path": "images/34de6424889709b5.jpg",
+      "height": 683,
+      "labels": [
+        {
+          "class_id": 4,
+          "xyxy": [
+            481.279488,
+            0.0,
+            603.519488,
+            36.5203515
+          ]
+        },
+        {
+          "class_id": 4,
+          "xyxy": [
+            506.24000000000007,
+            51.89809649999999,
+            608.6400000000001,
+            163.3821375
+          ]
+        },
+        {
+          "class_id": 4,
+          "xyxy": [
+            652.16,
+            194.13626150000002,
+            780.16,
+            351.7514885
+          ]
+        },
+        {
+          "class_id": 4,
+          "xyxy": [
+            652.800512,
+            0.0,
+            798.080512,
+            205.028404
+          ]
+        }
+      ],
+      "license_metadata": {
+        "attribution": "DrivingtheNortheast",
+        "name": "Open Images recorded image license",
+        "url": "https://creativecommons.org/licenses/by/2.0/"
+      },
+      "protected_split": null,
+      "source": "open_images_v7",
+      "source_image_id": "34de6424889709b5",
+      "width": 1024
+    },
+    {
+      "class_presence": [
+        4
+      ],
+      "duplicate_group_id": "unique:open_images_v7:3ae89f7af565d595",
+      "file_path": "images/3ae89f7af565d595.jpg",
+      "height": 682,
+      "labels": [
+        {
+          "class_id": 4,
+          "xyxy": [
+            12.80051199999997,
+            158.663549,
+            999.040512,
+            552.125035
+          ]
+        }
+      ],
+      "license_metadata": {
+        "attribution": "Richard North",
+        "name": "Open Images recorded image license",
+        "url": "https://creativecommons.org/licenses/by/2.0/"
+      },
+      "protected_split": null,
+      "source": "open_images_v7",
+      "source_image_id": "3ae89f7af565d595",
+      "width": 1024
+    },
+    {
+      "class_presence": [
+        0,
+        1
+      ],
+      "duplicate_group_id": "unique:open_images_v7:3c420f8ab88a11d9",
+      "file_path": "images/3c420f8ab88a11d9.jpg",
+      "height": 1024,
+      "labels": [
+        {
+          "class_id": 0,
+          "xyxy": [
+            347.200512,
+            118.399488,
+            560.0,
+            334.398976
+          ]
+        },
+        {
+          "class_id": 1,
+          "xyxy": [
+            115.19948800000003,
+            660.799488,
+            783.9994879999999,
+            993.599488
+          ]
+        }
+      ],
+      "license_metadata": {
+        "attribution": "Denise Krebs",
+        "name": "Open Images recorded image license",
+        "url": "https://creativecommons.org/licenses/by/2.0/"
+      },
+      "protected_split": null,
+      "source": "open_images_v7",
+      "source_image_id": "3c420f8ab88a11d9",
+      "width": 1024
+    },
+    {
+      "class_presence": [
+        4
+      ],
+      "duplicate_group_id": "unique:open_images_v7:3fa44592f166c1cc",
+      "file_path": "images/3fa44592f166c1cc.jpg",
+      "height": 682,
+      "labels": [
+        {
+          "class_id": 4,
+          "xyxy": [
+            25.59948799999995,
+            35.827506,
+            967.039488,
+            611.625102
+          ]
+        }
+      ],
+      "license_metadata": {
+        "attribution": "Richard North",
+        "name": "Open Images recorded image license",
+        "url": "https://creativecommons.org/licenses/by/2.0/"
+      },
+      "protected_split": null,
+      "source": "open_images_v7",
+      "source_image_id": "3fa44592f166c1cc",
+      "width": 1024
+    },
+    {
+      "class_presence": [
+        1,
+        2
+      ],
+      "duplicate_group_id": "unique:open_images_v7:4177a51592ce653b",
+      "file_path": "images/4177a51592ce653b.jpg",
+      "height": 768,
+      "labels": [
+        {
+          "class_id": 1,
+          "xyxy": [
+            427.520512,
+            387.8399999999999,
+            769.9205119999999,
+            639.36
+          ]
+        },
+        {
+          "class_id": 1,
+          "xyxy": [
+            452.480512,
+            403.84012799999994,
+            787.200512,
+            639.360384
+          ]
+        },
+        {
+          "class_id": 1,
+          "xyxy": [
+            519.039488,
+            416.00025600000004,
+            830.7194880000001,
+            721.280256
+          ]
+        },
+        {
+          "class_id": 1,
+          "xyxy": [
+            640.639488,
+            424.95974400000006,
+            902.399488,
+            747.519744
+          ]
+        },
+        {
+          "class_id": 2,
+          "xyxy": [
+            378.239488,
+            216.320256,
+            491.51948799999997,
+            332.799744
+          ]
+        },
+        {
+          "class_id": 2,
+          "xyxy": [
+            441.59948799999995,
+            272.000256,
+            572.799488,
+            357.759744
+          ]
+        },
+        {
+          "class_id": 2,
+          "xyxy": [
+            493.43948800000004,
+            209.91974399999998,
+            610.5594880000001,
+            321.920256
+          ]
+        },
+        {
+          "class_id": 2,
+          "xyxy": [
+            686.080512,
+            326.40000000000003,
+            821.120512,
+            435.84000000000003
+          ]
+        }
+      ],
+      "license_metadata": {
+        "attribution": "Jo Guldi",
+        "name": "Open Images recorded image license",
+        "url": "https://creativecommons.org/licenses/by/2.0/"
+      },
+      "protected_split": null,
+      "source": "open_images_v7",
+      "source_image_id": "4177a51592ce653b",
+      "width": 1024
+    },
+    {
+      "class_presence": [
+        4
+      ],
+      "duplicate_group_id": "unique:open_images_v7:428ea31c87fb8c30",
+      "file_path": "images/428ea31c87fb8c30.jpg",
+      "height": 768,
+      "labels": [
+        {
+          "class_id": 4,
+          "xyxy": [
+            922.0003839999999,
+            399.99936,
+            1022.999552,
+            459.99936
+          ]
+        }
+      ],
+      "license_metadata": {
+        "attribution": "Joe Zachs",
+        "name": "Open Images recorded image license",
+        "url": "https://creativecommons.org/licenses/by/2.0/"
+      },
+      "protected_split": null,
+      "source": "open_images_v7",
+      "source_image_id": "428ea31c87fb8c30",
+      "width": 1024
+    },
+    {
+      "class_presence": [
+        4
+      ],
+      "duplicate_group_id": "unique:open_images_v7:4495820a8576d3bd",
+      "file_path": "images/4495820a8576d3bd.jpg",
+      "height": 683,
+      "labels": [
+        {
+          "class_id": 4,
+          "xyxy": [
+            563.2,
+            273.5848705,
+            736.0,
+            516.4152755
+          ]
+        }
+      ],
+      "license_metadata": {
+        "attribution": "Rob and Stephanie Levy",
+        "name": "Open Images recorded image license",
+        "url": "https://creativecommons.org/licenses/by/2.0/"
+      },
+      "protected_split": null,
+      "source": "open_images_v7",
+      "source_image_id": "4495820a8576d3bd",
+      "width": 1024
+    },
+    {
+      "class_presence": [
+        0,
+        2
+      ],
+      "duplicate_group_id": "unique:open_images_v7:54e6cdbab4c96339",
+      "file_path": "images/54e6cdbab4c96339.jpg",
+      "height": 682,
+      "labels": [
+        {
+          "class_id": 0,
+          "xyxy": [
+            343.200256,
+            232.663959,
+            615.2002560000001,
+            499.707197
+          ]
+        },
+        {
+          "class_id": 0,
+          "xyxy": [
+            356.000256,
+            90.34692700000001,
+            625.5999999999999,
+            285.432345
+          ]
+        },
+        {
+          "class_id": 0,
+          "xyxy": [
+            578.4007680000001,
+            275.03934699999996,
+            794.400256,
+            490.112821
+          ]
+        },
+        {
+          "class_id": 0,
+          "xyxy": [
+            603.200512,
+            37.57819999999999,
+            863.200256,
+            297.425656
+          ]
+        },
+        {
+          "class_id": 2,
+          "xyxy": [
+            53.60076799999999,
+            231.064328,
+            306.40076799999997,
+            451.73497599999996
+          ]
+        }
+      ],
+      "license_metadata": {
+        "attribution": "Helsingborgs Konserthus",
+        "name": "Open Images recorded image license",
+        "url": "https://creativecommons.org/licenses/by/2.0/"
+      },
+      "protected_split": null,
+      "source": "open_images_v7",
+      "source_image_id": "54e6cdbab4c96339",
+      "width": 1024
+    },
+    {
+      "class_presence": [
+        4
+      ],
+      "duplicate_group_id": "unique:open_images_v7:5de92928a44f3a92",
+      "file_path": "images/5de92928a44f3a92.jpg",
+      "height": 768,
+      "labels": [
+        {
+          "class_id": 4,
+          "xyxy": [
+            233.6,
+            0.0,
+            589.4399999999999,
+            556.8
+          ]
+        },
+        {
+          "class_id": 4,
+          "xyxy": [
+            562.56,
+            0.0,
+            922.24,
+            665.599872
+          ]
+        }
+      ],
+      "license_metadata": {
+        "attribution": "Ana Rodríguez  Carrington",
+        "name": "Open Images recorded image license",
+        "url": "https://creativecommons.org/licenses/by/2.0/"
+      },
+      "protected_split": null,
+      "source": "open_images_v7",
+      "source_image_id": "5de92928a44f3a92",
+      "width": 1024
+    },
+    {
+      "class_presence": [
+        0,
+        2
+      ],
+      "duplicate_group_id": "unique:open_images_v7:5f955198afce6d0a",
+      "file_path": "images/5f955198afce6d0a.jpg",
+      "height": 685,
+      "labels": [
+        {
+          "class_id": 0,
+          "xyxy": [
+            231.68,
+            225.1351825,
+            307.2,
+            340.9008675
+          ]
+        },
+        {
+          "class_id": 2,
+          "xyxy": [
+            562.5594880000001,
+            9.593767499999998,
+            636.159488,
+            80.5878525
+          ]
+        },
+        {
+          "class_id": 2,
+          "xyxy": [
+            640.64,
+            308.282195,
+            757.12,
+            421.489405
+          ]
+        },
+        {
+          "class_id": 2,
+          "xyxy": [
+            647.680512,
+            0.0,
+            718.720512,
+            33.2584625
+          ]
+        },
+        {
+          "class_id": 2,
+          "xyxy": [
+            687.360512,
+            72.2733225,
+            775.040512,
+            148.38435750000002
+          ]
+        },
+        {
+          "class_id": 2,
+          "xyxy": [
+            757.759488,
+            0.00034250000000034253,
+            869.759488,
+            49.88820750000001
+          ]
+        },
+        {
+          "class_id": 2,
+          "xyxy": [
+            883.840512,
+            0.0,
+            954.880512,
+            46.050152499999996
+          ]
+        },
+        {
+          "class_id": 2,
+          "xyxy": [
+            982.4,
+            77.39027250000001,
+            1023.36,
+            144.5469875
+          ]
+        }
+      ],
+      "license_metadata": {
+        "attribution": "nguyenanhquan",
+        "name": "Open Images recorded image license",
+        "url": "https://creativecommons.org/licenses/by/2.0/"
+      },
+      "protected_split": null,
+      "source": "open_images_v7",
+      "source_image_id": "5f955198afce6d0a",
+      "width": 1024
+    },
+    {
+      "class_presence": [
+        1,
+        2
+      ],
+      "duplicate_group_id": "unique:open_images_v7:64b93fdec8487a1c",
+      "file_path": "images/64b93fdec8487a1c.jpg",
+      "height": 683,
+      "labels": [
+        {
+          "class_id": 1,
+          "xyxy": [
+            689.919488,
+            265.8956565,
+            1023.359488,
+            483.0971695
+          ]
+        },
+        {
+          "class_id": 1,
+          "xyxy": [
+            722.5600000000001,
+            430.559102,
+            1023.36,
+            534.354612
+          ]
+        },
+        {
+          "class_id": 2,
+          "xyxy": [
+            124.16051200000001,
+            256.2858465,
+            364.16051200000004,
+            576.6422154999999
+          ]
+        },
+        {
+          "class_id": 2,
+          "xyxy": [
+            240.00000000000003,
+            271.66290849999996,
+            419.20000000000005,
+            492.7083455
+          ]
+        },
+        {
+          "class_id": 2,
+          "xyxy": [
+            418.55999999999995,
+            251.79990250000003,
+            759.04,
+            571.5156175000001
+          ]
+        },
+        {
+          "class_id": 2,
+          "xyxy": [
+            714.8794879999999,
+            261.410737,
+            908.799488,
+            426.714495
+          ]
+        }
+      ],
+      "license_metadata": {
+        "attribution": "tuchodi",
+        "name": "Open Images recorded image license",
+        "url": "https://creativecommons.org/licenses/by/2.0/"
+      },
+      "protected_split": null,
+      "source": "open_images_v7",
+      "source_image_id": "64b93fdec8487a1c",
+      "width": 1024
+    },
+    {
+      "class_presence": [
+        1,
+        4
+      ],
+      "duplicate_group_id": "unique:open_images_v7:6a235e1f6981d4f1",
+      "file_path": "images/6a235e1f6981d4f1.jpg",
+      "height": 682,
+      "labels": [
+        {
+          "class_id": 1,
+          "xyxy": [
+            165.12,
+            404.338363,
+            286.71999999999997,
+            563.002253
+          ]
+        },
+        {
+          "class_id": 4,
+          "xyxy": [
+            211.2,
+            473.433488,
+            377.59999999999997,
+            619.302376
+          ]
+        }
+      ],
+      "license_metadata": {
+        "attribution": "chia ying Yang",
+        "name": "Open Images recorded image license",
+        "url": "https://creativecommons.org/licenses/by/2.0/"
+      },
+      "protected_split": null,
+      "source": "open_images_v7",
+      "source_image_id": "6a235e1f6981d4f1",
+      "width": 1024
+    },
+    {
+      "class_presence": [
+        4
+      ],
+      "duplicate_group_id": "unique:open_images_v7:6aae2f32ae846c43",
+      "file_path": "images/6aae2f32ae846c43.jpg",
+      "height": 683,
+      "labels": [
+        {
+          "class_id": 4,
+          "xyxy": [
+            46.72,
+            222.968082,
+            396.15999999999997,
+            488.2234260000001
+          ]
+        },
+        {
+          "class_id": 4,
+          "xyxy": [
+            49.920512,
+            221.6871155,
+            402.560512,
+            483.09785249999993
+          ]
+        },
+        {
+          "class_id": 4,
+          "xyxy": [
+            81.28000000000003,
+            65.35251350000003,
+            970.8800000000001,
+            329.32586649999996
+          ]
+        },
+        {
+          "class_id": 4,
+          "xyxy": [
+            91.52000000000004,
+            58.304978,
+            972.1600000000001,
+            328.0449
+          ]
+        },
+        {
+          "class_id": 4,
+          "xyxy": [
+            121.6,
+            465.7981455,
+            271.36,
+            592.0185945000001
+          ]
+        },
+        {
+          "class_id": 4,
+          "xyxy": [
+            264.96,
+            447.21747200000004,
+            387.84,
+            567.030698
+          ]
+        },
+        {
+          "class_id": 4,
+          "xyxy": [
+            272.64,
+            448.4991215,
+            385.28,
+            558.7018545
+          ]
+        },
+        {
+          "class_id": 4,
+          "xyxy": [
+            347.52,
+            431.84041,
+            515.2,
+            519.618204
+          ]
+        },
+        {
+          "class_id": 4,
+          "xyxy": [
+            387.84,
+            309.4642265,
+            574.72,
+            467.0794535
+          ]
+        },
+        {
+          "class_id": 4,
+          "xyxy": [
+            403.83948799999996,
+            304.338653,
+            577.279488,
+            467.07979500000005
+          ]
+        },
+        {
+          "class_id": 4,
+          "xyxy": [
+            653.440512,
+            318.43474849999996,
+            798.720512,
+            398.52401150000003
+          ]
+        },
+        {
+          "class_id": 4,
+          "xyxy": [
+            658.560512,
+            314.5901415,
+            797.4405119999999,
+            390.8354805
+          ]
+        }
+      ],
+      "license_metadata": {
+        "attribution": "Nico Kaiser",
+        "name": "Open Images recorded image license",
+        "url": "https://creativecommons.org/licenses/by/2.0/"
+      },
+      "protected_split": null,
+      "source": "open_images_v7",
+      "source_image_id": "6aae2f32ae846c43",
+      "width": 1024
+    },
+    {
+      "class_presence": [
+        4
+      ],
+      "duplicate_group_id": "unique:open_images_v7:70a038559e35526b",
+      "file_path": "images/70a038559e35526b.jpg",
+      "height": 768,
+      "labels": [
+        {
+          "class_id": 4,
+          "xyxy": [
+            419.2,
+            311.04,
+            590.72,
+            654.72
+          ]
+        },
+        {
+          "class_id": 4,
+          "xyxy": [
+            556.16,
+            398.07974399999995,
+            620.16,
+            563.199744
+          ]
+        }
+      ],
+      "license_metadata": {
+        "attribution": "Kelvin Nishikawa",
+        "name": "Open Images recorded image license",
+        "url": "https://creativecommons.org/licenses/by/2.0/"
+      },
+      "protected_split": null,
+      "source": "open_images_v7",
+      "source_image_id": "70a038559e35526b",
+      "width": 1024
+    },
+    {
+      "class_presence": [
+        0,
+        1
+      ],
+      "duplicate_group_id": "unique:open_images_v7:71a1cf8408afce76",
+      "file_path": "images/71a1cf8408afce76.jpg",
+      "height": 682,
+      "labels": [
+        {
+          "class_id": 0,
+          "xyxy": [
+            194.681856,
+            444.420526,
+            297.145344,
+            633.331798
+          ]
+        },
+        {
+          "class_id": 0,
+          "xyxy": [
+            263.84486400000003,
+            617.962246,
+            404.732928,
+            681.3596020000001
+          ]
+        },
+        {
+          "class_id": 0,
+          "xyxy": [
+            541.137408,
+            626.927818,
+            733.89824,
+            681.359602
+          ]
+        },
+        {
+          "class_id": 0,
+          "xyxy": [
+            687.7905920000001,
+            452.746041,
+            890.797568,
+            681.3599429999999
+          ]
+        },
+        {
+          "class_id": 1,
+          "xyxy": [
+            162.66137600000002,
+            67.879801,
+            718.529536,
+            231.81555099999997
+          ]
+        },
+        {
+          "class_id": 1,
+          "xyxy": [
+            180.59315199999998,
+            202.99968700000002,
+            780.6479360000001,
+            343.24139299999996
+          ]
+        },
+        {
+          "class_id": 1,
+          "xyxy": [
+            290.74124800000004,
+            28.176829999999995,
+            650.646528,
+            130.636418
+          ]
+        },
+        {
+          "class_id": 1,
+          "xyxy": [
+            715.967488,
+            181.866894,
+            779.367424,
+            274.72119399999997
+          ]
+        },
+        {
+          "class_id": 1,
+          "xyxy": [
+            750.549504,
+            205.560256,
+            835.722752,
+            328.51257999999996
+          ]
+        }
+      ],
+      "license_metadata": {
+        "attribution": "iglooo101",
+        "name": "Open Images recorded image license",
+        "url": "https://creativecommons.org/licenses/by/2.0/"
+      },
+      "protected_split": null,
+      "source": "open_images_v7",
+      "source_image_id": "71a1cf8408afce76",
+      "width": 1024
+    },
+    {
+      "class_presence": [
+        4
+      ],
+      "duplicate_group_id": "unique:open_images_v7:72bb032aafe34412",
+      "file_path": "images/72bb032aafe34412.jpg",
+      "height": 679,
+      "labels": [
+        {
+          "class_id": 4,
+          "xyxy": [
+            193.92000000000002,
+            40.99598299999999,
+            547.2,
+            311.315389
+          ]
+        }
+      ],
+      "license_metadata": {
+        "attribution": "Zeetz Jones",
+        "name": "Open Images recorded image license",
+        "url": "https://creativecommons.org/licenses/by/2.0/"
+      },
+      "protected_split": null,
+      "source": "open_images_v7",
+      "source_image_id": "72bb032aafe34412",
+      "width": 1024
+    },
+    {
+      "class_presence": [
+        0,
+        1
+      ],
+      "duplicate_group_id": "unique:open_images_v7:7369343250348752",
+      "file_path": "images/7369343250348752.jpg",
+      "height": 751,
+      "labels": [
+        {
+          "class_id": 0,
+          "xyxy": [
+            255.816192,
+            327.82839750000005,
+            603.258368,
+            636.5892805
+          ]
+        },
+        {
+          "class_id": 0,
+          "xyxy": [
+            590.798336,
+            346.89778950000004,
+            977.089024,
+            723.8644925000001
+          ]
+        },
+        {
+          "class_id": 1,
+          "xyxy": [
+            10.994687999999996,
+            76.273062,
+            337.912832,
+            704.0625
+          ]
+        },
+        {
+          "class_id": 1,
+          "xyxy": [
+            106.28505600000001,
+            30.80264049999999,
+            323.252224,
+            506.7781795
+          ]
+        },
+        {
+          "class_id": 1,
+          "xyxy": [
+            124.60902400000003,
+            20.535344000000027,
+            981.485056,
+            443.70582
+          ]
+        }
+      ],
+      "license_metadata": {
+        "attribution": "Larry Jacobsen",
+        "name": "Open Images recorded image license",
+        "url": "https://creativecommons.org/licenses/by/2.0/"
+      },
+      "protected_split": null,
+      "source": "open_images_v7",
+      "source_image_id": "7369343250348752",
+      "width": 1024
+    },
+    {
+      "class_presence": [
+        0,
+        2
+      ],
+      "duplicate_group_id": "unique:open_images_v7:751f27958923e158",
+      "file_path": "images/751f27958923e158.jpg",
+      "height": 1024,
+      "labels": [
+        {
+          "class_id": 0,
+          "xyxy": [
+            0.0,
+            506.00038400000005,
+            62.000007999999994,
+            634.000384
+          ]
+        },
+        {
+          "class_id": 0,
+          "xyxy": [
+            0.0,
+            638.999552,
+            67.9998215,
+            752.0
+          ]
+        },
+        {
+          "class_id": 0,
+          "xyxy": [
+            0.00034150000000034153,
+            751.9994879999999,
+            55.000282500000004,
+            892.999168
+          ]
+        },
+        {
+          "class_id": 2,
+          "xyxy": [
+            0.0,
+            78.99904,
+            186.000024,
+            243.999232
+          ]
+        },
+        {
+          "class_id": 2,
+          "xyxy": [
+            0.0,
+            249.99987199999998,
+            169.00015399999998,
+            408.999424
+          ]
+        },
+        {
+          "class_id": 2,
+          "xyxy": [
+            0.000341499999990863,
+            398.999552,
+            133.0002485,
+            515.999744
+          ]
+        },
+        {
+          "class_id": 2,
+          "xyxy": [
+            37.0005005,
+            696.000512,
+            185.0004535,
+            803.00032
+          ]
+        },
+        {
+          "class_id": 2,
+          "xyxy": [
+            46.00005,
+            797.999616,
+            185.000112,
+            880.999936
+          ]
+        },
+        {
+          "class_id": 2,
+          "xyxy": [
+            56.99942350000001,
+            604.000256,
+            168.9998125,
+            696.0005120000001
+          ]
+        },
+        {
+          "class_id": 2,
+          "xyxy": [
+            165.99939350000002,
+            800.999936,
+            325.9996565,
+            888.999424
+          ]
+        },
+        {
+          "class_id": 2,
+          "xyxy": [
+            181.00012249999997,
+            683.999744,
+            323.0006035,
+            789.999104
+          ]
+        },
+        {
+          "class_id": 2,
+          "xyxy": [
+            185.9996825,
+            590.000128,
+            318.9995895,
+            711.000064
+          ]
+        },
+        {
+          "class_id": 2,
+          "xyxy": [
+            318.99993100000006,
+            704.9999359999999,
+            440.00021100000004,
+            792.0
+          ]
+        },
+        {
+          "class_id": 2,
+          "xyxy": [
+            318.99993100000006,
+            797.9996160000001,
+            440.00021100000004,
+            885.999104
+          ]
+        },
+        {
+          "class_id": 2,
+          "xyxy": [
+            325.000086,
+            579.00032,
+            450.99992599999996,
+            686.000128
+          ]
+        },
+        {
+          "class_id": 2,
+          "xyxy": [
+            442.00037649999996,
+            786.999808,
+            573.0004595,
+            880.9999359999999
+          ]
+        },
+        {
+          "class_id": 2,
+          "xyxy": [
+            444.999771,
+            673.000448,
+            583.999833,
+            787.0003200000001
+          ]
+        },
+        {
+          "class_id": 2,
+          "xyxy": [
+            460.999729,
+            593.999872,
+            584.999745,
+            679.000064
+          ]
+        },
+        {
+          "class_id": 2,
+          "xyxy": [
+            509.00028599999996,
+            206.99904,
+            682.000088,
+            360.999424
+          ]
+        },
+        {
+          "class_id": 2,
+          "xyxy": [
+            515.9993284999999,
+            355.999232,
+            641.9998515,
+            414.99904000000004
+          ]
+        },
+        {
+          "class_id": 2,
+          "xyxy": [
+            526.9997265000001,
+            74.000896,
+            657.9998095,
+            212.00025599999998
+          ]
+        }
+      ],
+      "license_metadata": {
+        "attribution": "Mikko Lautamäki",
+        "name": "Open Images recorded image license",
+        "url": "https://creativecommons.org/licenses/by/2.0/"
+      },
+      "protected_split": null,
+      "source": "open_images_v7",
+      "source_image_id": "751f27958923e158",
+      "width": 683
+    },
+    {
+      "class_presence": [
+        0,
+        1
+      ],
+      "duplicate_group_id": "unique:open_images_v7:7c1604a476909f5f",
+      "file_path": "images/7c1604a476909f5f.jpg",
+      "height": 683,
+      "labels": [
+        {
+          "class_id": 0,
+          "xyxy": [
+            429.43999999999994,
+            371.6131285,
+            599.68,
+            540.7614935
+          ]
+        },
+        {
+          "class_id": 1,
+          "xyxy": [
+            0.0,
+            429.27779400000003,
+            316.16,
+            682.359346
+          ]
+        },
+        {
+          "class_id": 1,
+          "xyxy": [
+            0.0,
+            617.0061495,
+            103.68,
+            682.3590045000001
+          ]
+        },
+        {
+          "class_id": 1,
+          "xyxy": [
+            0.0005119999999863012,
+            322.9193265,
+            407.680512,
+            665.7013175000001
+          ]
+        },
+        {
+          "class_id": 1,
+          "xyxy": [
+            347.520512,
+            159.53718899999998,
+            698.880512,
+            382.505271
+          ]
+        }
+      ],
+      "license_metadata": {
+        "attribution": "Noodles and Beef",
+        "name": "Open Images recorded image license",
+        "url": "https://creativecommons.org/licenses/by/2.0/"
+      },
+      "protected_split": null,
+      "source": "open_images_v7",
+      "source_image_id": "7c1604a476909f5f",
+      "width": 1024
+    },
+    {
+      "class_presence": [
+        4
+      ],
+      "duplicate_group_id": "unique:open_images_v7:7c48281a8391dc32",
+      "file_path": "images/7c48281a8391dc32.jpg",
+      "height": 1024,
+      "labels": [
+        {
+          "class_id": 4,
+          "xyxy": [
+            217.60051199999998,
+            0.0,
+            1023.360512,
+            983.679488
+          ]
+        }
+      ],
+      "license_metadata": {
+        "attribution": "allegro Takahi",
+        "name": "Open Images recorded image license",
+        "url": "https://creativecommons.org/licenses/by/2.0/"
+      },
+      "protected_split": null,
+      "source": "open_images_v7",
+      "source_image_id": "7c48281a8391dc32",
+      "width": 1024
+    },
+    {
+      "class_presence": [
+        0,
+        2
+      ],
+      "duplicate_group_id": "unique:open_images_v7:7d5be279c905b3fa",
+      "file_path": "images/7d5be279c905b3fa.jpg",
+      "height": 768,
+      "labels": [
+        {
+          "class_id": 0,
+          "xyxy": [
+            796.8000000000001,
+            543.2002560000001,
+            955.200512,
+            671.199744
+          ]
+        },
+        {
+          "class_id": 0,
+          "xyxy": [
+            798.4005119999999,
+            659.200128,
+            938.399744,
+            767.200128
+          ]
+        },
+        {
+          "class_id": 0,
+          "xyxy": [
+            919.200256,
+            640.800384,
+            1023.200768,
+            767.200128
+          ]
+        },
+        {
+          "class_id": 0,
+          "xyxy": [
+            931.1999999999999,
+            547.2,
+            1023.200256,
+            662.4
+          ]
+        },
+        {
+          "class_id": 2,
+          "xyxy": [
+            0.0,
+            94.400256,
+            115.2,
+            238.400256
+          ]
+        },
+        {
+          "class_id": 2,
+          "xyxy": [
+            26.400256,
+            0.0,
+            166.400512,
+            122.39961599999998
+          ]
+        },
+        {
+          "class_id": 2,
+          "xyxy": [
+            110.4,
+            98.39961600000001,
+            243.199488,
+            234.39935999999997
+          ]
+        },
+        {
+          "class_id": 2,
+          "xyxy": [
+            237.60025600000003,
+            3.9997440000000033,
+            368.800256,
+            110.39999999999999
+          ]
+        },
+        {
+          "class_id": 2,
+          "xyxy": [
+            334.399488,
+            98.39961600000001,
+            463.20025599999997,
+            206.39961599999998
+          ]
+        },
+        {
+          "class_id": 2,
+          "xyxy": [
+            378.399744,
+            5.600256000000005,
+            510.39948799999996,
+            114.39974399999998
+          ]
+        },
+        {
+          "class_id": 2,
+          "xyxy": [
+            462.398976,
+            85.599744,
+            594.399744,
+            206.39999999999998
+          ]
+        },
+        {
+          "class_id": 2,
+          "xyxy": [
+            494.39948799999996,
+            0.0,
+            610.4002559999999,
+            86.4
+          ]
+        },
+        {
+          "class_id": 2,
+          "xyxy": [
+            575.200256,
+            69.60038399999999,
+            699.200512,
+            197.60064000000003
+          ]
+        },
+        {
+          "class_id": 2,
+          "xyxy": [
+            622.401024,
+            0.0,
+            734.401024,
+            85.599744
+          ]
+        },
+        {
+          "class_id": 2,
+          "xyxy": [
+            691.1999999999999,
+            66.39936,
+            815.200256,
+            198.39935999999997
+          ]
+        }
+      ],
+      "license_metadata": {
+        "attribution": "Yuval Haimovits",
+        "name": "Open Images recorded image license",
+        "url": "https://creativecommons.org/licenses/by/2.0/"
+      },
+      "protected_split": null,
+      "source": "open_images_v7",
+      "source_image_id": "7d5be279c905b3fa",
+      "width": 1024
+    },
+    {
+      "class_presence": [
+        1,
+        2
+      ],
+      "duplicate_group_id": "unique:open_images_v7:7e436e5bb7f3b1cd",
+      "file_path": "images/7e436e5bb7f3b1cd.jpg",
+      "height": 965,
+      "labels": [
+        {
+          "class_id": 1,
+          "xyxy": [
+            113.472512,
+            275.583735,
+            772.34688,
+            768.1544749999999
+          ]
+        },
+        {
+          "class_id": 2,
+          "xyxy": [
+            171.123712,
+            153.814245,
+            374.27712,
+            354.32194499999997
+          ]
+        },
+        {
+          "class_id": 2,
+          "xyxy": [
+            349.56953599999997,
+            243.53849750000003,
+            560.958976,
+            435.80606250000005
+          ]
+        },
+        {
+          "class_id": 2,
+          "xyxy": [
+            484.09036799999996,
+            119.0231,
+            691.817984,
+            305.79692
+          ]
+        },
+        {
+          "class_id": 2,
+          "xyxy": [
+            528.9297919999999,
+            273.75264749999997,
+            728.421376,
+            448.6251225
+          ]
+        }
+      ],
+      "license_metadata": {
+        "attribution": "Patrick Hoesly",
+        "name": "Open Images recorded image license",
+        "url": "https://creativecommons.org/licenses/by/2.0/"
+      },
+      "protected_split": null,
+      "source": "open_images_v7",
+      "source_image_id": "7e436e5bb7f3b1cd",
+      "width": 1024
+    },
+    {
+      "class_presence": [
+        4
+      ],
+      "duplicate_group_id": "unique:open_images_v7:7f666a81c510078b",
+      "file_path": "images/7f666a81c510078b.jpg",
+      "height": 1024,
+      "labels": [
+        {
+          "class_id": 4,
+          "xyxy": [
+            129.37943900000002,
+            0.0,
+            441.299065,
+            784.64
+          ]
+        }
+      ],
+      "license_metadata": {
+        "attribution": "░ mario arruda",
+        "name": "Open Images recorded image license",
+        "url": "https://creativecommons.org/licenses/by/2.0/"
+      },
+      "protected_split": null,
+      "source": "open_images_v7",
+      "source_image_id": "7f666a81c510078b",
+      "width": 677
+    },
+    {
+      "class_presence": [
+        4
+      ],
+      "duplicate_group_id": "unique:open_images_v7:822be90bc4f17c5e",
+      "file_path": "images/822be90bc4f17c5e.jpg",
+      "height": 578,
+      "labels": [
+        {
+          "class_id": 4,
+          "xyxy": [
+            487.67999999999995,
+            15.379424000000013,
+            732.16,
+            267.212868
+          ]
+        }
+      ],
+      "license_metadata": {
+        "attribution": "Mario Luongo Junior",
+        "name": "Open Images recorded image license",
+        "url": "https://creativecommons.org/licenses/by/2.0/"
+      },
+      "protected_split": null,
+      "source": "open_images_v7",
+      "source_image_id": "822be90bc4f17c5e",
+      "width": 1024
+    },
+    {
+      "class_presence": [
+        0,
+        2
+      ],
+      "duplicate_group_id": "unique:open_images_v7:8369a3adafaf9a1e",
+      "file_path": "images/8369a3adafaf9a1e.jpg",
+      "height": 768,
+      "labels": [
+        {
+          "class_id": 0,
+          "xyxy": [
+            110.72051199999999,
+            254.079744,
+            208.640512,
+            410.24025599999993
+          ]
+        },
+        {
+          "class_id": 0,
+          "xyxy": [
+            163.840512,
+            227.840256,
+            277.120512,
+            410.24025599999993
+          ]
+        },
+        {
+          "class_id": 0,
+          "xyxy": [
+            213.75948799999998,
+            188.15961599999997,
+            347.51948799999997,
+            399.99936
+          ]
+        },
+        {
+          "class_id": 0,
+          "xyxy": [
+            289.28,
+            173.439744,
+            491.52,
+            403.839744
+          ]
+        },
+        {
+          "class_id": 0,
+          "xyxy": [
+            398.720512,
+            66.56025599999998,
+            648.960512,
+            371.840256
+          ]
+        },
+        {
+          "class_id": 0,
+          "xyxy": [
+            591.360512,
+            30.080256000000006,
+            936.320512,
+            373.760256
+          ]
+        },
+        {
+          "class_id": 2,
+          "xyxy": [
+            89.59948800000001,
+            413.440128,
+            193.919488,
+            549.120384
+          ]
+        },
+        {
+          "class_id": 2,
+          "xyxy": [
+            156.79999999999998,
+            414.7199999999999,
+            265.59999999999997,
+            587.52
+          ]
+        },
+        {
+          "class_id": 2,
+          "xyxy": [
+            212.48051199999998,
+            397.44000000000005,
+            351.36051199999997,
+            600.96
+          ]
+        },
+        {
+          "class_id": 2,
+          "xyxy": [
+            273.279488,
+            410.239872,
+            454.399488,
+            631.6796159999999
+          ]
+        },
+        {
+          "class_id": 2,
+          "xyxy": [
+            396.16,
+            369.280128,
+            621.44,
+            647.040384
+          ]
+        },
+        {
+          "class_id": 2,
+          "xyxy": [
+            549.119488,
+            369.92025600000005,
+            929.919488,
+            707.199744
+          ]
+        }
+      ],
+      "license_metadata": {
+        "attribution": "Dano",
+        "name": "Open Images recorded image license",
+        "url": "https://creativecommons.org/licenses/by/2.0/"
+      },
+      "protected_split": null,
+      "source": "open_images_v7",
+      "source_image_id": "8369a3adafaf9a1e",
+      "width": 1024
+    },
+    {
+      "class_presence": [
+        0,
+        1
+      ],
+      "duplicate_group_id": "unique:open_images_v7:8c8cf583d651cb12",
+      "file_path": "images/8c8cf583d651cb12.jpg",
+      "height": 768,
+      "labels": [
+        {
+          "class_id": 0,
+          "xyxy": [
+            139.520512,
+            303.36,
+            264.320512,
+            412.79999999999995
+          ]
+        },
+        {
+          "class_id": 1,
+          "xyxy": [
+            451.84,
+            494.72064,
+            724.48,
+            652.8003839999999
+          ]
+        }
+      ],
+      "license_metadata": {
+        "attribution": "Michael Coté",
+        "name": "Open Images recorded image license",
+        "url": "https://creativecommons.org/licenses/by/2.0/"
+      },
+      "protected_split": null,
+      "source": "open_images_v7",
+      "source_image_id": "8c8cf583d651cb12",
+      "width": 1024
+    },
+    {
+      "class_presence": [
+        0,
+        4
+      ],
+      "duplicate_group_id": "unique:open_images_v7:8cba6a389c01968e",
+      "file_path": "images/8cba6a389c01968e.jpg",
+      "height": 1024,
+      "labels": [
+        {
+          "class_id": 0,
+          "xyxy": [
+            217.036614,
+            492.799488,
+            425.750778,
+            709.759488
+          ]
+        },
+        {
+          "class_id": 0,
+          "xyxy": [
+            424.470375,
+            540.16,
+            667.116405,
+            775.68
+          ]
+        },
+        {
+          "class_id": 0,
+          "xyxy": [
+            562.118952,
+            417.28000000000003,
+            677.359968,
+            646.4000000000001
+          ]
+        },
+        {
+          "class_id": 4,
+          "xyxy": [
+            0.0,
+            0.0,
+            677.359968,
+            561.92
+          ]
+        }
+      ],
+      "license_metadata": {
+        "attribution": "bertholf",
+        "name": "Open Images recorded image license",
+        "url": "https://creativecommons.org/licenses/by/2.0/"
+      },
+      "protected_split": null,
+      "source": "open_images_v7",
+      "source_image_id": "8cba6a389c01968e",
+      "width": 678
+    },
+    {
+      "class_presence": [
+        4
+      ],
+      "duplicate_group_id": "unique:open_images_v7:91ab0883e18b264b",
+      "file_path": "images/91ab0883e18b264b.jpg",
+      "height": 1024,
+      "labels": [
+        {
+          "class_id": 4,
+          "xyxy": [
+            134.50789049999997,
+            100.48000000000002,
+            531.6287595,
+            748.16
+          ]
+        }
+      ],
+      "license_metadata": {
+        "attribution": "Beth Camp",
+        "name": "Open Images recorded image license",
+        "url": "https://creativecommons.org/licenses/by/2.0/"
+      },
+      "protected_split": null,
+      "source": "open_images_v7",
+      "source_image_id": "91ab0883e18b264b",
+      "width": 743
+    },
+    {
+      "class_presence": [
+        1,
+        2
+      ],
+      "duplicate_group_id": "unique:open_images_v7:92a86c1b57b33528",
+      "file_path": "images/92a86c1b57b33528.jpg",
+      "height": 732,
+      "labels": [
+        {
+          "class_id": 1,
+          "xyxy": [
+            0.000512000000000512,
+            321.49074,
+            115.840512,
+            515.538084
+          ]
+        },
+        {
+          "class_id": 1,
+          "xyxy": [
+            118.39948800000002,
+            341.34404400000005,
+            454.399488,
+            571.894764
+          ]
+        },
+        {
+          "class_id": 1,
+          "xyxy": [
+            135.67948800000002,
+            354.15258,
+            480.63948800000003,
+            550.1206920000001
+          ]
+        },
+        {
+          "class_id": 2,
+          "xyxy": [
+            151.68,
+            345.186678,
+            259.2,
+            443.811234
+          ]
+        },
+        {
+          "class_id": 2,
+          "xyxy": [
+            224.0,
+            443.811234,
+            325.12,
+            479.03434200000004
+          ]
+        },
+        {
+          "class_id": 2,
+          "xyxy": [
+            282.88,
+            414.351162,
+            318.72,
+            447.65350200000006
+          ]
+        },
+        {
+          "class_id": 2,
+          "xyxy": [
+            325.12,
+            414.351894,
+            368.64,
+            473.9110739999999
+          ]
+        },
+        {
+          "class_id": 2,
+          "xyxy": [
+            352.640512,
+            441.89009999999996,
+            436.48051200000003,
+            473.910708
+          ]
+        },
+        {
+          "class_id": 2,
+          "xyxy": [
+            377.6,
+            350.30994599999997,
+            510.72,
+            461.743038
+          ]
+        }
+      ],
+      "license_metadata": {
+        "attribution": "Serge Melki",
+        "name": "Open Images recorded image license",
+        "url": "https://creativecommons.org/licenses/by/2.0/"
+      },
+      "protected_split": null,
+      "source": "open_images_v7",
+      "source_image_id": "92a86c1b57b33528",
+      "width": 1024
+    },
+    {
+      "class_presence": [
+        0,
+        2
+      ],
+      "duplicate_group_id": "unique:open_images_v7:a4b037cca4145c9e",
+      "file_path": "images/a4b037cca4145c9e.jpg",
+      "height": 768,
+      "labels": [
+        {
+          "class_id": 0,
+          "xyxy": [
+            336.0,
+            277.76064,
+            472.96000000000004,
+            387.840384
+          ]
+        },
+        {
+          "class_id": 2,
+          "xyxy": [
+            272.0,
+            369.920256,
+            387.20000000000005,
+            465.27974399999994
+          ]
+        }
+      ],
+      "license_metadata": {
+        "attribution": "Nacho",
+        "name": "Open Images recorded image license",
+        "url": "https://creativecommons.org/licenses/by/2.0/"
+      },
+      "protected_split": null,
+      "source": "open_images_v7",
+      "source_image_id": "a4b037cca4145c9e",
+      "width": 1024
+    },
+    {
+      "class_presence": [
+        4
+      ],
+      "duplicate_group_id": "unique:open_images_v7:a63a750c9c81f57c",
+      "file_path": "images/a63a750c9c81f57c.jpg",
+      "height": 1024,
+      "labels": [
+        {
+          "class_id": 4,
+          "xyxy": [
+            0.0005029999999586199,
+            77.43948799999998,
+            904.888449,
+            930.559488
+          ]
+        }
+      ],
+      "license_metadata": {
+        "attribution": "whologwhy",
+        "name": "Open Images recorded image license",
+        "url": "https://creativecommons.org/licenses/by/2.0/"
+      },
+      "protected_split": null,
+      "source": "open_images_v7",
+      "source_image_id": "a63a750c9c81f57c",
+      "width": 1006
+    },
+    {
+      "class_presence": [
+        0,
+        2
+      ],
+      "duplicate_group_id": "unique:open_images_v7:a6e471eb1320e0ee",
+      "file_path": "images/a6e471eb1320e0ee.jpg",
+      "height": 678,
+      "labels": [
+        {
+          "class_id": 0,
+          "xyxy": [
+            110.719488,
+            126.76464299999999,
+            359.679488,
+            343.80125699999996
+          ]
+        },
+        {
+          "class_id": 0,
+          "xyxy": [
+            312.32,
+            362.368965,
+            535.04,
+            580.685643
+          ]
+        },
+        {
+          "class_id": 2,
+          "xyxy": [
+            195.20000000000002,
+            370.690737,
+            330.88,
+            465.444627
+          ]
+        },
+        {
+          "class_id": 2,
+          "xyxy": [
+            341.12,
+            95.39392199999999,
+            648.32,
+            399.50133
+          ]
+        },
+        {
+          "class_id": 2,
+          "xyxy": [
+            608.639488,
+            95.393583,
+            747.5194879999999,
+            169.019637
+          ]
+        }
+      ],
+      "license_metadata": {
+        "attribution": "slgckgc",
+        "name": "Open Images recorded image license",
+        "url": "https://creativecommons.org/licenses/by/2.0/"
+      },
+      "protected_split": null,
+      "source": "open_images_v7",
+      "source_image_id": "a6e471eb1320e0ee",
+      "width": 1024
+    },
+    {
+      "class_presence": [
+        0,
+        2
+      ],
+      "duplicate_group_id": "unique:open_images_v7:abbaaa72796bfb02",
+      "file_path": "images/abbaaa72796bfb02.jpg",
+      "height": 681,
+      "labels": [
+        {
+          "class_id": 0,
+          "xyxy": [
+            374.399488,
+            160.159623,
+            514.559488,
+            280.599921
+          ]
+        },
+        {
+          "class_id": 0,
+          "xyxy": [
+            394.24051199999997,
+            255.6157335,
+            494.720512,
+            366.4464405
+          ]
+        },
+        {
+          "class_id": 0,
+          "xyxy": [
+            412.16,
+            422.822004,
+            572.1600000000001,
+            576.57546
+          ]
+        },
+        {
+          "class_id": 0,
+          "xyxy": [
+            430.720512,
+            579.138063,
+            606.720512,
+            680.359179
+          ]
+        },
+        {
+          "class_id": 0,
+          "xyxy": [
+            488.32,
+            212.692644,
+            634.24,
+            354.27390599999995
+          ]
+        },
+        {
+          "class_id": 0,
+          "xyxy": [
+            577.28,
+            444.603789,
+            768.0,
+            647.046021
+          ]
+        },
+        {
+          "class_id": 2,
+          "xyxy": [
+            655.999488,
+            615.654645,
+            833.279488,
+            680.3591789999999
+          ]
+        },
+        {
+          "class_id": 2,
+          "xyxy": [
+            746.240512,
+            475.9948245,
+            920.960512,
+            663.7022595000001
+          ]
+        },
+        {
+          "class_id": 2,
+          "xyxy": [
+            844.800512,
+            623.3427945,
+            1022.080512,
+            680.3595195
+          ]
+        },
+        {
+          "class_id": 2,
+          "xyxy": [
+            929.92,
+            510.589965,
+            1023.36,
+            668.1869849999999
+          ]
+        }
+      ],
+      "license_metadata": {
+        "attribution": "Br3nda",
+        "name": "Open Images recorded image license",
+        "url": "https://creativecommons.org/licenses/by/2.0/"
+      },
+      "protected_split": null,
+      "source": "open_images_v7",
+      "source_image_id": "abbaaa72796bfb02",
+      "width": 1024
+    },
+    {
+      "class_presence": [
+        4
+      ],
+      "duplicate_group_id": "unique:open_images_v7:bd64fcfa757613b1",
+      "file_path": "images/bd64fcfa757613b1.jpg",
+      "height": 683,
+      "labels": [
+        {
+          "class_id": 4,
+          "xyxy": [
+            35.199488,
+            288.32059549999997,
+            423.679488,
+            433.1213765
+          ]
+        },
+        {
+          "class_id": 4,
+          "xyxy": [
+            95.359488,
+            304.33865299999997,
+            419.839488,
+            528.588043
+          ]
+        },
+        {
+          "class_id": 4,
+          "xyxy": [
+            251.520512,
+            220.4058075,
+            636.1605119999999,
+            406.85319649999997
+          ]
+        },
+        {
+          "class_id": 4,
+          "xyxy": [
+            844.799488,
+            167.867057,
+            1023.3594879999999,
+            424.79253300000005
+          ]
+        }
+      ],
+      "license_metadata": {
+        "attribution": "Tatsuo Yamashita",
+        "name": "Open Images recorded image license",
+        "url": "https://creativecommons.org/licenses/by/2.0/"
+      },
+      "protected_split": null,
+      "source": "open_images_v7",
+      "source_image_id": "bd64fcfa757613b1",
+      "width": 1024
+    },
+    {
+      "class_presence": [
+        1
+      ],
+      "duplicate_group_id": "unique:open_images_v7:c077585b82a30324",
+      "file_path": "images/c077585b82a30324.jpg",
+      "height": 577,
+      "labels": [
+        {
+          "class_id": 1,
+          "xyxy": [
+            238.72051199999999,
+            0.0,
+            883.200512,
+            564.191754
+          ]
+        }
+      ],
+      "license_metadata": {
+        "attribution": "Nancy Sims",
+        "name": "Open Images recorded image license",
+        "url": "https://creativecommons.org/licenses/by/2.0/"
+      },
+      "protected_split": null,
+      "source": "open_images_v7",
+      "source_image_id": "c077585b82a30324",
+      "width": 1024
+    },
+    {
+      "class_presence": [
+        4
+      ],
+      "duplicate_group_id": "unique:open_images_v7:c775837371a459db",
+      "file_path": "images/c775837371a459db.jpg",
+      "height": 683,
+      "labels": [
+        {
+          "class_id": 4,
+          "xyxy": [
+            398.72,
+            358.79902400000003,
+            577.92,
+            607.395998
+          ]
+        }
+      ],
+      "license_metadata": {
+        "attribution": "GoToVan",
+        "name": "Open Images recorded image license",
+        "url": "https://creativecommons.org/licenses/by/2.0/"
+      },
+      "protected_split": null,
+      "source": "open_images_v7",
+      "source_image_id": "c775837371a459db",
+      "width": 1024
+    },
+    {
+      "class_presence": [
+        0
+      ],
+      "duplicate_group_id": "unique:open_images_v7:cc48c73b8406f7c8",
+      "file_path": "images/cc48c73b8406f7c8.jpg",
+      "height": 768,
+      "labels": [
+        {
+          "class_id": 0,
+          "xyxy": [
+            104.533504,
+            0.0,
+            921.600512,
+            768.0
+          ]
+        }
+      ],
+      "license_metadata": {
+        "attribution": "Emilian Robert Vicol",
+        "name": "Open Images recorded image license",
+        "url": "https://creativecommons.org/licenses/by/2.0/"
+      },
+      "protected_split": null,
+      "source": "open_images_v7",
+      "source_image_id": "cc48c73b8406f7c8",
+      "width": 1024
+    },
+    {
+      "class_presence": [
+        0
+      ],
+      "duplicate_group_id": "unique:open_images_v7:cd5d140218805739",
+      "file_path": "images/cd5d140218805739.jpg",
+      "height": 768,
+      "labels": [
+        {
+          "class_id": 0,
+          "xyxy": [
+            0.0,
+            127.359744,
+            181.76,
+            403.839744
+          ]
+        },
+        {
+          "class_id": 0,
+          "xyxy": [
+            63.999488000000014,
+            225.28012800000002,
+            429.439488,
+            566.400384
+          ]
+        },
+        {
+          "class_id": 0,
+          "xyxy": [
+            154.88000000000002,
+            17.919744000000016,
+            418.56000000000006,
+            234.87974400000002
+          ]
+        },
+        {
+          "class_id": 0,
+          "xyxy": [
+            359.039488,
+            86.39961600000002,
+            651.519488,
+            339.199872
+          ]
+        },
+        {
+          "class_id": 0,
+          "xyxy": [
+            371.19948800000003,
+            387.840384,
+            840.3194880000001,
+            767.36064
+          ]
+        },
+        {
+          "class_id": 0,
+          "xyxy": [
+            634.240512,
+            160.63987199999997,
+            1002.240512,
+            464.63961599999993
+          ]
+        }
+      ],
+      "license_metadata": {
+        "attribution": "Yusuke Kawasaki",
+        "name": "Open Images recorded image license",
+        "url": "https://creativecommons.org/licenses/by/2.0/"
+      },
+      "protected_split": null,
+      "source": "open_images_v7",
+      "source_image_id": "cd5d140218805739",
+      "width": 1024
+    },
+    {
+      "class_presence": [
+        3
+      ],
+      "duplicate_group_id": "unique:open_images_v7:ce9ca2ba372d9fd7",
+      "file_path": "images/ce9ca2ba372d9fd7.jpg",
+      "height": 768,
+      "labels": [
+        {
+          "class_id": 3,
+          "xyxy": [
+            0.0,
+            68.480256,
+            58.88,
+            118.400256
+          ]
+        },
+        {
+          "class_id": 3,
+          "xyxy": [
+            5.759999999999998,
+            105.60038400000002,
+            73.6,
+            152.96064
+          ]
+        },
+        {
+          "class_id": 3,
+          "xyxy": [
+            56.319488,
+            155.51961599999998,
+            87.67948799999999,
+            195.19987200000003
+          ]
+        },
+        {
+          "class_id": 3,
+          "xyxy": [
+            263.68,
+            216.320256,
+            328.96,
+            267.519744
+          ]
+        }
+      ],
+      "license_metadata": {
+        "attribution": "Hajime NAKANO",
+        "name": "Open Images recorded image license",
+        "url": "https://creativecommons.org/licenses/by/2.0/"
+      },
+      "protected_split": null,
+      "source": "open_images_v7",
+      "source_image_id": "ce9ca2ba372d9fd7",
+      "width": 1024
+    },
+    {
+      "class_presence": [
+        3
+      ],
+      "duplicate_group_id": "unique:open_images_v7:ceadeca51ad3554b",
+      "file_path": "images/ceadeca51ad3554b.jpg",
+      "height": 743,
+      "labels": [
+        {
+          "class_id": 3,
+          "xyxy": [
+            403.84,
+            364.4545025,
+            519.04,
+            502.1658375
+          ]
+        },
+        {
+          "class_id": 3,
+          "xyxy": [
+            511.36,
+            475.26366500000006,
+            658.5600000000001,
+            565.5768009999999
+          ]
+        }
+      ],
+      "license_metadata": {
+        "attribution": "Jennifer C.",
+        "name": "Open Images recorded image license",
+        "url": "https://creativecommons.org/licenses/by/2.0/"
+      },
+      "protected_split": null,
+      "source": "open_images_v7",
+      "source_image_id": "ceadeca51ad3554b",
+      "width": 1024
+    },
+    {
+      "class_presence": [
+        3
+      ],
+      "duplicate_group_id": "unique:open_images_v7:cf673ef9d132fb5c",
+      "file_path": "images/cf673ef9d132fb5c.jpg",
+      "height": 768,
+      "labels": [
+        {
+          "class_id": 3,
+          "xyxy": [
+            194.56,
+            518.8320000000001,
+            398.08,
+            725.083776
+          ]
+        },
+        {
+          "class_id": 3,
+          "xyxy": [
+            301.440512,
+            395.849472,
+            439.04051200000004,
+            525.2375040000001
+          ]
+        },
+        {
+          "class_id": 3,
+          "xyxy": [
+            360.960512,
+            533.564928,
+            571.520512,
+            713.554944
+          ]
+        },
+        {
+          "class_id": 3,
+          "xyxy": [
+            368.63948800000003,
+            258.775296,
+            513.919488,
+            388.80384000000004
+          ]
+        },
+        {
+          "class_id": 3,
+          "xyxy": [
+            424.96,
+            351.01286400000004,
+            590.0799999999999,
+            538.689024
+          ]
+        },
+        {
+          "class_id": 3,
+          "xyxy": [
+            426.24,
+            204.33024,
+            513.28,
+            296.56703999999996
+          ]
+        },
+        {
+          "class_id": 3,
+          "xyxy": [
+            483.839488,
+            221.62521600000002,
+            654.719488,
+            344.60735999999997
+          ]
+        },
+        {
+          "class_id": 3,
+          "xyxy": [
+            563.1999999999999,
+            336.2803200000001,
+            719.36,
+            512.427264
+          ]
+        }
+      ],
+      "license_metadata": {
+        "attribution": "Ruth Hartnup",
+        "name": "Open Images recorded image license",
+        "url": "https://creativecommons.org/licenses/by/2.0/"
+      },
+      "protected_split": null,
+      "source": "open_images_v7",
+      "source_image_id": "cf673ef9d132fb5c",
+      "width": 1024
+    },
+    {
+      "class_presence": [
+        2
+      ],
+      "duplicate_group_id": "unique:open_images_v7:d026f29e6f0fe84c",
+      "file_path": "images/d026f29e6f0fe84c.jpg",
+      "height": 683,
+      "labels": [
+        {
+          "class_id": 2,
+          "xyxy": [
+            277.120512,
+            160.17818450000004,
+            660.4805120000001,
+            599.7071255
+          ]
+        },
+        {
+          "class_id": 2,
+          "xyxy": [
+            550.4005119999999,
+            222.3277695,
+            978.560512,
+            674.0305025
+          ]
+        }
+      ],
+      "license_metadata": {
+        "attribution": "Laura Lewis",
+        "name": "Open Images recorded image license",
+        "url": "https://creativecommons.org/licenses/by/2.0/"
+      },
+      "protected_split": null,
+      "source": "open_images_v7",
+      "source_image_id": "d026f29e6f0fe84c",
+      "width": 1024
+    },
+    {
+      "class_presence": [
+        0
+      ],
+      "duplicate_group_id": "unique:open_images_v7:d04bd85dd231602e",
+      "file_path": "images/d04bd85dd231602e.jpg",
+      "height": 768,
+      "labels": [
+        {
+          "class_id": 0,
+          "xyxy": [
+            232.32,
+            160.64025600000002,
+            265.6,
+            196.47974400000004
+          ]
+        },
+        {
+          "class_id": 0,
+          "xyxy": [
+            257.28000000000003,
+            161.919744,
+            295.68,
+            196.47974400000004
+          ]
+        },
+        {
+          "class_id": 0,
+          "xyxy": [
+            277.12,
+            149.12025599999998,
+            309.12,
+            170.240256
+          ]
+        },
+        {
+          "class_id": 0,
+          "xyxy": [
+            295.68,
+            161.919744,
+            332.8,
+            192.639744
+          ]
+        },
+        {
+          "class_id": 0,
+          "xyxy": [
+            310.39948799999996,
+            143.360256,
+            335.359488,
+            165.759744
+          ]
+        },
+        {
+          "class_id": 0,
+          "xyxy": [
+            332.8,
+            147.200256,
+            364.8,
+            179.19974399999998
+          ]
+        }
+      ],
+      "license_metadata": {
+        "attribution": "kinwart",
+        "name": "Open Images recorded image license",
+        "url": "https://creativecommons.org/licenses/by/2.0/"
+      },
+      "protected_split": null,
+      "source": "open_images_v7",
+      "source_image_id": "d04bd85dd231602e",
+      "width": 1024
+    },
+    {
+      "class_presence": [
+        3
+      ],
+      "duplicate_group_id": "unique:open_images_v7:d1a5a9c10c4bf6b3",
+      "file_path": "images/d1a5a9c10c4bf6b3.jpg",
+      "height": 752,
+      "labels": [
+        {
+          "class_id": 3,
+          "xyxy": [
+            0.0,
+            332.642312,
+            381.155328,
+            646.8046
+          ]
+        },
+        {
+          "class_id": 3,
+          "xyxy": [
+            119.46700800000002,
+            144.998008,
+            408.177664,
+            405.14112800000004
+          ]
+        },
+        {
+          "class_id": 3,
+          "xyxy": [
+            271.644672,
+            317.00559999999996,
+            576.0,
+            599.894464
+          ]
+        },
+        {
+          "class_id": 3,
+          "xyxy": [
+            369.77766399999996,
+            102.35133599999999,
+            593.067008,
+            440.679896
+          ]
+        },
+        {
+          "class_id": 3,
+          "xyxy": [
+            604.444672,
+            405.14187999999996,
+            765.1553279999999,
+            588.522344
+          ]
+        },
+        {
+          "class_id": 3,
+          "xyxy": [
+            611.555328,
+            106.61668000000002,
+            826.310656,
+            417.93640800000003
+          ]
+        },
+        {
+          "class_id": 3,
+          "xyxy": [
+            725.333504,
+            426.46484,
+            975.645184,
+            638.275416
+          ]
+        },
+        {
+          "class_id": 3,
+          "xyxy": [
+            745.24416,
+            275.78096,
+            951.466496,
+            474.79776000000004
+          ]
+        }
+      ],
+      "license_metadata": {
+        "attribution": "Darya Pino",
+        "name": "Open Images recorded image license",
+        "url": "https://creativecommons.org/licenses/by/2.0/"
+      },
+      "protected_split": null,
+      "source": "open_images_v7",
+      "source_image_id": "d1a5a9c10c4bf6b3",
+      "width": 1024
+    },
+    {
+      "class_presence": [
+        1,
+        2
+      ],
+      "duplicate_group_id": "unique:open_images_v7:d359cc7acdb29ca3",
+      "file_path": "images/d359cc7acdb29ca3.jpg",
+      "height": 1024,
+      "labels": [
+        {
+          "class_id": 1,
+          "xyxy": [
+            158.399488,
+            360.0,
+            417.600512,
+            558.401024
+          ]
+        },
+        {
+          "class_id": 2,
+          "xyxy": [
+            0.0005119999999987357,
+            369.59999999999997,
+            30.4,
+            431.999488
+          ]
+        },
+        {
+          "class_id": 2,
+          "xyxy": [
+            369.60102400000005,
+            487.998976,
+            483.200512,
+            579.199488
+          ]
+        },
+        {
+          "class_id": 2,
+          "xyxy": [
+            428.800512,
+            433.601024,
+            515.200512,
+            510.40000000000003
+          ]
+        },
+        {
+          "class_id": 2,
+          "xyxy": [
+            494.4,
+            516.798976,
+            624.000512,
+            632.0
+          ]
+        },
+        {
+          "class_id": 2,
+          "xyxy": [
+            515.200512,
+            399.99948800000004,
+            587.2010240000001,
+            492.799488
+          ]
+        },
+        {
+          "class_id": 2,
+          "xyxy": [
+            555.200512,
+            447.999488,
+            651.200512,
+            548.798976
+          ]
+        },
+        {
+          "class_id": 2,
+          "xyxy": [
+            657.599488,
+            481.59999999999997,
+            750.400512,
+            569.599488
+          ]
+        },
+        {
+          "class_id": 2,
+          "xyxy": [
+            673.598976,
+            700.8005119999999,
+            753.598976,
+            819.200512
+          ]
+        },
+        {
+          "class_id": 2,
+          "xyxy": [
+            694.399488,
+            622.400512,
+            760.0,
+            689.599488
+          ]
+        },
+        {
+          "class_id": 2,
+          "xyxy": [
+            718.4005119999999,
+            537.6,
+            816.0,
+            646.4
+          ]
+        },
+        {
+          "class_id": 2,
+          "xyxy": [
+            745.6,
+            657.598976,
+            835.1999999999999,
+            696.0
+          ]
+        },
+        {
+          "class_id": 2,
+          "xyxy": [
+            764.800512,
+            688.0,
+            897.5999999999999,
+            796.8
+          ]
+        },
+        {
+          "class_id": 2,
+          "xyxy": [
+            843.201024,
+            560.0,
+            923.201024,
+            649.5999999999999
+          ]
+        },
+        {
+          "class_id": 2,
+          "xyxy": [
+            864.0,
+            689.598976,
+            984.0005120000001,
+            807.9989760000001
+          ]
+        },
+        {
+          "class_id": 2,
+          "xyxy": [
+            916.799488,
+            524.8,
+            990.400512,
+            606.4005119999999
+          ]
+        },
+        {
+          "class_id": 2,
+          "xyxy": [
+            918.4005119999999,
+            352.0,
+            990.401024,
+            401.600512
+          ]
+        },
+        {
+          "class_id": 2,
+          "xyxy": [
+            928.0,
+            619.200512,
+            984.0005120000001,
+            678.4
+          ]
+        },
+        {
+          "class_id": 2,
+          "xyxy": [
+            950.4005119999999,
+            660.799488,
+            1022.401024,
+            766.400512
+          ]
+        },
+        {
+          "class_id": 2,
+          "xyxy": [
+            998.4,
+            379.201024,
+            1022.400512,
+            460.80051199999997
+          ]
+        }
+      ],
+      "license_metadata": {
+        "attribution": "Yellow Green Farmers Market",
+        "name": "Open Images recorded image license",
+        "url": "https://creativecommons.org/licenses/by/2.0/"
+      },
+      "protected_split": null,
+      "source": "open_images_v7",
+      "source_image_id": "d359cc7acdb29ca3",
+      "width": 1024
+    },
+    {
+      "class_presence": [
+        2
+      ],
+      "duplicate_group_id": "unique:open_images_v7:d3bad7a54afc6eef",
+      "file_path": "images/d3bad7a54afc6eef.jpg",
+      "height": 1024,
+      "labels": [
+        {
+          "class_id": 2,
+          "xyxy": [
+            639.36,
+            588.8000000000001,
+            735.36,
+            678.4
+          ]
+        },
+        {
+          "class_id": 2,
+          "xyxy": [
+            658.560384,
+            463.36,
+            711.040128,
+            540.16
+          ]
+        }
+      ],
+      "license_metadata": {
+        "attribution": "Garry Knight",
+        "name": "Open Images recorded image license",
+        "url": "https://creativecommons.org/licenses/by/2.0/"
+      },
+      "protected_split": null,
+      "source": "open_images_v7",
+      "source_image_id": "d3bad7a54afc6eef",
+      "width": 768
+    },
+    {
+      "class_presence": [
+        0
+      ],
+      "duplicate_group_id": "unique:open_images_v7:d5205274086619ae",
+      "file_path": "images/d5205274086619ae.jpg",
+      "height": 768,
+      "labels": [
+        {
+          "class_id": 0,
+          "xyxy": [
+            145.92000000000002,
+            105.60000000000001,
+            467.2,
+            360.96000000000004
+          ]
+        }
+      ],
+      "license_metadata": {
+        "attribution": "Alan Levine",
+        "name": "Open Images recorded image license",
+        "url": "https://creativecommons.org/licenses/by/2.0/"
+      },
+      "protected_split": null,
+      "source": "open_images_v7",
+      "source_image_id": "d5205274086619ae",
+      "width": 1024
+    },
+    {
+      "class_presence": [
+        1
+      ],
+      "duplicate_group_id": "unique:open_images_v7:d64e231797fe5956",
+      "file_path": "images/d64e231797fe5956.jpg",
+      "height": 768,
+      "labels": [
+        {
+          "class_id": 1,
+          "xyxy": [
+            588.799488,
+            385.59936,
+            814.4,
+            691.1996160000001
+          ]
+        }
+      ],
+      "license_metadata": {
+        "attribution": "Morgan Sherwood",
+        "name": "Open Images recorded image license",
+        "url": "https://creativecommons.org/licenses/by/2.0/"
+      },
+      "protected_split": null,
+      "source": "open_images_v7",
+      "source_image_id": "d64e231797fe5956",
+      "width": 1024
+    },
+    {
+      "class_presence": [
+        0,
+        2
+      ],
+      "duplicate_group_id": "unique:open_images_v7:d6c15a979a8c4b72",
+      "file_path": "images/d6c15a979a8c4b72.jpg",
+      "height": 768,
+      "labels": [
+        {
+          "class_id": 0,
+          "xyxy": [
+            0.0,
+            452.00025600000004,
+            103.999488,
+            577.999872
+          ]
+        },
+        {
+          "class_id": 0,
+          "xyxy": [
+            65.99936000000001,
+            548.000256,
+            117.999104,
+            577.999872
+          ]
+        },
+        {
+          "class_id": 0,
+          "xyxy": [
+            106.000384,
+            481.99987200000004,
+            231.99948799999999,
+            576.0
+          ]
+        },
+        {
+          "class_id": 0,
+          "xyxy": [
+            127.99948799999999,
+            428.00025600000004,
+            211.999232,
+            485.99961600000006
+          ]
+        },
+        {
+          "class_id": 0,
+          "xyxy": [
+            344.00051199999996,
+            389.99961600000006,
+            448.0,
+            481.999872
+          ]
+        },
+        {
+          "class_id": 2,
+          "xyxy": [
+            0.000512000000000512,
+            399.99974399999996,
+            134.00012800000002,
+            488.00025600000004
+          ]
+        },
+        {
+          "class_id": 2,
+          "xyxy": [
+            83.99974399999999,
+            351.99974399999996,
+            165.999616,
+            464.00025600000004
+          ]
+        },
+        {
+          "class_id": 2,
+          "xyxy": [
+            198.000128,
+            344.00064000000003,
+            280.001024,
+            412.000128
+          ]
+        },
+        {
+          "class_id": 2,
+          "xyxy": [
+            301.999616,
+            440.00064,
+            421.99910400000005,
+            550.0005120000001
+          ]
+        },
+        {
+          "class_id": 2,
+          "xyxy": [
+            398.00064000000003,
+            347.99999999999994,
+            496.000512,
+            440.0002559999999
+          ]
+        },
+        {
+          "class_id": 2,
+          "xyxy": [
+            427.999744,
+            526.0001279999999,
+            461.999616,
+            550.0001279999999
+          ]
+        },
+        {
+          "class_id": 2,
+          "xyxy": [
+            432.00051199999996,
+            442.00012799999996,
+            470.000128,
+            517.9998720000001
+          ]
+        },
+        {
+          "class_id": 2,
+          "xyxy": [
+            655.999488,
+            441.99974399999996,
+            711.998976,
+            477.99974399999996
+          ]
+        },
+        {
+          "class_id": 2,
+          "xyxy": [
+            754.0003839999999,
+            356.000256,
+            794.000896,
+            432.0
+          ]
+        },
+        {
+          "class_id": 2,
+          "xyxy": [
+            802.0003839999999,
+            330.000384,
+            904.0,
+            409.99987200000004
+          ]
+        },
+        {
+          "class_id": 2,
+          "xyxy": [
+            910.000128,
+            310.000512,
+            999.999488,
+            370.000512
+          ]
+        },
+        {
+          "class_id": 2,
+          "xyxy": [
+            944.000512,
+            442.00012799999996,
+            1016.001024,
+            517.9998720000001
+          ]
+        },
+        {
+          "class_id": 2,
+          "xyxy": [
+            947.9997440000001,
+            406.00012799999996,
+            1022.000128,
+            454.00012799999996
+          ]
+        },
+        {
+          "class_id": 2,
+          "xyxy": [
+            987.999744,
+            269.999616,
+            1021.9996160000001,
+            358.000128
+          ]
+        },
+        {
+          "class_id": 2,
+          "xyxy": [
+            1000.0,
+            339.99974399999996,
+            1022.00064,
+            411.99974399999996
+          ]
+        }
+      ],
+      "license_metadata": {
+        "attribution": "Katrine Thielke",
+        "name": "Open Images recorded image license",
+        "url": "https://creativecommons.org/licenses/by/2.0/"
+      },
+      "protected_split": null,
+      "source": "open_images_v7",
+      "source_image_id": "d6c15a979a8c4b72",
+      "width": 1024
+    },
+    {
+      "class_presence": [
+        2
+      ],
+      "duplicate_group_id": "unique:open_images_v7:da78fdba655f8269",
+      "file_path": "images/da78fdba655f8269.jpg",
+      "height": 768,
+      "labels": [
+        {
+          "class_id": 2,
+          "xyxy": [
+            94.079488,
+            487.67961599999995,
+            184.319488,
+            602.239872
+          ]
+        },
+        {
+          "class_id": 2,
+          "xyxy": [
+            156.8,
+            536.31936,
+            319.36,
+            660.4796160000001
+          ]
+        }
+      ],
+      "license_metadata": {
+        "attribution": "Infrogmation of New Orleans",
+        "name": "Open Images recorded image license",
+        "url": "https://creativecommons.org/licenses/by/2.0/"
+      },
+      "protected_split": null,
+      "source": "open_images_v7",
+      "source_image_id": "da78fdba655f8269",
+      "width": 1024
+    },
+    {
+      "class_presence": [
+        1
+      ],
+      "duplicate_group_id": "unique:open_images_v7:dbf149659c0cba44",
+      "file_path": "images/dbf149659c0cba44.jpg",
+      "height": 1024,
+      "labels": [
+        {
+          "class_id": 1,
+          "xyxy": [
+            49.26239700000001,
+            68.48000000000002,
+            286.620787,
+            965.76
+          ]
+        }
+      ],
+      "license_metadata": {
+        "attribution": "Serge Bystro",
+        "name": "Open Images recorded image license",
+        "url": "https://creativecommons.org/licenses/by/2.0/"
+      },
+      "protected_split": null,
+      "source": "open_images_v7",
+      "source_image_id": "dbf149659c0cba44",
+      "width": 698
+    },
+    {
+      "class_presence": [
+        3
+      ],
+      "duplicate_group_id": "unique:open_images_v7:dc03d4a157fd5cbb",
+      "file_path": "images/dc03d4a157fd5cbb.jpg",
+      "height": 683,
+      "labels": [
+        {
+          "class_id": 3,
+          "xyxy": [
+            0.0,
+            478.09999999999997,
+            155.30649599999998,
+            682.14625
+          ]
+        },
+        {
+          "class_id": 3,
+          "xyxy": [
+            0.0005119999999969593,
+            303.08125,
+            52.053504000000004,
+            447.36499999999995
+          ]
+        },
+        {
+          "class_id": 3,
+          "xyxy": [
+            9.387008000000009,
+            35.857499999999995,
+            157.867008,
+            295.3975
+          ]
+        },
+        {
+          "class_id": 3,
+          "xyxy": [
+            40.10700800000001,
+            283.44500000000005,
+            231.252992,
+            463.58624999999995
+          ]
+        },
+        {
+          "class_id": 3,
+          "xyxy": [
+            120.319488,
+            563.475,
+            384.85248,
+            682.14625
+          ]
+        },
+        {
+          "class_id": 3,
+          "xyxy": [
+            121.17350400000001,
+            5.976250000000006,
+            286.720512,
+            126.355
+          ]
+        },
+        {
+          "class_id": 3,
+          "xyxy": [
+            145.919488,
+            98.18125,
+            357.546496,
+            298.8125
+          ]
+        },
+        {
+          "class_id": 3,
+          "xyxy": [
+            181.759488,
+            269.785,
+            403.626496,
+            555.79125
+          ]
+        },
+        {
+          "class_id": 3,
+          "xyxy": [
+            272.212992,
+            5.122499999999985,
+            398.50700800000004,
+            194.65500000000003
+          ]
+        },
+        {
+          "class_id": 3,
+          "xyxy": [
+            293.547008,
+            543.8387499999999,
+            528.212992,
+            682.14625
+          ]
+        },
+        {
+          "class_id": 3,
+          "xyxy": [
+            360.95948799999996,
+            0.0,
+            541.01248,
+            122.94
+          ]
+        },
+        {
+          "class_id": 3,
+          "xyxy": [
+            363.52,
+            125.50125000000001,
+            481.28,
+            257.8325
+          ]
+        },
+        {
+          "class_id": 3,
+          "xyxy": [
+            391.679488,
+            251.85625000000002,
+            557.226496,
+            608.72375
+          ]
+        },
+        {
+          "class_id": 3,
+          "xyxy": [
+            422.399488,
+            33.29624999999999,
+            567.466496,
+            219.41375000000002
+          ]
+        },
+        {
+          "class_id": 3,
+          "xyxy": [
+            494.933504,
+            560.0600000000001,
+            678.400512,
+            682.14625
+          ]
+        },
+        {
+          "class_id": 3,
+          "xyxy": [
+            512.0,
+            0.0,
+            706.56,
+            160.505
+          ]
+        },
+        {
+          "class_id": 3,
+          "xyxy": [
+            521.3870079999999,
+            194.65500000000003,
+            773.972992,
+            514.81125
+          ]
+        },
+        {
+          "class_id": 3,
+          "xyxy": [
+            538.452992,
+            440.535,
+            854.1870080000001,
+            682.14625
+          ]
+        },
+        {
+          "class_id": 3,
+          "xyxy": [
+            668.1600000000001,
+            16.221249999999994,
+            939.52,
+            231.36625
+          ]
+        },
+        {
+          "class_id": 3,
+          "xyxy": [
+            816.640512,
+            444.80375,
+            1023.14752,
+            682.1462499999999
+          ]
+        },
+        {
+          "class_id": 3,
+          "xyxy": [
+            819.200512,
+            355.16,
+            1006.933504,
+            534.4475
+          ]
+        },
+        {
+          "class_id": 3,
+          "xyxy": [
+            836.267008,
+            110.98749999999998,
+            1023.1470079999999,
+            360.28249999999997
+          ]
+        }
+      ],
+      "license_metadata": {
+        "attribution": "Gobierno de la Ciudad de Buenos Aires",
+        "name": "Open Images recorded image license",
+        "url": "https://creativecommons.org/licenses/by/2.0/"
+      },
+      "protected_split": null,
+      "source": "open_images_v7",
+      "source_image_id": "dc03d4a157fd5cbb",
+      "width": 1024
+    },
+    {
+      "class_presence": [
+        3
+      ],
+      "duplicate_group_id": "unique:open_images_v7:dc3f798938445847",
+      "file_path": "images/dc3f798938445847.jpg",
+      "height": 576,
+      "labels": [
+        {
+          "class_id": 3,
+          "xyxy": [
+            323.83948799999996,
+            236.16,
+            434.559488,
+            366.080256
+          ]
+        },
+        {
+          "class_id": 3,
+          "xyxy": [
+            364.8,
+            52.479648000000005,
+            408.32,
+            106.239456
+          ]
+        },
+        {
+          "class_id": 3,
+          "xyxy": [
+            439.680512,
+            286.080192,
+            510.720512,
+            346.23993599999994
+          ]
+        },
+        {
+          "class_id": 3,
+          "xyxy": [
+            455.040512,
+            351.36028799999997,
+            517.120512,
+            393.600096
+          ]
+        },
+        {
+          "class_id": 3,
+          "xyxy": [
+            455.04051200000004,
+            385.920288,
+            563.200512,
+            468.48009599999995
+          ]
+        },
+        {
+          "class_id": 3,
+          "xyxy": [
+            553.5994880000001,
+            474.879456,
+            680.959488,
+            537.59952
+          ]
+        },
+        {
+          "class_id": 3,
+          "xyxy": [
+            652.16,
+            417.279744,
+            768.64,
+            513.9198719999999
+          ]
+        }
+      ],
+      "license_metadata": {
+        "attribution": "Kyle Van Horn",
+        "name": "Open Images recorded image license",
+        "url": "https://creativecommons.org/licenses/by/2.0/"
+      },
+      "protected_split": null,
+      "source": "open_images_v7",
+      "source_image_id": "dc3f798938445847",
+      "width": 1024
+    },
+    {
+      "class_presence": [
+        3
+      ],
+      "duplicate_group_id": "unique:open_images_v7:de16948c9dbe4342",
+      "file_path": "images/de16948c9dbe4342.jpg",
+      "height": 1024,
+      "labels": [
+        {
+          "class_id": 3,
+          "xyxy": [
+            329.868931,
+            226.56051200000002,
+            410.574773,
+            316.800512
+          ]
+        }
+      ],
+      "license_metadata": {
+        "attribution": "Yu-Ching Chu",
+        "name": "Open Images recorded image license",
+        "url": "https://creativecommons.org/licenses/by/2.0/"
+      },
+      "protected_split": null,
+      "source": "open_images_v7",
+      "source_image_id": "de16948c9dbe4342",
+      "width": 686
+    },
+    {
+      "class_presence": [
+        2
+      ],
+      "duplicate_group_id": "unique:open_images_v7:dffeb535cf024635",
+      "file_path": "images/dffeb535cf024635.jpg",
+      "height": 768,
+      "labels": [
+        {
+          "class_id": 2,
+          "xyxy": [
+            392.95948799999996,
+            394.88025600000003,
+            503.679488,
+            490.88025600000003
+          ]
+        }
+      ],
+      "license_metadata": {
+        "attribution": "brownpau",
+        "name": "Open Images recorded image license",
+        "url": "https://creativecommons.org/licenses/by/2.0/"
+      },
+      "protected_split": null,
+      "source": "open_images_v7",
+      "source_image_id": "dffeb535cf024635",
+      "width": 1024
+    },
+    {
+      "class_presence": [
+        3
+      ],
+      "duplicate_group_id": "unique:open_images_v7:e115b69321c22298",
+      "file_path": "images/e115b69321c22298.jpg",
+      "height": 683,
+      "labels": [
+        {
+          "class_id": 3,
+          "xyxy": [
+            160.768,
+            528.377679,
+            302.08000000000004,
+            660.4726109999999
+          ]
+        },
+        {
+          "class_id": 3,
+          "xyxy": [
+            621.568,
+            375.8033335,
+            701.44,
+            488.4416445
+          ]
+        },
+        {
+          "class_id": 3,
+          "xyxy": [
+            676.864,
+            317.43620250000004,
+            714.752,
+            413.6907095000001
+          ]
+        }
+      ],
+      "license_metadata": {
+        "attribution": "insatiablemunch",
+        "name": "Open Images recorded image license",
+        "url": "https://creativecommons.org/licenses/by/2.0/"
+      },
+      "protected_split": null,
+      "source": "open_images_v7",
+      "source_image_id": "e115b69321c22298",
+      "width": 1024
+    },
+    {
+      "class_presence": [
+        2
+      ],
+      "duplicate_group_id": "unique:open_images_v7:e23cb41dbb71f8fb",
+      "file_path": "images/e23cb41dbb71f8fb.jpg",
+      "height": 768,
+      "labels": [
+        {
+          "class_id": 2,
+          "xyxy": [
+            461.440512,
+            480.63974399999995,
+            691.200512,
+            713.600256
+          ]
+        }
+      ],
+      "license_metadata": {
+        "attribution": "Will Perkins",
+        "name": "Open Images recorded image license",
+        "url": "https://creativecommons.org/licenses/by/2.0/"
+      },
+      "protected_split": null,
+      "source": "open_images_v7",
+      "source_image_id": "e23cb41dbb71f8fb",
+      "width": 1024
+    },
+    {
+      "class_presence": [
+        4
+      ],
+      "duplicate_group_id": "unique:open_images_v7:e347cce470a19a44",
+      "file_path": "images/e347cce470a19a44.jpg",
+      "height": 1024,
+      "labels": [
+        {
+          "class_id": 4,
+          "xyxy": [
+            0.0,
+            344.67942400000004,
+            337.986048,
+            682.667008
+          ]
+        },
+        {
+          "class_id": 4,
+          "xyxy": [
+            306.196992,
+            430.01395199999996,
+            853.3335040000001,
+            1022.3272959999999
+          ]
+        },
+        {
+          "class_id": 4,
+          "xyxy": [
+            406.58841599999994,
+            220.86246400000002,
+            619.0848,
+            450.091008
+          ]
+        },
+        {
+          "class_id": 4,
+          "xyxy": [
+            836.600832,
+            662.588416,
+            938.667008,
+            841.62048
+          ]
+        }
+      ],
+      "license_metadata": {
+        "attribution": "Derek Clark",
+        "name": "Open Images recorded image license",
+        "url": "https://creativecommons.org/licenses/by/2.0/"
+      },
+      "protected_split": null,
+      "source": "open_images_v7",
+      "source_image_id": "e347cce470a19a44",
+      "width": 1024
+    },
+    {
+      "class_presence": [
+        3
+      ],
+      "duplicate_group_id": "unique:open_images_v7:e48246bc861be643",
+      "file_path": "images/e48246bc861be643.jpg",
+      "height": 840,
+      "labels": [
+        {
+          "class_id": 3,
+          "xyxy": [
+            442.88,
+            319.4814,
+            696.32,
+            539.72604
+          ]
+        }
+      ],
+      "license_metadata": {
+        "attribution": "arief hasan",
+        "name": "Open Images recorded image license",
+        "url": "https://creativecommons.org/licenses/by/2.0/"
+      },
+      "protected_split": null,
+      "source": "open_images_v7",
+      "source_image_id": "e48246bc861be643",
+      "width": 1024
+    },
+    {
+      "class_presence": [
+        0,
+        2
+      ],
+      "duplicate_group_id": "unique:open_images_v7:e69b44f5e18e18a3",
+      "file_path": "images/e69b44f5e18e18a3.jpg",
+      "height": 800,
+      "labels": [
+        {
+          "class_id": 0,
+          "xyxy": [
+            0.0,
+            389.7652,
+            76.8,
+            449.4668
+          ]
+        },
+        {
+          "class_id": 0,
+          "xyxy": [
+            0.0,
+            429.8500000000001,
+            74.24,
+            523.6668
+          ]
+        },
+        {
+          "class_id": 0,
+          "xyxy": [
+            169.81248,
+            400.8528,
+            289.279488,
+            521.9616
+          ]
+        },
+        {
+          "class_id": 0,
+          "xyxy": [
+            261.97248,
+            403.4112,
+            409.59948799999995,
+            521.1088
+          ]
+        },
+        {
+          "class_id": 0,
+          "xyxy": [
+            317.440512,
+            362.47319999999996,
+            434.34752000000003,
+            480.17
+          ]
+        },
+        {
+          "class_id": 0,
+          "xyxy": [
+            399.359488,
+            497.22800000000007,
+            482.98649600000005,
+            585.9272
+          ]
+        },
+        {
+          "class_id": 0,
+          "xyxy": [
+            401.92051200000003,
+            475.05319999999995,
+            506.02752,
+            552.6652
+          ]
+        },
+        {
+          "class_id": 0,
+          "xyxy": [
+            430.079488,
+            451.1728,
+            549.546496,
+            524.5200000000001
+          ]
+        },
+        {
+          "class_id": 0,
+          "xyxy": [
+            443.732992,
+            376.97159999999997,
+            571.732992,
+            504.0508
+          ]
+        },
+        {
+          "class_id": 2,
+          "xyxy": [
+            0.000512000000000512,
+            519.4028000000001,
+            96.42752,
+            631.9828
+          ]
+        },
+        {
+          "class_id": 2,
+          "xyxy": [
+            48.63948799999999,
+            390.61839999999995,
+            167.25248,
+            514.2856
+          ]
+        },
+        {
+          "class_id": 2,
+          "xyxy": [
+            81.920512,
+            494.6700000000001,
+            150.18752,
+            589.3396
+          ]
+        },
+        {
+          "class_id": 2,
+          "xyxy": [
+            90.452992,
+            605.5436,
+            200.53299199999998,
+            649.0404
+          ]
+        },
+        {
+          "class_id": 2,
+          "xyxy": [
+            128.0,
+            510.0216,
+            250.88,
+            635.3944
+          ]
+        },
+        {
+          "class_id": 2,
+          "xyxy": [
+            186.88051199999998,
+            353.092,
+            295.25350399999996,
+            409.38160000000005
+          ]
+        },
+        {
+          "class_id": 2,
+          "xyxy": [
+            224.426496,
+            550.9592,
+            363.51948799999997,
+            670.3624
+          ]
+        },
+        {
+          "class_id": 2,
+          "xyxy": [
+            279.893504,
+            364.17960000000005,
+            332.800512,
+            409.382
+          ]
+        },
+        {
+          "class_id": 2,
+          "xyxy": [
+            328.533504,
+            494.6696,
+            442.88051199999995,
+            638.8056
+          ]
+        },
+        {
+          "class_id": 2,
+          "xyxy": [
+            403.627008,
+            336.03479999999996,
+            494.93299199999996,
+            419.61639999999994
+          ]
+        },
+        {
+          "class_id": 2,
+          "xyxy": [
+            499.20000000000005,
+            353.092,
+            596.48,
+            457.1432
+          ]
+        }
+      ],
+      "license_metadata": {
+        "attribution": "Newtown grafitti",
+        "name": "Open Images recorded image license",
+        "url": "https://creativecommons.org/licenses/by/2.0/"
+      },
+      "protected_split": null,
+      "source": "open_images_v7",
+      "source_image_id": "e69b44f5e18e18a3",
+      "width": 1024
+    },
+    {
+      "class_presence": [
+        1,
+        2
+      ],
+      "duplicate_group_id": "unique:open_images_v7:eabd252fed81fbed",
+      "file_path": "images/eabd252fed81fbed.jpg",
+      "height": 942,
+      "labels": [
+        {
+          "class_id": 1,
+          "xyxy": [
+            461.955072,
+            406.07265000000007,
+            1022.900224,
+            719.705898
+          ]
+        },
+        {
+          "class_id": 2,
+          "xyxy": [
+            12.098047999999977,
+            196.98350399999995,
+            504.84992,
+            727.408632
+          ]
+        },
+        {
+          "class_id": 2,
+          "xyxy": [
+            433.35782399999994,
+            518.320428,
+            804.021248,
+            726.308376
+          ]
+        }
+      ],
+      "license_metadata": {
+        "attribution": "Jorge Elías",
+        "name": "Open Images recorded image license",
+        "url": "https://creativecommons.org/licenses/by/2.0/"
+      },
+      "protected_split": null,
+      "source": "open_images_v7",
+      "source_image_id": "eabd252fed81fbed",
+      "width": 1024
+    },
+    {
+      "class_presence": [
+        3
+      ],
+      "duplicate_group_id": "unique:open_images_v7:edeedd4080f53d54",
+      "file_path": "images/edeedd4080f53d54.jpg",
+      "height": 683,
+      "labels": [
+        {
+          "class_id": 3,
+          "xyxy": [
+            328.319488,
+            160.1788675,
+            349.439488,
+            215.27989250000002
+          ]
+        },
+        {
+          "class_id": 3,
+          "xyxy": [
+            339.84000000000003,
+            108.28111249999999,
+            384.64,
+            144.8018055
+          ]
+        },
+        {
+          "class_id": 3,
+          "xyxy": [
+            344.319488,
+            226.1716935,
+            392.319488,
+            272.94421650000004
+          ]
+        },
+        {
+          "class_id": 3,
+          "xyxy": [
+            344.32,
+            164.02279149999998,
+            363.52000000000004,
+            189.01034649999997
+          ]
+        },
+        {
+          "class_id": 3,
+          "xyxy": [
+            346.880512,
+            176.19624199999998,
+            388.48051200000003,
+            220.405466
+          ]
+        },
+        {
+          "class_id": 3,
+          "xyxy": [
+            350.71948799999996,
+            137.753587,
+            391.039488,
+            172.351635
+          ]
+        },
+        {
+          "class_id": 3,
+          "xyxy": [
+            369.279488,
+            78.1676425,
+            408.319488,
+            101.8738895
+          ]
+        },
+        {
+          "class_id": 3,
+          "xyxy": [
+            375.68,
+            186.447389,
+            421.76000000000005,
+            227.45334300000002
+          ]
+        },
+        {
+          "class_id": 3,
+          "xyxy": [
+            383.360512,
+            226.17135199999998,
+            410.880512,
+            252.440898
+          ]
+        },
+        {
+          "class_id": 3,
+          "xyxy": [
+            385.920512,
+            125.5801365,
+            405.760512,
+            160.81952149999998
+          ]
+        },
+        {
+          "class_id": 3,
+          "xyxy": [
+            387.2,
+            158.255881,
+            428.16,
+            188.36935099999997
+          ]
+        },
+        {
+          "class_id": 3,
+          "xyxy": [
+            388.48,
+            251.15959,
+            437.12,
+            285.116984
+          ]
+        },
+        {
+          "class_id": 3,
+          "xyxy": [
+            395.51948799999997,
+            241.549097,
+            421.759488,
+            257.566813
+          ]
+        },
+        {
+          "class_id": 3,
+          "xyxy": [
+            417.28000000000003,
+            174.9152755,
+            462.08,
+            212.71727650000003
+          ]
+        },
+        {
+          "class_id": 3,
+          "xyxy": [
+            417.28000000000003,
+            213.9985845,
+            465.92,
+            249.87862350000003
+          ]
+        },
+        {
+          "class_id": 3,
+          "xyxy": [
+            425.60051200000004,
+            242.83040499999998,
+            469.760512,
+            276.147145
+          ]
+        },
+        {
+          "class_id": 3,
+          "xyxy": [
+            440.96000000000004,
+            258.848121,
+            485.76,
+            287.680283
+          ]
+        },
+        {
+          "class_id": 3,
+          "xyxy": [
+            450.560512,
+            110.843387,
+            481.92051200000003,
+            138.394241
+          ]
+        },
+        {
+          "class_id": 3,
+          "xyxy": [
+            451.840512,
+            137.11225,
+            492.16051200000004,
+            179.39951200000002
+          ]
+        },
+        {
+          "class_id": 3,
+          "xyxy": [
+            456.96,
+            191.5729625,
+            509.44,
+            244.11137149999996
+          ]
+        },
+        {
+          "class_id": 3,
+          "xyxy": [
+            456.96051200000005,
+            229.375305,
+            549.7605120000001,
+            290.242899
+          ]
+        },
+        {
+          "class_id": 3,
+          "xyxy": [
+            478.08000000000004,
+            378.66134700000003,
+            490.88,
+            406.212201
+          ]
+        },
+        {
+          "class_id": 3,
+          "xyxy": [
+            483.2,
+            104.4358225,
+            540.8,
+            129.4233775
+          ]
+        },
+        {
+          "class_id": 3,
+          "xyxy": [
+            483.2,
+            294.72816,
+            531.84,
+            339.578038
+          ]
+        },
+        {
+          "class_id": 3,
+          "xyxy": [
+            490.88000000000005,
+            125.579795,
+            539.5200000000001,
+            169.789019
+          ]
+        },
+        {
+          "class_id": 3,
+          "xyxy": [
+            499.2,
+            160.81918,
+            555.52,
+            193.495266
+          ]
+        },
+        {
+          "class_id": 3,
+          "xyxy": [
+            500.480512,
+            201.824451,
+            525.440512,
+            228.093997
+          ]
+        },
+        {
+          "class_id": 3,
+          "xyxy": [
+            512.0,
+            181.96315249999998,
+            563.2,
+            221.0464615
+          ]
+        },
+        {
+          "class_id": 3,
+          "xyxy": [
+            517.119488,
+            397.24167900000003,
+            536.959488,
+            426.073841
+          ]
+        },
+        {
+          "class_id": 3,
+          "xyxy": [
+            518.400512,
+            241.5494385,
+            548.480512,
+            281.27340150000003
+          ]
+        },
+        {
+          "class_id": 3,
+          "xyxy": [
+            519.679488,
+            320.997023,
+            577.919488,
+            367.12820899999997
+          ]
+        },
+        {
+          "class_id": 3,
+          "xyxy": [
+            528.0,
+            283.1953635,
+            580.48,
+            330.6085405
+          ]
+        },
+        {
+          "class_id": 3,
+          "xyxy": [
+            533.1205120000001,
+            222.32742800000003,
+            563.200512,
+            251.800244
+          ]
+        },
+        {
+          "class_id": 3,
+          "xyxy": [
+            539.52,
+            120.45388,
+            577.9200000000001,
+            165.944412
+          ]
+        },
+        {
+          "class_id": 3,
+          "xyxy": [
+            560.64,
+            331.889507,
+            613.12,
+            376.098731
+          ]
+        },
+        {
+          "class_id": 3,
+          "xyxy": [
+            561.920512,
+            234.5015615,
+            600.960512,
+            258.2078085
+          ]
+        },
+        {
+          "class_id": 3,
+          "xyxy": [
+            567.04,
+            183.244119,
+            618.24,
+            229.375305
+          ]
+        },
+        {
+          "class_id": 3,
+          "xyxy": [
+            570.879488,
+            406.21220099999994,
+            590.719488,
+            434.403709
+          ]
+        },
+        {
+          "class_id": 3,
+          "xyxy": [
+            576.0,
+            294.72816,
+            623.3599999999999,
+            342.140654
+          ]
+        },
+        {
+          "class_id": 3,
+          "xyxy": [
+            576.000512,
+            158.2555395,
+            630.400512,
+            208.23133249999998
+          ]
+        },
+        {
+          "class_id": 3,
+          "xyxy": [
+            598.4,
+            239.626452,
+            636.8000000000001,
+            264.61469
+          ]
+        },
+        {
+          "class_id": 3,
+          "xyxy": [
+            598.400512,
+            118.53157650000001,
+            619.5205119999999,
+            137.7532455
+          ]
+        },
+        {
+          "class_id": 3,
+          "xyxy": [
+            600.96,
+            285.7572965,
+            647.04,
+            319.7153735
+          ]
+        },
+        {
+          "class_id": 3,
+          "xyxy": [
+            602.24,
+            123.65817449999999,
+            644.48,
+            162.7414835
+          ]
+        },
+        {
+          "class_id": 3,
+          "xyxy": [
+            604.159488,
+            176.19624199999998,
+            652.159488,
+            190.291996
+          ]
+        },
+        {
+          "class_id": 3,
+          "xyxy": [
+            605.4399999999999,
+            338.29673,
+            625.92,
+            358.15837
+          ]
+        },
+        {
+          "class_id": 3,
+          "xyxy": [
+            611.84,
+            208.23167400000003,
+            656.64,
+            238.345144
+          ]
+        },
+        {
+          "class_id": 3,
+          "xyxy": [
+            613.1205120000001,
+            148.645388,
+            654.720512,
+            178.758858
+          ]
+        },
+        {
+          "class_id": 3,
+          "xyxy": [
+            615.679488,
+            102.514202,
+            652.159488,
+            144.80146399999998
+          ]
+        },
+        {
+          "class_id": 3,
+          "xyxy": [
+            627.200512,
+            470.923719,
+            652.160512,
+            485.01947299999995
+          ]
+        },
+        {
+          "class_id": 3,
+          "xyxy": [
+            628.4799999999999,
+            240.90776,
+            656.64,
+            264.61469
+          ]
+        },
+        {
+          "class_id": 3,
+          "xyxy": [
+            640.6405120000001,
+            440.81024900000006,
+            661.760512,
+            470.923719
+          ]
+        },
+        {
+          "class_id": 3,
+          "xyxy": [
+            645.760512,
+            243.471059,
+            669.440512,
+            263.332699
+          ]
+        },
+        {
+          "class_id": 3,
+          "xyxy": [
+            645.7605120000001,
+            192.21429949999998,
+            677.120512,
+            228.09433850000002
+          ]
+        },
+        {
+          "class_id": 3,
+          "xyxy": [
+            647.039488,
+            390.83513899999997,
+            673.279488,
+            408.134163
+          ]
+        },
+        {
+          "class_id": 3,
+          "xyxy": [
+            649.6,
+            127.5020985,
+            691.84,
+            160.17886750000002
+          ]
+        },
+        {
+          "class_id": 3,
+          "xyxy": [
+            653.4399999999999,
+            166.585066,
+            694.4,
+            210.153636
+          ]
+        },
+        {
+          "class_id": 3,
+          "xyxy": [
+            653.4399999999999,
+            225.53103949999996,
+            695.68,
+            262.0517325
+          ]
+        },
+        {
+          "class_id": 3,
+          "xyxy": [
+            656.639488,
+            367.12820899999997,
+            682.879488,
+            392.116447
+          ]
+        },
+        {
+          "class_id": 3,
+          "xyxy": [
+            663.039488,
+            370.97247450000003,
+            740.4794880000001,
+            424.79219150000006
+          ]
+        },
+        {
+          "class_id": 3,
+          "xyxy": [
+            668.16,
+            362.0033185,
+            712.9599999999999,
+            415.8230355
+          ]
+        },
+        {
+          "class_id": 3,
+          "xyxy": [
+            670.72,
+            335.733431,
+            727.04,
+            364.565593
+          ]
+        },
+        {
+          "class_id": 3,
+          "xyxy": [
+            677.119488,
+            124.939141,
+            705.919488,
+            142.87881900000002
+          ]
+        },
+        {
+          "class_id": 3,
+          "xyxy": [
+            679.68,
+            344.70361149999997,
+            720.64,
+            377.3803805
+          ]
+        },
+        {
+          "class_id": 3,
+          "xyxy": [
+            680.96,
+            137.753587,
+            728.3199999999999,
+            183.884773
+          ]
+        },
+        {
+          "class_id": 3,
+          "xyxy": [
+            689.28,
+            465.79882849999996,
+            707.2,
+            490.7863835
+          ]
+        },
+        {
+          "class_id": 3,
+          "xyxy": [
+            691.8394880000001,
+            194.13592000000003,
+            721.919488,
+            224.89004400000002
+          ]
+        },
+        {
+          "class_id": 3,
+          "xyxy": [
+            696.9594880000001,
+            308.823914,
+            727.039488,
+            324.200976
+          ]
+        },
+        {
+          "class_id": 3,
+          "xyxy": [
+            709.12,
+            274.22484149999997,
+            761.6,
+            310.10488050000004
+          ]
+        },
+        {
+          "class_id": 3,
+          "xyxy": [
+            712.959488,
+            164.02245,
+            759.679488,
+            205.028404
+          ]
+        },
+        {
+          "class_id": 3,
+          "xyxy": [
+            715.52,
+            359.4400195,
+            776.96,
+            406.2125425
+          ]
+        },
+        {
+          "class_id": 3,
+          "xyxy": [
+            719.360512,
+            299.212738,
+            755.840512,
+            342.78130799999997
+          ]
+        },
+        {
+          "class_id": 3,
+          "xyxy": [
+            719.3605120000001,
+            211.4352855,
+            749.440512,
+            232.5789165
+          ]
+        },
+        {
+          "class_id": 3,
+          "xyxy": [
+            720.6405120000001,
+            141.59785250000002,
+            750.720512,
+            166.5854075
+          ]
+        },
+        {
+          "class_id": 3,
+          "xyxy": [
+            724.48,
+            398.5233285,
+            775.6800000000001,
+            464.51683749999995
+          ]
+        },
+        {
+          "class_id": 3,
+          "xyxy": [
+            743.040512,
+            310.10522199999997,
+            771.840512,
+            353.03313799999995
+          ]
+        },
+        {
+          "class_id": 3,
+          "xyxy": [
+            748.159488,
+            490.786042,
+            762.879488,
+            522.18082
+          ]
+        },
+        {
+          "class_id": 3,
+          "xyxy": [
+            750.72,
+            210.153636,
+            787.8399999999999,
+            236.42318200000003
+          ]
+        },
+        {
+          "class_id": 3,
+          "xyxy": [
+            761.6,
+            404.9312345,
+            815.36,
+            460.67291349999994
+          ]
+        },
+        {
+          "class_id": 3,
+          "xyxy": [
+            761.600512,
+            173.63294299999998,
+            809.600512,
+            213.998243
+          ]
+        },
+        {
+          "class_id": 3,
+          "xyxy": [
+            778.24,
+            266.53631049999996,
+            838.4000000000001,
+            286.3986335
+          ]
+        },
+        {
+          "class_id": 3,
+          "xyxy": [
+            782.08,
+            374.81708150000003,
+            838.4,
+            415.8223524999999
+          ]
+        },
+        {
+          "class_id": 3,
+          "xyxy": [
+            783.36,
+            351.110493,
+            833.2800000000001,
+            378.66134700000003
+          ]
+        },
+        {
+          "class_id": 3,
+          "xyxy": [
+            787.840512,
+            158.896535,
+            823.040512,
+            201.183797
+          ]
+        },
+        {
+          "class_id": 3,
+          "xyxy": [
+            791.679488,
+            16.017716,
+            825.5994880000001,
+            43.56857
+          ]
+        },
+        {
+          "class_id": 3,
+          "xyxy": [
+            794.239488,
+            60.226598499999994,
+            823.039488,
+            94.8253295
+          ]
+        },
+        {
+          "class_id": 3,
+          "xyxy": [
+            794.239488,
+            515.7739385,
+            824.319488,
+            561.2651535
+          ]
+        },
+        {
+          "class_id": 3,
+          "xyxy": [
+            795.5205119999999,
+            282.5540265,
+            829.440512,
+            321.6373355
+          ]
+        },
+        {
+          "class_id": 3,
+          "xyxy": [
+            798.08,
+            210.15329450000002,
+            854.4,
+            274.2248415
+          ]
+        },
+        {
+          "class_id": 3,
+          "xyxy": [
+            800.64,
+            443.373548,
+            851.84,
+            477.330942
+          ]
+        },
+        {
+          "class_id": 3,
+          "xyxy": [
+            805.760512,
+            502.31918,
+            830.720512,
+            518.336896
+          ]
+        },
+        {
+          "class_id": 3,
+          "xyxy": [
+            812.16,
+            434.403709,
+            845.4399999999999,
+            464.517179
+          ]
+        },
+        {
+          "class_id": 3,
+          "xyxy": [
+            816.639488,
+            64.07120549999999,
+            856.959488,
+            101.2325525
+          ]
+        },
+        {
+          "class_id": 3,
+          "xyxy": [
+            823.039488,
+            517.0555880000001,
+            847.999488,
+            533.7139579999999
+          ]
+        },
+        {
+          "class_id": 3,
+          "xyxy": [
+            824.320512,
+            36.5203515,
+            853.120512,
+            61.5079065
+          ]
+        },
+        {
+          "class_id": 3,
+          "xyxy": [
+            826.880512,
+            17.299024000000003,
+            851.840512,
+            44.849878000000004
+          ]
+        },
+        {
+          "class_id": 3,
+          "xyxy": [
+            830.72,
+            420.9482675,
+            885.76,
+            474.76798450000007
+          ]
+        },
+        {
+          "class_id": 3,
+          "xyxy": [
+            831.999488,
+            374.8177645,
+            850.559488,
+            414.5417275
+          ]
+        },
+        {
+          "class_id": 3,
+          "xyxy": [
+            840.320512,
+            325.482284,
+            880.640512,
+            372.894778
+          ]
+        },
+        {
+          "class_id": 3,
+          "xyxy": [
+            851.840512,
+            241.5494385,
+            879.360512,
+            255.00385550000001
+          ]
+        },
+        {
+          "class_id": 3,
+          "xyxy": [
+            855.6800000000001,
+            80.0889215,
+            892.8,
+            107.6390925
+          ]
+        },
+        {
+          "class_id": 3,
+          "xyxy": [
+            856.9599999999999,
+            357.51771599999995,
+            906.88,
+            404.289556
+          ]
+        },
+        {
+          "class_id": 3,
+          "xyxy": [
+            860.8005119999999,
+            394.6787215,
+            925.440512,
+            428.63679850000005
+          ]
+        },
+        {
+          "class_id": 3,
+          "xyxy": [
+            863.36,
+            448.49843849999996,
+            913.2800000000001,
+            481.1752075
+          ]
+        },
+        {
+          "class_id": 3,
+          "xyxy": [
+            869.119488,
+            508.726403,
+            896.639488,
+            544.605759
+          ]
+        },
+        {
+          "class_id": 3,
+          "xyxy": [
+            875.5194879999999,
+            37.802001,
+            908.159488,
+            65.993509
+          ]
+        },
+        {
+          "class_id": 3,
+          "xyxy": [
+            884.48,
+            308.823914,
+            931.8399999999999,
+            353.03313799999995
+          ]
+        },
+        {
+          "class_id": 3,
+          "xyxy": [
+            887.039488,
+            98.669595,
+            913.279488,
+            126.220449
+          ]
+        },
+        {
+          "class_id": 3,
+          "xyxy": [
+            888.320512,
+            419.6669595,
+            951.6805119999999,
+            473.48667650000004
+          ]
+        },
+        {
+          "class_id": 3,
+          "xyxy": [
+            894.080512,
+            10.251488499999997,
+            926.7205120000001,
+            72.4010735
+          ]
+        },
+        {
+          "class_id": 3,
+          "xyxy": [
+            895.3599999999999,
+            288.9612495,
+            954.24,
+            340.2183505
+          ]
+        },
+        {
+          "class_id": 3,
+          "xyxy": [
+            899.200512,
+            64.071547,
+            935.680512,
+            96.10697900000001
+          ]
+        },
+        {
+          "class_id": 3,
+          "xyxy": [
+            900.48,
+            347.9075645,
+            950.4000000000001,
+            401.7272815
+          ]
+        },
+        {
+          "class_id": 3,
+          "xyxy": [
+            906.88,
+            83.933187,
+            954.2399999999999,
+            112.765349
+          ]
+        },
+        {
+          "class_id": 3,
+          "xyxy": [
+            908.160512,
+            545.246413,
+            929.2805119999999,
+            584.3304049999999
+          ]
+        },
+        {
+          "class_id": 3,
+          "xyxy": [
+            909.440512,
+            123.657833,
+            943.3605120000001,
+            140.316203
+          ]
+        },
+        {
+          "class_id": 3,
+          "xyxy": [
+            915.840512,
+            496.552611,
+            942.080512,
+            540.121181
+          ]
+        },
+        {
+          "class_id": 3,
+          "xyxy": [
+            917.120512,
+            107.639434,
+            972.800512,
+            132.627672
+          ]
+        },
+        {
+          "class_id": 3,
+          "xyxy": [
+            939.519488,
+            354.9554415,
+            999.039488,
+            411.3377745
+          ]
+        },
+        {
+          "class_id": 3,
+          "xyxy": [
+            945.2805119999999,
+            329.966862,
+            988.160512,
+            372.894778
+          ]
+        },
+        {
+          "class_id": 3,
+          "xyxy": [
+            947.84,
+            396.6006835,
+            1004.16,
+            446.57647650000007
+          ]
+        },
+        {
+          "class_id": 3,
+          "xyxy": [
+            975.360512,
+            97.38862850000001,
+            1000.320512,
+            122.3761835
+          ]
+        },
+        {
+          "class_id": 3,
+          "xyxy": [
+            983.039488,
+            547.8100535,
+            1001.599488,
+            584.3307465
+          ]
+        },
+        {
+          "class_id": 3,
+          "xyxy": [
+            983.040512,
+            119.813226,
+            1002.880512,
+            130.065056
+          ]
+        },
+        {
+          "class_id": 3,
+          "xyxy": [
+            990.719488,
+            345.344607,
+            1023.359488,
+            408.774817
+          ]
+        },
+        {
+          "class_id": 3,
+          "xyxy": [
+            992.0005120000001,
+            492.708004,
+            1023.360512,
+            546.528404
+          ]
+        },
+        {
+          "class_id": 3,
+          "xyxy": [
+            1001.6,
+            433.76203050000004,
+            1023.36,
+            455.54631550000005
+          ]
+        },
+        {
+          "class_id": 3,
+          "xyxy": [
+            1002.88,
+            401.72694,
+            1023.36,
+            430.559102
+          ]
+        }
+      ],
+      "license_metadata": {
+        "attribution": "jean-louis Zimmermann",
+        "name": "Open Images recorded image license",
+        "url": "https://creativecommons.org/licenses/by/2.0/"
+      },
+      "protected_split": null,
+      "source": "open_images_v7",
+      "source_image_id": "edeedd4080f53d54",
+      "width": 1024
+    },
+    {
+      "class_presence": [
+        3
+      ],
+      "duplicate_group_id": "unique:open_images_v7:ee5d9a126179fbc5",
+      "file_path": "images/ee5d9a126179fbc5.jpg",
+      "height": 853,
+      "labels": [
+        {
+          "class_id": 3,
+          "xyxy": [
+            654.946816,
+            249.50761800000004,
+            762.8446720000001,
+            347.798808
+          ]
+        }
+      ],
+      "license_metadata": {
+        "attribution": "Michelle Tribe",
+        "name": "Open Images recorded image license",
+        "url": "https://creativecommons.org/licenses/by/2.0/"
+      },
+      "protected_split": null,
+      "source": "open_images_v7",
+      "source_image_id": "ee5d9a126179fbc5",
+      "width": 1024
+    },
+    {
+      "class_presence": [
+        3
+      ],
+      "duplicate_group_id": "unique:open_images_v7:eeda089200af8a18",
+      "file_path": "images/eeda089200af8a18.jpg",
+      "height": 768,
+      "labels": [
+        {
+          "class_id": 3,
+          "xyxy": [
+            426.240512,
+            193.28025599999998,
+            506.240512,
+            275.840256
+          ]
+        }
+      ],
+      "license_metadata": {
+        "attribution": "aalphotos",
+        "name": "Open Images recorded image license",
+        "url": "https://creativecommons.org/licenses/by/2.0/"
+      },
+      "protected_split": null,
+      "source": "open_images_v7",
+      "source_image_id": "eeda089200af8a18",
+      "width": 1024
+    },
+    {
+      "class_presence": [
+        3
+      ],
+      "duplicate_group_id": "unique:open_images_v7:ef980578956d7605",
+      "file_path": "images/ef980578956d7605.jpg",
+      "height": 768,
+      "labels": [
+        {
+          "class_id": 3,
+          "xyxy": [
+            354.56000000000006,
+            112.640256,
+            720.64,
+            444.800256
+          ]
+        },
+        {
+          "class_id": 3,
+          "xyxy": [
+            513.280512,
+            339.199872,
+            862.080512,
+            579.839616
+          ]
+        }
+      ],
+      "license_metadata": {
+        "attribution": "Ashley Steel",
+        "name": "Open Images recorded image license",
+        "url": "https://creativecommons.org/licenses/by/2.0/"
+      },
+      "protected_split": null,
+      "source": "open_images_v7",
+      "source_image_id": "ef980578956d7605",
+      "width": 1024
+    },
+    {
+      "class_presence": [
+        3
+      ],
+      "duplicate_group_id": "unique:open_images_v7:efe08d808cb695b6",
+      "file_path": "images/efe08d808cb695b6.jpg",
+      "height": 576,
+      "labels": [
+        {
+          "class_id": 3,
+          "xyxy": [
+            433.28000000000003,
+            212.47977599999996,
+            584.32,
+            334.079712
+          ]
+        }
+      ],
+      "license_metadata": {
+        "attribution": "John Tann",
+        "name": "Open Images recorded image license",
+        "url": "https://creativecommons.org/licenses/by/2.0/"
+      },
+      "protected_split": null,
+      "source": "open_images_v7",
+      "source_image_id": "efe08d808cb695b6",
+      "width": 1024
+    },
+    {
+      "class_presence": [
+        3
+      ],
+      "duplicate_group_id": "unique:open_images_v7:f031ee0162fc77ce",
+      "file_path": "images/f031ee0162fc77ce.jpg",
+      "height": 683,
+      "labels": [
+        {
+          "class_id": 3,
+          "xyxy": [
+            229.120512,
+            230.0163005,
+            257.920512,
+            267.8183015
+          ]
+        },
+        {
+          "class_id": 3,
+          "xyxy": [
+            325.76000000000005,
+            207.5913615,
+            365.44,
+            246.03401650000004
+          ]
+        }
+      ],
+      "license_metadata": {
+        "attribution": "Ben Fitzgerald-O&#x27;Connor",
+        "name": "Open Images recorded image license",
+        "url": "https://creativecommons.org/licenses/by/2.0/"
+      },
+      "protected_split": null,
+      "source": "open_images_v7",
+      "source_image_id": "f031ee0162fc77ce",
+      "width": 1024
+    },
+    {
+      "class_presence": [
+        0
+      ],
+      "duplicate_group_id": "unique:open_images_v7:f100d315f2e69d9c",
+      "file_path": "images/f100d315f2e69d9c.jpg",
+      "height": 897,
+      "labels": [
+        {
+          "class_id": 0,
+          "xyxy": [
+            10.448895999999998,
+            677.5727205000001,
+            115.74271999999999,
+            774.0244395
+          ]
+        },
+        {
+          "class_id": 0,
+          "xyxy": [
+            25.720832,
+            612.4680119999999,
+            97.255424,
+            674.357424
+          ]
+        },
+        {
+          "class_id": 0,
+          "xyxy": [
+            25.72134400000001,
+            744.284853,
+            120.565248,
+            854.4005729999999
+          ]
+        },
+        {
+          "class_id": 0,
+          "xyxy": [
+            42.599424,
+            271.6721475,
+            106.09766400000001,
+            364.9090185
+          ]
+        },
+        {
+          "class_id": 0,
+          "xyxy": [
+            78.769664,
+            358.4793225,
+            159.14649599999998,
+            460.5570255
+          ]
+        },
+        {
+          "class_id": 0,
+          "xyxy": [
+            84.39603199999999,
+            451.714848,
+            142.266368,
+            536.913702
+          ]
+        },
+        {
+          "class_id": 0,
+          "xyxy": [
+            115.742208,
+            776.4346785,
+            192.90368,
+            891.3735675
+          ]
+        },
+        {
+          "class_id": 0,
+          "xyxy": [
+            127.798784,
+            652.656303,
+            224.25036799999998,
+            804.566841
+          ]
+        },
+        {
+          "class_id": 0,
+          "xyxy": [
+            191.296512,
+            712.134579,
+            311.862272,
+            798.1371449999999
+          ]
+        },
+        {
+          "class_id": 0,
+          "xyxy": [
+            204.156416,
+            291.7658445,
+            298.197504,
+            368.1229695
+          ]
+        },
+        {
+          "class_id": 0,
+          "xyxy": [
+            212.99865599999998,
+            578.7089685,
+            281.318912,
+            667.1235675
+          ]
+        },
+        {
+          "class_id": 0,
+          "xyxy": [
+            217.82067199999997,
+            790.9023915,
+            296.58982399999996,
+            888.1578225
+          ]
+        },
+        {
+          "class_id": 0,
+          "xyxy": [
+            245.95302399999997,
+            587.5506975000001,
+            311.862784,
+            684.0024165
+          ]
+        },
+        {
+          "class_id": 0,
+          "xyxy": [
+            341.60128,
+            764.3798955,
+            433.23084800000004,
+            818.2312905
+          ]
+        },
+        {
+          "class_id": 0,
+          "xyxy": [
+            360.08704,
+            635.776557,
+            448.50227199999995,
+            770.8091430000001
+          ]
+        },
+        {
+          "class_id": 0,
+          "xyxy": [
+            400.276992,
+            585.14001,
+            451.71763200000004,
+            647.0294220000001
+          ]
+        },
+        {
+          "class_id": 0,
+          "xyxy": [
+            456.53964800000006,
+            405.0964125,
+            521.644544,
+            471.8089935
+          ]
+        },
+        {
+          "class_id": 0,
+          "xyxy": [
+            458.952192,
+            708.1155704999999,
+            522.4494080000001,
+            779.6504235
+          ]
+        },
+        {
+          "class_id": 0,
+          "xyxy": [
+            550.5812480000001,
+            805.370553,
+            625.3312,
+            876.906303
+          ]
+        },
+        {
+          "class_id": 0,
+          "xyxy": [
+            552.187904,
+            664.7115345000001,
+            654.2663679999999,
+            723.3869955
+          ]
+        },
+        {
+          "class_id": 0,
+          "xyxy": [
+            569.0675200000001,
+            455.734305,
+            663.912448,
+            572.279721
+          ]
+        },
+        {
+          "class_id": 0,
+          "xyxy": [
+            585.9466239999999,
+            561.026856,
+            638.994944,
+            666.320304
+          ]
+        },
+        {
+          "class_id": 0,
+          "xyxy": [
+            590.76864,
+            367.31970600000005,
+            675.9685119999999,
+            474.220578
+          ]
+        },
+        {
+          "class_id": 0,
+          "xyxy": [
+            607.6482560000001,
+            745.088565,
+            674.360832,
+            821.446587
+          ]
+        },
+        {
+          "class_id": 0,
+          "xyxy": [
+            670.341632,
+            579.513129,
+            752.326144,
+            692.843697
+          ]
+        },
+        {
+          "class_id": 0,
+          "xyxy": [
+            680.79104,
+            745.0890135,
+            754.738176,
+            816.6238665
+          ]
+        },
+        {
+          "class_id": 0,
+          "xyxy": [
+            682.399232,
+            691.2367214999999,
+            750.719488,
+            759.5567265
+          ]
+        },
+        {
+          "class_id": 0,
+          "xyxy": [
+            684.0064,
+            432.42486299999996,
+            770.812928,
+            517.6237169999999
+          ]
+        },
+        {
+          "class_id": 0,
+          "xyxy": [
+            725.801984,
+            0.0,
+            782.869504,
+            88.413702
+          ]
+        },
+        {
+          "class_id": 0,
+          "xyxy": [
+            834.3111680000001,
+            629.3473095,
+            888.163328,
+            675.9652965
+          ]
+        },
+        {
+          "class_id": 0,
+          "xyxy": [
+            886.555648,
+            615.6824115000001,
+            948.4462080000001,
+            681.5912805
+          ]
+        },
+        {
+          "class_id": 0,
+          "xyxy": [
+            902.630912,
+            452.5190085,
+            976.577024,
+            520.8390135000001
+          ]
+        }
+      ],
+      "license_metadata": {
+        "attribution": "Rex Pe",
+        "name": "Open Images recorded image license",
+        "url": "https://creativecommons.org/licenses/by/2.0/"
+      },
+      "protected_split": null,
+      "source": "open_images_v7",
+      "source_image_id": "f100d315f2e69d9c",
+      "width": 1024
+    },
+    {
+      "class_presence": [
+        3
+      ],
+      "duplicate_group_id": "unique:open_images_v7:f19b20076c6f5157",
+      "file_path": "images/f19b20076c6f5157.jpg",
+      "height": 768,
+      "labels": [
+        {
+          "class_id": 3,
+          "xyxy": [
+            838.4,
+            250.87987200000003,
+            935.68,
+            322.559616
+          ]
+        }
+      ],
+      "license_metadata": {
+        "attribution": "Mike Licht",
+        "name": "Open Images recorded image license",
+        "url": "https://creativecommons.org/licenses/by/2.0/"
+      },
+      "protected_split": null,
+      "source": "open_images_v7",
+      "source_image_id": "f19b20076c6f5157",
+      "width": 1024
+    },
+    {
+      "class_presence": [
+        1
+      ],
+      "duplicate_group_id": "unique:open_images_v7:f255f1c229310fb8",
+      "file_path": "images/f255f1c229310fb8.jpg",
+      "height": 1024,
+      "labels": [
+        {
+          "class_id": 1,
+          "xyxy": [
+            633.5999999999999,
+            821.119488,
+            768.0,
+            1009.919488
+          ]
+        }
+      ],
+      "license_metadata": {
+        "attribution": "Iain Cameron",
+        "name": "Open Images recorded image license",
+        "url": "https://creativecommons.org/licenses/by/2.0/"
+      },
+      "protected_split": null,
+      "source": "open_images_v7",
+      "source_image_id": "f255f1c229310fb8",
+      "width": 768
+    },
+    {
+      "class_presence": [
+        4
+      ],
+      "duplicate_group_id": "unique:open_images_v7:f390b1a50ef67591",
+      "file_path": "images/f390b1a50ef67591.jpg",
+      "height": 768,
+      "labels": [
+        {
+          "class_id": 4,
+          "xyxy": [
+            469.76,
+            260.479872,
+            776.96,
+            683.519616
+          ]
+        },
+        {
+          "class_id": 4,
+          "xyxy": [
+            764.159488,
+            600.320256,
+            1014.399488,
+            767.360256
+          ]
+        }
+      ],
+      "license_metadata": {
+        "attribution": "Lyn Gateley",
+        "name": "Open Images recorded image license",
+        "url": "https://creativecommons.org/licenses/by/2.0/"
+      },
+      "protected_split": null,
+      "source": "open_images_v7",
+      "source_image_id": "f390b1a50ef67591",
+      "width": 1024
+    },
+    {
+      "class_presence": [
+        3
+      ],
+      "duplicate_group_id": "unique:open_images_v7:f4beba739a3616a6",
+      "file_path": "images/f4beba739a3616a6.jpg",
+      "height": 768,
+      "labels": [
+        {
+          "class_id": 3,
+          "xyxy": [
+            0.0,
+            381.59999999999997,
+            537.6,
+            766.4002559999999
+          ]
+        },
+        {
+          "class_id": 3,
+          "xyxy": [
+            3.1994880000000023,
+            5.600640000000027,
+            469.599744,
+            459.20064
+          ]
+        },
+        {
+          "class_id": 3,
+          "xyxy": [
+            326.399488,
+            0.0,
+            621.599232,
+            212.000256
+          ]
+        },
+        {
+          "class_id": 3,
+          "xyxy": [
+            492.000256,
+            135.99974400000002,
+            965.600256,
+            669.5999999999999
+          ]
+        },
+        {
+          "class_id": 3,
+          "xyxy": [
+            617.5994880000001,
+            0.0,
+            888.0,
+            137.599872
+          ]
+        },
+        {
+          "class_id": 3,
+          "xyxy": [
+            640.000512,
+            612.0003839999999,
+            1023.200768,
+            767.200128
+          ]
+        },
+        {
+          "class_id": 3,
+          "xyxy": [
+            835.9992319999999,
+            0.0,
+            1023.199744,
+            470.40000000000003
+          ]
+        }
+      ],
+      "license_metadata": {
+        "attribution": "Jon-Eric Melsæter",
+        "name": "Open Images recorded image license",
+        "url": "https://creativecommons.org/licenses/by/2.0/"
+      },
+      "protected_split": null,
+      "source": "open_images_v7",
+      "source_image_id": "f4beba739a3616a6",
+      "width": 1024
+    },
+    {
+      "class_presence": [
+        3
+      ],
+      "duplicate_group_id": "unique:open_images_v7:f59d719d41f92808",
+      "file_path": "images/f59d719d41f92808.jpg",
+      "height": 682,
+      "labels": [
+        {
+          "class_id": 3,
+          "xyxy": [
+            354.98752,
+            321.79488000000003,
+            478.720512,
+            454.097424
+          ]
+        },
+        {
+          "class_id": 3,
+          "xyxy": [
+            484.69350399999996,
+            312.405786,
+            583.680512,
+            410.56604600000003
+          ]
+        },
+        {
+          "class_id": 3,
+          "xyxy": [
+            525.653504,
+            105.842649,
+            647.680512,
+            225.34200700000002
+          ]
+        }
+      ],
+      "license_metadata": {
+        "attribution": "Spiegel",
+        "name": "Open Images recorded image license",
+        "url": "https://creativecommons.org/licenses/by/2.0/"
+      },
+      "protected_split": null,
+      "source": "open_images_v7",
+      "source_image_id": "f59d719d41f92808",
+      "width": 1024
+    },
+    {
+      "class_presence": [
+        3
+      ],
+      "duplicate_group_id": "unique:open_images_v7:f5b17b3280060c48",
+      "file_path": "images/f5b17b3280060c48.jpg",
+      "height": 768,
+      "labels": [
+        {
+          "class_id": 3,
+          "xyxy": [
+            462.39897600000006,
+            99.200256,
+            732.799488,
+            276.800256
+          ]
+        }
+      ],
+      "license_metadata": {
+        "attribution": "Kanko*",
+        "name": "Open Images recorded image license",
+        "url": "https://creativecommons.org/licenses/by/2.0/"
+      },
+      "protected_split": null,
+      "source": "open_images_v7",
+      "source_image_id": "f5b17b3280060c48",
+      "width": 1024
+    },
+    {
+      "class_presence": [
+        3
+      ],
+      "duplicate_group_id": "unique:open_images_v7:f61335592210d5db",
+      "file_path": "images/f61335592210d5db.jpg",
+      "height": 681,
+      "labels": [
+        {
+          "class_id": 3,
+          "xyxy": [
+            273.279488,
+            24.98520900000002,
+            961.279488,
+            599.6388870000001
+          ]
+        }
+      ],
+      "license_metadata": {
+        "attribution": "liz west",
+        "name": "Open Images recorded image license",
+        "url": "https://creativecommons.org/licenses/by/2.0/"
+      },
+      "protected_split": null,
+      "source": "open_images_v7",
+      "source_image_id": "f61335592210d5db",
+      "width": 1024
+    },
+    {
+      "class_presence": [
+        2
+      ],
+      "duplicate_group_id": "unique:open_images_v7:f88c11ff7d959391",
+      "file_path": "images/f88c11ff7d959391.jpg",
+      "height": 682,
+      "labels": [
+        {
+          "class_id": 2,
+          "xyxy": [
+            590.000128,
+            478.999631,
+            792.000512,
+            640.999865
+          ]
+        }
+      ],
+      "license_metadata": {
+        "attribution": "Vernon Chan",
+        "name": "Open Images recorded image license",
+        "url": "https://creativecommons.org/licenses/by/2.0/"
+      },
+      "protected_split": null,
+      "source": "open_images_v7",
+      "source_image_id": "f88c11ff7d959391",
+      "width": 1024
+    },
+    {
+      "class_presence": [
+        3
+      ],
+      "duplicate_group_id": "unique:open_images_v7:f97cf80743204fe8",
+      "file_path": "images/f97cf80743204fe8.jpg",
+      "height": 687,
+      "labels": [
+        {
+          "class_id": 3,
+          "xyxy": [
+            0.0,
+            69.85381650000001,
+            39.039488,
+            151.8836775
+          ]
+        },
+        {
+          "class_id": 3,
+          "xyxy": [
+            0.0,
+            126.889587,
+            24.32,
+            252.497919
+          ]
+        },
+        {
+          "class_id": 3,
+          "xyxy": [
+            189.44,
+            436.4246504999999,
+            337.92,
+            588.9489555
+          ]
+        }
+      ],
+      "license_metadata": {
+        "attribution": "Jitze Couperus",
+        "name": "Open Images recorded image license",
+        "url": "https://creativecommons.org/licenses/by/2.0/"
+      },
+      "protected_split": null,
+      "source": "open_images_v7",
+      "source_image_id": "f97cf80743204fe8",
+      "width": 1024
+    },
+    {
+      "class_presence": [
+        1
+      ],
+      "duplicate_group_id": "unique:open_images_v7:fa0835ecc2fcb931",
+      "file_path": "images/fa0835ecc2fcb931.jpg",
+      "height": 768,
+      "labels": [
+        {
+          "class_id": 1,
+          "xyxy": [
+            202.24,
+            534.3993600000001,
+            675.84,
+            750.719616
+          ]
+        }
+      ],
+      "license_metadata": {
+        "attribution": "Zorka Ostojic Espinoza",
+        "name": "Open Images recorded image license",
+        "url": "https://creativecommons.org/licenses/by/2.0/"
+      },
+      "protected_split": null,
+      "source": "open_images_v7",
+      "source_image_id": "fa0835ecc2fcb931",
+      "width": 1024
+    },
+    {
+      "class_presence": [
+        3
+      ],
+      "duplicate_group_id": "unique:open_images_v7:fc4492d5b71ee5a0",
+      "file_path": "images/fc4492d5b71ee5a0.jpg",
+      "height": 683,
+      "labels": [
+        {
+          "class_id": 3,
+          "xyxy": [
+            322.56,
+            189.010005,
+            414.71999999999997,
+            277.428453
+          ]
+        }
+      ],
+      "license_metadata": {
+        "attribution": "Blondinrikard Fröberg",
+        "name": "Open Images recorded image license",
+        "url": "https://creativecommons.org/licenses/by/2.0/"
+      },
+      "protected_split": null,
+      "source": "open_images_v7",
+      "source_image_id": "fc4492d5b71ee5a0",
+      "width": 1024
+    },
+    {
+      "class_presence": [
+        3
+      ],
+      "duplicate_group_id": "unique:open_images_v7:fc959f8db597324e",
+      "file_path": "images/fc959f8db597324e.jpg",
+      "height": 683,
+      "labels": [
+        {
+          "class_id": 3,
+          "xyxy": [
+            634.88,
+            414.92249999999996,
+            798.7199999999999,
+            577.135
+          ]
+        },
+        {
+          "class_id": 3,
+          "xyxy": [
+            721.919488,
+            90.4975,
+            923.3064959999999,
+            283.445
+          ]
+        }
+      ],
+      "license_metadata": {
+        "attribution": "Gail",
+        "name": "Open Images recorded image license",
+        "url": "https://creativecommons.org/licenses/by/2.0/"
+      },
+      "protected_split": null,
+      "source": "open_images_v7",
+      "source_image_id": "fc959f8db597324e",
+      "width": 1024
+    },
+    {
+      "class_presence": [
+        3
+      ],
+      "duplicate_group_id": "unique:open_images_v7:fdb470561d52c8a8",
+      "file_path": "images/fdb470561d52c8a8.jpg",
+      "height": 1024,
+      "labels": [
+        {
+          "class_id": 3,
+          "xyxy": [
+            191.479808,
+            499.84000000000003,
+            370.15142399999996,
+            690.5600000000001
+          ]
+        },
+        {
+          "class_id": 3,
+          "xyxy": [
+            303.54892800000005,
+            631.039488,
+            496.30976,
+            800.6394879999999
+          ]
+        }
+      ],
+      "license_metadata": {
+        "attribution": "Shari&#x27;s Berries",
+        "name": "Open Images recorded image license",
+        "url": "https://creativecommons.org/licenses/by/2.0/"
+      },
+      "protected_split": null,
+      "source": "open_images_v7",
+      "source_image_id": "fdb470561d52c8a8",
+      "width": 1024
+    },
+    {
+      "class_presence": [
+        1,
+        3
+      ],
+      "duplicate_group_id": "unique:open_images_v7:feb0236c0b6281a9",
+      "file_path": "images/feb0236c0b6281a9.jpg",
+      "height": 669,
+      "labels": [
+        {
+          "class_id": 1,
+          "xyxy": [
+            585.6,
+            0.0,
+            950.4,
+            92.82776399999999
+          ]
+        },
+        {
+          "class_id": 1,
+          "xyxy": [
+            912.639488,
+            49.934829,
+            1023.359488,
+            146.60399099999998
+          ]
+        },
+        {
+          "class_id": 3,
+          "xyxy": [
+            48.000512,
+            503.83059,
+            130.56051200000002,
+            580.013634
+          ]
+        },
+        {
+          "class_id": 3,
+          "xyxy": [
+            58.24,
+            556.3260165,
+            163.2,
+            666.4387335
+          ]
+        },
+        {
+          "class_id": 3,
+          "xyxy": [
+            74.24000000000001,
+            347.62377299999997,
+            189.44,
+            459.657189
+          ]
+        },
+        {
+          "class_id": 3,
+          "xyxy": [
+            97.91999999999999,
+            460.937655,
+            206.72,
+            557.606817
+          ]
+        },
+        {
+          "class_id": 3,
+          "xyxy": [
+            341.760512,
+            512.15295,
+            462.72051200000004,
+            637.63059
+          ]
+        },
+        {
+          "class_id": 3,
+          "xyxy": [
+            596.4799999999999,
+            503.83025549999996,
+            709.12,
+            657.4761405
+          ]
+        },
+        {
+          "class_id": 3,
+          "xyxy": [
+            641.9200000000001,
+            328.41812100000004,
+            740.48,
+            434.690109
+          ]
+        },
+        {
+          "class_id": 3,
+          "xyxy": [
+            707.8399999999999,
+            527.5182075,
+            862.72,
+            649.7946825
+          ]
+        }
+      ],
+      "license_metadata": {
+        "attribution": "U.S. Department of Agriculture",
+        "name": "Open Images recorded image license",
+        "url": "https://creativecommons.org/licenses/by/2.0/"
+      },
+      "protected_split": null,
+      "source": "open_images_v7",
+      "source_image_id": "feb0236c0b6281a9",
+      "width": 1024
+    }
+  ]
+}

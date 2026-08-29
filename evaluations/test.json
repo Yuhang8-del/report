@@ -1,0 +1,42 @@
+{
+  "metrics": {
+    "f1": 0.6193296971005233,
+    "map50": 0.6285094929040946,
+    "map50_95": 0.4583980021856725,
+    "per_class_ap50": {
+      "0": 0.6500424716624428,
+      "1": 0.6490619987101831,
+      "2": 0.6516463671870614,
+      "3": 0.3515172854979796,
+      "4": 0.8402793414628061
+    },
+    "precision": 0.6797439396813619,
+    "recall": 0.5687778887778888
+  },
+  "protocol": {
+    "canonical_classes": [
+      "Apple",
+      "Banana",
+      "Orange",
+      "Strawberry",
+      "Pineapple"
+    ],
+    "checkpoint_sha256": "466ffb62b60f5900629c25013fe6e42a91f0b48e3aac49337387add288beeecb",
+    "dataset_yaml_sha256": "40ff4c31546fcb03c6cafbfe245f087471ba8a359da8a32abfcc04e323d3e548",
+    "metrics_sha256": "e0a67cfe9f2b9ae3ca1c7d9579b49213bfc5331083151200540d8cc986e41096",
+    "raw_evaluator_outputs": {
+      "confusion_matrix": {
+        "bytes": 152256,
+        "path": "E:\\fruit_ssod_runtime\\artifacts_v17\\runs\\supervised-v3-domain-balanced-yolov8m-1024-seed42-r3\\evaluations\\raw\\test\\confusion_matrix.png",
+        "relative_path": "evaluations/raw/test/confusion_matrix.png",
+        "sha256": "2c3e519fa5ce82ab87f04a3020030d62b4ece340f2404043386aa91c5109d032",
+        "source_filename": "confusion_matrix.png",
+        "split": "test"
+      }
+    },
+    "run_id": "supervised-v3-domain-balanced-yolov8m-1024-seed42-r3",
+    "schema": "fruit_ssod_evaluation_evidence_v1",
+    "split": "test"
+  },
+  "schema_version": "1.0"
+}
