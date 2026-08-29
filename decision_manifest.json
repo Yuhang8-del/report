@@ -1,50 +1,15 @@
 {
   "artifact_type": "sealed_task14_filter_decisions",
-  "candidate_artifact_sha256": "6aa356ec30783bde52afd1e840d840259f9cf2237c19ffdf7165684f754c6e38",
-  "decision_record_count": 840,
-  "decision_records_sha256": "f209b01fff52268d167b7a77d122af19dee0751c6c957f0d7638d0e81746bfc2",
+  "candidate_artifact_sha256": "9f8e7175fdb538ab0fdf82de896c0247e045943ed97bdd800cfa5a8ccb89ad99",
+  "decision_record_count": 66566,
+  "decision_records_sha256": "39d9120a714b50f790ddbaa9fd9a142d5215abd84fda7ef94528dcad47c61bb4",
   "filter_policy": {
-    "aspect_ratio_bounds": {
-      "path": "E:\\fruit_ssod_runtime\\artifacts_v15\\calibration\\supervised_v2_teacher_seed42\\fixed_aspect_ratio_bounds.json",
-      "sha256": "cd05516123acbe14e42c87be95405045810d960dd8de5321167174f862a2481d"
-    },
-    "filter_config": {
-      "cross_view_iou": 0.6,
-      "global_confidence": 0.5,
-      "max_area_fraction": 0.9,
-      "max_aspect_ratio": 10.0,
-      "max_boxes_per_image": 20,
-      "min_aspect_ratio": 0.1,
-      "min_pixels_at_640": 16.0,
-      "nms_iou": 0.6
-    },
     "policy_id": "trust_filter_v1",
     "require_size_filter": true,
     "require_view_consistency": true,
-    "resolved_thresholds": {
-      "maximum": 0.85,
-      "minimum": 0.5,
-      "target_precision": 0.7,
-      "thresholds": {
-        "0": 0.5489850044250488,
-        "1": 0.85,
-        "2": 0.85,
-        "3": 0.5,
-        "4": 0.5
-      }
-    },
-    "threshold_calibration": {
-      "maximum": 0.85,
-      "minimum": 0.5,
-      "target_precision": 0.7,
-      "validation_pr": {
-        "path": "E:\\fruit_ssod_runtime\\artifacts_v15\\calibration\\supervised_v2_teacher_seed42\\fixed_validation_pr.json",
-        "sha256": "be2b65f7f2b513dea8261dc8de38a7e227f2931f00c184585f3b71cdb45d69c9"
-      }
-    },
     "use_per_class_thresholds": true
   },
-  "filter_policy_sha256": "893e9c34d464e53ba94f8d6313afa1060453a362455dcaad3bc5859855a27ae2",
+  "filter_policy_sha256": "5ed10397ff5f609671b344c7b5abf7361f5b76e8f5601a4a73e4454b7e20aa01",
   "filter_provenance": {
     "aspect_ratio_bounds": {
       "artifact_id": "train-pool-ar-p01-p99-be5728f60515496d",
