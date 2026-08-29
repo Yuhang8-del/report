@@ -1,0 +1,3204 @@
+{
+  "protected_evaluation_labels": {
+    "path": "E:\\fruit_ssod_runtime\\artifacts_v17\\open_world\\post_student_ssod-v3-teacher-r3-student-seed42\\protected_evaluation_labels.json",
+    "sha256": "763f618c65d53f2d74d02a47590419474c7e6c68b0046a5a8637ef1cb87451f4"
+  },
+  "records": [
+    {
+      "image_id": "006f8f3279d0d903",
+      "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5\\rockmelon\\train\\images\\20151125T1138_pic000579_png.rf.c02a04354faf4035484f2f7eeddb9caf.jpg",
+      "split": "discovery"
+    },
+    {
+      "image_id": "008eaadf4c2b04cd",
+      "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5\\cherry\\train\\images\\verzorging_van_een_kersenboom_jpg.rf.a26482e854abee15cd37e4d8cf3f3f49.jpg",
+      "split": "discovery"
+    },
+    {
+      "image_id": "00de4bfcd35dd8d1",
+      "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5\\cherry\\train\\images\\new-harvest-big-dark-ripe-260nw-1880835082_jpg.rf.1872cf3e912da9e8823e1fbfe8829f74.jpg",
+      "split": "discovery"
+    },
+    {
+      "image_id": "013ff13710cba435",
+      "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5\\rockmelon\\train\\images\\20151125T1138_pic000152_png.rf.85f4558ec61986e22287b9876b7bf65d.jpg",
+      "split": "discovery"
+    },
+    {
+      "image_id": "01f28d9f6e0dcc3b",
+      "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5\\kiwi\\test\\images\\depositphotos_240431556-stock-photo-kiwi-fruit-tree-branch-ripe_jpg.rf.904a21226fbec3f271da84b12209f4f6.jpg",
+      "split": "holdout"
+    },
+    {
+      "image_id": "0290ffd4c9438d67",
+      "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5\\blueberry\\train\\images\\lgdraper_2_varieties-300x300_jpg.rf.bbc9c39d0cba341631a7a0e3a7ee6ba5.jpg",
+      "split": "discovery"
+    },
+    {
+      "image_id": "02f0d8be09e04cdb",
+      "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5\\cherry\\train\\images\\closeup-cherry-tree-ripe-red-cherries-cherry-orchard-cherry-tree-ripe-red-cherries-cherry-orchard-134534480_jpg.rf.6093acf3d4b987b5e7845425e65ebd6b.jpg",
+      "split": "discovery"
+    },
+    {
+      "image_id": "032a71e9d905c910",
+      "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5\\mango\\train\\images\\n12761284_5827_png.rf.dfc903cadcfb6651ac3500760a003edc.jpg",
+      "split": "holdout"
+    },
+    {
+      "image_id": "036f8f03a958b378",
+      "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5\\kiwi\\train\\images\\unnamed_jpg.rf.57d1db8353ff38697a3ffe5dd54094ef.jpg",
+      "split": "holdout"
+    },
+    {
+      "image_id": "03c9d918d3993313",
+      "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5\\kiwi\\train\\images\\stock-photo-kiwi-fruit-gold-kiwi-kiwi-farm-d8d669af-c883-4359-944a-00bb201d708d_jpg.rf.84fcbd31e29643eafe478328ced5da7c.jpg",
+      "split": "discovery"
+    },
+    {
+      "image_id": "03e7d87ce3f64dce",
+      "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5\\kiwi\\train\\images\\170119kiwifruit-buy_jpg.rf.2875df7469a21fff63e8c27f7056c642.jpg",
+      "split": "discovery"
+    },
+    {
+      "image_id": "03faf1e7f1f67a19",
+      "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5\\mango\\test\\images\\n12761284_9265_png.rf.7b0bc13f1520c6715e71f28250ec2128.jpg",
+      "split": "discovery"
+    },
+    {
+      "image_id": "04104b42feb51f5e",
+      "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5\\kiwi\\test\\images\\5616_jpg.rf.32002d42d594fcbf983c5c640f768c3a.jpg",
+      "split": "discovery"
+    },
+    {
+      "image_id": "04db9176f9e61842",
+      "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5\\cherry\\train\\images\\Cherry_jpg.rf.f9e0dbd3829609890cc83c8dcd32ba44.jpg",
+      "split": "discovery"
+    },
+    {
+      "image_id": "0549682804c357bd",
+      "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5\\mango\\train\\images\\n12761284_7694_png.rf.48321449ee03647323228f7c0b430866.jpg",
+      "split": "discovery"
+    },
+    {
+      "image_id": "05902474585ab13c",
+      "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5\\cherry\\train\\images\\Cherry-Season-Klondyke-Cherry-Farm-Cherries-Hanging-759x500_jpg.rf.f59d4ef860d322e238f91d2319b639ce.jpg",
+      "split": "discovery"
+    },
+    {
+      "image_id": "05b492595b16ecb1",
+      "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5\\mango\\train\\images\\n12761284_10893_png.rf.27913a945be839f9c5473a91b5c37fbd.jpg",
+      "split": "discovery"
+    },
+    {
+      "image_id": "06461b45c19cce91",
+      "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5\\rockmelon\\valid\\images\\20151125T1138_pic000415_png.rf.737fce511a70165733e9b32bdb8f71a1.jpg",
+      "split": "discovery"
+    },
+    {
+      "image_id": "066710b7c1f6ef0a",
+      "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5\\mango\\train\\images\\n12761284_13109_png.rf.96bc602d096b9ba546121092edd09b4b.jpg",
+      "split": "discovery"
+    },
+    {
+      "image_id": "0696cadb1f315181",
+      "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5\\blueberry\\train\\images\\08492A_jpg.rf.922604e87d5e58a7e3d271da5a990c8a.jpg",
+      "split": "discovery"
+    },
+    {
+      "image_id": "0760b91dfecd7033",
+      "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5\\kiwi\\train\\images\\hawrawd-kiwi-plant-500x500_jpg.rf.9543edb8aa34eccab86033011f3e5082.jpg",
+      "split": "discovery"
+    },
+    {
+      "image_id": "0816cad6c000843f",
+      "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5\\kiwi\\train\\images\\9bfa85c7dcb4d9d08d298841c22b45f3_jpg.rf.01011eeed7499ced55642819bca332e9.jpg",
+      "split": "discovery"
+    },
+    {
+      "image_id": "08cc44ff293d8333",
+      "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5\\rockmelon\\train\\images\\20151125T1138_pic000222_png.rf.8539b9bfc0b117d0966f7605c2bda535.jpg",
+      "split": "discovery"
+    },
+    {
+      "image_id": "08fdd7a3b0d62a3a",
+      "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5\\cherry\\train\\images\\114523235-cherry-orchard-with-ripe-cherries-growing-on-cherry-tree-at-harvest-time_jpg.rf.7d65fb8fc93943d7e6cae05612199f08.jpg",
+      "split": "discovery"
+    },
+    {
+      "image_id": "099d60e051c31137",
+      "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5\\mango\\train\\images\\n12761284_4543_png.rf.c7d4ac499674721fccc21d17bcb35488.jpg",
+      "split": "holdout"
+    },
+    {
+      "image_id": "09d08e8143dc1658",
+      "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5\\kiwi\\valid\\images\\1532406345117_jpg.rf.d43ed7c0de2328dd374a66d0aaf54348.jpg",
+      "split": "discovery"
+    },
+    {
+      "image_id": "0a754f111a462637",
+      "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5\\mango\\train\\images\\n12761284_3803_png.rf.4634051a0182cdf162bb207d3d91a7d0.jpg",
+      "split": "holdout"
+    },
+    {
+      "image_id": "0b20ae39f34b6e9c",
+      "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5\\kiwi\\train\\images\\5080_jpg.rf.7c0ca08a0a7f25e228239606570c7cf4.jpg",
+      "split": "discovery"
+    },
+    {
+      "image_id": "0b30a236cf044e9b",
+      "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5\\mango\\test\\images\\n12761284_7756_png.rf.4378b494aef1f3be99cd7d9dc6a6cb62.jpg",
+      "split": "discovery"
+    },
+    {
+      "image_id": "0b40ae4a019573db",
+      "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5\\cherry\\train\\images\\cherries-1499169_960_720_jpg.rf.22a3217dc5a2a0daa80cc10b6e9fff44.jpg",
+      "split": "discovery"
+    },
+    {
+      "image_id": "0bb0d89fd9f8ce87",
+      "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5\\blueberry\\train\\images\\Blueberry-Northland-1200066_jpg.rf.08c1efe16518d575dbcb4a70d7a02621.jpg",
+      "split": "discovery"
+    },
+    {
+      "image_id": "0be127888c87b368",
+      "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5\\mango\\train\\images\\n12761284_6763_png.rf.a581307502bd6f7e9620f4e8057cdc31.jpg",
+      "split": "discovery"
+    },
+    {
+      "image_id": "0c26153037282b93",
+      "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5\\kiwi\\valid\\images\\unnamed--1-_jpg.rf.ccc236d4eb5a681fb10344637276da69.jpg",
+      "split": "discovery"
+    },
+    {
+      "image_id": "0c43b15bf638ca24",
+      "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5\\mango\\valid\\images\\n12761284_8031_png.rf.5b01f2494c65082ad606d6b3f390e31e.jpg",
+      "split": "discovery"
+    },
+    {
+      "image_id": "0c9d2bf202410d22",
+      "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5\\cherry\\train\\images\\sweet-cherry-pie-prunus-cerasus-eubank-ftimg_jpg.rf.a993c79a3cdd9e12262d961b1dacee8d.jpg",
+      "split": "discovery"
+    },
+    {
+      "image_id": "0cbcbc1985ca0f3f",
+      "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5\\rockmelon\\valid\\images\\image_rockmelon_png.rf.cdbdbbc0ccd8d67c3090270d6329536e.jpg",
+      "split": "holdout"
+    },
+    {
+      "image_id": "0cf53a61dee84337",
+      "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5\\cherry\\train\\images\\blackcherry1_jpg.rf.cbb8eeabcd5ed9477faa90072ebbfa87.jpg",
+      "split": "discovery"
+    },
+    {
+      "image_id": "0d5cfdf8ee50c8f4",
+      "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5\\blueberry\\train\\images\\blptch1_jpg.rf.a0b946a2dc996c12a782423f3fd2d55f.jpg",
+      "split": "discovery"
+    },
+    {
+      "image_id": "0d718f965f42e302",
+      "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5\\kiwi\\train\\images\\1-500x500_jpg.rf.3ad4b0d86a75b6d60207fd510cc06c81.jpg",
+      "split": "discovery"
+    },
+    {
+      "image_id": "0e191f5a0965b27c",
+      "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5\\kiwi\\train\\images\\fresh-kiwi-fruit-on-tree-260nw-1197219634_jpg.rf.72a12d661534d2978f828d64291f66fd.jpg",
+      "split": "discovery"
+    },
+    {
+      "image_id": "0f09c1a8d0d4ccdb",
+      "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5\\mango\\train\\images\\n12761284_16961_png.rf.326ec61e403340b22f18f8c0a8ae983f.jpg",
+      "split": "discovery"
+    },
+    {
+      "image_id": "0f17512d36091ff0",
+      "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5\\kiwi\\train\\images\\b9ac7af536a648a8a52bf2e1df60a8ce_shutterstock_391464481_jpg.rf.89462035135b4ec2d51e510e85a2c8a3.jpg",
+      "split": "holdout"
+    },
+    {
+      "image_id": "0f522134b4df2ca3",
+      "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5\\blueberry\\train\\images\\Blueberries_PUB0010288_jpg.rf.9537dbfcac7611958753d67c232cc09c.jpg",
+      "split": "discovery"
+    },
+    {
+      "image_id": "0f9d0e829c1e54f3",
+      "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5\\mango\\train\\images\\n12761284_13770_png.rf.9170d104d14b79e3a9539c5b07939cf5.jpg",
+      "split": "discovery"
+    },
+    {
+      "image_id": "1073b3aa0de10a61",
+      "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5\\mango\\train\\images\\n12761284_2819_png.rf.9f1e32d175f40a97fc54feaed53108e8.jpg",
+      "split": "discovery"
+    },
+    {
+      "image_id": "10cac7a6461a69d1",
+      "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5\\rockmelon\\train\\images\\photo11_png.rf.08c3581a02895c125d7118c0d40d1d07.jpg",
+      "split": "discovery"
+    },
+    {
+      "image_id": "10e7ef1b07b7b30a",
+      "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5\\kiwi\\valid\\images\\ACT-CTO-1_jpg.rf.fa7c0e7b3c4e0485c69f3b597ceb23f3.jpg",
+      "split": "discovery"
+    },
+    {
+      "image_id": "10fb90845a3bcf26",
+      "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5\\rockmelon\\train\\images\\20151125T1143_pic000304_png.rf.ed252b9e30a39dda375861d8276bf8f6.jpg",
+      "split": "discovery"
+    },
+    {
+      "image_id": "10ffb5145f437a28",
+      "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5\\blueberry\\train\\images\\66270A_jpg.rf.43c563e71d21dc0d9ea3f1419c968bf0.jpg",
+      "split": "discovery"
+    },
+    {
+      "image_id": "117c36042a4b2057",
+      "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5\\cherry\\train\\images\\Black_Tartarian_Cherry__jpg.rf.b5f3222ce3bf48f70c60c9bec5a3623b.jpg",
+      "split": "discovery"
+    },
+    {
+      "image_id": "1327905f6da9f1b8",
+      "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5\\mango\\train\\images\\n12761284_9138_png.rf.fb7d95390085072cfc3fc76fa8eebcf2.jpg",
+      "split": "discovery"
+    },
+    {
+      "image_id": "13c63dd5738cd48f",
+      "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5\\blueberry\\train\\images\\premier-rabbiteye-blueberries-vaccinium-virgatu-828x543_jpeg.rf.0dff23691768cbc0c51f6f9b3eab6f39.jpg",
+      "split": "discovery"
+    },
+    {
+      "image_id": "13e6b0d45047efad",
+      "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5\\mango\\train\\images\\n12761284_8013_png.rf.7b9b793c61c08a89761bb39a02b9fad3.jpg",
+      "split": "discovery"
+    },
+    {
+      "image_id": "1444e757bea4ac54",
+      "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5\\mango\\test\\images\\n12761284_11565_png.rf.0b4cbd606a656757ff4069d07808f342.jpg",
+      "split": "discovery"
+    },
+    {
+      "image_id": "147dfd52ad5d300f",
+      "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5\\mango\\train\\images\\n12761284_17925_png.rf.c8fcd95dbda9215214d477fb45f6276e.jpg",
+      "split": "discovery"
+    },
+    {
+      "image_id": "153fb2792315fb25",
+      "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5\\mango\\train\\images\\n12761284_1656_png.rf.1c642c360bd766895739cb97719afd49.jpg",
+      "split": "discovery"
+    },
+    {
+      "image_id": "157de436403fe588",
+      "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5\\mango\\train\\images\\n12761284_8193_png.rf.a7ea2cf4e65080ec2f8d30446f66652b.jpg",
+      "split": "discovery"
+    },
+    {
+      "image_id": "16da97ff0a96cf1f",
+      "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5\\mango\\train\\images\\n12761284_515_png.rf.9eb6b78bb92581fc936d1fd2a3ce7970.jpg",
+      "split": "discovery"
+    },
+    {
+      "image_id": "170afbce979790a7",
+      "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5\\cherry\\train\\images\\cherries--1-_jpg.rf.fbbb851033a6c1f873a85ff39a5935c9.jpg",
+      "split": "discovery"
+    },
+    {
+      "image_id": "17336bb50df1049c",
+      "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5\\avocado\\train\\images\\n11706761_56_png.rf.cb41a8592a331686702a2460d2a57cb0.jpg",
+      "split": "discovery"
+    },
+    {
+      "image_id": "17ab2f9f4f0855fc",
+      "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5\\rockmelon\\train\\images\\20151125T1143_pic000041_png.rf.4b2a0048d4e7896986faf8137c58aef0.jpg",
+      "split": "discovery"
+    },
+    {
+      "image_id": "17d894547aed1e76",
+      "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5\\blueberry\\valid\\images\\Dreamstime_blueberry_bush_large_jpg.rf.a209992901d239ce8d1486b0a1e50958.jpg",
+      "split": "discovery"
+    },
+    {
+      "image_id": "18c472b3a19b89ab",
+      "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5\\mango\\train\\images\\n12761284_1382_png.rf.449672d2b187d96d870ebc511e367643.jpg",
+      "split": "discovery"
+    },
+    {
+      "image_id": "19560d54621e10b0",
+      "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5\\mango\\train\\images\\n12761284_1321_png.rf.3e70f15d5ebae96ab9e27b51eebf4535.jpg",
+      "split": "discovery"
+    },
+    {
+      "image_id": "19da31c6c508f263",
+      "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5\\mango\\train\\images\\n12761284_5991_png.rf.74417590246dcde6db6228d56b1487ae.jpg",
+      "split": "holdout"
+    },
+    {
+      "image_id": "1a2ad79fd2a54346",
+      "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5\\cherry\\test\\images\\1026429_jpg.rf.f49cd9f748eb443301e384c01d6a029e.jpg",
+      "split": "holdout"
+    },
+    {
+      "image_id": "1a3e1bf11be7f413",
+      "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5\\rockmelon\\test\\images\\n07756641_4484_png.rf.175b1ce395d30561e5094fefb7423f37.jpg",
+      "split": "discovery"
+    },
+    {
+      "image_id": "1a828d0f3f74e79d",
+      "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5\\cherry\\valid\\images\\cherry-tree--3-_jpg.rf.4caf8d5eb41ddee8666b241f3478bbac.jpg",
+      "split": "discovery"
+    },
+    {
+      "image_id": "1bd8876db053cb5c",
+      "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5\\mango\\train\\images\\n12761284_9245_png.rf.d656db9039d32c1397ee80301abdb1b3.jpg",
+      "split": "discovery"
+    },
+    {
+      "image_id": "1ce25e7dfe713bd7",
+      "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5\\rockmelon\\train\\images\\20151125T1143_pic000038_png.rf.d779058e3200dbf675e00787fcc254ea.jpg",
+      "split": "discovery"
+    },
+    {
+      "image_id": "1d24ff1c7f3b8526",
+      "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5\\kiwi\\train\\images\\iStock_101002643_XXXLARGE-Large_jpg.rf.4d4a3d918528de56c94eb8f11af64db5.jpg",
+      "split": "discovery"
+    },
+    {
+      "image_id": "1d8f9f0b9f693b09",
+      "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5\\cherry\\train\\images\\english_morello_2_573x700_jpg.rf.a9ccc2517c11e23a69b86a5029a5b1a0.jpg",
+      "split": "discovery"
+    },
+    {
+      "image_id": "1d95d3aba83ef392",
+      "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5\\blueberry\\train\\images\\shutterstock_1195250836Optimized_jpg.rf.17da24a531d81356f09979f794f7ab12.jpg",
+      "split": "discovery"
+    },
+    {
+      "image_id": "1dcf5f4f049a6553",
+      "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5\\rockmelon\\train\\images\\20151125T1143_pic000389_png.rf.8a346ad54313a0d7754a00d530703ded.jpg",
+      "split": "discovery"
+    },
+    {
+      "image_id": "1de2c76e8ac4326b",
+      "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5\\cherry\\valid\\images\\cherry-orchard-image_jpg.rf.9fcb510a6ba43b522ae7c646de4a3704.jpg",
+      "split": "discovery"
+    },
+    {
+      "image_id": "1e56143784c94490",
+      "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5\\cherry\\train\\images\\408028_jpeg.rf.d0593848ca1f2fb2a640a130a2d95081.jpg",
+      "split": "discovery"
+    },
+    {
+      "image_id": "1e56d84f705702e2",
+      "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5\\rockmelon\\train\\images\\n07756641_3325_png.rf.93fa0588a62d40e767fe49a770bca976.jpg",
+      "split": "discovery"
+    },
+    {
+      "image_id": "1e96ce1ce344f785",
+      "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5\\cherry\\train\\images\\78744_jpg.rf.c3dab1bc7992912c9ae3a196792715f7.jpg",
+      "split": "discovery"
+    },
+    {
+      "image_id": "1f12ae47c931233d",
+      "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5\\kiwi\\train\\images\\depositphotos_6603810-stock-photo-baby-kiwi-fruit-tree-kiwifruit_jpg.rf.ba9159c938e367c8a7e3560c1cf3e2fc.jpg",
+      "split": "discovery"
+    },
+    {
+      "image_id": "1f373c6beee1a26c",
+      "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5\\rockmelon\\valid\\images\\20151125T1138_pic000699_png.rf.9c3ac5bd2111e2786c4f6dfc2263d307.jpg",
+      "split": "discovery"
+    },
+    {
+      "image_id": "1ffd8371a9fa132b",
+      "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5\\blueberry\\train\\images\\Blueberry-plant-in-fruit_jpg.rf.08a8811b4bc4645f95f63ff6615a2541.jpg",
+      "split": "discovery"
+    },
+    {
+      "image_id": "212f3cad64863f8e",
+      "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5\\cherry\\train\\images\\cherries-868089_960_720_jpg.rf.b5924b5a9a441edad62c5c719a6a1e97.jpg",
+      "split": "discovery"
+    },
+    {
+      "image_id": "21eaa0bbfbebcd50",
+      "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5\\mango\\train\\images\\n12761284_10809_png.rf.3a7de75ac3aaff69e8bed14b64b97ed0.jpg",
+      "split": "discovery"
+    },
+    {
+      "image_id": "22325befbef35e42",
+      "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5\\cherry\\train\\images\\unnamed_jpg.rf.e1b26123c38f5ce47f854bf77d47fdb6.jpg",
+      "split": "discovery"
+    },
+    {
+      "image_id": "22933752c40d3992",
+      "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5\\rockmelon\\train\\images\\hqdefault_png.rf.094b631f0afeeef4c42a36b482f1e5f4.jpg",
+      "split": "holdout"
+    },
+    {
+      "image_id": "22cc9affa369a717",
+      "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5\\mango\\train\\images\\n12761284_1119_png.rf.0ae0f61d6b1e50e9da8732d87116de25.jpg",
+      "split": "discovery"
+    },
+    {
+      "image_id": "22dbf55b751ad56d",
+      "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5\\mango\\valid\\images\\n12761284_15364_png.rf.4965eef40dca4d61eb00d4221060e838.jpg",
+      "split": "discovery"
+    },
+    {
+      "image_id": "231c78c593b64562",
+      "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5\\cherry\\train\\images\\IMG_0089_jpg.rf.ca41153eb062b4847dd114a214220919.jpg",
+      "split": "discovery"
+    },
+    {
+      "image_id": "23270fe1a3c263ee",
+      "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5\\cherry\\train\\images\\fb46b6e2a3a53c109ec3ca2ec3f0b524_jpg.rf.9fc6b7a61e82044d376fecec9795ab69.jpg",
+      "split": "holdout"
+    },
+    {
+      "image_id": "2366056aca4e86c7",
+      "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5\\rockmelon\\train\\images\\6011852-3x2-940x627_png.rf.a771eb7ebff18f1cbeda0e7cbd5057be.jpg",
+      "split": "holdout"
+    },
+    {
+      "image_id": "244967dab2f258b1",
+      "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5\\mango\\test\\images\\n12761284_4274_png.rf.aeacea1d6af4a392be1abbefc253392b.jpg",
+      "split": "holdout"
+    },
+    {
+      "image_id": "24923d77d8dc6728",
+      "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5\\blueberry\\train\\images\\2221-960x960_jpg.rf.53e26054b9bbab9db95d5cd682782257.jpg",
+      "split": "discovery"
+    },
+    {
+      "image_id": "249888ff7ff545c2",
+      "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5\\mango\\train\\images\\n12761284_12507_png.rf.1b3b4fdf02ba2dbc1422503c1218e062.jpg",
+      "split": "discovery"
+    },
+    {
+      "image_id": "24cce4618673dd10",
+      "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5\\cherry\\test\\images\\365cb02adb09e890d59e73152cf3943c603806e6a09db_1260x1260_jpg.rf.d79995de0a8fead602b24f328e134ad0.jpg",
+      "split": "discovery"
+    },
+    {
+      "image_id": "254db7437fe92672",
+      "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5\\blueberry\\valid\\images\\BU133-2_jpg.rf.b55d46e3b91a4e163ea97056a7debc65.jpg",
+      "split": "discovery"
+    },
+    {
+      "image_id": "2556a722bc9993eb",
+      "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5\\cherry\\train\\images\\CHE-035-LR-1-e1462303030162_jpg.rf.2956972dd386ff8e24b3dce2e231ac21.jpg",
+      "split": "discovery"
+    },
+    {
+      "image_id": "2687c586d3a80ca2",
+      "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5\\cherry\\train\\images\\05c9de619692471b19707009b2b6b6d5_jpg.rf.86356fd044733e0dd2c46fd5abf1b22e.jpg",
+      "split": "discovery"
+    },
+    {
+      "image_id": "26e4fd2684f81faf",
+      "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5\\blueberry\\train\\images\\images--1-_jpeg.rf.b94c4fed8ca7f83c55c43a83f845d12d.jpg",
+      "split": "discovery"
+    },
+    {
+      "image_id": "273e32eaeb71e9fd",
+      "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5\\mango\\valid\\images\\n12761284_1456_png.rf.8515b01d9f340602577b4e44675e7ca0.jpg",
+      "split": "discovery"
+    },
+    {
+      "image_id": "278f308a9ace381b",
+      "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5\\cherry\\test\\images\\germersdorfer-cherries_jpg.rf.bde91c4095ac0e609912889cb4c9a5fe.jpg",
+      "split": "holdout"
+    },
+    {
+      "image_id": "27c3071e1527c07b",
+      "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5\\blueberry\\test\\images\\gurney-s-fruit-plants-62273-64_1000_jpg.rf.0e61c5ee5492bf1fd0568c32835565e7.jpg",
+      "split": "discovery"
+    },
+    {
+      "image_id": "285cc88c68b47c19",
+      "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5\\rockmelon\\train\\images\\20151125T1138_pic000386_png.rf.f55ef1369506c6e019cb06eece8da6a6.jpg",
+      "split": "holdout"
+    },
+    {
+      "image_id": "287cfdfdd48a2fa6",
+      "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5\\blueberry\\train\\images\\mon-d1-blueberries1_jpg.rf.683bf44fa8c22c275893d14426b78686.jpg",
+      "split": "discovery"
+    },
+    {
+      "image_id": "2909286b8b1e86c7",
+      "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5\\blueberry\\test\\images\\1minhike071817-3_jpg.rf.e433464a3b692e0a18eb1e06058cf44a.jpg",
+      "split": "discovery"
+    },
+    {
+      "image_id": "295c7d461015d0a7",
+      "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5\\mango\\valid\\images\\n12761284_13638_png.rf.0fad2bdbe4b2c02d1d0a8ea5d0a8668c.jpg",
+      "split": "holdout"
+    },
+    {
+      "image_id": "2972e14260834a6c",
+      "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5\\mango\\train\\images\\n12761284_16365_png.rf.d6a06fcc65e3cfa9aac8ef09ac4d4ad2.jpg",
+      "split": "discovery"
+    },
+    {
+      "image_id": "2a173cf5169ff5eb",
+      "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5\\blueberry\\train\\images\\images_jpeg.rf.5428ef08263832e31306611766b53c1e.jpg",
+      "split": "discovery"
+    },
+    {
+      "image_id": "2a9d39276ee76181",
+      "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5\\rockmelon\\train\\images\\20151125T1143_pic000005_png.rf.aad2c7e4fa455cc409487b5f612b3938.jpg",
+      "split": "discovery"
+    },
+    {
+      "image_id": "2b372db395e30f8b",
+      "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5\\kiwi\\train\\images\\stock-photo-kiwi-fruit-gold-kiwi-kiwi-farm-d8d669af-c883-4359-944a-00bb201d708d_jpg.rf.c9e0fac9784298a334b8b8ddc865ca6a.jpg",
+      "split": "discovery"
+    },
+    {
+      "image_id": "2ba52d32455cedc6",
+      "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5\\mango\\train\\images\\n12761284_1692_png.rf.5c472c0a535c0dd99f5fcf0f7f52bd99.jpg",
+      "split": "discovery"
+    },
+    {
+      "image_id": "2c215e6f3ae5ca55",
+      "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5\\mango\\train\\images\\n12761284_7285_png.rf.39bfd19619b9f2aa75ec41f3348ff91f.jpg",
+      "split": "discovery"
+    },
+    {
+      "image_id": "2cbc7aa3bd83f79e",
+      "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5\\mango\\train\\images\\n12761284_5450_png.rf.95d746feae389028147dd0a1a5ba7f8a.jpg",
+      "split": "discovery"
+    },
+    {
+      "image_id": "2d1e15b2c1e8457d",
+      "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5\\mango\\train\\images\\n12761284_6541_png.rf.61bae2f89d77b240321f205f0667b808.jpg",
+      "split": "discovery"
+    },
+    {
+      "image_id": "2d656cf10642468e",
+      "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5\\cherry\\train\\images\\51xcSrJizlL-_AC_SX425__jpg.rf.adf1162ecf4f6f21b759a6bb7f5e76d3.jpg",
+      "split": "holdout"
+    },
+    {
+      "image_id": "2dda989781ed69ef",
+      "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5\\blueberry\\train\\images\\Tifblue_Blueberry_Bush_With_Berries_Growing__98183-1585422007--1-_jpg.rf.df7d08249582be2e9e62b183de6c7464.jpg",
+      "split": "holdout"
+    },
+    {
+      "image_id": "2e950cfe6f3851e1",
+      "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5\\rockmelon\\train\\images\\20151125T1143_pic000357_png.rf.4a95bb55ab491b6804a6f5c612946977.jpg",
+      "split": "discovery"
+    },
+    {
+      "image_id": "2f3ccca18154aa28",
+      "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5\\cherry\\train\\images\\cherries-tree-fresh-41265998_jpg.rf.2a081862b8c4daffc8d1c4abc5c96c15.jpg",
+      "split": "discovery"
+    },
+    {
+      "image_id": "2f6825c914791fa3",
+      "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5\\mango\\train\\images\\n12761284_7685_png.rf.662420a7c567ca3b10c74f8fdc035742.jpg",
+      "split": "discovery"
+    },
+    {
+      "image_id": "2f6bf8da3f46ae91",
+      "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5\\kiwi\\train\\images\\p602202915-3_jpg.rf.b63da0c105cb1d2ddbeba3359c885122.jpg",
+      "split": "discovery"
+    },
+    {
+      "image_id": "2fae88c5604c81a4",
+      "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5\\avocado\\train\\images\\n11706761_19738_png.rf.a6f4565b7214b87a73d41718108d79ec.jpg",
+      "split": "holdout"
+    },
+    {
+      "image_id": "2ff8605d09ed8c2b",
+      "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5\\rockmelon\\train\\images\\20151125T1138_pic000461_png.rf.36f4148cbb8e9cfba73480cf425f1532.jpg",
+      "split": "discovery"
+    },
+    {
+      "image_id": "30a0f81ab99cc0b2",
+      "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5\\mango\\train\\images\\n12761284_6485_png.rf.5f39dbd9567ce0abe49d237d824188ef.jpg",
+      "split": "discovery"
+    },
+    {
+      "image_id": "30fa3fce12ddd4eb",
+      "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5\\mango\\train\\images\\n12761284_8201_png.rf.85524cc50adf885f822615ccd3a1dd23.jpg",
+      "split": "discovery"
+    },
+    {
+      "image_id": "31710e66ce94df9e",
+      "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5\\mango\\train\\images\\n12761284_8819_png.rf.2bbe2581ae19b894de975bee538cd1c1.jpg",
+      "split": "discovery"
+    },
+    {
+      "image_id": "31a5a472926d5ad5",
+      "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5\\kiwi\\test\\images\\2741129_jpg.rf.48fb8ee5cc2d89be2f3ed3a15f489118.jpg",
+      "split": "holdout"
+    },
+    {
+      "image_id": "31bd0be7a4f4c1de",
+      "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5\\blueberry\\train\\images\\Legacy_Blueberry_3_650x_jpg.rf.87405b21f1d075dd28190962e998c390.jpg",
+      "split": "discovery"
+    },
+    {
+      "image_id": "32065fc3123faf17",
+      "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5\\avocado\\train\\images\\n11706761_5570_png.rf.a4f7e66259628372b5224bd2ad5cf625.jpg",
+      "split": "discovery"
+    },
+    {
+      "image_id": "320ce645f9f9d01f",
+      "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5\\cherry\\train\\images\\Cherries-Harvest-Dark-Sweet-Stemilt-996_jpg.rf.38675515c616c70c72fe07e63200b477.jpg",
+      "split": "holdout"
+    },
+    {
+      "image_id": "32442c505743990a",
+      "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5\\cherry\\test\\images\\cherry-sylvia_20141118_1789156061_jpg.rf.4254bd30cdd4c29938722acdd6e49ea3.jpg",
+      "split": "discovery"
+    },
+    {
+      "image_id": "32825c406e9e7a3a",
+      "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5\\mango\\test\\images\\n12761284_2764_png.rf.3921cc1e3c6cbd29f5f19a4ae4c1487e.jpg",
+      "split": "discovery"
+    },
+    {
+      "image_id": "32e72d34c2f4d982",
+      "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5\\rockmelon\\test\\images\\n07756641_4195_png.rf.cb40da1efa60d5808643cab9e06198e8.jpg",
+      "split": "discovery"
+    },
+    {
+      "image_id": "336206e799e6ac82",
+      "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5\\rockmelon\\train\\images\\20151125T1143_pic000219_png.rf.e74af3a3d757ca3ff81d14452a5b4e83.jpg",
+      "split": "discovery"
+    },
+    {
+      "image_id": "3419b404d3709898",
+      "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5\\kiwi\\train\\images\\Kiwi-Vine_jpg.rf.9107ad5fc0bb661f47bd8412a5a82dc1.jpg",
+      "split": "discovery"
+    },
+    {
+      "image_id": "36172c4cd4bc1c4f",
+      "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5\\cherry\\train\\images\\AdobeStock_322048175-0_jpeg.rf.b98139e72fd3a4ab61407a45fba15328.jpg",
+      "split": "discovery"
+    },
+    {
+      "image_id": "362d241a2f027a96",
+      "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5\\blueberry\\test\\images\\blueberries--1-_jpg.rf.1be8dc0a14e0de500004b7480c67baf9.jpg",
+      "split": "discovery"
+    },
+    {
+      "image_id": "36d69b27bf3d78e1",
+      "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5\\kiwi\\train\\images\\istockphoto-486439417-612x612_jpg.rf.7d535932d600bd2422d2203430beff11.jpg",
+      "split": "discovery"
+    },
+    {
+      "image_id": "36e3764f8006b730",
+      "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5\\kiwi\\valid\\images\\15d949624acf7b71c565d7e5c44aa46459cfae37_jpg.rf.45339dfd7529ef7c4585982fadff2109.jpg",
+      "split": "holdout"
+    },
+    {
+      "image_id": "36fb32581c9217df",
+      "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5\\mango\\train\\images\\n12761284_9135_png.rf.518bf52f72e027ca4cb1124406a1d568.jpg",
+      "split": "holdout"
+    },
+    {
+      "image_id": "370ce1af1f3a2dd6",
+      "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5\\mango\\train\\images\\n12761284_12489_png.rf.608ec88b384d269193f8b17d386c41d9.jpg",
+      "split": "discovery"
+    },
+    {
+      "image_id": "379f221b67086df5",
+      "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5\\cherry\\train\\images\\morello_cherry_dwarf_gisele_jpg.rf.29e19617fd971f3909f0d833430fea73.jpg",
+      "split": "discovery"
+    },
+    {
+      "image_id": "38153c13fcb3bbb2",
+      "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5\\blueberry\\train\\images\\110471-800x600r1-Bilberry_jpeg.rf.f5d86c1537974472be1609de5cf5bb89.jpg",
+      "split": "discovery"
+    },
+    {
+      "image_id": "3839bccd512bef33",
+      "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5\\cherry\\train\\images\\Cherry_Prunus_EnglishMorelloSour_1024x1024_jpg.rf.f166829ff0d221574cdcd3626d9abda4.jpg",
+      "split": "discovery"
+    },
+    {
+      "image_id": "39e40340db46b34e",
+      "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5\\blueberry\\test\\images\\Blueberries460x345_jpg.rf.344e172fd1398ee0bd2833165c3ebef1.jpg",
+      "split": "discovery"
+    },
+    {
+      "image_id": "3a212730f6084be4",
+      "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5\\avocado\\train\\images\\n11706761_1456_png.rf.e610f2d184f18ee9750911ec5a1e8345.jpg",
+      "split": "discovery"
+    },
+    {
+      "image_id": "3a2ad475b7671e6d",
+      "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5\\cherry\\train\\images\\013_jpg.rf.c4f47b3020578f3e72aa79ffed5b7c0b.jpg",
+      "split": "holdout"
+    },
+    {
+      "image_id": "3a3cb3e5a7f46ff4",
+      "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5\\rockmelon\\train\\images\\20151125T1143_pic000191_png.rf.77cce2bc6f10b88ac88d96b23edee034.jpg",
+      "split": "discovery"
+    },
+    {
+      "image_id": "3b7e96479c443720",
+      "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5\\cherry\\test\\images\\8d0f89b8504387af6c815ce75c9337115c51c6ea2ec11_1260x1260_jpg.rf.8d91812aa6b7695512c623e6ac662ea2.jpg",
+      "split": "discovery"
+    },
+    {
+      "image_id": "3c8d151f93bbb194",
+      "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5\\blueberry\\train\\images\\Reka-Blueberry-e1553792087762--1-_jpg.rf.7fda9833aebf31d2b96f042b27a5d634.jpg",
+      "split": "holdout"
+    },
+    {
+      "image_id": "3c946e06210906a6",
+      "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5\\blueberry\\train\\images\\I-0060868_jpg.rf.bd30a1e4f54def318647856d3d9ad5df.jpg",
+      "split": "discovery"
+    },
+    {
+      "image_id": "3ca150423576281d",
+      "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5\\cherry\\test\\images\\Sweetheart-Cherry-tree_jpg.rf.76b8c76903892873bbcc4181f2f98b1c.jpg",
+      "split": "discovery"
+    },
+    {
+      "image_id": "3cc2cf4faece029c",
+      "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5\\mango\\train\\images\\n12761284_11779_png.rf.0969348c483274ea0a4222fe22cf5353.jpg",
+      "split": "holdout"
+    },
+    {
+      "image_id": "3cefcfb225ec2d47",
+      "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5\\kiwi\\train\\images\\f8604bedeef165beb51240c39ab0d017_jpg.rf.6eedd34af264794a1002f3f34d2b1abe.jpg",
+      "split": "discovery"
+    },
+    {
+      "image_id": "3cf058f47dea5873",
+      "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5\\kiwi\\train\\images\\NZ-kiwifruit-canopy_jpg.rf.99574d2c1095a8f174370daed0396a20.jpg",
+      "split": "holdout"
+    },
+    {
+      "image_id": "3db61c9382c544b3",
+      "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5\\kiwi\\train\\images\\Kiwi-01_jpg.rf.16d7b4ba613aec61947a8e5fb19d7f2a.jpg",
+      "split": "discovery"
+    },
+    {
+      "image_id": "3dc8a940d897184b",
+      "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5\\cherry\\train\\images\\20191205-Chilean-cherry-exports-main-image-cropped_jpg.rf.29ecc1f0f81a59fd2488cc2f3da97aea.jpg",
+      "split": "discovery"
+    },
+    {
+      "image_id": "3e15b7029b749ee9",
+      "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5\\cherry\\valid\\images\\1--1-_jpg.rf.6d69a8cd20e4f4878b9a2b0488b9bafb.jpg",
+      "split": "discovery"
+    },
+    {
+      "image_id": "3e169aa584da8419",
+      "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5\\cherry\\train\\images\\cerezas-en-el-arbol-d_jpg.rf.25258c862b6434143a563de6191ea10c.jpg",
+      "split": "holdout"
+    },
+    {
+      "image_id": "3e19ac6e824bd95a",
+      "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5\\blueberry\\train\\images\\J318-05--1-_jpg.rf.9051208fe2b3cad03d69a965ec0b941a.jpg",
+      "split": "discovery"
+    },
+    {
+      "image_id": "3e9265c56bbe67f0",
+      "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5\\mango\\train\\images\\n12761284_18056_png.rf.71b60a73f6ffa8a28794d2a48d17ff34.jpg",
+      "split": "discovery"
+    },
+    {
+      "image_id": "3e96b3f6017b0c10",
+      "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5\\avocado\\test\\images\\n11706761_9001_png.rf.a6cf7cb485512f687d32ec448b33e18b.jpg",
+      "split": "discovery"
+    },
+    {
+      "image_id": "3edf1f222ec01575",
+      "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5\\cherry\\train\\images\\MSU-cherries_jpg.rf.12d42ee6e93ca7b4453711a4a315cbb4.jpg",
+      "split": "discovery"
+    },
+    {
+      "image_id": "3ee018ce3fc44f62",
+      "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5\\mango\\train\\images\\n12761284_5086_png.rf.0c61b010f279c984858bb952576d3917.jpg",
+      "split": "discovery"
+    },
+    {
+      "image_id": "3ef8612ea3ca965e",
+      "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5\\mango\\train\\images\\n12761284_8659_png.rf.dda2cbd1d0ae9b543c1ad54b60a08f15.jpg",
+      "split": "holdout"
+    },
+    {
+      "image_id": "3f34d4a5bfae17b2",
+      "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5\\mango\\test\\images\\n12761284_1253_png.rf.09f6b9bca0dd6125199dae3ee77b5342.jpg",
+      "split": "discovery"
+    },
+    {
+      "image_id": "3fc7ea91a05194ac",
+      "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5\\mango\\test\\images\\n12761284_673_png.rf.3247ab11d410fcf200084d1b301b3c6d.jpg",
+      "split": "discovery"
+    },
+    {
+      "image_id": "400535bb71398175",
+      "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5\\mango\\valid\\images\\n12761284_12495_png.rf.11b457e7c634e352b70df8ab9ca64140.jpg",
+      "split": "discovery"
+    },
+    {
+      "image_id": "409596dae4a34460",
+      "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5\\kiwi\\test\\images\\kiwi-fruit-chinese-gooseberry-growing-vine-new-zealand-orchard-90935016_jpg.rf.f0f3d69ee8e076a7ce3c453b12db41b2.jpg",
+      "split": "holdout"
+    },
+    {
+      "image_id": "40dbe23b9ab550da",
+      "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5\\blueberry\\train\\images\\misty-blueberry_grande_jpg.rf.0a4d6f809352237cddf2582bf085abc6.jpg",
+      "split": "discovery"
+    },
+    {
+      "image_id": "41111083ea8b4c61",
+      "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5\\cherry\\test\\images\\branch-cherries-9744716_jpg.rf.07c46f2c3fdee9b6a643588ce719e0b7.jpg",
+      "split": "discovery"
+    },
+    {
+      "image_id": "4184ea6437799978",
+      "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5\\cherry\\train\\images\\image_jpg.rf.e416a9d422476c6ba5b3898798287110.jpg",
+      "split": "discovery"
+    },
+    {
+      "image_id": "41b7a68c649ed34f",
+      "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5\\blueberry\\train\\images\\Blueberry_Berkeley_png.rf.b788ff7593f02bd180efa024e071086a.jpg",
+      "split": "discovery"
+    },
+    {
+      "image_id": "41e8d000ccab1357",
+      "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5\\rockmelon\\test\\images\\20151125T1143_pic000292_png.rf.d8a15464bd009cea80113b365f68a5c8.jpg",
+      "split": "discovery"
+    },
+    {
+      "image_id": "421168861de75837",
+      "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5\\cherry\\valid\\images\\202172-cherries-toronto_jpg.rf.01d6794b68ddc83370dae52c16f3043b.jpg",
+      "split": "discovery"
+    },
+    {
+      "image_id": "42491bdf8cad974d",
+      "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5\\avocado\\train\\images\\n11706761_2920_png.rf.9b3fd116a0ebcbecd401b0999ed1c2d2.jpg",
+      "split": "discovery"
+    },
+    {
+      "image_id": "42bdda46035614f3",
+      "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5\\rockmelon\\train\\images\\20151125T1138_pic000425_png.rf.ea73d4d16481f48f98b4ca24ebb4228c.jpg",
+      "split": "discovery"
+    },
+    {
+      "image_id": "4335c01f97833f91",
+      "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5\\mango\\valid\\images\\n12761284_3398_png.rf.94867cc2688c3fad81a4ca04129e4a14.jpg",
+      "split": "discovery"
+    },
+    {
+      "image_id": "439b0379c71671c7",
+      "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5\\kiwi\\train\\images\\images--3-_jpeg.rf.cda8c97d250a8e358e591fb9bf893796.jpg",
+      "split": "discovery"
+    },
+    {
+      "image_id": "44938506c0d7a463",
+      "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5\\cherry\\train\\images\\unnamed--5-_jpg.rf.203b5bc7cd805ded3d3cf139f51a4314.jpg",
+      "split": "discovery"
+    },
+    {
+      "image_id": "45a233daaa837e5e",
+      "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5\\rockmelon\\train\\images\\20151125T1143_pic000033_png.rf.8ce0fbdfcdbd3111d464032f00c70d7c.jpg",
+      "split": "discovery"
+    },
+    {
+      "image_id": "45ba0c1aaa996b09",
+      "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5\\mango\\train\\images\\n12761284_14775_png.rf.4f6ce5b094e029462ff785e01597cad9.jpg",
+      "split": "holdout"
+    },
+    {
+      "image_id": "45d7336799a48a83",
+      "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5\\mango\\valid\\images\\n12761284_16101_png.rf.4eec49a896a033c58db7e072f8fff4de.jpg",
+      "split": "discovery"
+    },
+    {
+      "image_id": "46687ce7fd172cec",
+      "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5\\kiwi\\train\\images\\actinidia-deliciosa-jenny-true-kiwifruit-plant_jpg.rf.e8c49b155c9343febf4d49c819873a16.jpg",
+      "split": "discovery"
+    },
+    {
+      "image_id": "47233783b31f8b04",
+      "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5\\cherry\\train\\images\\71LlalQSB-L-_SL1168__jpg.rf.047eeb8e0368bba7a338af4ac2ca741e.jpg",
+      "split": "discovery"
+    },
+    {
+      "image_id": "479d0d14bfc522fc",
+      "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5\\blueberry\\train\\images\\76380A--1-_jpg.rf.6c34eefcca8d962199f8674b44056590.jpg",
+      "split": "discovery"
+    },
+    {
+      "image_id": "47d51bedfd989ee4",
+      "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5\\kiwi\\train\\images\\gold-kiwifruit_jpg.rf.abfe43e90efb04796b0966e959113f1c.jpg",
+      "split": "holdout"
+    },
+    {
+      "image_id": "480e93850eb0fda8",
+      "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5\\mango\\train\\images\\n12761284_5314_png.rf.032ef53d48c90125015c8995b642d1a1.jpg",
+      "split": "discovery"
+    },
+    {
+      "image_id": "483b94555b6fbe6d",
+      "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5\\mango\\train\\images\\n12761284_17747_png.rf.ee7a5c37bf06bb311f605eb149471ea7.jpg",
+      "split": "discovery"
+    },
+    {
+      "image_id": "488a1199e04434a5",
+      "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5\\cherry\\train\\images\\Skeena_jpg.rf.55503244949ee1d772e6afdcbc50d4db.jpg",
+      "split": "discovery"
+    },
+    {
+      "image_id": "48ab100a0e3b6391",
+      "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5\\kiwi\\train\\images\\51iJufOvP2L_jpg.rf.9e82bdc9395941b7fc10f1b8cbb57197.jpg",
+      "split": "discovery"
+    },
+    {
+      "image_id": "491d858d1d97e091",
+      "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5\\blueberry\\valid\\images\\65897A--1-_jpg.rf.8db1687650801c5fd3fe843f75011010.jpg",
+      "split": "discovery"
+    },
+    {
+      "image_id": "491e046a5c235e4f",
+      "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5\\mango\\valid\\images\\n12761284_17818_png.rf.7e46d6035dfbb6781579c1abfbd25112.jpg",
+      "split": "discovery"
+    },
+    {
+      "image_id": "4930d56c4917aa9a",
+      "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5\\kiwi\\train\\images\\growing-kiwi-vines-in-your-landscape-3269410-03-fd744b088cea44eab9f6a26a04629c9d_jpg.rf.e39d106923b41a05211a80826a141a77.jpg",
+      "split": "discovery"
+    },
+    {
+      "image_id": "4972d101febd3811",
+      "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5\\rockmelon\\train\\images\\20151125T1143_pic000282_png.rf.2ef37f9dcc11a6d4dd953f3759823b2a.jpg",
+      "split": "discovery"
+    },
+    {
+      "image_id": "4977831002650034",
+      "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5\\avocado\\valid\\images\\n11706761_5047_png.rf.b66dc0a9b1baee209a0712367eaf23fa.jpg",
+      "split": "discovery"
+    },
+    {
+      "image_id": "49cf47debe23f8c3",
+      "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5\\rockmelon\\train\\images\\20151125T1143_pic000379_png.rf.f578a5ee732e5579fadbde8eda330fea.jpg",
+      "split": "discovery"
+    },
+    {
+      "image_id": "49d54d0fed5bacc6",
+      "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5\\rockmelon\\train\\images\\20151125T1138_pic000073_png.rf.113e1199620913e7fd27fcb065c8cfe9.jpg",
+      "split": "discovery"
+    },
+    {
+      "image_id": "4a3492a002ee3300",
+      "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5\\cherry\\train\\images\\1249-RobertaHardinOrchard_BingLimbsSunlight_7-6-11_jpg.rf.bb7e075079c41971a29e13e1c387d2a9.jpg",
+      "split": "discovery"
+    },
+    {
+      "image_id": "4a43d3d36051c2f2",
+      "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5\\cherry\\train\\images\\13680702_1762686757335629_2029184250364423598_n_jpg.rf.3506387880ccb70821743e2cce97b988.jpg",
+      "split": "discovery"
+    },
+    {
+      "image_id": "4a5bb351ea6b763d",
+      "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5\\kiwi\\test\\images\\images_jpeg.rf.3dbed722e7dbdd76708aeabaae6a323b.jpg",
+      "split": "holdout"
+    },
+    {
+      "image_id": "4b1d3a5cf7ff3736",
+      "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5\\cherry\\test\\images\\Cherry-Sylvia_jpg.rf.7b55b28b1c1113c3185e1972106e3a8b.jpg",
+      "split": "discovery"
+    },
+    {
+      "image_id": "4b3d0bea92a27411",
+      "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5\\mango\\train\\images\\n12761284_13684_png.rf.e196dbda093df2c0682cd4e7a31161e6.jpg",
+      "split": "holdout"
+    },
+    {
+      "image_id": "4b6a2d40b02c5920",
+      "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5\\blueberry\\train\\images\\Blueberry_jpg.rf.bf7bf9ef257c9e6b17cd50b4ce505136.jpg",
+      "split": "discovery"
+    },
+    {
+      "image_id": "4ba1cfcd348bad68",
+      "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5\\mango\\train\\images\\n12761284_7718_png.rf.c83233d431206962a12eaa294f74f023.jpg",
+      "split": "discovery"
+    },
+    {
+      "image_id": "4bcb01e55e6548bb",
+      "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5\\cherry\\train\\images\\cherry-picking-at-cherry_jpg.rf.66a91487b88b875519e59f61cc1d512e.jpg",
+      "split": "discovery"
+    },
+    {
+      "image_id": "4be1bc05dee95945",
+      "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5\\mango\\train\\images\\n12761284_9808_png.rf.bbd23083fb7125ebca3c3f7c6af11623.jpg",
+      "split": "discovery"
+    },
+    {
+      "image_id": "4dc11f56631bdbcc",
+      "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5\\cherry\\train\\images\\3e00b3469a4dd9cc18dd8af2ac686a28_jpg.rf.6afcd035017de3de6ffe546495de95f0.jpg",
+      "split": "holdout"
+    },
+    {
+      "image_id": "4e33db5b5c3311ca",
+      "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5\\mango\\train\\images\\n12761284_4318_png.rf.41ee30524ccbde29d2d9958f67e435a1.jpg",
+      "split": "discovery"
+    },
+    {
+      "image_id": "4e9b64e32f541d2e",
+      "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5\\rockmelon\\valid\\images\\20151125T1138_pic000349_png.rf.76856a79aed3f8f27d1d2a9b1928c93f.jpg",
+      "split": "discovery"
+    },
+    {
+      "image_id": "4f2ce86ce4312a1f",
+      "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5\\mango\\train\\images\\n12761284_6492_png.rf.4920859bd794e001c98e57b947394eda.jpg",
+      "split": "discovery"
+    },
+    {
+      "image_id": "4faefc895d17f8da",
+      "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5\\blueberry\\train\\images\\Hanging_Blueberries_jpg.rf.3a56be7fdaa30f612931cc1f311abe50.jpg",
+      "split": "discovery"
+    },
+    {
+      "image_id": "50afcfbcb53dccdc",
+      "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5\\rockmelon\\valid\\images\\rockmelon1_png.rf.c3d035e489459058285cea497f6184a5.jpg",
+      "split": "discovery"
+    },
+    {
+      "image_id": "50b9bc6d1ec280e1",
+      "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5\\blueberry\\train\\images\\national-plant-network-bushes-hd7066-64_1000_jpg.rf.79135eefc381f8e8fda5934f2f62a251.jpg",
+      "split": "holdout"
+    },
+    {
+      "image_id": "51446c367adb7b21",
+      "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5\\blueberry\\train\\images\\6a449ddf497e8a9a7986a209ad8ddd50_jpg.rf.e483c4a54e5d979b1f7170fdeea6fcd2.jpg",
+      "split": "holdout"
+    },
+    {
+      "image_id": "51c4433123395733",
+      "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5\\mango\\train\\images\\n12761284_8074_png.rf.83031c1d45e54431f7c326c2e24e9e33.jpg",
+      "split": "holdout"
+    },
+    {
+      "image_id": "5235e45e38320528",
+      "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5\\blueberry\\train\\images\\images--2-_jpeg.rf.8e733a75b3e9f2247540eade340ae663.jpg",
+      "split": "discovery"
+    },
+    {
+      "image_id": "5286ccf14de87e9a",
+      "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5\\kiwi\\train\\images\\kiwis-ripening_jpg.rf.cc6a2c505fc5f550c5cb59c8606063a0.jpg",
+      "split": "discovery"
+    },
+    {
+      "image_id": "52c0bbcbfb71732e",
+      "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5\\mango\\train\\images\\n12761284_17506_png.rf.6b4e81b75114c8cc1833a3e4566bc41a.jpg",
+      "split": "holdout"
+    },
+    {
+      "image_id": "530585f26dc0e4b5",
+      "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5\\avocado\\train\\images\\n11706761_13337_png.rf.c0f5c491eb72269799a833682d0bdffc.jpg",
+      "split": "discovery"
+    },
+    {
+      "image_id": "53dc9ce6f3e72f46",
+      "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5\\avocado\\valid\\images\\n11706761_11967_png.rf.d5deda58cd9a4bb24443cddc5544ab7a.jpg",
+      "split": "holdout"
+    },
+    {
+      "image_id": "5525f7c3af69efd9",
+      "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5\\mango\\train\\images\\n12761284_1060_png.rf.9860855ffd6aaaf1bde353f4e2c2d535.jpg",
+      "split": "discovery"
+    },
+    {
+      "image_id": "555f80fe5df98f86",
+      "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5\\blueberry\\train\\images\\legacy-600x600_jpg.rf.8806d1c6f72cbd25be089ee4e58c82f2.jpg",
+      "split": "discovery"
+    },
+    {
+      "image_id": "55b7d28728210fa6",
+      "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5\\kiwi\\train\\images\\Commercial-Kiwi-Farming_jpg.rf.66b8e123eb48ab3f558e0279b7fca4af.jpg",
+      "split": "discovery"
+    },
+    {
+      "image_id": "564545b14e02a078",
+      "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5\\avocado\\train\\images\\n11706761_10230_png.rf.821ecca857f60cee71c8e790ad702985.jpg",
+      "split": "discovery"
+    },
+    {
+      "image_id": "564a6a01a1629c41",
+      "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5\\cherry\\train\\images\\2Regina_jpg.rf.629926d3ca56436f0b889481cf909aa8.jpg",
+      "split": "discovery"
+    },
+    {
+      "image_id": "564b28307efff8fd",
+      "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5\\kiwi\\train\\images\\1491262985468_jpg.rf.878e603a4a3aff2b4ecc098467f20cd6.jpg",
+      "split": "discovery"
+    },
+    {
+      "image_id": "56fc6caf30403b6a",
+      "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5\\cherry\\train\\images\\morello-cherry-tree-colt-p3168-34058_zoom_png.rf.140d1082399b4de9edc3be4628c27385.jpg",
+      "split": "discovery"
+    },
+    {
+      "image_id": "57ad37815da9c28a",
+      "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5\\mango\\train\\images\\n12761284_2967_png.rf.7b1bb6c2c035f0b37358d729a44e3a55.jpg",
+      "split": "holdout"
+    },
+    {
+      "image_id": "583e145c3fe18f90",
+      "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5\\avocado\\train\\images\\n11706761_14235_png.rf.26e557822397f49f2788db3be001a79c.jpg",
+      "split": "discovery"
+    },
+    {
+      "image_id": "58bc8a17deb3c12e",
+      "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5\\mango\\valid\\images\\n12761284_7578_png.rf.859d050fac18b8c886f649ec12c4abad.jpg",
+      "split": "holdout"
+    },
+    {
+      "image_id": "5922be904a565f26",
+      "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5\\mango\\train\\images\\n12761284_13001_png.rf.4e8a9ed149baec3d705ed22744402404.jpg",
+      "split": "discovery"
+    },
+    {
+      "image_id": "595dc656714f06e1",
+      "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5\\cherry\\train\\images\\cherry-167341_640_jpg.rf.206a2fd42dc531c77a37f466197a992c.jpg",
+      "split": "discovery"
+    },
+    {
+      "image_id": "59fff582e7240532",
+      "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5\\mango\\train\\images\\n12761284_2653_png.rf.94e2c599b60a8b694090c5a6f75540a0.jpg",
+      "split": "discovery"
+    },
+    {
+      "image_id": "5a15d0f8540d3e52",
+      "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5\\rockmelon\\train\\images\\20151125T1143_pic000112_png.rf.a8a1b2ea2fe0d5f959a045d2ad2f5f9b.jpg",
+      "split": "discovery"
+    },
+    {
+      "image_id": "5a62ca02b057e0b8",
+      "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5\\rockmelon\\train\\images\\n07756641_4088_png.rf.6096c8bf7194f033402f022177fa61bf.jpg",
+      "split": "holdout"
+    },
+    {
+      "image_id": "5a917292fdf091c0",
+      "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5\\mango\\train\\images\\n12761284_8735_png.rf.c89863039033539ea20afee3f211f8c0.jpg",
+      "split": "discovery"
+    },
+    {
+      "image_id": "5a9b390124ea3dc2",
+      "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5\\cherry\\train\\images\\cherry-sylvia-1_jpg.rf.266f5e92d5d85a71ebc1fd74f9fedb76.jpg",
+      "split": "holdout"
+    },
+    {
+      "image_id": "5aa7c2513d5035d0",
+      "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5\\kiwi\\test\\images\\20210310-kiwifruit-Pagoda_jpg.rf.68925e673d0f3acb404418c6947e1e13.jpg",
+      "split": "discovery"
+    },
+    {
+      "image_id": "5af3d25c35429e67",
+      "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5\\blueberry\\train\\images\\PatiotBlueberry_jpg.rf.f410bdf97d9754c51412c6d743ac9bc9.jpg",
+      "split": "holdout"
+    },
+    {
+      "image_id": "5bcd58d9e9a2fd58",
+      "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5\\mango\\train\\images\\n12761284_1796_png.rf.0080b0f8fa59b06c5503ac38c90243a1.jpg",
+      "split": "discovery"
+    },
+    {
+      "image_id": "5bfad60cefb0950a",
+      "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5\\mango\\train\\images\\n12761284_1611_png.rf.de80f0ed8c67e6badafb643d35549709.jpg",
+      "split": "holdout"
+    },
+    {
+      "image_id": "5d574bf4519f2de0",
+      "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5\\mango\\train\\images\\n12761284_3963_png.rf.8416cbd89eccc90035ba38de7b737a54.jpg",
+      "split": "holdout"
+    },
+    {
+      "image_id": "5dbbdcba533cca27",
+      "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5\\cherry\\train\\images\\images--6-_jpeg.rf.f087829d35bcf37949fb4a70e292db5d.jpg",
+      "split": "holdout"
+    },
+    {
+      "image_id": "5e4dc01a74455726",
+      "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5\\cherry\\test\\images\\cherries-00233_jpg.rf.63191607f4700aaa3665062573b989c2.jpg",
+      "split": "discovery"
+    },
+    {
+      "image_id": "5e5bbc1f11b549d9",
+      "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5\\kiwi\\train\\images\\growing-kiwi-vines-in-your-landscape-3269410-hero-fcf299ebba084f5aa940d5432a4fd7dc_jpg.rf.faa6776b31421e5154abf2699df655b1.jpg",
+      "split": "holdout"
+    },
+    {
+      "image_id": "5e5d58d65c768e20",
+      "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5\\kiwi\\train\\images\\kiwi-green-light_jpg.rf.6aade9f0e386775622c0f60d00ed4eb4.jpg",
+      "split": "discovery"
+    },
+    {
+      "image_id": "5e8c277617d04528",
+      "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5\\mango\\train\\images\\n12761284_14868_png.rf.5a4e216788364b75ce3e081109700d37.jpg",
+      "split": "discovery"
+    },
+    {
+      "image_id": "5ea3c0f8150d3f7e",
+      "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5\\kiwi\\train\\images\\Kiwi-fruit-female-1_jpg.rf.ffd0351510ba2bc57601dfd73069c894.jpg",
+      "split": "discovery"
+    },
+    {
+      "image_id": "5ee696bdb7fee44d",
+      "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5\\kiwi\\train\\images\\RIMterreni_jpg.rf.0e7afd63cf1850c643dd274ba9284a51.jpg",
+      "split": "discovery"
+    },
+    {
+      "image_id": "5f77a4f94b10ddf9",
+      "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5\\kiwi\\train\\images\\goldenkiwi3_jpg.rf.e074f77f3a790ac6add0df51e00714cf.jpg",
+      "split": "discovery"
+    },
+    {
+      "image_id": "5ff6dcb7c6e3711c",
+      "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5\\cherry\\test\\images\\r0_250_5000_3079_w1200_h678_fmax_jpg.rf.c8fd2ebaa262fa03acadff67ed6254f0.jpg",
+      "split": "discovery"
+    },
+    {
+      "image_id": "6079cf7714a241ec",
+      "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5\\cherry\\train\\images\\Black-Tartarian-Cherry_jpg.rf.dabb61ba03d472a8648dfac3d9332332.jpg",
+      "split": "discovery"
+    },
+    {
+      "image_id": "60b1e65f5322039b",
+      "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5\\kiwi\\train\\images\\Kiwifruit-Country-P1010082-2-2_jpg.rf.0107e5838edafc38f2761ab13242aa56.jpg",
+      "split": "discovery"
+    },
+    {
+      "image_id": "60c161c2ecf54a16",
+      "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5\\mango\\train\\images\\n12761284_3687_png.rf.4e03a2b51c094cb0362e28bcc8d6185e.jpg",
+      "split": "holdout"
+    },
+    {
+      "image_id": "61736938f00ff442",
+      "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5\\mango\\train\\images\\n12761284_4022_png.rf.b7b90b2cb5a870227261d56357381d87.jpg",
+      "split": "discovery"
+    },
+    {
+      "image_id": "61aa649c36d6b64e",
+      "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5\\cherry\\valid\\images\\Cherry_Fruit_picking_lead-600x347_jpg.rf.2592c83adbb33fd3a0dda3a50c91d6cb.jpg",
+      "split": "holdout"
+    },
+    {
+      "image_id": "61fa59e7c8a19e19",
+      "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5\\cherry\\train\\images\\Montmorency-Cherry_jpg.rf.f9188c6f6134c234192c84862c1bbd84.jpg",
+      "split": "discovery"
+    },
+    {
+      "image_id": "6319119916a670a8",
+      "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5\\avocado\\train\\images\\n11706761_12857_png.rf.e2d4f7f8ea92c8890e9d922df375c7d0.jpg",
+      "split": "discovery"
+    },
+    {
+      "image_id": "6380508fa9d5f7aa",
+      "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5\\cherry\\train\\images\\cherry_carmine_jewel_w003_02_600_jpg.rf.45a35cabdbd79ec000f2890c79f9f388.jpg",
+      "split": "discovery"
+    },
+    {
+      "image_id": "638063e8dc22a3fc",
+      "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5\\mango\\test\\images\\n12761284_2461_png.rf.1c976d0de6c42e97a803b467621d2e85.jpg",
+      "split": "discovery"
+    },
+    {
+      "image_id": "63d87e43f647c520",
+      "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5\\kiwi\\train\\images\\image--1-_jpeg.rf.8072e538ea9e200d0448a59a7cbff24f.jpg",
+      "split": "discovery"
+    },
+    {
+      "image_id": "64c63357452b8bec",
+      "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5\\blueberry\\train\\images\\2718_jpg.rf.74f10d588ec26ec826705363b355a13f.jpg",
+      "split": "discovery"
+    },
+    {
+      "image_id": "64f5b7efe5c2591e",
+      "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5\\mango\\train\\images\\n12761284_13247_png.rf.17a8a2c5000eca50f3cf155187a5d702.jpg",
+      "split": "discovery"
+    },
+    {
+      "image_id": "6520c1ba7df642e3",
+      "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5\\cherry\\train\\images\\12065629_web1_180207-KCN-cherries_jpg.rf.a16dfbe490bb7db01f052336dd7cf022.jpg",
+      "split": "holdout"
+    },
+    {
+      "image_id": "6559fbeeef66a392",
+      "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5\\mango\\train\\images\\n12761284_6160_png.rf.5b2c6b3dcf3287858ac7e6955b70bf9e.jpg",
+      "split": "holdout"
+    },
+    {
+      "image_id": "65e4b3f97b43f1e0",
+      "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5\\mango\\train\\images\\n12761284_3511_png.rf.b54f7bfdb1c4370f906b5b2a5f62256b.jpg",
+      "split": "discovery"
+    },
+    {
+      "image_id": "669bdae3501628ae",
+      "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5\\cherry\\train\\images\\CHE2_jpg.rf.9e7fc97abe91af20fd45a8a2406c741a.jpg",
+      "split": "discovery"
+    },
+    {
+      "image_id": "66bdc0f27b124f58",
+      "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5\\cherry\\train\\images\\10047_jpg.rf.6c9d5e372b26111bcd757806b8b09e34.jpg",
+      "split": "discovery"
+    },
+    {
+      "image_id": "670064d646574f3d",
+      "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5\\rockmelon\\train\\images\\20151125T1143_pic000155_png.rf.1cc6320b5f3531ca8319620df93f092f.jpg",
+      "split": "discovery"
+    },
+    {
+      "image_id": "67e51cbb98d64491",
+      "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5\\mango\\train\\images\\n12761284_7410_png.rf.adfc7569917eb94f76d1069f5cd6d513.jpg",
+      "split": "discovery"
+    },
+    {
+      "image_id": "68346162602357b2",
+      "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5\\cherry\\valid\\images\\SweetCherries_jpg.rf.c53b42bb22b4eabc053e3576dcd3813d.jpg",
+      "split": "discovery"
+    },
+    {
+      "image_id": "68b4c5977021c67f",
+      "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5\\blueberry\\train\\images\\webimage-768CEEEB-19E1-4BF4-BB313327439CF734_png.rf.34105bec7e66f818cf960c9f9e1776e0.jpg",
+      "split": "discovery"
+    },
+    {
+      "image_id": "68d49e19b0341fed",
+      "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5\\rockmelon\\train\\images\\20151125T1138_pic000139_png.rf.1f75870d50e1a440b3b3252e36f96e6d.jpg",
+      "split": "discovery"
+    },
+    {
+      "image_id": "69112e3d70777c1d",
+      "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5\\kiwi\\train\\images\\images--4-_jpeg.rf.d5a8f08ad94711bf97b1e88f3cdcaefa.jpg",
+      "split": "discovery"
+    },
+    {
+      "image_id": "69a025af0deafa9e",
+      "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5\\kiwi\\train\\images\\g3_jpg.rf.9f266b8a331e5eca0c9e526ff5f863d6.jpg",
+      "split": "discovery"
+    },
+    {
+      "image_id": "6ab403733e38d59b",
+      "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5\\mango\\train\\images\\n12761284_2269_png.rf.643879e62e4df053d4e93b460859b794.jpg",
+      "split": "discovery"
+    },
+    {
+      "image_id": "6bac2ae044049d40",
+      "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5\\avocado\\train\\images\\n11706761_3942_png.rf.0a766def67c469d71179490f727e3f3c.jpg",
+      "split": "discovery"
+    },
+    {
+      "image_id": "6d307b303d6e5c3e",
+      "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5\\blueberry\\valid\\images\\istockphoto-171314137-612x612--1-_jpg.rf.edebd2548dcc9847f94773c4a0486036.jpg",
+      "split": "discovery"
+    },
+    {
+      "image_id": "6d9830610109d29c",
+      "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5\\avocado\\train\\images\\n11706761_2811_png.rf.325d0f00bee7acdd2e3491dbcdc09faa.jpg",
+      "split": "discovery"
+    },
+    {
+      "image_id": "6eb7d9cc40f86d2e",
+      "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5\\kiwi\\train\\images\\800px_COLOURBOX1558350_jpg.rf.39a8ccda7665e0f349ca5bb15051e2d0.jpg",
+      "split": "discovery"
+    },
+    {
+      "image_id": "6ede86a6cafbffad",
+      "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5\\mango\\train\\images\\n12761284_9960_png.rf.16e9ebc57151198bfccbb0ed7aa338d9.jpg",
+      "split": "discovery"
+    },
+    {
+      "image_id": "6ef1991c9c90773b",
+      "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5\\kiwi\\train\\images\\natural-fresh-kiwi-fruit-703_jpg.rf.38c7ae67d0fedf71b472d4509166afaf.jpg",
+      "split": "discovery"
+    },
+    {
+      "image_id": "701d9abe27f48bed",
+      "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5\\kiwi\\train\\images\\Kiwifruit-Country-P1010028-2-2_jpg.rf.417c806c3fc4204f28ee3828a0d171ca.jpg",
+      "split": "discovery"
+    },
+    {
+      "image_id": "71122ea1ecaf8c65",
+      "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5\\cherry\\train\\images\\1467431244-clx070116brkfarmfresh-04-2_jpg.rf.91f26867af3708af321215af37ebcb42.jpg",
+      "split": "discovery"
+    },
+    {
+      "image_id": "7113921abfaf4d0b",
+      "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5\\blueberry\\train\\images\\201705_NEWS01_170519992_AR_-1_0_jpg.rf.998307921f8374153edfd6ddaae3e843.jpg",
+      "split": "holdout"
+    },
+    {
+      "image_id": "713fe5d564724eca",
+      "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5\\cherry\\train\\images\\ww-cherries_jpg.rf.c06e770f77059ae7ebc31435eecca4bb.jpg",
+      "split": "discovery"
+    },
+    {
+      "image_id": "7143db289b6aea68",
+      "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5\\rockmelon\\train\\images\\20151125T1143_pic000397_png.rf.366d07bf19dbc57de7fcb4b631d0fb91.jpg",
+      "split": "holdout"
+    },
+    {
+      "image_id": "71a6196a48f29804",
+      "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5\\cherry\\valid\\images\\cherry-tree-fertilizer_jpg.rf.c2d0970cc13cb0b1a2e9e04ed3cf3bcb.jpg",
+      "split": "discovery"
+    },
+    {
+      "image_id": "71e04012d93079c2",
+      "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5\\mango\\train\\images\\n12761284_9788_png.rf.a35e047fb07483a60992f7867efa50d8.jpg",
+      "split": "discovery"
+    },
+    {
+      "image_id": "723edd739c9293a3",
+      "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5\\avocado\\train\\images\\n11706761_6715_png.rf.5059786789e7f38fec713a8309930070.jpg",
+      "split": "discovery"
+    },
+    {
+      "image_id": "7251232d4ac35ef5",
+      "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5\\cherry\\train\\images\\5152uIJK4PL-_SX466__jpg.rf.d164f026799eb6f6d83e775ef7078ae5.jpg",
+      "split": "discovery"
+    },
+    {
+      "image_id": "72700931736aadd1",
+      "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5\\blueberry\\train\\images\\Patriot2-1_1024x1024_jpg.rf.f9ed3a7bfb36812da9e63727f1e9517e.jpg",
+      "split": "discovery"
+    },
+    {
+      "image_id": "7289f73bff148825",
+      "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5\\blueberry\\train\\images\\Vacc3_Reyna_Aug19_jpg.rf.8728c57d4c6c42a31ec9ac67011a5f59.jpg",
+      "split": "discovery"
+    },
+    {
+      "image_id": "72f9b94eae2cca17",
+      "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5\\kiwi\\train\\images\\kiwi-cultivation-1_jpg.rf.22841f0f61cdb22e30202c102538fd17.jpg",
+      "split": "holdout"
+    },
+    {
+      "image_id": "73706feabb9b9cf5",
+      "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5\\mango\\train\\images\\n12761284_296_png.rf.3f811597eafacee7064b7b2d702b0a68.jpg",
+      "split": "holdout"
+    },
+    {
+      "image_id": "7385ba996b60e317",
+      "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5\\mango\\train\\images\\n12761284_341_png.rf.1092c67d481320b9dcd3886a1c4b09dc.jpg",
+      "split": "holdout"
+    },
+    {
+      "image_id": "74394f2d2b01115a",
+      "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5\\kiwi\\train\\images\\golden-or-green-kiwi-fruits_jpg.rf.9c2d88b1a0b4bc4cd67ee91fcd079f10.jpg",
+      "split": "holdout"
+    },
+    {
+      "image_id": "74775849ca6b10c0",
+      "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5\\cherry\\train\\images\\Stella_Cherry_Tree_1_BB_720x_jpg.rf.e34688cd2fbe07219f7908ed25077f42.jpg",
+      "split": "holdout"
+    },
+    {
+      "image_id": "75d364df614c2872",
+      "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5\\blueberry\\train\\images\\FRU0088-1_1080x_jpg.rf.12717148e0cc385adbf848e18aaf0b61.jpg",
+      "split": "discovery"
+    },
+    {
+      "image_id": "760d56960fa0ff9e",
+      "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5\\rockmelon\\train\\images\\20151125T1138_pic000204_png.rf.f55b6b4d0f2de39ffed651b518d0c291.jpg",
+      "split": "discovery"
+    },
+    {
+      "image_id": "7655080dbad99e2d",
+      "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5\\blueberry\\valid\\images\\Sunshineblue09sq_jpeg.rf.735bf1ee5924498dedd8b842eb0f98f5.jpg",
+      "split": "discovery"
+    },
+    {
+      "image_id": "76bf57a788168365",
+      "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5\\cherry\\train\\images\\dwarf-cherry-tree-sylvia_jpg.rf.181497a6503df2e9d8004dd8bbb3d299.jpg",
+      "split": "discovery"
+    },
+    {
+      "image_id": "77254be226a25fcb",
+      "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5\\blueberry\\train\\images\\shutterstock_509515990-blueberries-on-bush_jpg.rf.0ae50d0d412231684199670aaf6d0c6e.jpg",
+      "split": "discovery"
+    },
+    {
+      "image_id": "7734e88da82c6a87",
+      "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5\\mango\\train\\images\\n12761284_17821_png.rf.c60919bf4bc3f91921cfce84e7619d16.jpg",
+      "split": "discovery"
+    },
+    {
+      "image_id": "7800a71f9e3c9e34",
+      "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5\\cherry\\train\\images\\shutterstock_1130389706Optimized_jpg.rf.b65acec7997cf6140ab19e8fe61ec13d.jpg",
+      "split": "discovery"
+    },
+    {
+      "image_id": "7805362077177dd2",
+      "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5\\cherry\\train\\images\\images--5-_jpeg.rf.b61d36cc4f63c1d4533270c8b09b1d97.jpg",
+      "split": "discovery"
+    },
+    {
+      "image_id": "782b0d63ea9d5366",
+      "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5\\rockmelon\\train\\images\\20151125T1138_pic000506_png.rf.5540959313dde331daf941ce84e8f532.jpg",
+      "split": "discovery"
+    },
+    {
+      "image_id": "78453ad3e5528f54",
+      "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5\\mango\\valid\\images\\n12761284_4480_png.rf.e7db118bd7564d1755f72ef640074166.jpg",
+      "split": "holdout"
+    },
+    {
+      "image_id": "789f24ca4e3b6969",
+      "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5\\cherry\\train\\images\\klondyke-cherries_jpg.rf.27d3e9988dd6e9bc953ce760abb24f58.jpg",
+      "split": "discovery"
+    },
+    {
+      "image_id": "7990f860a81719f6",
+      "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5\\kiwi\\train\\images\\zone-7-kiwi-400x225_jpg.rf.31cb922d4da53832f62308364631bf4c.jpg",
+      "split": "discovery"
+    },
+    {
+      "image_id": "7a7300b13a9ac245",
+      "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5\\mango\\train\\images\\n12761284_5633_png.rf.0660e31ff05dc83ea82e59e818758e40.jpg",
+      "split": "discovery"
+    },
+    {
+      "image_id": "7aa6e365be49d9b1",
+      "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5\\kiwi\\train\\images\\frutti-in-pianta_jpg.rf.89647b2481ecf2d5a30e87b453a1d08a.jpg",
+      "split": "discovery"
+    },
+    {
+      "image_id": "7b83a98d047774d0",
+      "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5\\kiwi\\train\\images\\51FF986CA6904748A80F71B19B2CF300_jpg.rf.a2ce4a7e09837818ff4eb235a240b248.jpg",
+      "split": "discovery"
+    },
+    {
+      "image_id": "7be05f985f7b847c",
+      "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5\\cherry\\train\\images\\NWCG-Cherry-Branch_jpg.rf.beac55453d577854f5ad29e0f1a61c5d.jpg",
+      "split": "discovery"
+    },
+    {
+      "image_id": "7c2f60521f48677b",
+      "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5\\cherry\\train\\images\\Cherry-Picking-Tree-Brentwood-California_jpg.rf.63eae4aeb4becff9fffb67e6dfc0383e.jpg",
+      "split": "discovery"
+    },
+    {
+      "image_id": "7c561535faf62e41",
+      "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5\\mango\\train\\images\\n12761284_3395_png.rf.6c15f71843f1cfe535f01f0a64e4acf7.jpg",
+      "split": "discovery"
+    },
+    {
+      "image_id": "7c88292504888e4a",
+      "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5\\avocado\\train\\images\\n11706761_3038_png.rf.c03f196973a2bed56c53deac0eba74fb.jpg",
+      "split": "holdout"
+    },
+    {
+      "image_id": "7e2e02a8ccb9cacc",
+      "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5\\kiwi\\train\\images\\shutterstock_1148900222Optimized_jpg.rf.1b88afd7474818d1bb3ba7f38e1a4cf9.jpg",
+      "split": "holdout"
+    },
+    {
+      "image_id": "7fd596c7838b0328",
+      "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5\\avocado\\train\\images\\n11706761_3443_png.rf.48b2ee5d575b31736ee43a7922c7c0f8.jpg",
+      "split": "holdout"
+    },
+    {
+      "image_id": "7ff3a87e4a2d8ad9",
+      "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5\\cherry\\train\\images\\Cherries1_jpg.rf.e72d62db506ba26949eb0b3f0471383a.jpg",
+      "split": "discovery"
+    },
+    {
+      "image_id": "7ff93549188d5c9b",
+      "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5\\mango\\train\\images\\n12761284_12371_png.rf.5dc9f6f8f8ff0e28748c918fd7530c1e.jpg",
+      "split": "discovery"
+    },
+    {
+      "image_id": "804086799c58075a",
+      "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5\\mango\\train\\images\\n12761284_646_png.rf.558f6f48c4840b4a1ed902215a28efaa.jpg",
+      "split": "discovery"
+    },
+    {
+      "image_id": "80aa449345487d10",
+      "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5\\blueberry\\train\\images\\65983A_jpg.rf.187049152328e85843622c5540c03840.jpg",
+      "split": "holdout"
+    },
+    {
+      "image_id": "80b3e1c6decfe144",
+      "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5\\mango\\train\\images\\n12761284_9821_png.rf.1ee84dc60d87ff479dc24a7c5e5b75cb.jpg",
+      "split": "holdout"
+    },
+    {
+      "image_id": "80bafbb1739599ce",
+      "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5\\mango\\train\\images\\n12761284_2801_png.rf.bdaa3b658ed36040349715430799ce66.jpg",
+      "split": "holdout"
+    },
+    {
+      "image_id": "80d27499e877c2f9",
+      "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5\\mango\\train\\images\\n12761284_13080_png.rf.405d1f5eb4dcf0dd374d25f6ee1b026e.jpg",
+      "split": "discovery"
+    },
+    {
+      "image_id": "80e36d0a2dd69418",
+      "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5\\kiwi\\train\\images\\760-970_jpg.rf.b42120f7a2e295680d00bb56a80c5f1f.jpg",
+      "split": "discovery"
+    },
+    {
+      "image_id": "8164a021705defe0",
+      "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5\\cherry\\train\\images\\Cherry-Tree-Van_jpg.rf.85607f8606c554485b5fbcd4746daa3e.jpg",
+      "split": "discovery"
+    },
+    {
+      "image_id": "81dc0471fc221a54",
+      "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5\\mango\\test\\images\\n12761284_9555_png.rf.54983b30f3c5e7ef705d8fcd1178e13a.jpg",
+      "split": "discovery"
+    },
+    {
+      "image_id": "8268b47b20ee4d00",
+      "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5\\mango\\train\\images\\n12761284_6834_png.rf.7f480c0b082a799f16c183eacca4e676.jpg",
+      "split": "discovery"
+    },
+    {
+      "image_id": "82ff058a667e5772",
+      "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5\\avocado\\train\\images\\n11706761_7812_png.rf.9fc4854298a88517962b498a80b2da70.jpg",
+      "split": "discovery"
+    },
+    {
+      "image_id": "830cfac597879e76",
+      "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5\\kiwi\\train\\images\\Kiwifruit_jpg.rf.6f7baa591f10ae2db168db324fa195a7.jpg",
+      "split": "discovery"
+    },
+    {
+      "image_id": "841c102640e0b7a1",
+      "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5\\cherry\\train\\images\\cherries-on-branch_jpg.rf.836d1f4328750a4b06fe1b1375ee95e8.jpg",
+      "split": "holdout"
+    },
+    {
+      "image_id": "84b8965109ee4b11",
+      "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5\\kiwi\\test\\images\\unnamed--2-_jpg.rf.5491ef114838e6748c72b691068d84b5.jpg",
+      "split": "discovery"
+    },
+    {
+      "image_id": "8539c828265eb649",
+      "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5\\kiwi\\train\\images\\thumb_jpeg.rf.ebb361276b60992dc27c5cf949f80b7d.jpg",
+      "split": "discovery"
+    },
+    {
+      "image_id": "8576bf62073f3b5f",
+      "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5\\cherry\\train\\images\\Tart-Cherries-1_jpg.rf.eea4a690d68741acd9f5c635b580ca40.jpg",
+      "split": "discovery"
+    },
+    {
+      "image_id": "8580913de3d437d0",
+      "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5\\cherry\\train\\images\\Cherry-Tree--2-_jpg.rf.dd97ab5e3c3a65ec019901701d3dc73c.jpg",
+      "split": "holdout"
+    },
+    {
+      "image_id": "86839c75357df07d",
+      "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5\\blueberry\\test\\images\\Aurora_Blueberry_1_650x_jpg.rf.1620e2d254ccf98cc8eddfce8fc05ba1.jpg",
+      "split": "discovery"
+    },
+    {
+      "image_id": "86868a81d6cbcc25",
+      "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5\\mango\\train\\images\\n12761284_15445_png.rf.ae06750f2997dd38afbe4d3fa9857df0.jpg",
+      "split": "discovery"
+    },
+    {
+      "image_id": "86a308873a79ddbe",
+      "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5\\kiwi\\train\\images\\IMG_1708_jpg.rf.b2b1e9db975b34088c9fa502744ba98e.jpg",
+      "split": "discovery"
+    },
+    {
+      "image_id": "87dd0f5cd892c22d",
+      "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5\\kiwi\\train\\images\\1525066059391_jpg.rf.2c51ba9d098ec12de2bac035e39475fc.jpg",
+      "split": "discovery"
+    },
+    {
+      "image_id": "87f53d123598d81d",
+      "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5\\cherry\\train\\images\\buddy3_jpg.rf.10dfb83335f0b7a5fd8ad0b5994e7c3d.jpg",
+      "split": "discovery"
+    },
+    {
+      "image_id": "87fe13db6e609661",
+      "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5\\blueberry\\train\\images\\Jersey-Heirloom-Blueberry_jpg.rf.42e6926da989f0d50ba44728147a24a9.jpg",
+      "split": "holdout"
+    },
+    {
+      "image_id": "88642f6474fc88c3",
+      "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5\\kiwi\\train\\images\\Kiwi-Farming_jpg.rf.66ff0c94a28b819f0b3f94426b232eca.jpg",
+      "split": "holdout"
+    },
+    {
+      "image_id": "887d76cd5291f890",
+      "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5\\mango\\train\\images\\n12761284_2068_png.rf.228aed01d9721a9be7776025af2950e5.jpg",
+      "split": "discovery"
+    },
+    {
+      "image_id": "88a79c0027d069e6",
+      "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5\\rockmelon\\test\\images\\img_2942_png.rf.2aa3e39b9402da99c3bf0a32adb7ed5a.jpg",
+      "split": "holdout"
+    },
+    {
+      "image_id": "88c0687548bb1c6c",
+      "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5\\cherry\\train\\images\\cherry-tree--1-_jpg.rf.379d5a12193bc155a50dc382a8dc76a0.jpg",
+      "split": "discovery"
+    },
+    {
+      "image_id": "88d9c54a734ef0d8",
+      "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5\\mango\\train\\images\\n12761284_5832_png.rf.94d408eded3f8a255340fce628671087.jpg",
+      "split": "discovery"
+    },
+    {
+      "image_id": "891dd593fa5c688d",
+      "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5\\rockmelon\\valid\\images\\20151125T1143_pic000221_png.rf.fb83b5fb8095a73958e10391fd207b05.jpg",
+      "split": "discovery"
+    },
+    {
+      "image_id": "89761dd9e7b88720",
+      "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5\\mango\\train\\images\\n12761284_9013_png.rf.229899e44a715628a1ac13c7c5904a7c.jpg",
+      "split": "discovery"
+    },
+    {
+      "image_id": "8a2bb1a0e4bb6d06",
+      "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5\\mango\\train\\images\\n12761284_283_png.rf.79b86317bdd0a35a90d9f65bddc9d72f.jpg",
+      "split": "holdout"
+    },
+    {
+      "image_id": "8a6c39a0319b4917",
+      "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5\\mango\\valid\\images\\n12761284_4360_png.rf.f62733ee41d2d45fa8479478bdef3a15.jpg",
+      "split": "discovery"
+    },
+    {
+      "image_id": "8b0f977990ebf025",
+      "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5\\kiwi\\train\\images\\kiwi1200_jpg.rf.7e89eabb6ce43931dcfc23cce3154883.jpg",
+      "split": "discovery"
+    },
+    {
+      "image_id": "8bfec422cd072fb3",
+      "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5\\cherry\\test\\images\\4000000000000228-1_jpg.rf.f824fced71053e6408571e0a335024fa.jpg",
+      "split": "discovery"
+    },
+    {
+      "image_id": "8d63da9f9160e522",
+      "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5\\cherry\\train\\images\\image_20892c52-340d-494c-8554-561b3c5275cb_1200x1200_jpg.rf.ebaa7d4d8f7b0399257c64e4f2d8fda5.jpg",
+      "split": "discovery"
+    },
+    {
+      "image_id": "8df801bdc1a0c775",
+      "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5\\kiwi\\train\\images\\kowo_jpg.rf.eb24b9841c460a00b7f4ceba38f6705d.jpg",
+      "split": "discovery"
+    },
+    {
+      "image_id": "8ec13904b93196e9",
+      "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5\\avocado\\train\\images\\n11706761_6597_png.rf.f57e36c6c46d69ca5f0f6f3ea231c429.jpg",
+      "split": "holdout"
+    },
+    {
+      "image_id": "8ed750c64a59973a",
+      "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5\\kiwi\\train\\images\\Kiwi-farming-in-Nepal_jpeg.rf.21ed4db5a0fe5fd863837a6dc0bd3b32.jpg",
+      "split": "discovery"
+    },
+    {
+      "image_id": "8f31d0a4335f9590",
+      "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5\\rockmelon\\train\\images\\20151125T1138_pic000290_png.rf.1b0ab04ab2b9a39b4efb978cd9b720ab.jpg",
+      "split": "holdout"
+    },
+    {
+      "image_id": "8fa87a902367a20d",
+      "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5\\avocado\\train\\images\\n11706761_1982_png.rf.6ac2e0a10dc176736a18a8459dd884e2.jpg",
+      "split": "holdout"
+    },
+    {
+      "image_id": "8fc8b4d50b13ba03",
+      "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5\\mango\\train\\images\\n12761284_3261_png.rf.8fd6db96e59251a3d518e0bb05fa25ba.jpg",
+      "split": "discovery"
+    },
+    {
+      "image_id": "902c652feb60cea6",
+      "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5\\kiwi\\train\\images\\download_jpeg.rf.1eaeb0af51cff4b981e5a448c2545788.jpg",
+      "split": "discovery"
+    },
+    {
+      "image_id": "90ceeefb2e1dfaf7",
+      "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5\\mango\\train\\images\\n12761284_16940_png.rf.ffac066ff47466e2f02c340ee13c6d1f.jpg",
+      "split": "discovery"
+    },
+    {
+      "image_id": "90de819ed9def695",
+      "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5\\avocado\\test\\images\\n11706761_8352_png.rf.b5b27075438ca07171518d1c673199d4.jpg",
+      "split": "discovery"
+    },
+    {
+      "image_id": "918c1158f18065a6",
+      "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5\\mango\\train\\images\\n12761284_2968_png.rf.2c29b44b75e0be198689fe40b5ae3460.jpg",
+      "split": "discovery"
+    },
+    {
+      "image_id": "918ca26924778858",
+      "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5\\kiwi\\test\\images\\Fuzzy_Kiwi_7_FGT_2a52cc5e-e77e-49ed-a51f-8dec35a2fdf7_650x_jpg.rf.00b864ed2ebd9f61dbabbbdd4b8759b7.jpg",
+      "split": "discovery"
+    },
+    {
+      "image_id": "92889c364ec2ba9b",
+      "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5\\avocado\\train\\images\\n11706761_16482_png.rf.282ee2b218a7f8b426d1f620d7ff8aca.jpg",
+      "split": "discovery"
+    },
+    {
+      "image_id": "93043532ab33516e",
+      "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5\\mango\\train\\images\\n12761284_5030_png.rf.6e81ec03848a05fc54269a6a96ebdb52.jpg",
+      "split": "discovery"
+    },
+    {
+      "image_id": "9334d2ebee918c53",
+      "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5\\rockmelon\\train\\images\\20151125T1138_pic000080_png.rf.06d943e4453286d1d92daa7d4ea6a78e.jpg",
+      "split": "discovery"
+    },
+    {
+      "image_id": "9344217df44c5b51",
+      "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5\\mango\\train\\images\\n12761284_2720_png.rf.4c5d55b9d95a57492ef343befab03cbc.jpg",
+      "split": "discovery"
+    },
+    {
+      "image_id": "93814a79cb056d0e",
+      "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5\\kiwi\\train\\images\\unnamed--2-_jpg.rf.ca0fd70392bd6a8d9299eb9fe1a2b756.jpg",
+      "split": "discovery"
+    },
+    {
+      "image_id": "93eac743486d27fb",
+      "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5\\kiwi\\train\\images\\846-05646913en_Masterfile_jpg.rf.5abf6ca4732a4ae51596c7e31fde309d.jpg",
+      "split": "discovery"
+    },
+    {
+      "image_id": "9439d7924a3961e1",
+      "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5\\cherry\\valid\\images\\sylvia-cherry_jpg.rf.b93c071eef679ff7348199e039037bde.jpg",
+      "split": "discovery"
+    },
+    {
+      "image_id": "947407c40b7d080d",
+      "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5\\mango\\train\\images\\n12761284_3463_png.rf.ed4acafe7239b57dd7d69b9e5b400b8c.jpg",
+      "split": "discovery"
+    },
+    {
+      "image_id": "94d5b7605cec295b",
+      "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5\\kiwi\\valid\\images\\kiwi-1565847_1280_jpg.rf.44676290d51e1f6158e316d510d0c44c.jpg",
+      "split": "discovery"
+    },
+    {
+      "image_id": "95adf849d36aadab",
+      "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5\\kiwi\\train\\images\\aesculus-flava-fruit_jpg.rf.2da8b3c6319e7b6c181978cb74201526.jpg",
+      "split": "discovery"
+    },
+    {
+      "image_id": "95fcb830b4c51d79",
+      "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5\\blueberry\\train\\images\\Reka-Blueberry-1-1_jpg.rf.b6b37107bc2cf600ea29698daba966f9.jpg",
+      "split": "holdout"
+    },
+    {
+      "image_id": "969d844f0a900a42",
+      "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5\\mango\\train\\images\\n12761284_11467_png.rf.35e87b9ef0f9d4e43c5d76375a6c22db.jpg",
+      "split": "discovery"
+    },
+    {
+      "image_id": "970c33e9efc937d9",
+      "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5\\kiwi\\train\\images\\pr-tn-fruit-kiwi-fruit_jpg.rf.fdb32fb1de0d90f7438c94e8c41f9a27.jpg",
+      "split": "discovery"
+    },
+    {
+      "image_id": "975d5fc306c86ad1",
+      "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5\\mango\\valid\\images\\n12761284_11344_png.rf.e3494cbd4ebf55cd3912c75c3d919996.jpg",
+      "split": "discovery"
+    },
+    {
+      "image_id": "99e24d48acf66b03",
+      "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5\\mango\\test\\images\\n12761284_3409_png.rf.ece1822ffcb48a09cb69923f929f909a.jpg",
+      "split": "discovery"
+    },
+    {
+      "image_id": "99ef39f01f882369",
+      "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5\\kiwi\\train\\images\\istockphoto-521038484-612x612_jpg.rf.072fccd7538ace5db8622c8fe52daaa7.jpg",
+      "split": "discovery"
+    },
+    {
+      "image_id": "9a03907651cad486",
+      "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5\\blueberry\\train\\images\\blueberry-plant-1616821340-5769354_jpeg.rf.a0630b2927a194dce8db595d45a3c5c1.jpg",
+      "split": "discovery"
+    },
+    {
+      "image_id": "9a65e315e8d80829",
+      "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5\\mango\\train\\images\\n12761284_16916_png.rf.81ffa59bae553bd630a94d111c1ac9d4.jpg",
+      "split": "discovery"
+    },
+    {
+      "image_id": "9a844ee8b1927ed7",
+      "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5\\mango\\test\\images\\n12761284_12137_png.rf.b41e04cf5b8aca3b63e00dea731498ef.jpg",
+      "split": "discovery"
+    },
+    {
+      "image_id": "9acc9ddbfaad1284",
+      "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5\\avocado\\train\\images\\n11706761_14595_png.rf.d91b8daed93cf0860a0d891f5afed64c.jpg",
+      "split": "discovery"
+    },
+    {
+      "image_id": "9ae551045be8b45d",
+      "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5\\avocado\\test\\images\\n11706761_2248_png.rf.6e7e2984018d571214cd74acc9fb54d5.jpg",
+      "split": "discovery"
+    },
+    {
+      "image_id": "9af765ae700904a0",
+      "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5\\cherry\\train\\images\\images--4-_jpeg.rf.c3cab76c0ea052949ab7ba64b46203a5.jpg",
+      "split": "discovery"
+    },
+    {
+      "image_id": "9b49bef18de659cb",
+      "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5\\blueberry\\test\\images\\il_570xN-1224059662_4uwq_jpg.rf.635fbf04ec771e257770ed6e6333a1f2.jpg",
+      "split": "discovery"
+    },
+    {
+      "image_id": "9b9daeb39c6295c3",
+      "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5\\cherry\\valid\\images\\UK_ripe-cherries-on-tree_jpg.rf.4738be45657f75e51d2893bb14bfe8b7.jpg",
+      "split": "discovery"
+    },
+    {
+      "image_id": "9bc7617d1508ff9a",
+      "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5\\kiwi\\train\\images\\unnamed--1-_jpg.rf.38c28618c1c12968798bedd46a8e9c06.jpg",
+      "split": "discovery"
+    },
+    {
+      "image_id": "9bdd995987b3c3b4",
+      "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5\\mango\\train\\images\\n12761284_2679_png.rf.9dce82160eb24020d77c9798b167b3d1.jpg",
+      "split": "discovery"
+    },
+    {
+      "image_id": "9c7a459ec8e6dfac",
+      "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5\\kiwi\\valid\\images\\thumb_jpeg.rf.95a0b5235237114d3826dad2a6d094e0.jpg",
+      "split": "discovery"
+    },
+    {
+      "image_id": "9cce09cc92ca029f",
+      "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5\\rockmelon\\train\\images\\20151125T1143_pic000330_png.rf.f0cf3f47554107d7dd88d188754121cd.jpg",
+      "split": "discovery"
+    },
+    {
+      "image_id": "9cf931b5fb6d74e7",
+      "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5\\blueberry\\train\\images\\fv371-a_800x--1-_jpg.rf.536ea90180878859cd2ba1b691dd865c.jpg",
+      "split": "discovery"
+    },
+    {
+      "image_id": "9db526f58b2fdc86",
+      "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5\\cherry\\test\\images\\image_b470b0d1-57b9-42d8-ae24-b231bf2272cc_338x_jpg.rf.71dd14b718692b5e5f8802cd5aa5ca99.jpg",
+      "split": "holdout"
+    },
+    {
+      "image_id": "9dcf5b565676e128",
+      "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5\\blueberry\\train\\images\\7e03601dde93b28bbe8283a5b814807f_d6b20c31-378a-4cf3-8529-7c692c6452e3_600x_jpg.rf.6b9e6ebe621b19d61154d9e92bd92426.jpg",
+      "split": "discovery"
+    },
+    {
+      "image_id": "9ddc9b06ca2b5192",
+      "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5\\mango\\valid\\images\\n12761284_263_png.rf.e9fb3b1cf589820c54fa13eba989e8bc.jpg",
+      "split": "discovery"
+    },
+    {
+      "image_id": "9de99ac563b0fbcc",
+      "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5\\avocado\\train\\images\\n11706761_11042_png.rf.7a880b3711c0a0a5f0805787af423186.jpg",
+      "split": "holdout"
+    },
+    {
+      "image_id": "9e368e45cd5ae0c3",
+      "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5\\cherry\\train\\images\\sweet-cherries-1030x898_jpg.rf.2007ba50e0fc1c8007b625fe02f52e92.jpg",
+      "split": "discovery"
+    },
+    {
+      "image_id": "9e3c40fe007c9bc8",
+      "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5\\kiwi\\train\\images\\kiwifruit2_jpg.rf.3d724c6aca22f3bb41907020f2c73f24.jpg",
+      "split": "discovery"
+    },
+    {
+      "image_id": "9ecc8caa6a41ef3e",
+      "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5\\rockmelon\\test\\images\\20151125T1143_pic000075_png.rf.d5531c02063e7293898644352e6093ab.jpg",
+      "split": "discovery"
+    },
+    {
+      "image_id": "9edfd326a575b162",
+      "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5\\mango\\train\\images\\n12761284_14810_png.rf.757d77206e1899e86ac54ba3745752a2.jpg",
+      "split": "holdout"
+    },
+    {
+      "image_id": "9eee808b177cff5e",
+      "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5\\cherry\\train\\images\\Juliet-Cherry_jpg.rf.c5f5832e7cb858b0b165c6e3a45d1cd8.jpg",
+      "split": "discovery"
+    },
+    {
+      "image_id": "9f8e425757e0e4e1",
+      "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5\\mango\\train\\images\\n12761284_8263_png.rf.d16165aa0225f5ebd3c663f7d902c7dd.jpg",
+      "split": "discovery"
+    },
+    {
+      "image_id": "9fa211af3878ae40",
+      "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5\\cherry\\train\\images\\17096_jpg.rf.7e3105eb343fdb4944b9bb4477e02b69.jpg",
+      "split": "discovery"
+    },
+    {
+      "image_id": "a03eb253eb70e0b2",
+      "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5\\blueberry\\train\\images\\Rubel1_png.rf.c073b812c5901e6eadafc4bcfd5c2590.jpg",
+      "split": "discovery"
+    },
+    {
+      "image_id": "a0a220b025b404e6",
+      "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5\\kiwi\\train\\images\\36eef18235483dba35bd2acabef867a5_jpg.rf.5d1b36fe000bbf6553cf56c67f387995.jpg",
+      "split": "discovery"
+    },
+    {
+      "image_id": "a0c6107ecb5581ab",
+      "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5\\cherry\\train\\images\\unnamed--2-_jpg.rf.86f8364baefe8c0d50dee362a29c6aa8.jpg",
+      "split": "discovery"
+    },
+    {
+      "image_id": "a0d8491ff92d6169",
+      "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5\\mango\\test\\images\\n12761284_3938_png.rf.3ecbc11da9d9cc64ff4419f4cfb70f8a.jpg",
+      "split": "discovery"
+    },
+    {
+      "image_id": "a1c45967fbe02a89",
+      "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5\\kiwi\\train\\images\\GettyImages-846982846-7d88e919b1d249e7aed8cf3a2a85da21_jpg.rf.b72db730a1057f448006e048f8eee612.jpg",
+      "split": "discovery"
+    },
+    {
+      "image_id": "a1da54fb6ea19661",
+      "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5\\mango\\train\\images\\n12761284_5534_png.rf.7de2a01845e433cadd8c685f32c0134c.jpg",
+      "split": "discovery"
+    },
+    {
+      "image_id": "a1dc229325e7259c",
+      "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5\\rockmelon\\train\\images\\20151125T1138_pic000728_png.rf.f3492c9845edd60b41d0996b6bd963ea.jpg",
+      "split": "discovery"
+    },
+    {
+      "image_id": "a232ef09fc28a298",
+      "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5\\kiwi\\test\\images\\images--5-_jpeg.rf.7d211b26168c73bf333c949aef119a31.jpg",
+      "split": "holdout"
+    },
+    {
+      "image_id": "a2ed67d724ffbfc2",
+      "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5\\kiwi\\valid\\images\\unnamed_png.rf.34fe7b259c7f32336ca87ee729d6cece.jpg",
+      "split": "holdout"
+    },
+    {
+      "image_id": "a4551b402ded69e2",
+      "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5\\kiwi\\train\\images\\Dreamstime_kiwifruitvine_large_jpg.rf.804edb18b190ff26ba81f9052447d76f.jpg",
+      "split": "discovery"
+    },
+    {
+      "image_id": "a559f800acf866e0",
+      "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5\\kiwi\\train\\images\\eight_col_IMG_3427_jpeg.rf.ceef9cd162371f78c326ba5b5a23a691.jpg",
+      "split": "discovery"
+    },
+    {
+      "image_id": "a5ace3e3d7ed66e3",
+      "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5\\mango\\train\\images\\n12761284_8602_png.rf.cca374a085e054b12116cb47afac61f2.jpg",
+      "split": "discovery"
+    },
+    {
+      "image_id": "a6c3841f129e9912",
+      "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5\\cherry\\valid\\images\\08079A_jpg.rf.ebb32044cf37f2224878d9ee3838a80b.jpg",
+      "split": "discovery"
+    },
+    {
+      "image_id": "a70bd2a55563c451",
+      "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5\\cherry\\train\\images\\FGA1_jpg.rf.5c3d7c434602da9f4f346f3ce19fe02f.jpg",
+      "split": "holdout"
+    },
+    {
+      "image_id": "a7a9b98f8e168567",
+      "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5\\kiwi\\test\\images\\1807697_jpg.rf.25b24aa496036dc9cdd357dd287dc6ba.jpg",
+      "split": "discovery"
+    },
+    {
+      "image_id": "a7ffcd9f4487b627",
+      "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5\\cherry\\train\\images\\Montmorency_jpg.rf.6bd45c7221a9834398fc040c63912d21.jpg",
+      "split": "holdout"
+    },
+    {
+      "image_id": "a87ec5326a7dc723",
+      "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5\\kiwi\\train\\images\\Zespri_SunGold_Orchard_1_A_jpg.rf.9b688bb6cf6760733a1d2b9f483808bd.jpg",
+      "split": "discovery"
+    },
+    {
+      "image_id": "a887feb4374389c8",
+      "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5\\rockmelon\\test\\images\\20151125T1138_pic000533_png.rf.83a51d24739e64c103e6dbe6fa21b1cb.jpg",
+      "split": "discovery"
+    },
+    {
+      "image_id": "a8a06ba6e20057f6",
+      "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5\\kiwi\\train\\images\\d24ca6b3bc94aaea916bbd5329708c10_jpg.rf.acdffb9ddcc234f8115ddc2955df91c2.jpg",
+      "split": "discovery"
+    },
+    {
+      "image_id": "a8a6a6eee309f756",
+      "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5\\cherry\\valid\\images\\u-pick-cherry-farm_jpg.rf.5f7decd53295f1e4b8fe36e34fe48665.jpg",
+      "split": "discovery"
+    },
+    {
+      "image_id": "a9774543de52c23e",
+      "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5\\cherry\\train\\images\\Celeste-pic-1_jpeg.rf.5fdbd2dbb7008c7b1b87d28ce4c6bb7f.jpg",
+      "split": "holdout"
+    },
+    {
+      "image_id": "a9ced89f06aac539",
+      "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5\\avocado\\train\\images\\n11706761_19832_png.rf.0862044cca819236e5c18ca122b86815.jpg",
+      "split": "discovery"
+    },
+    {
+      "image_id": "a9fa3e05d6dfca0b",
+      "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5\\cherry\\valid\\images\\shutterstock_1254294154_jpg.rf.a56aa6b0aabf4f2737ba0cac6446ee49.jpg",
+      "split": "holdout"
+    },
+    {
+      "image_id": "aa1cd54aaaa2e67d",
+      "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5\\mango\\train\\images\\n12761284_8215_png.rf.4ffe8a2f3dd248eae18e931282c83017.jpg",
+      "split": "discovery"
+    },
+    {
+      "image_id": "aa5ee1072fa7390e",
+      "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5\\cherry\\train\\images\\apple-plants-250x250_jpg.rf.e6a61d09dd98c767cdfa5dabb0b36b46.jpg",
+      "split": "discovery"
+    },
+    {
+      "image_id": "aac7ee278671976a",
+      "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5\\kiwi\\train\\images\\Untitled-design-8-1-1536x1152_png.rf.41b0d61771ddc81fa8bdfdd51f43bc01.jpg",
+      "split": "discovery"
+    },
+    {
+      "image_id": "ab9c4011ebcea954",
+      "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5\\kiwi\\valid\\images\\kiwi-solo_jpg.rf.5ef28d805b0e4272a7d007312cfa7532.jpg",
+      "split": "discovery"
+    },
+    {
+      "image_id": "ac25ebf91f8592b1",
+      "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5\\cherry\\train\\images\\78736_jpg.rf.9d50d91486949a60ac18c9d2c8882233.jpg",
+      "split": "discovery"
+    },
+    {
+      "image_id": "aca450595f8be23a",
+      "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5\\mango\\train\\images\\n12761284_15316_png.rf.1ed285ca3a79dc27873a1d0dc9fc21ce.jpg",
+      "split": "discovery"
+    },
+    {
+      "image_id": "acc8752ba2952cef",
+      "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5\\kiwi\\train\\images\\kiwi-close_jpg.rf.b6b1ef60b4442b71d50ddacd3230f385.jpg",
+      "split": "discovery"
+    },
+    {
+      "image_id": "ad23f6b414740c5a",
+      "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5\\cherry\\valid\\images\\Staccato_jpg.rf.29c996c6163edafcc1cfb5cd1385aaf9.jpg",
+      "split": "discovery"
+    },
+    {
+      "image_id": "ad5d6a69b06c29c2",
+      "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5\\blueberry\\train\\images\\images--3-_jpeg.rf.7387e36008353e4c74a962f31f71d414.jpg",
+      "split": "holdout"
+    },
+    {
+      "image_id": "ad7da6c6b1ad2f0b",
+      "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5\\avocado\\train\\images\\n11706761_6856_png.rf.831e323a7ec11222496c89b7b2e66c91.jpg",
+      "split": "holdout"
+    },
+    {
+      "image_id": "ad87deb3890a977b",
+      "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5\\blueberry\\train\\images\\TOro_Blueberry_2_720x_jpg.rf.d7fd0af9d82897c339eb5a965f84e906.jpg",
+      "split": "discovery"
+    },
+    {
+      "image_id": "add5b22f08cfbc98",
+      "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5\\kiwi\\train\\images\\20191018095044_aaaa_jpg.rf.952f5564c14a8c0a8b031c9ba34475fa.jpg",
+      "split": "holdout"
+    },
+    {
+      "image_id": "ae4d33ce3847dd4f",
+      "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5\\mango\\train\\images\\n12761284_7177_png.rf.057d0ac85780a6973c07d3fdfa16e2c7.jpg",
+      "split": "discovery"
+    },
+    {
+      "image_id": "af7e8efd6e35ae66",
+      "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5\\avocado\\train\\images\\n11706761_19983_png.rf.570835ff69b91e51f38a1ae013a1cb86.jpg",
+      "split": "holdout"
+    },
+    {
+      "image_id": "af81005d743850eb",
+      "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5\\kiwi\\train\\images\\61dbLLwv-uL_jpg.rf.2015cca6ccf5af0d96ca9f0bc8c1ddc1.jpg",
+      "split": "discovery"
+    },
+    {
+      "image_id": "afd99e9a76e2b38a",
+      "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5\\mango\\train\\images\\n12761284_2916_png.rf.61f918984d98a8c5ddebe6790ca5f864.jpg",
+      "split": "discovery"
+    },
+    {
+      "image_id": "b0376b65d572966a",
+      "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5\\avocado\\train\\images\\n11706761_2761_png.rf.7e2e7fad0052cb0f93c15a5b86d7c1d5.jpg",
+      "split": "holdout"
+    },
+    {
+      "image_id": "b11c91fca85d9a96",
+      "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5\\mango\\train\\images\\n12761284_3668_png.rf.06320773db7b4b5e258325ca5462b281.jpg",
+      "split": "discovery"
+    },
+    {
+      "image_id": "b132d48e6fcaa3b7",
+      "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5\\blueberry\\train\\images\\blueberry-1_jpg.rf.7022ba74a12fd25296a396619bf00a13.jpg",
+      "split": "discovery"
+    },
+    {
+      "image_id": "b19d29c4c80e00c8",
+      "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5\\mango\\train\\images\\n12761284_8587_png.rf.a16a03718d928a02d2c97fdef5fb92ec.jpg",
+      "split": "discovery"
+    },
+    {
+      "image_id": "b21f377f93a8272c",
+      "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5\\cherry\\train\\images\\unnamed--1-_jpg.rf.d61988aa02b4fd33ae626bdf321de943.jpg",
+      "split": "holdout"
+    },
+    {
+      "image_id": "b2d7ba08db4a6682",
+      "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5\\cherry\\train\\images\\c19c89c536cfa4f0dd41b64ccbeea900--melbourne-cherries_jpg.rf.47265cbe38337891631a52e282765f7f.jpg",
+      "split": "holdout"
+    },
+    {
+      "image_id": "b342118e1b736fb4",
+      "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5\\kiwi\\train\\images\\kiwi-planting_jpg.rf.c3cfa6b338bddb400e700d59378b2d10.jpg",
+      "split": "discovery"
+    },
+    {
+      "image_id": "b3803dcba6583e82",
+      "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5\\avocado\\train\\images\\n11706761_5413_png.rf.5c61a206ad21d3dfdef1785f40d40bcb.jpg",
+      "split": "discovery"
+    },
+    {
+      "image_id": "b405f5823b4b050d",
+      "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5\\mango\\train\\images\\n12761284_11504_png.rf.990271af9255a60db70299c774a38b7c.jpg",
+      "split": "discovery"
+    },
+    {
+      "image_id": "b455882e249d0363",
+      "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5\\mango\\train\\images\\n12761284_10405_png.rf.e7c304447630dde86e4bde2ac74ef356.jpg",
+      "split": "discovery"
+    },
+    {
+      "image_id": "b4f1e1e5e276c162",
+      "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5\\avocado\\test\\images\\n11706761_5404_png.rf.165ee3adbff8ae55ac1759915908e50f.jpg",
+      "split": "discovery"
+    },
+    {
+      "image_id": "b578d17b728703e0",
+      "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5\\avocado\\train\\images\\n11706761_11630_png.rf.51aae55d9b9677341acd349c1ed4e2d8.jpg",
+      "split": "discovery"
+    },
+    {
+      "image_id": "b61cf29ec01eab6b",
+      "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5\\mango\\train\\images\\n12761284_7273_png.rf.20137d0b3cda71ddfaf0da4a1be950be.jpg",
+      "split": "discovery"
+    },
+    {
+      "image_id": "b6fd6c9a3a03ff47",
+      "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5\\cherry\\train\\images\\cherry-picking-brentwood_jpg.rf.edb504d4b9c674838ab76a8202ba130d.jpg",
+      "split": "discovery"
+    },
+    {
+      "image_id": "b73ba247015af6d0",
+      "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5\\mango\\train\\images\\n12761284_6471_png.rf.034614efeef5b9b91b0ccbb013403a1a.jpg",
+      "split": "holdout"
+    },
+    {
+      "image_id": "b74b7b1e3d3db9c1",
+      "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5\\mango\\train\\images\\n12761284_9449_png.rf.bb5a25b50fd5dd8ea7ab8aa8f296e8db.jpg",
+      "split": "discovery"
+    },
+    {
+      "image_id": "b799664fb6b901bd",
+      "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5\\kiwi\\train\\images\\70090228-tree-of-kiwi-fruit_jpg.rf.9372dfaf51d3b43400b33057a978b601.jpg",
+      "split": "discovery"
+    },
+    {
+      "image_id": "b7a6416c3f8f8f29",
+      "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5\\avocado\\train\\images\\n11706761_6937_png.rf.c44d83267309ac4bab6d4523af6dde13.jpg",
+      "split": "discovery"
+    },
+    {
+      "image_id": "b7b4a80ec9e4935f",
+      "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5\\blueberry\\train\\images\\5192NkotJOL_jpg.rf.56f81f05961c07db0e6ebedf2d46b66a.jpg",
+      "split": "discovery"
+    },
+    {
+      "image_id": "b7d2340e8692aa3d",
+      "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5\\kiwi\\train\\images\\zespri-green-kiwifruit_16646_jpg.rf.1d2ff21e591c98e0ae4edc033f6bf999.jpg",
+      "split": "discovery"
+    },
+    {
+      "image_id": "b7eea99884f3ff5e",
+      "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5\\mango\\test\\images\\n12761284_10106_png.rf.a0faf488cd3b8c83d5c1ac293be9212b.jpg",
+      "split": "discovery"
+    },
+    {
+      "image_id": "b81601dfe6776196",
+      "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5\\kiwi\\train\\images\\TG-Kiwifruit-1-e1524175414149-878x1000_jpg.rf.808cf23a2ac02ad5f2d3ec03b3c91c3f.jpg",
+      "split": "discovery"
+    },
+    {
+      "image_id": "b8b30f93e8cc16f4",
+      "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5\\cherry\\train\\images\\cherry-fertilizer_jpg.rf.f0ff7fd4bd610107469e6f6afabdeb77.jpg",
+      "split": "discovery"
+    },
+    {
+      "image_id": "b900f926e2cc83dd",
+      "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5\\kiwi\\train\\images\\Kiwifruit-Country-P1010028-2-2_jpg.rf.6f318b513e5e5d750ee931fdb928a3a4.jpg",
+      "split": "discovery"
+    },
+    {
+      "image_id": "b93542b4a703f684",
+      "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5\\cherry\\train\\images\\2-809_jpg.rf.8ac00bf566a4d976f155d6fa24dc929c.jpg",
+      "split": "discovery"
+    },
+    {
+      "image_id": "b9672303ac2e7908",
+      "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5\\kiwi\\train\\images\\kiwi-close_jpg.rf.af6701caeea0db031910ca74658ca05a.jpg",
+      "split": "discovery"
+    },
+    {
+      "image_id": "b9a0e851e5ca4c0d",
+      "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5\\rockmelon\\train\\images\\20151125T1143_pic000354_png.rf.b120491d2d90790dc86e19b946b7d59c.jpg",
+      "split": "discovery"
+    },
+    {
+      "image_id": "ba45e4edca063d1e",
+      "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5\\mango\\train\\images\\n12761284_15687_png.rf.7bd21a22b1ec4d65398585e277939244.jpg",
+      "split": "holdout"
+    },
+    {
+      "image_id": "ba534d1227ba22ce",
+      "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5\\blueberry\\train\\images\\Blueberry_Jersey_jpg.rf.8115e03cf59d866b751d66f594823451.jpg",
+      "split": "discovery"
+    },
+    {
+      "image_id": "bba9db47f2e8f146",
+      "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5\\cherry\\train\\images\\51JWXH6SlCL_jpg.rf.a989f727dfc536e9cf191563313218c0.jpg",
+      "split": "discovery"
+    },
+    {
+      "image_id": "bcd94b61c8334f6b",
+      "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5\\cherry\\train\\images\\cherries_jpg.rf.b4546de09c32ddc8ab66a8da3ffd7308.jpg",
+      "split": "discovery"
+    },
+    {
+      "image_id": "bdcaddd933bb9214",
+      "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5\\cherry\\train\\images\\RFVC_024_jpg.rf.71459ed05e1013a6a283da564c65011f.jpg",
+      "split": "discovery"
+    },
+    {
+      "image_id": "bdd2dd0629922040",
+      "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5\\cherry\\train\\images\\bittner-singer_jpg.rf.bb266f97cf31cb4ca5f8f2d058e0a87a.jpg",
+      "split": "holdout"
+    },
+    {
+      "image_id": "be5557734fff8414",
+      "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5\\kiwi\\train\\images\\53368400_jpg.rf.e8e1c7bc22a3ae0652fd6b54fc047dde.jpg",
+      "split": "discovery"
+    },
+    {
+      "image_id": "be6f10e5c6e4baa3",
+      "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5\\avocado\\train\\images\\n11706761_19353_png.rf.0b80025d1c0dd50eab254b07f60dbf91.jpg",
+      "split": "discovery"
+    },
+    {
+      "image_id": "bed66e00e5c53c8e",
+      "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5\\kiwi\\train\\images\\images--2-_jpeg.rf.6ffbbec7501dacd1e69d5419a264ea4c.jpg",
+      "split": "discovery"
+    },
+    {
+      "image_id": "bef3fa63de5c2e4c",
+      "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5\\cherry\\train\\images\\Danube_jpg.rf.d1c0df9ce62e03803234a8d72bcbd7e2.jpg",
+      "split": "discovery"
+    },
+    {
+      "image_id": "bf31549fb6ef57c0",
+      "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5\\blueberry\\train\\images\\blueberry_cluster_jpg.rf.9edde3c09d68af843f4a230be43d4808.jpg",
+      "split": "holdout"
+    },
+    {
+      "image_id": "bf9f0241b54c51dd",
+      "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5\\rockmelon\\train\\images\\20151125T1138_pic000066_png.rf.ca1f3a6f11e176840d9e292e67d394fb.jpg",
+      "split": "discovery"
+    },
+    {
+      "image_id": "c042c80e3a88d101",
+      "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5\\kiwi\\train\\images\\eight_col_KIWI_jpg.rf.e30d990c96f45f77de72b3f942f352bf.jpg",
+      "split": "discovery"
+    },
+    {
+      "image_id": "c0bbd1994423b69e",
+      "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5\\kiwi\\train\\images\\TG-Kiwifruit-1-e1524175414149-878x1000_jpg.rf.710ae2af43c929d3fa2f48c203d99bf4.jpg",
+      "split": "holdout"
+    },
+    {
+      "image_id": "c1113880bfcdb3c7",
+      "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5\\rockmelon\\train\\images\\20151125T1138_pic000599_png.rf.dd10fce4a534fc05336aea6d7267da52.jpg",
+      "split": "discovery"
+    },
+    {
+      "image_id": "c155cdee3f55b85e",
+      "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5\\mango\\train\\images\\n12761284_671_png.rf.9dcdc79d721c436e727878dbb4ddfc3a.jpg",
+      "split": "discovery"
+    },
+    {
+      "image_id": "c26d0f6139f3a6c4",
+      "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5\\mango\\test\\images\\n12761284_9365_png.rf.8df499a52a9d878df55bb8d9ae685a60.jpg",
+      "split": "discovery"
+    },
+    {
+      "image_id": "c27cae800c0a39f1",
+      "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5\\rockmelon\\train\\images\\20151125T1143_pic000294_png.rf.ac6c1cccfacde5ce7231d01c6a18ad18.jpg",
+      "split": "discovery"
+    },
+    {
+      "image_id": "c2cbf0268ed911d3",
+      "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5\\mango\\valid\\images\\n12761284_16964_png.rf.226d37f313f5732feec337ee5f7aa4f3.jpg",
+      "split": "discovery"
+    },
+    {
+      "image_id": "c35b6183e7f7ca7f",
+      "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5\\cherry\\train\\images\\CHER-T10442-A_jpg.rf.6fd0803d1f3f885cbbddfd7ab6f2890a.jpg",
+      "split": "discovery"
+    },
+    {
+      "image_id": "c3eb89144725af7e",
+      "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5\\cherry\\train\\images\\celestesq_jpg.rf.9e3dc5fa42061e4f37efa18aac227802.jpg",
+      "split": "discovery"
+    },
+    {
+      "image_id": "c418f592f53e3cbc",
+      "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5\\blueberry\\train\\images\\23074385-standard_jpg.rf.f9f991d811c670a779c2906f219323d4.jpg",
+      "split": "holdout"
+    },
+    {
+      "image_id": "c41a2f01e5a18738",
+      "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5\\cherry\\train\\images\\platinum-ridge-cherries11_jpg.rf.0a3451fea296cb8da9e27aea19c3f9c0.jpg",
+      "split": "discovery"
+    },
+    {
+      "image_id": "c491c6ee325fee8c",
+      "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5\\mango\\train\\images\\n12761284_8800_png.rf.38d03502460ce977da62ca325b2147a6.jpg",
+      "split": "discovery"
+    },
+    {
+      "image_id": "c5522a93e7b2af99",
+      "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5\\mango\\train\\images\\n12761284_8836_png.rf.1c81e520e6128fc2e616d20aa56f9411.jpg",
+      "split": "discovery"
+    },
+    {
+      "image_id": "c576d04c5c129782",
+      "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5\\blueberry\\valid\\images\\double-a-vineyards_jersey_jpg.rf.d752b17e458877366dcc5420cac421f1.jpg",
+      "split": "discovery"
+    },
+    {
+      "image_id": "c594a1a8e3af0f5f",
+      "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5\\cherry\\train\\images\\1-810_jpg.rf.5a3bc547efc9fb43ba5b8dbad24210cf.jpg",
+      "split": "holdout"
+    },
+    {
+      "image_id": "c5e9f2ec2a4cb6ad",
+      "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5\\cherry\\train\\images\\Little-Cherry-Disease_jpg.rf.e72a794d981cc3dc60aa5351d8d57fd9.jpg",
+      "split": "discovery"
+    },
+    {
+      "image_id": "c5f5e4195d419ef9",
+      "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5\\mango\\train\\images\\n12761284_7580_png.rf.d8947c998d2120827a6bd59e6a24b341.jpg",
+      "split": "discovery"
+    },
+    {
+      "image_id": "c5fb0bf91e91a94e",
+      "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5\\rockmelon\\valid\\images\\n07756641_7264_png.rf.89f19dd6c3a7cf20ceece764bc829360.jpg",
+      "split": "discovery"
+    },
+    {
+      "image_id": "c6532129a35e8b8c",
+      "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5\\avocado\\train\\images\\n11706761_2000_png.rf.90fef297a8c0b1326f302476842569f9.jpg",
+      "split": "discovery"
+    },
+    {
+      "image_id": "c6a1fc6a1df55b22",
+      "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5\\cherry\\train\\images\\cherry-tree-Washington_jpg.rf.df878f2b29e72779f6ee47a3283fcf1a.jpg",
+      "split": "discovery"
+    },
+    {
+      "image_id": "c72345d6094efe46",
+      "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5\\blueberry\\train\\images\\11366_grande_jpg.rf.b7ebeb07370b97d11c39ae339711b3aa.jpg",
+      "split": "discovery"
+    },
+    {
+      "image_id": "c7ff178f2918cc00",
+      "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5\\mango\\train\\images\\n12761284_7956_png.rf.5a609a59e6bd365fa750e14a249c8dbc.jpg",
+      "split": "discovery"
+    },
+    {
+      "image_id": "c81d7e92deadf263",
+      "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5\\rockmelon\\train\\images\\20151125T1143_pic000068_png.rf.1d3719d2675174666d0316e2c3272c54.jpg",
+      "split": "holdout"
+    },
+    {
+      "image_id": "c8cd97dd68ed3cdc",
+      "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5\\cherry\\train\\images\\unnamed--4-_jpg.rf.e894cf345c31b80526979e679adf1797.jpg",
+      "split": "discovery"
+    },
+    {
+      "image_id": "c90965ac524fab64",
+      "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5\\avocado\\train\\images\\n11706761_1343_png.rf.4eb83f20c68f81f607a5bae004f43b75.jpg",
+      "split": "discovery"
+    },
+    {
+      "image_id": "c9567914b2eeec94",
+      "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5\\blueberry\\train\\images\\Blueberries_jpg.rf.acbf1f15948eed70ae2e8b34a20c2524.jpg",
+      "split": "discovery"
+    },
+    {
+      "image_id": "c9ee58a577110068",
+      "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5\\rockmelon\\train\\images\\20151125T1138_pic000392_png.rf.aa37613f6a5478447a09e936de11499a.jpg",
+      "split": "discovery"
+    },
+    {
+      "image_id": "ca37c1b354f39835",
+      "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5\\kiwi\\train\\images\\kiwi_jpg.rf.ae269bee545abdffc7b52c3e702e0c39.jpg",
+      "split": "holdout"
+    },
+    {
+      "image_id": "ca7f5557ae4ce684",
+      "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5\\rockmelon\\train\\images\\20151125T1138_pic000465_png.rf.3007069d9429cb68374867050bfcd4cf.jpg",
+      "split": "discovery"
+    },
+    {
+      "image_id": "ca7f89b4bf1745b4",
+      "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5\\blueberry\\train\\images\\Blueberry_Jersey_1_jpg.rf.2aa5e387c4741676159ebb6c84975b0b.jpg",
+      "split": "discovery"
+    },
+    {
+      "image_id": "cb088b6b1e42a321",
+      "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5\\cherry\\train\\images\\AdobeStock_245055997__1_-0_jpg.rf.7a49c83b21a867ed21f9256ed8ca2142.jpg",
+      "split": "discovery"
+    },
+    {
+      "image_id": "cc47c3e55b086642",
+      "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5\\kiwi\\train\\images\\D25_70_027_1200_jpg.rf.b4a1185777e5ebe6d2c83b74599ba8d3.jpg",
+      "split": "discovery"
+    },
+    {
+      "image_id": "cc531ca57a1cf864",
+      "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5\\kiwi\\train\\images\\unnamed_jpg.rf.29eb808ecd7ded39fa2290be6f0c5187.jpg",
+      "split": "discovery"
+    },
+    {
+      "image_id": "cc5db56091ecd462",
+      "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5\\cherry\\train\\images\\cherry-picking-young-nsw009-1030x687_jpg.rf.252fddfb0f231f3aa6cc4dd1837c5dc4.jpg",
+      "split": "discovery"
+    },
+    {
+      "image_id": "ccf0df1c7b12a0a9",
+      "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5\\mango\\train\\images\\n12761284_15049_png.rf.3dc2ccac55e6ac139804f1f51630cbbc.jpg",
+      "split": "discovery"
+    },
+    {
+      "image_id": "ceabf3e7f79a9ff0",
+      "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5\\blueberry\\train\\images\\Legacy-blueberry-_jpeg-600x600-1_jpg.rf.d11c6aeb66fbb8ace332520f23242153.jpg",
+      "split": "holdout"
+    },
+    {
+      "image_id": "cf55c3d8317fcdd9",
+      "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5\\cherry\\train\\images\\dwarf-cherry-morello-cherry-sour-cherry-prunus-cerasus-scharoe-prunus-EBRY2B_jpg.rf.07a0b68cf0d1df44141e463512ca62db.jpg",
+      "split": "discovery"
+    },
+    {
+      "image_id": "cf698848c11532e0",
+      "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5\\mango\\test\\images\\n12761284_12973_png.rf.348df699afdeaa0dc686b4032bf5db87.jpg",
+      "split": "discovery"
+    },
+    {
+      "image_id": "cf97e0684454ba0d",
+      "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5\\mango\\valid\\images\\n12761284_5916_png.rf.b590c9fa4ce50b2339df6b7ebeb7ae70.jpg",
+      "split": "discovery"
+    },
+    {
+      "image_id": "cfa91543e08604a9",
+      "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5\\cherry\\train\\images\\images--2-_jpeg.rf.1a718416f198487df74232d17471cfea.jpg",
+      "split": "discovery"
+    },
+    {
+      "image_id": "cfbf1470aab11cf7",
+      "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5\\kiwi\\test\\images\\760-970_jpg.rf.87249c25c7c49ae38745ef77ae78f8f2.jpg",
+      "split": "discovery"
+    },
+    {
+      "image_id": "d02e5e94d879230a",
+      "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5\\cherry\\test\\images\\0000315_bing-cherry_jpg.rf.3febcf21b60898e578bbe268308644c7.jpg",
+      "split": "discovery"
+    },
+    {
+      "image_id": "d0905c17f5b36b86",
+      "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5\\cherry\\train\\images\\b05ad4d99b0062f27b8790d84dbc96695f5126e7e0cd0_1260x1260_png.rf.65bbc8200979fd0c6b16494361983e62.jpg",
+      "split": "discovery"
+    },
+    {
+      "image_id": "d11e85069a25d963",
+      "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5\\mango\\train\\images\\n12761284_588_png.rf.082e4f1b3a6ea0c84b653d4c5551c03e.jpg",
+      "split": "discovery"
+    },
+    {
+      "image_id": "d1cf515ed0573e9b",
+      "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5\\mango\\train\\images\\n12761284_8383_png.rf.296344c7e0dec01f9f6147d4f2587b77.jpg",
+      "split": "discovery"
+    },
+    {
+      "image_id": "d1df260b63e26b9e",
+      "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5\\mango\\train\\images\\n12761284_14326_png.rf.7b14f80ea718ef48d835a17821666f41.jpg",
+      "split": "discovery"
+    },
+    {
+      "image_id": "d1eac95e2083da4e",
+      "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5\\kiwi\\train\\images\\61WzHqzVJhL-_SX466__jpg.rf.3fa494291b78cdf015ef38da6eaee39a.jpg",
+      "split": "discovery"
+    },
+    {
+      "image_id": "d38defd51ee080ee",
+      "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5\\avocado\\train\\images\\n11706761_4580_png.rf.49967dc78a763beef5be7b2f7b2e34f7.jpg",
+      "split": "discovery"
+    },
+    {
+      "image_id": "d3fd822a407c585f",
+      "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5\\cherry\\train\\images\\Bing-Cherry_jpg.rf.7c265007932a4a01fd21b00f23189dca.jpg",
+      "split": "discovery"
+    },
+    {
+      "image_id": "d3fe19e98f35a1c0",
+      "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5\\blueberry\\valid\\images\\pg-blueberry-800x800--1-_jpg.rf.13ce16dc6c5c48b3c2a9483ce27d2d80.jpg",
+      "split": "discovery"
+    },
+    {
+      "image_id": "d4586c8b9c83132d",
+      "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5\\blueberry\\test\\images\\51GiHYQtucL_jpg.rf.3cc0299a40769b1ecab9d5fe29981eab.jpg",
+      "split": "discovery"
+    },
+    {
+      "image_id": "d50091c5dd87759e",
+      "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5\\blueberry\\train\\images\\Dexter-Blueberry-1_jpeg.rf.be1a60a90a7a5adcd3dbb50afb8f6780.jpg",
+      "split": "discovery"
+    },
+    {
+      "image_id": "d5be7315c46c283c",
+      "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5\\avocado\\train\\images\\n11706761_9724_png.rf.b1be1c1ddffa264954efc2a2dcf8a8b2.jpg",
+      "split": "holdout"
+    },
+    {
+      "image_id": "d6822716a39f98fe",
+      "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5\\cherry\\valid\\images\\new-harvest-big-dark-ripe-260nw-1910750479_jpg.rf.8275939e14ecffb3d5b24b688116f767.jpg",
+      "split": "discovery"
+    },
+    {
+      "image_id": "d7baba4e7d673917",
+      "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5\\blueberry\\train\\images\\14214743PA_jpg.rf.f43f111ad276f7bba4f8da793ae8c315.jpg",
+      "split": "discovery"
+    },
+    {
+      "image_id": "d81d93c939bd7304",
+      "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5\\blueberry\\train\\images\\51FD4jYnMCL-_SX466__jpg.rf.2a9bf42859d15a38441deb1bd4c6827b.jpg",
+      "split": "discovery"
+    },
+    {
+      "image_id": "d822f687e5ebe1a8",
+      "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5\\mango\\train\\images\\n12761284_8410_png.rf.eb38da5ddfc94fc956204b1d6d4e8ef2.jpg",
+      "split": "discovery"
+    },
+    {
+      "image_id": "d8a32a82b3b5365a",
+      "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5\\cherry\\train\\images\\cherries-300x300_jpg.rf.0499e8b9be95f31d50027b2849a66871.jpg",
+      "split": "discovery"
+    },
+    {
+      "image_id": "d922d7054c4246be",
+      "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5\\cherry\\train\\images\\images--3-_jpeg.rf.7e80bb6292ad2f38a0e52e007f1320bb.jpg",
+      "split": "discovery"
+    },
+    {
+      "image_id": "d9438c647f58ec9f",
+      "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5\\avocado\\train\\images\\n11706761_15606_png.rf.5fd6f693477f3ce304388e5b79143dac.jpg",
+      "split": "discovery"
+    },
+    {
+      "image_id": "da747e10da5d4183",
+      "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5\\cherry\\train\\images\\14011897PA_jpg.rf.58cc01519ad7de4a52c163987fc9aca8.jpg",
+      "split": "discovery"
+    },
+    {
+      "image_id": "da8b25e1dfefbb3e",
+      "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5\\kiwi\\test\\images\\kiwifruit-plant_jpg.rf.2dff1f44210aa104f774b884059b3c88.jpg",
+      "split": "holdout"
+    },
+    {
+      "image_id": "dab7ebfe5f708d37",
+      "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5\\cherry\\train\\images\\images_jpeg.rf.a728fa1d6ea9fa5f02040fb27ce1b885.jpg",
+      "split": "discovery"
+    },
+    {
+      "image_id": "daf2bb30beace55a",
+      "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5\\avocado\\test\\images\\n11706761_6026_png.rf.3c85562f15daff222d6f0f7d35957502.jpg",
+      "split": "discovery"
+    },
+    {
+      "image_id": "db6b47d1e40e069e",
+      "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5\\mango\\train\\images\\n12761284_3764_png.rf.4246a78a6911a860ce80e0ae049feea4.jpg",
+      "split": "discovery"
+    },
+    {
+      "image_id": "db81811f46d6ccd0",
+      "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5\\blueberry\\valid\\images\\blueberry-vaccinium-nelson-9cm-p3876-30388_image_png.rf.fc1a71173370b72a107aa4bfb4c7e809.jpg",
+      "split": "holdout"
+    },
+    {
+      "image_id": "dba015fc638e6cae",
+      "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5\\mango\\train\\images\\n12761284_7172_png.rf.e478cbbf9ead59ecf9674b50783bcfd0.jpg",
+      "split": "discovery"
+    },
+    {
+      "image_id": "dba49fff7f7a8c33",
+      "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5\\kiwi\\train\\images\\Actinidia-chinensis-var--deliciosa---Chih-hung-Chen-1_jpeg.rf.06ddddadc76460654095f2db38806572.jpg",
+      "split": "discovery"
+    },
+    {
+      "image_id": "dca36405d78b9876",
+      "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5\\kiwi\\train\\images\\Skelton1_jpg.rf.7c88b782571ff556723361697cb11ed3.jpg",
+      "split": "discovery"
+    },
+    {
+      "image_id": "dcad4fed259ebc4b",
+      "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5\\mango\\train\\images\\n12761284_9099_png.rf.5a653cf6059b0ecda5ad216f942a7e24.jpg",
+      "split": "discovery"
+    },
+    {
+      "image_id": "dcc4a75287f4bdd3",
+      "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5\\cherry\\train\\images\\capi_162259c6b05aecd65c34559e15246dc5_c3382c753e6ddd572bc8f7fb051d5229_jpeg.rf.d1c84e5a031342247204b0a484b9e2e4.jpg",
+      "split": "holdout"
+    },
+    {
+      "image_id": "dccf0ea8a800f2d9",
+      "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5\\cherry\\test\\images\\maxresdefault_jpg.rf.56604b2fa59e97bb116631822091b9c3.jpg",
+      "split": "discovery"
+    },
+    {
+      "image_id": "dcef8fabcb577920",
+      "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5\\avocado\\train\\images\\n11706761_7188_png.rf.9e26084e95e292a5a584a6ae6ef32e2d.jpg",
+      "split": "discovery"
+    },
+    {
+      "image_id": "dcf49aabb7b556d0",
+      "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5\\kiwi\\valid\\images\\kibi_jpg.rf.dbba202695951458f55c6879a554c327.jpg",
+      "split": "discovery"
+    },
+    {
+      "image_id": "dcf68576da828eb2",
+      "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5\\mango\\train\\images\\n12761284_4711_png.rf.001aed66102a563452bdc1ed72bc277d.jpg",
+      "split": "discovery"
+    },
+    {
+      "image_id": "dd04e70ef86f340d",
+      "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5\\cherry\\train\\images\\P64216_jpg.rf.ff258e2ba4a1b07d184a61589c60cc8b.jpg",
+      "split": "discovery"
+    },
+    {
+      "image_id": "de95947061df0fe3",
+      "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5\\rockmelon\\train\\images\\n07756641_7567_png.rf.124abe4f59e5c336058fb46c3b0221f8.jpg",
+      "split": "holdout"
+    },
+    {
+      "image_id": "df159b68c7f2dd7b",
+      "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5\\blueberry\\train\\images\\Centurion_jpg.rf.8a34c3fecf360f63b32fcf17aa5e2980.jpg",
+      "split": "holdout"
+    },
+    {
+      "image_id": "df5daad306010a6f",
+      "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5\\avocado\\train\\images\\n11706761_12393_png.rf.cb25eebe6a8545888034c20d54e81184.jpg",
+      "split": "discovery"
+    },
+    {
+      "image_id": "df765d1b26548c7b",
+      "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5\\avocado\\train\\images\\n11706761_17640_png.rf.bfd9ceff9b7fde50400b63a1778ca89f.jpg",
+      "split": "discovery"
+    },
+    {
+      "image_id": "dfe5db70c620f018",
+      "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5\\blueberry\\train\\images\\Legacy777_1___39469-1567142856_jpg.rf.555a44080b2a8dcf025f98fa9e8af8ed.jpg",
+      "split": "discovery"
+    },
+    {
+      "image_id": "e0251d736f220563",
+      "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5\\cherry\\train\\images\\cherries-140767_960_720_jpg.rf.b7c5805be026ca61947ff4806b126ac6.jpg",
+      "split": "discovery"
+    },
+    {
+      "image_id": "e0364047d077c210",
+      "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5\\avocado\\train\\images\\n11706761_11480_png.rf.7f0f6806f1027fbc2ac580d544349724.jpg",
+      "split": "discovery"
+    },
+    {
+      "image_id": "e08f9d3043b6c44a",
+      "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5\\avocado\\valid\\images\\n11706761_14415_png.rf.34896589b0c5cbff63ab33260d5e6daf.jpg",
+      "split": "discovery"
+    },
+    {
+      "image_id": "e0b36da87b9a6c49",
+      "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5\\mango\\train\\images\\n12761284_18160_png.rf.4ed8607013140721620ebff9b2259706.jpg",
+      "split": "discovery"
+    },
+    {
+      "image_id": "e11fb1a00fca46e9",
+      "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5\\mango\\train\\images\\n12761284_13711_png.rf.c3ff5fc6f8c129e35264c46317f21494.jpg",
+      "split": "holdout"
+    },
+    {
+      "image_id": "e1de97beabeae86f",
+      "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5\\cherry\\train\\images\\67409_jpg.rf.b8cd590d79c6d50fc35e8c1e9ecf19df.jpg",
+      "split": "holdout"
+    },
+    {
+      "image_id": "e29f87985526572f",
+      "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5\\mango\\train\\images\\n12761284_17178_png.rf.42fabb59d3adc91d7fafce8d306388ce.jpg",
+      "split": "discovery"
+    },
+    {
+      "image_id": "e3a9828b9af355f8",
+      "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5\\mango\\train\\images\\n12761284_6836_png.rf.0146223b8e6e6719d03cf3052a3714d2.jpg",
+      "split": "discovery"
+    },
+    {
+      "image_id": "e3d6e2389ee8effe",
+      "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5\\kiwi\\valid\\images\\do-kiwis-grow-on-trees_jpg.rf.e45e47e70f8bd7719665e3ba9300eca1.jpg",
+      "split": "discovery"
+    },
+    {
+      "image_id": "e3d94697878f198e",
+      "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5\\cherry\\valid\\images\\cherry-drop_jpg.rf.38698f3c369a04e447f36fe175c7b208.jpg",
+      "split": "discovery"
+    },
+    {
+      "image_id": "e4253ee2980f71b5",
+      "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5\\avocado\\train\\images\\n11706761_12021_png.rf.a277b375aa29cec8ef8dc7c9d42b5c54.jpg",
+      "split": "discovery"
+    },
+    {
+      "image_id": "e551a7a5629e6751",
+      "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5\\kiwi\\train\\images\\64948705-kiwi-fruit-on-the-branch-kiwi-on-a-tree_jpg.rf.6fccdae734251b87bf1116002d79bd40.jpg",
+      "split": "discovery"
+    },
+    {
+      "image_id": "e58ba05b07511934",
+      "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5\\kiwi\\train\\images\\20170530_152217_jpg.rf.593e6f4d248a483c8d45ae84df8a2624.jpg",
+      "split": "discovery"
+    },
+    {
+      "image_id": "e5cbdeb73c49da2c",
+      "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5\\mango\\train\\images\\n12761284_9474_png.rf.728c234e98bdc6610214dbb062717ac5.jpg",
+      "split": "discovery"
+    },
+    {
+      "image_id": "e5cc671f427d53ec",
+      "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5\\avocado\\valid\\images\\n11706761_15655_png.rf.279d641797637f73a75528ffd0885e8c.jpg",
+      "split": "discovery"
+    },
+    {
+      "image_id": "e5d10885bd5c9dd1",
+      "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5\\cherry\\train\\images\\2d3979d4cce62bf862e39e3f94d51859_s_jpg.rf.c97ba6c34c1db8a2c911017bf6fa03de.jpg",
+      "split": "discovery"
+    },
+    {
+      "image_id": "e5dcdef6a8feca92",
+      "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5\\kiwi\\train\\images\\nurserylive-Kiwi---10-Seeds_jpg.rf.258c2436dad57ded49afb5ca06b25727.jpg",
+      "split": "discovery"
+    },
+    {
+      "image_id": "e6b45d224738f95f",
+      "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5\\mango\\valid\\images\\n12761284_17283_png.rf.8c68b318079ba3d3a9c0787fa1551e66.jpg",
+      "split": "discovery"
+    },
+    {
+      "image_id": "e6d518d31ef37b4c",
+      "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5\\avocado\\train\\images\\n11706761_17395_png.rf.695a7bd8f2bcfcf951cfab4b94e1e6db.jpg",
+      "split": "discovery"
+    },
+    {
+      "image_id": "e731c03aad075eb6",
+      "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5\\rockmelon\\train\\images\\20151125T1143_pic000087_png.rf.02f24e4e69014f849972acffe9a8d78f.jpg",
+      "split": "holdout"
+    },
+    {
+      "image_id": "e893ec8f099a336f",
+      "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5\\cherry\\train\\images\\morello-cherry-tree_jpg.rf.9e3b0ef3c7f1d94cd41bde9bc7da4e9f.jpg",
+      "split": "discovery"
+    },
+    {
+      "image_id": "e94218642c02c1ee",
+      "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5\\avocado\\train\\images\\n11706761_8638_png.rf.c715c6d5ec6a47c779f9b7746b09c2e5.jpg",
+      "split": "discovery"
+    },
+    {
+      "image_id": "e9a2a94d98e53763",
+      "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5\\mango\\train\\images\\n12761284_13066_png.rf.03165aa189820860d9d603f927a7b488.jpg",
+      "split": "discovery"
+    },
+    {
+      "image_id": "e9fda7e6fdd5394e",
+      "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5\\mango\\test\\images\\n12761284_12725_png.rf.d816a2c2822da53714d05e0c43305348.jpg",
+      "split": "discovery"
+    },
+    {
+      "image_id": "ea6a78401e53e4d3",
+      "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5\\cherry\\train\\images\\cherries_picking_sydney_jpg.rf.03c30e6dd1ada2c79f49b82d915fbf81.jpg",
+      "split": "discovery"
+    },
+    {
+      "image_id": "eb3e6a7a70b6c983",
+      "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5\\cherry\\train\\images\\2011-06-16_cherries_merchant_03_tn_jpg.rf.87391274242dbb309ee178859fce05e6.jpg",
+      "split": "holdout"
+    },
+    {
+      "image_id": "ec6ae297d7b90f30",
+      "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5\\kiwi\\train\\images\\KWIW_jpg.rf.6a8dbe6a6c6f2e85b8856aeb094dffe7.jpg",
+      "split": "holdout"
+    },
+    {
+      "image_id": "ec8f593dbfe003b9",
+      "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5\\cherry\\train\\images\\61wcrNYhDcL_jpg.rf.08d25e9d547aaa2f38620d58df02fd92.jpg",
+      "split": "discovery"
+    },
+    {
+      "image_id": "ec93df9e9c67c5a2",
+      "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5\\mango\\train\\images\\n12761284_4723_png.rf.ef32de05199ade881fecfae7cc4d1903.jpg",
+      "split": "holdout"
+    },
+    {
+      "image_id": "ecf281bc96166605",
+      "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5\\cherry\\train\\images\\Morello-Cherry-Fruit_jpg.rf.94a50f2a7a6d4188e76e370d539ebf2c.jpg",
+      "split": "discovery"
+    },
+    {
+      "image_id": "ed6542a0003c83ed",
+      "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5\\cherry\\train\\images\\Growing-Cherry-Fruits-_jpg.rf.6caa0ddb56db4c506b2c178a25e6be79.jpg",
+      "split": "holdout"
+    },
+    {
+      "image_id": "edb6ed0f0aca5560",
+      "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5\\cherry\\train\\images\\stella-cherry-tree-p4496-34874_zoom_png.rf.b83265fa015a104d69f700ada5fb747e.jpg",
+      "split": "discovery"
+    },
+    {
+      "image_id": "ee1f99ae7ec87257",
+      "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5\\kiwi\\train\\images\\Left-Soreli-released-in-2008-Right-Dori-released-in-2012-the-two-cultivars_png.rf.926877779fc9c6fee79125fae2ac454d.jpg",
+      "split": "discovery"
+    },
+    {
+      "image_id": "ee9f4b2cbf8f4d33",
+      "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5\\kiwi\\train\\images\\Cluster-kiwis_jpg.rf.c24de3926160a54a5c871d132ee8b5c3.jpg",
+      "split": "discovery"
+    },
+    {
+      "image_id": "eeca5df6feac96e8",
+      "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5\\rockmelon\\test\\images\\20151125T1138_pic000652_png.rf.ff0a4585c8fbfa32aefbffde13658a6c.jpg",
+      "split": "holdout"
+    },
+    {
+      "image_id": "ef0d0324cee28aa2",
+      "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5\\kiwi\\train\\images\\monastery-meteora-greece-fresh-kiwi-fruit-tree-growing-kiwifruit-actinidia-173237064_jpg.rf.12e9217c630dffb66f4f3116300c4c55.jpg",
+      "split": "discovery"
+    },
+    {
+      "image_id": "ef45347375436d13",
+      "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5\\cherry\\train\\images\\bigstock-Ripe-Cherry-Berries-On-A-Branc-289085413_jpg.rf.937273a6fcff9fae37c71fcb12c4a824.jpg",
+      "split": "holdout"
+    },
+    {
+      "image_id": "ef6ecc27493885ac",
+      "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5\\cherry\\test\\images\\ambers-u-pick-cherries_jpg.rf.0cebac422c16a1645c411c92b793d2a9.jpg",
+      "split": "discovery"
+    },
+    {
+      "image_id": "effbc540105043c5",
+      "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5\\mango\\valid\\images\\n12761284_5059_png.rf.c55175f35d3e2075b082cc351ef22309.jpg",
+      "split": "discovery"
+    },
+    {
+      "image_id": "f19f9e51aad4c509",
+      "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5\\cherry\\train\\images\\71LEbgfSsZL-_SL1000__jpg.rf.cdf12fa2659c308da8220dd8e1dd9042.jpg",
+      "split": "discovery"
+    },
+    {
+      "image_id": "f1a559b967c0773b",
+      "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5\\cherry\\train\\images\\Harvest-Time-Brentwood-Cherries-Harvest-For-You_jpg.rf.8bdec19499b62a669ac15933abf01d05.jpg",
+      "split": "discovery"
+    },
+    {
+      "image_id": "f1f942eac78afec9",
+      "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5\\cherry\\train\\images\\image_jpeg.rf.fa833eaddc1a1c6ede1a4b7778b951c1.jpg",
+      "split": "holdout"
+    },
+    {
+      "image_id": "f20cc129957dbf93",
+      "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5\\mango\\train\\images\\n12761284_8476_png.rf.bac7a509f443f0b40a3d2e3f501fc83f.jpg",
+      "split": "discovery"
+    },
+    {
+      "image_id": "f2154603b7961623",
+      "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5\\mango\\train\\images\\n12761284_13271_png.rf.d59d4a027216beb876eafd9a84018454.jpg",
+      "split": "discovery"
+    },
+    {
+      "image_id": "f25eb7037e1d3480",
+      "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5\\rockmelon\\train\\images\\20151125T1138_pic000681_png.rf.8951163510eb48536a0fd08b9379165f.jpg",
+      "split": "discovery"
+    },
+    {
+      "image_id": "f2da8b60faf905f1",
+      "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5\\mango\\train\\images\\n12761284_14778_png.rf.539ae51fee79d1d6f9a99d25989f3bb4.jpg",
+      "split": "holdout"
+    },
+    {
+      "image_id": "f2fe211fe465da25",
+      "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5\\mango\\train\\images\\n12761284_3484_png.rf.d3037e4c489b04e42c3867ea49dfc82f.jpg",
+      "split": "discovery"
+    },
+    {
+      "image_id": "f3517609bf6ed965",
+      "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5\\kiwi\\train\\images\\Kiwi_Vincent4-5_1024x1024_jpg.rf.d4ba3427c97af74a24e8c558ba43fe85.jpg",
+      "split": "discovery"
+    },
+    {
+      "image_id": "f368a2a0e7d23085",
+      "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5\\avocado\\valid\\images\\n11706761_14886_png.rf.e9599acf1e63af3facf39fcbf4021619.jpg",
+      "split": "discovery"
+    },
+    {
+      "image_id": "f3801027f97738ba",
+      "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5\\rockmelon\\train\\images\\20151125T1138_pic000346_png.rf.8a2688c283ae0a05fb5d90eaf8ae5ac3.jpg",
+      "split": "discovery"
+    },
+    {
+      "image_id": "f4a2e539de58a277",
+      "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5\\kiwi\\test\\images\\1-500x500_jpg.rf.0a1a3996f2b3c41fec0d805a83435155.jpg",
+      "split": "discovery"
+    },
+    {
+      "image_id": "f4ac62c59b186ea7",
+      "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5\\blueberry\\train\\images\\XF127_450x--1-_jpg.rf.634dceffeba5888ec968d6a21b6199be.jpg",
+      "split": "holdout"
+    },
+    {
+      "image_id": "f4ff6158db9a97da",
+      "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5\\cherry\\train\\images\\cherries--3-_jpg.rf.a07ea03b2662f4bd1011e1f65c086eb9.jpg",
+      "split": "holdout"
+    },
+    {
+      "image_id": "f5a9f70d15c91c2a",
+      "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5\\blueberry\\train\\images\\rabbiteye-4_1920_jpg.rf.82eb1e0094ba45af5d62e8925ea698e0.jpg",
+      "split": "discovery"
+    },
+    {
+      "image_id": "f6cc7afbd9c77a61",
+      "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5\\avocado\\train\\images\\n11706761_17975_png.rf.dffbe6f389b3b549f7bf0ca13a430c42.jpg",
+      "split": "discovery"
+    },
+    {
+      "image_id": "f70707d7dd4cbbf1",
+      "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5\\mango\\test\\images\\n12761284_7581_png.rf.fabd9c1cdac45bae8eabd2ec21af02d2.jpg",
+      "split": "holdout"
+    },
+    {
+      "image_id": "f853479e93be3bac",
+      "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5\\kiwi\\train\\images\\images--1-_jpeg.rf.85e08d8e72cfa9157600847ea9894a47.jpg",
+      "split": "holdout"
+    },
+    {
+      "image_id": "f97a642b89e1ff30",
+      "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5\\avocado\\train\\images\\n11706761_5199_png.rf.f8eae9defd33669c650af578d52b5a70.jpg",
+      "split": "discovery"
+    },
+    {
+      "image_id": "f9d1422b68e1be23",
+      "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5\\cherry\\train\\images\\DSC8833-2nicecherriesblueskyhighresolution-510x382_jpg.rf.3c5369fbbed876e205b70839f9692d1f.jpg",
+      "split": "discovery"
+    },
+    {
+      "image_id": "fa03325089f0a151",
+      "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5\\kiwi\\train\\images\\Kiwi-Fruit_e2226151-e15f-4be3-8e61-f7f3d774d8c8_jpg.rf.cc85202dc37f61fb5b7db0bbfe7bde13.jpg",
+      "split": "discovery"
+    },
+    {
+      "image_id": "fa27b7d99117938b",
+      "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5\\mango\\train\\images\\n12761284_7395_png.rf.08e1046efc0f595c1984fe670a64f970.jpg",
+      "split": "holdout"
+    },
+    {
+      "image_id": "fb28f555c23d0aac",
+      "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5\\cherry\\test\\images\\images--1-_jpeg.rf.7e08b1fd6c392f0946f006ab77696954.jpg",
+      "split": "discovery"
+    },
+    {
+      "image_id": "fb77242607cd94b8",
+      "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5\\avocado\\train\\images\\n11706761_1_png.rf.345cf7263f4f2261e8827a693b7c55d1.jpg",
+      "split": "discovery"
+    },
+    {
+      "image_id": "fb905af16b6f85e6",
+      "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5\\mango\\train\\images\\n12761284_1554_png.rf.e19f7ef26ca93ffef857acb84684aa0d.jpg",
+      "split": "discovery"
+    },
+    {
+      "image_id": "fbaa5ff2f20d1d8d",
+      "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5\\kiwi\\train\\images\\1496801780481_jpg.rf.e51fe8147b361e9a826079a9cd09d3c7.jpg",
+      "split": "holdout"
+    },
+    {
+      "image_id": "fbb9d2812334b26c",
+      "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5\\mango\\train\\images\\n12761284_8382_png.rf.993415a6852296e3f83ef5f99771baff.jpg",
+      "split": "holdout"
+    },
+    {
+      "image_id": "fbe34b5f3d4fea2f",
+      "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5\\kiwi\\train\\images\\1120x300_kiwifruit-hanging_jpg.rf.8dcfbc3061b6338a0b7f0f2ddff4017c.jpg",
+      "split": "holdout"
+    },
+    {
+      "image_id": "fce6d39433087af1",
+      "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5\\kiwi\\valid\\images\\1498434440204_jpg.rf.a642f960c601cc61a584a3ba0a5d0059.jpg",
+      "split": "discovery"
+    },
+    {
+      "image_id": "fd151ea415aa9a5f",
+      "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5\\mango\\train\\images\\n12761284_3431_png.rf.28cdc149e7506dd12b2db042b8e6addd.jpg",
+      "split": "discovery"
+    },
+    {
+      "image_id": "fd1df988a6b937da",
+      "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5\\blueberry\\train\\images\\237049xlg_jpg.rf.dd6830df49deb8760f26fbeaee507f0c.jpg",
+      "split": "discovery"
+    },
+    {
+      "image_id": "fd9016eb058cec6a",
+      "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5\\avocado\\train\\images\\n11706761_3088_png.rf.2ef14eafdf67e3d52886b7d3f175babf.jpg",
+      "split": "discovery"
+    },
+    {
+      "image_id": "fde8036d6f090e92",
+      "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5\\kiwi\\valid\\images\\1490820967006_jpg.rf.42233302f26f22a99a1e69845d61af27.jpg",
+      "split": "discovery"
+    },
+    {
+      "image_id": "fe5c6533258249f5",
+      "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5\\cherry\\train\\images\\2e290b167e2b4d4795075136f117379e-1920_jpeg.rf.881b1906dc6e1005f742f39f724e191b.jpg",
+      "split": "discovery"
+    },
+    {
+      "image_id": "ff53f6c67969c56b",
+      "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5\\kiwi\\train\\images\\1552196706601_jpg.rf.67322663603b47722832dba2d05857a4.jpg",
+      "split": "holdout"
+    },
+    {
+      "image_id": "ffc7fda7efdcbfc3",
+      "path": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5\\blueberry\\train\\images\\reka_1639_1000x1000_jpg.rf.ce0618d8ffc99a188c12938672bf4b99.jpg",
+      "split": "discovery"
+    }
+  ],
+  "schema_version": "1.0"
+}

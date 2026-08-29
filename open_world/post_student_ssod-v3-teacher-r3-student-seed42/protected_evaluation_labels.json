@@ -1,0 +1,3201 @@
+{
+  "purpose": "post-hoc open-world discovery evaluation only",
+  "records": [
+    {
+      "category": "Rockmelon",
+      "image_id": "006f8f3279d0d903",
+      "split": "discovery"
+    },
+    {
+      "category": "Cherry",
+      "image_id": "008eaadf4c2b04cd",
+      "split": "discovery"
+    },
+    {
+      "category": "Cherry",
+      "image_id": "00de4bfcd35dd8d1",
+      "split": "discovery"
+    },
+    {
+      "category": "Rockmelon",
+      "image_id": "013ff13710cba435",
+      "split": "discovery"
+    },
+    {
+      "category": "Kiwi",
+      "image_id": "01f28d9f6e0dcc3b",
+      "split": "holdout"
+    },
+    {
+      "category": "Blueberry",
+      "image_id": "0290ffd4c9438d67",
+      "split": "discovery"
+    },
+    {
+      "category": "Cherry",
+      "image_id": "02f0d8be09e04cdb",
+      "split": "discovery"
+    },
+    {
+      "category": "Mango",
+      "image_id": "032a71e9d905c910",
+      "split": "holdout"
+    },
+    {
+      "category": "Kiwi",
+      "image_id": "036f8f03a958b378",
+      "split": "holdout"
+    },
+    {
+      "category": "Kiwi",
+      "image_id": "03c9d918d3993313",
+      "split": "discovery"
+    },
+    {
+      "category": "Kiwi",
+      "image_id": "03e7d87ce3f64dce",
+      "split": "discovery"
+    },
+    {
+      "category": "Mango",
+      "image_id": "03faf1e7f1f67a19",
+      "split": "discovery"
+    },
+    {
+      "category": "Kiwi",
+      "image_id": "04104b42feb51f5e",
+      "split": "discovery"
+    },
+    {
+      "category": "Cherry",
+      "image_id": "04db9176f9e61842",
+      "split": "discovery"
+    },
+    {
+      "category": "Mango",
+      "image_id": "0549682804c357bd",
+      "split": "discovery"
+    },
+    {
+      "category": "Cherry",
+      "image_id": "05902474585ab13c",
+      "split": "discovery"
+    },
+    {
+      "category": "Mango",
+      "image_id": "05b492595b16ecb1",
+      "split": "discovery"
+    },
+    {
+      "category": "Rockmelon",
+      "image_id": "06461b45c19cce91",
+      "split": "discovery"
+    },
+    {
+      "category": "Mango",
+      "image_id": "066710b7c1f6ef0a",
+      "split": "discovery"
+    },
+    {
+      "category": "Blueberry",
+      "image_id": "0696cadb1f315181",
+      "split": "discovery"
+    },
+    {
+      "category": "Kiwi",
+      "image_id": "0760b91dfecd7033",
+      "split": "discovery"
+    },
+    {
+      "category": "Kiwi",
+      "image_id": "0816cad6c000843f",
+      "split": "discovery"
+    },
+    {
+      "category": "Rockmelon",
+      "image_id": "08cc44ff293d8333",
+      "split": "discovery"
+    },
+    {
+      "category": "Cherry",
+      "image_id": "08fdd7a3b0d62a3a",
+      "split": "discovery"
+    },
+    {
+      "category": "Mango",
+      "image_id": "099d60e051c31137",
+      "split": "holdout"
+    },
+    {
+      "category": "Kiwi",
+      "image_id": "09d08e8143dc1658",
+      "split": "discovery"
+    },
+    {
+      "category": "Mango",
+      "image_id": "0a754f111a462637",
+      "split": "holdout"
+    },
+    {
+      "category": "Kiwi",
+      "image_id": "0b20ae39f34b6e9c",
+      "split": "discovery"
+    },
+    {
+      "category": "Mango",
+      "image_id": "0b30a236cf044e9b",
+      "split": "discovery"
+    },
+    {
+      "category": "Cherry",
+      "image_id": "0b40ae4a019573db",
+      "split": "discovery"
+    },
+    {
+      "category": "Blueberry",
+      "image_id": "0bb0d89fd9f8ce87",
+      "split": "discovery"
+    },
+    {
+      "category": "Mango",
+      "image_id": "0be127888c87b368",
+      "split": "discovery"
+    },
+    {
+      "category": "Kiwi",
+      "image_id": "0c26153037282b93",
+      "split": "discovery"
+    },
+    {
+      "category": "Mango",
+      "image_id": "0c43b15bf638ca24",
+      "split": "discovery"
+    },
+    {
+      "category": "Cherry",
+      "image_id": "0c9d2bf202410d22",
+      "split": "discovery"
+    },
+    {
+      "category": "Rockmelon",
+      "image_id": "0cbcbc1985ca0f3f",
+      "split": "holdout"
+    },
+    {
+      "category": "Cherry",
+      "image_id": "0cf53a61dee84337",
+      "split": "discovery"
+    },
+    {
+      "category": "Blueberry",
+      "image_id": "0d5cfdf8ee50c8f4",
+      "split": "discovery"
+    },
+    {
+      "category": "Kiwi",
+      "image_id": "0d718f965f42e302",
+      "split": "discovery"
+    },
+    {
+      "category": "Kiwi",
+      "image_id": "0e191f5a0965b27c",
+      "split": "discovery"
+    },
+    {
+      "category": "Mango",
+      "image_id": "0f09c1a8d0d4ccdb",
+      "split": "discovery"
+    },
+    {
+      "category": "Kiwi",
+      "image_id": "0f17512d36091ff0",
+      "split": "holdout"
+    },
+    {
+      "category": "Blueberry",
+      "image_id": "0f522134b4df2ca3",
+      "split": "discovery"
+    },
+    {
+      "category": "Mango",
+      "image_id": "0f9d0e829c1e54f3",
+      "split": "discovery"
+    },
+    {
+      "category": "Mango",
+      "image_id": "1073b3aa0de10a61",
+      "split": "discovery"
+    },
+    {
+      "category": "Rockmelon",
+      "image_id": "10cac7a6461a69d1",
+      "split": "discovery"
+    },
+    {
+      "category": "Kiwi",
+      "image_id": "10e7ef1b07b7b30a",
+      "split": "discovery"
+    },
+    {
+      "category": "Rockmelon",
+      "image_id": "10fb90845a3bcf26",
+      "split": "discovery"
+    },
+    {
+      "category": "Blueberry",
+      "image_id": "10ffb5145f437a28",
+      "split": "discovery"
+    },
+    {
+      "category": "Cherry",
+      "image_id": "117c36042a4b2057",
+      "split": "discovery"
+    },
+    {
+      "category": "Mango",
+      "image_id": "1327905f6da9f1b8",
+      "split": "discovery"
+    },
+    {
+      "category": "Blueberry",
+      "image_id": "13c63dd5738cd48f",
+      "split": "discovery"
+    },
+    {
+      "category": "Mango",
+      "image_id": "13e6b0d45047efad",
+      "split": "discovery"
+    },
+    {
+      "category": "Mango",
+      "image_id": "1444e757bea4ac54",
+      "split": "discovery"
+    },
+    {
+      "category": "Mango",
+      "image_id": "147dfd52ad5d300f",
+      "split": "discovery"
+    },
+    {
+      "category": "Mango",
+      "image_id": "153fb2792315fb25",
+      "split": "discovery"
+    },
+    {
+      "category": "Mango",
+      "image_id": "157de436403fe588",
+      "split": "discovery"
+    },
+    {
+      "category": "Mango",
+      "image_id": "16da97ff0a96cf1f",
+      "split": "discovery"
+    },
+    {
+      "category": "Cherry",
+      "image_id": "170afbce979790a7",
+      "split": "discovery"
+    },
+    {
+      "category": "Avocado",
+      "image_id": "17336bb50df1049c",
+      "split": "discovery"
+    },
+    {
+      "category": "Rockmelon",
+      "image_id": "17ab2f9f4f0855fc",
+      "split": "discovery"
+    },
+    {
+      "category": "Blueberry",
+      "image_id": "17d894547aed1e76",
+      "split": "discovery"
+    },
+    {
+      "category": "Mango",
+      "image_id": "18c472b3a19b89ab",
+      "split": "discovery"
+    },
+    {
+      "category": "Mango",
+      "image_id": "19560d54621e10b0",
+      "split": "discovery"
+    },
+    {
+      "category": "Mango",
+      "image_id": "19da31c6c508f263",
+      "split": "holdout"
+    },
+    {
+      "category": "Cherry",
+      "image_id": "1a2ad79fd2a54346",
+      "split": "holdout"
+    },
+    {
+      "category": "Rockmelon",
+      "image_id": "1a3e1bf11be7f413",
+      "split": "discovery"
+    },
+    {
+      "category": "Cherry",
+      "image_id": "1a828d0f3f74e79d",
+      "split": "discovery"
+    },
+    {
+      "category": "Mango",
+      "image_id": "1bd8876db053cb5c",
+      "split": "discovery"
+    },
+    {
+      "category": "Rockmelon",
+      "image_id": "1ce25e7dfe713bd7",
+      "split": "discovery"
+    },
+    {
+      "category": "Kiwi",
+      "image_id": "1d24ff1c7f3b8526",
+      "split": "discovery"
+    },
+    {
+      "category": "Cherry",
+      "image_id": "1d8f9f0b9f693b09",
+      "split": "discovery"
+    },
+    {
+      "category": "Blueberry",
+      "image_id": "1d95d3aba83ef392",
+      "split": "discovery"
+    },
+    {
+      "category": "Rockmelon",
+      "image_id": "1dcf5f4f049a6553",
+      "split": "discovery"
+    },
+    {
+      "category": "Cherry",
+      "image_id": "1de2c76e8ac4326b",
+      "split": "discovery"
+    },
+    {
+      "category": "Cherry",
+      "image_id": "1e56143784c94490",
+      "split": "discovery"
+    },
+    {
+      "category": "Rockmelon",
+      "image_id": "1e56d84f705702e2",
+      "split": "discovery"
+    },
+    {
+      "category": "Cherry",
+      "image_id": "1e96ce1ce344f785",
+      "split": "discovery"
+    },
+    {
+      "category": "Kiwi",
+      "image_id": "1f12ae47c931233d",
+      "split": "discovery"
+    },
+    {
+      "category": "Rockmelon",
+      "image_id": "1f373c6beee1a26c",
+      "split": "discovery"
+    },
+    {
+      "category": "Blueberry",
+      "image_id": "1ffd8371a9fa132b",
+      "split": "discovery"
+    },
+    {
+      "category": "Cherry",
+      "image_id": "212f3cad64863f8e",
+      "split": "discovery"
+    },
+    {
+      "category": "Mango",
+      "image_id": "21eaa0bbfbebcd50",
+      "split": "discovery"
+    },
+    {
+      "category": "Cherry",
+      "image_id": "22325befbef35e42",
+      "split": "discovery"
+    },
+    {
+      "category": "Rockmelon",
+      "image_id": "22933752c40d3992",
+      "split": "holdout"
+    },
+    {
+      "category": "Mango",
+      "image_id": "22cc9affa369a717",
+      "split": "discovery"
+    },
+    {
+      "category": "Mango",
+      "image_id": "22dbf55b751ad56d",
+      "split": "discovery"
+    },
+    {
+      "category": "Cherry",
+      "image_id": "231c78c593b64562",
+      "split": "discovery"
+    },
+    {
+      "category": "Cherry",
+      "image_id": "23270fe1a3c263ee",
+      "split": "holdout"
+    },
+    {
+      "category": "Rockmelon",
+      "image_id": "2366056aca4e86c7",
+      "split": "holdout"
+    },
+    {
+      "category": "Mango",
+      "image_id": "244967dab2f258b1",
+      "split": "holdout"
+    },
+    {
+      "category": "Blueberry",
+      "image_id": "24923d77d8dc6728",
+      "split": "discovery"
+    },
+    {
+      "category": "Mango",
+      "image_id": "249888ff7ff545c2",
+      "split": "discovery"
+    },
+    {
+      "category": "Cherry",
+      "image_id": "24cce4618673dd10",
+      "split": "discovery"
+    },
+    {
+      "category": "Blueberry",
+      "image_id": "254db7437fe92672",
+      "split": "discovery"
+    },
+    {
+      "category": "Cherry",
+      "image_id": "2556a722bc9993eb",
+      "split": "discovery"
+    },
+    {
+      "category": "Cherry",
+      "image_id": "2687c586d3a80ca2",
+      "split": "discovery"
+    },
+    {
+      "category": "Blueberry",
+      "image_id": "26e4fd2684f81faf",
+      "split": "discovery"
+    },
+    {
+      "category": "Mango",
+      "image_id": "273e32eaeb71e9fd",
+      "split": "discovery"
+    },
+    {
+      "category": "Cherry",
+      "image_id": "278f308a9ace381b",
+      "split": "holdout"
+    },
+    {
+      "category": "Blueberry",
+      "image_id": "27c3071e1527c07b",
+      "split": "discovery"
+    },
+    {
+      "category": "Rockmelon",
+      "image_id": "285cc88c68b47c19",
+      "split": "holdout"
+    },
+    {
+      "category": "Blueberry",
+      "image_id": "287cfdfdd48a2fa6",
+      "split": "discovery"
+    },
+    {
+      "category": "Blueberry",
+      "image_id": "2909286b8b1e86c7",
+      "split": "discovery"
+    },
+    {
+      "category": "Mango",
+      "image_id": "295c7d461015d0a7",
+      "split": "holdout"
+    },
+    {
+      "category": "Mango",
+      "image_id": "2972e14260834a6c",
+      "split": "discovery"
+    },
+    {
+      "category": "Blueberry",
+      "image_id": "2a173cf5169ff5eb",
+      "split": "discovery"
+    },
+    {
+      "category": "Rockmelon",
+      "image_id": "2a9d39276ee76181",
+      "split": "discovery"
+    },
+    {
+      "category": "Kiwi",
+      "image_id": "2b372db395e30f8b",
+      "split": "discovery"
+    },
+    {
+      "category": "Mango",
+      "image_id": "2ba52d32455cedc6",
+      "split": "discovery"
+    },
+    {
+      "category": "Mango",
+      "image_id": "2c215e6f3ae5ca55",
+      "split": "discovery"
+    },
+    {
+      "category": "Mango",
+      "image_id": "2cbc7aa3bd83f79e",
+      "split": "discovery"
+    },
+    {
+      "category": "Mango",
+      "image_id": "2d1e15b2c1e8457d",
+      "split": "discovery"
+    },
+    {
+      "category": "Cherry",
+      "image_id": "2d656cf10642468e",
+      "split": "holdout"
+    },
+    {
+      "category": "Blueberry",
+      "image_id": "2dda989781ed69ef",
+      "split": "holdout"
+    },
+    {
+      "category": "Rockmelon",
+      "image_id": "2e950cfe6f3851e1",
+      "split": "discovery"
+    },
+    {
+      "category": "Cherry",
+      "image_id": "2f3ccca18154aa28",
+      "split": "discovery"
+    },
+    {
+      "category": "Mango",
+      "image_id": "2f6825c914791fa3",
+      "split": "discovery"
+    },
+    {
+      "category": "Kiwi",
+      "image_id": "2f6bf8da3f46ae91",
+      "split": "discovery"
+    },
+    {
+      "category": "Avocado",
+      "image_id": "2fae88c5604c81a4",
+      "split": "holdout"
+    },
+    {
+      "category": "Rockmelon",
+      "image_id": "2ff8605d09ed8c2b",
+      "split": "discovery"
+    },
+    {
+      "category": "Mango",
+      "image_id": "30a0f81ab99cc0b2",
+      "split": "discovery"
+    },
+    {
+      "category": "Mango",
+      "image_id": "30fa3fce12ddd4eb",
+      "split": "discovery"
+    },
+    {
+      "category": "Mango",
+      "image_id": "31710e66ce94df9e",
+      "split": "discovery"
+    },
+    {
+      "category": "Kiwi",
+      "image_id": "31a5a472926d5ad5",
+      "split": "holdout"
+    },
+    {
+      "category": "Blueberry",
+      "image_id": "31bd0be7a4f4c1de",
+      "split": "discovery"
+    },
+    {
+      "category": "Avocado",
+      "image_id": "32065fc3123faf17",
+      "split": "discovery"
+    },
+    {
+      "category": "Cherry",
+      "image_id": "320ce645f9f9d01f",
+      "split": "holdout"
+    },
+    {
+      "category": "Cherry",
+      "image_id": "32442c505743990a",
+      "split": "discovery"
+    },
+    {
+      "category": "Mango",
+      "image_id": "32825c406e9e7a3a",
+      "split": "discovery"
+    },
+    {
+      "category": "Rockmelon",
+      "image_id": "32e72d34c2f4d982",
+      "split": "discovery"
+    },
+    {
+      "category": "Rockmelon",
+      "image_id": "336206e799e6ac82",
+      "split": "discovery"
+    },
+    {
+      "category": "Kiwi",
+      "image_id": "3419b404d3709898",
+      "split": "discovery"
+    },
+    {
+      "category": "Cherry",
+      "image_id": "36172c4cd4bc1c4f",
+      "split": "discovery"
+    },
+    {
+      "category": "Blueberry",
+      "image_id": "362d241a2f027a96",
+      "split": "discovery"
+    },
+    {
+      "category": "Kiwi",
+      "image_id": "36d69b27bf3d78e1",
+      "split": "discovery"
+    },
+    {
+      "category": "Kiwi",
+      "image_id": "36e3764f8006b730",
+      "split": "holdout"
+    },
+    {
+      "category": "Mango",
+      "image_id": "36fb32581c9217df",
+      "split": "holdout"
+    },
+    {
+      "category": "Mango",
+      "image_id": "370ce1af1f3a2dd6",
+      "split": "discovery"
+    },
+    {
+      "category": "Cherry",
+      "image_id": "379f221b67086df5",
+      "split": "discovery"
+    },
+    {
+      "category": "Blueberry",
+      "image_id": "38153c13fcb3bbb2",
+      "split": "discovery"
+    },
+    {
+      "category": "Cherry",
+      "image_id": "3839bccd512bef33",
+      "split": "discovery"
+    },
+    {
+      "category": "Blueberry",
+      "image_id": "39e40340db46b34e",
+      "split": "discovery"
+    },
+    {
+      "category": "Avocado",
+      "image_id": "3a212730f6084be4",
+      "split": "discovery"
+    },
+    {
+      "category": "Cherry",
+      "image_id": "3a2ad475b7671e6d",
+      "split": "holdout"
+    },
+    {
+      "category": "Rockmelon",
+      "image_id": "3a3cb3e5a7f46ff4",
+      "split": "discovery"
+    },
+    {
+      "category": "Cherry",
+      "image_id": "3b7e96479c443720",
+      "split": "discovery"
+    },
+    {
+      "category": "Blueberry",
+      "image_id": "3c8d151f93bbb194",
+      "split": "holdout"
+    },
+    {
+      "category": "Blueberry",
+      "image_id": "3c946e06210906a6",
+      "split": "discovery"
+    },
+    {
+      "category": "Cherry",
+      "image_id": "3ca150423576281d",
+      "split": "discovery"
+    },
+    {
+      "category": "Mango",
+      "image_id": "3cc2cf4faece029c",
+      "split": "holdout"
+    },
+    {
+      "category": "Kiwi",
+      "image_id": "3cefcfb225ec2d47",
+      "split": "discovery"
+    },
+    {
+      "category": "Kiwi",
+      "image_id": "3cf058f47dea5873",
+      "split": "holdout"
+    },
+    {
+      "category": "Kiwi",
+      "image_id": "3db61c9382c544b3",
+      "split": "discovery"
+    },
+    {
+      "category": "Cherry",
+      "image_id": "3dc8a940d897184b",
+      "split": "discovery"
+    },
+    {
+      "category": "Cherry",
+      "image_id": "3e15b7029b749ee9",
+      "split": "discovery"
+    },
+    {
+      "category": "Cherry",
+      "image_id": "3e169aa584da8419",
+      "split": "holdout"
+    },
+    {
+      "category": "Blueberry",
+      "image_id": "3e19ac6e824bd95a",
+      "split": "discovery"
+    },
+    {
+      "category": "Mango",
+      "image_id": "3e9265c56bbe67f0",
+      "split": "discovery"
+    },
+    {
+      "category": "Avocado",
+      "image_id": "3e96b3f6017b0c10",
+      "split": "discovery"
+    },
+    {
+      "category": "Cherry",
+      "image_id": "3edf1f222ec01575",
+      "split": "discovery"
+    },
+    {
+      "category": "Mango",
+      "image_id": "3ee018ce3fc44f62",
+      "split": "discovery"
+    },
+    {
+      "category": "Mango",
+      "image_id": "3ef8612ea3ca965e",
+      "split": "holdout"
+    },
+    {
+      "category": "Mango",
+      "image_id": "3f34d4a5bfae17b2",
+      "split": "discovery"
+    },
+    {
+      "category": "Mango",
+      "image_id": "3fc7ea91a05194ac",
+      "split": "discovery"
+    },
+    {
+      "category": "Mango",
+      "image_id": "400535bb71398175",
+      "split": "discovery"
+    },
+    {
+      "category": "Kiwi",
+      "image_id": "409596dae4a34460",
+      "split": "holdout"
+    },
+    {
+      "category": "Blueberry",
+      "image_id": "40dbe23b9ab550da",
+      "split": "discovery"
+    },
+    {
+      "category": "Cherry",
+      "image_id": "41111083ea8b4c61",
+      "split": "discovery"
+    },
+    {
+      "category": "Cherry",
+      "image_id": "4184ea6437799978",
+      "split": "discovery"
+    },
+    {
+      "category": "Blueberry",
+      "image_id": "41b7a68c649ed34f",
+      "split": "discovery"
+    },
+    {
+      "category": "Rockmelon",
+      "image_id": "41e8d000ccab1357",
+      "split": "discovery"
+    },
+    {
+      "category": "Cherry",
+      "image_id": "421168861de75837",
+      "split": "discovery"
+    },
+    {
+      "category": "Avocado",
+      "image_id": "42491bdf8cad974d",
+      "split": "discovery"
+    },
+    {
+      "category": "Rockmelon",
+      "image_id": "42bdda46035614f3",
+      "split": "discovery"
+    },
+    {
+      "category": "Mango",
+      "image_id": "4335c01f97833f91",
+      "split": "discovery"
+    },
+    {
+      "category": "Kiwi",
+      "image_id": "439b0379c71671c7",
+      "split": "discovery"
+    },
+    {
+      "category": "Cherry",
+      "image_id": "44938506c0d7a463",
+      "split": "discovery"
+    },
+    {
+      "category": "Rockmelon",
+      "image_id": "45a233daaa837e5e",
+      "split": "discovery"
+    },
+    {
+      "category": "Mango",
+      "image_id": "45ba0c1aaa996b09",
+      "split": "holdout"
+    },
+    {
+      "category": "Mango",
+      "image_id": "45d7336799a48a83",
+      "split": "discovery"
+    },
+    {
+      "category": "Kiwi",
+      "image_id": "46687ce7fd172cec",
+      "split": "discovery"
+    },
+    {
+      "category": "Cherry",
+      "image_id": "47233783b31f8b04",
+      "split": "discovery"
+    },
+    {
+      "category": "Blueberry",
+      "image_id": "479d0d14bfc522fc",
+      "split": "discovery"
+    },
+    {
+      "category": "Kiwi",
+      "image_id": "47d51bedfd989ee4",
+      "split": "holdout"
+    },
+    {
+      "category": "Mango",
+      "image_id": "480e93850eb0fda8",
+      "split": "discovery"
+    },
+    {
+      "category": "Mango",
+      "image_id": "483b94555b6fbe6d",
+      "split": "discovery"
+    },
+    {
+      "category": "Cherry",
+      "image_id": "488a1199e04434a5",
+      "split": "discovery"
+    },
+    {
+      "category": "Kiwi",
+      "image_id": "48ab100a0e3b6391",
+      "split": "discovery"
+    },
+    {
+      "category": "Blueberry",
+      "image_id": "491d858d1d97e091",
+      "split": "discovery"
+    },
+    {
+      "category": "Mango",
+      "image_id": "491e046a5c235e4f",
+      "split": "discovery"
+    },
+    {
+      "category": "Kiwi",
+      "image_id": "4930d56c4917aa9a",
+      "split": "discovery"
+    },
+    {
+      "category": "Rockmelon",
+      "image_id": "4972d101febd3811",
+      "split": "discovery"
+    },
+    {
+      "category": "Avocado",
+      "image_id": "4977831002650034",
+      "split": "discovery"
+    },
+    {
+      "category": "Rockmelon",
+      "image_id": "49cf47debe23f8c3",
+      "split": "discovery"
+    },
+    {
+      "category": "Rockmelon",
+      "image_id": "49d54d0fed5bacc6",
+      "split": "discovery"
+    },
+    {
+      "category": "Cherry",
+      "image_id": "4a3492a002ee3300",
+      "split": "discovery"
+    },
+    {
+      "category": "Cherry",
+      "image_id": "4a43d3d36051c2f2",
+      "split": "discovery"
+    },
+    {
+      "category": "Kiwi",
+      "image_id": "4a5bb351ea6b763d",
+      "split": "holdout"
+    },
+    {
+      "category": "Cherry",
+      "image_id": "4b1d3a5cf7ff3736",
+      "split": "discovery"
+    },
+    {
+      "category": "Mango",
+      "image_id": "4b3d0bea92a27411",
+      "split": "holdout"
+    },
+    {
+      "category": "Blueberry",
+      "image_id": "4b6a2d40b02c5920",
+      "split": "discovery"
+    },
+    {
+      "category": "Mango",
+      "image_id": "4ba1cfcd348bad68",
+      "split": "discovery"
+    },
+    {
+      "category": "Cherry",
+      "image_id": "4bcb01e55e6548bb",
+      "split": "discovery"
+    },
+    {
+      "category": "Mango",
+      "image_id": "4be1bc05dee95945",
+      "split": "discovery"
+    },
+    {
+      "category": "Cherry",
+      "image_id": "4dc11f56631bdbcc",
+      "split": "holdout"
+    },
+    {
+      "category": "Mango",
+      "image_id": "4e33db5b5c3311ca",
+      "split": "discovery"
+    },
+    {
+      "category": "Rockmelon",
+      "image_id": "4e9b64e32f541d2e",
+      "split": "discovery"
+    },
+    {
+      "category": "Mango",
+      "image_id": "4f2ce86ce4312a1f",
+      "split": "discovery"
+    },
+    {
+      "category": "Blueberry",
+      "image_id": "4faefc895d17f8da",
+      "split": "discovery"
+    },
+    {
+      "category": "Rockmelon",
+      "image_id": "50afcfbcb53dccdc",
+      "split": "discovery"
+    },
+    {
+      "category": "Blueberry",
+      "image_id": "50b9bc6d1ec280e1",
+      "split": "holdout"
+    },
+    {
+      "category": "Blueberry",
+      "image_id": "51446c367adb7b21",
+      "split": "holdout"
+    },
+    {
+      "category": "Mango",
+      "image_id": "51c4433123395733",
+      "split": "holdout"
+    },
+    {
+      "category": "Blueberry",
+      "image_id": "5235e45e38320528",
+      "split": "discovery"
+    },
+    {
+      "category": "Kiwi",
+      "image_id": "5286ccf14de87e9a",
+      "split": "discovery"
+    },
+    {
+      "category": "Mango",
+      "image_id": "52c0bbcbfb71732e",
+      "split": "holdout"
+    },
+    {
+      "category": "Avocado",
+      "image_id": "530585f26dc0e4b5",
+      "split": "discovery"
+    },
+    {
+      "category": "Avocado",
+      "image_id": "53dc9ce6f3e72f46",
+      "split": "holdout"
+    },
+    {
+      "category": "Mango",
+      "image_id": "5525f7c3af69efd9",
+      "split": "discovery"
+    },
+    {
+      "category": "Blueberry",
+      "image_id": "555f80fe5df98f86",
+      "split": "discovery"
+    },
+    {
+      "category": "Kiwi",
+      "image_id": "55b7d28728210fa6",
+      "split": "discovery"
+    },
+    {
+      "category": "Avocado",
+      "image_id": "564545b14e02a078",
+      "split": "discovery"
+    },
+    {
+      "category": "Cherry",
+      "image_id": "564a6a01a1629c41",
+      "split": "discovery"
+    },
+    {
+      "category": "Kiwi",
+      "image_id": "564b28307efff8fd",
+      "split": "discovery"
+    },
+    {
+      "category": "Cherry",
+      "image_id": "56fc6caf30403b6a",
+      "split": "discovery"
+    },
+    {
+      "category": "Mango",
+      "image_id": "57ad37815da9c28a",
+      "split": "holdout"
+    },
+    {
+      "category": "Avocado",
+      "image_id": "583e145c3fe18f90",
+      "split": "discovery"
+    },
+    {
+      "category": "Mango",
+      "image_id": "58bc8a17deb3c12e",
+      "split": "holdout"
+    },
+    {
+      "category": "Mango",
+      "image_id": "5922be904a565f26",
+      "split": "discovery"
+    },
+    {
+      "category": "Cherry",
+      "image_id": "595dc656714f06e1",
+      "split": "discovery"
+    },
+    {
+      "category": "Mango",
+      "image_id": "59fff582e7240532",
+      "split": "discovery"
+    },
+    {
+      "category": "Rockmelon",
+      "image_id": "5a15d0f8540d3e52",
+      "split": "discovery"
+    },
+    {
+      "category": "Rockmelon",
+      "image_id": "5a62ca02b057e0b8",
+      "split": "holdout"
+    },
+    {
+      "category": "Mango",
+      "image_id": "5a917292fdf091c0",
+      "split": "discovery"
+    },
+    {
+      "category": "Cherry",
+      "image_id": "5a9b390124ea3dc2",
+      "split": "holdout"
+    },
+    {
+      "category": "Kiwi",
+      "image_id": "5aa7c2513d5035d0",
+      "split": "discovery"
+    },
+    {
+      "category": "Blueberry",
+      "image_id": "5af3d25c35429e67",
+      "split": "holdout"
+    },
+    {
+      "category": "Mango",
+      "image_id": "5bcd58d9e9a2fd58",
+      "split": "discovery"
+    },
+    {
+      "category": "Mango",
+      "image_id": "5bfad60cefb0950a",
+      "split": "holdout"
+    },
+    {
+      "category": "Mango",
+      "image_id": "5d574bf4519f2de0",
+      "split": "holdout"
+    },
+    {
+      "category": "Cherry",
+      "image_id": "5dbbdcba533cca27",
+      "split": "holdout"
+    },
+    {
+      "category": "Cherry",
+      "image_id": "5e4dc01a74455726",
+      "split": "discovery"
+    },
+    {
+      "category": "Kiwi",
+      "image_id": "5e5bbc1f11b549d9",
+      "split": "holdout"
+    },
+    {
+      "category": "Kiwi",
+      "image_id": "5e5d58d65c768e20",
+      "split": "discovery"
+    },
+    {
+      "category": "Mango",
+      "image_id": "5e8c277617d04528",
+      "split": "discovery"
+    },
+    {
+      "category": "Kiwi",
+      "image_id": "5ea3c0f8150d3f7e",
+      "split": "discovery"
+    },
+    {
+      "category": "Kiwi",
+      "image_id": "5ee696bdb7fee44d",
+      "split": "discovery"
+    },
+    {
+      "category": "Kiwi",
+      "image_id": "5f77a4f94b10ddf9",
+      "split": "discovery"
+    },
+    {
+      "category": "Cherry",
+      "image_id": "5ff6dcb7c6e3711c",
+      "split": "discovery"
+    },
+    {
+      "category": "Cherry",
+      "image_id": "6079cf7714a241ec",
+      "split": "discovery"
+    },
+    {
+      "category": "Kiwi",
+      "image_id": "60b1e65f5322039b",
+      "split": "discovery"
+    },
+    {
+      "category": "Mango",
+      "image_id": "60c161c2ecf54a16",
+      "split": "holdout"
+    },
+    {
+      "category": "Mango",
+      "image_id": "61736938f00ff442",
+      "split": "discovery"
+    },
+    {
+      "category": "Cherry",
+      "image_id": "61aa649c36d6b64e",
+      "split": "holdout"
+    },
+    {
+      "category": "Cherry",
+      "image_id": "61fa59e7c8a19e19",
+      "split": "discovery"
+    },
+    {
+      "category": "Avocado",
+      "image_id": "6319119916a670a8",
+      "split": "discovery"
+    },
+    {
+      "category": "Cherry",
+      "image_id": "6380508fa9d5f7aa",
+      "split": "discovery"
+    },
+    {
+      "category": "Mango",
+      "image_id": "638063e8dc22a3fc",
+      "split": "discovery"
+    },
+    {
+      "category": "Kiwi",
+      "image_id": "63d87e43f647c520",
+      "split": "discovery"
+    },
+    {
+      "category": "Blueberry",
+      "image_id": "64c63357452b8bec",
+      "split": "discovery"
+    },
+    {
+      "category": "Mango",
+      "image_id": "64f5b7efe5c2591e",
+      "split": "discovery"
+    },
+    {
+      "category": "Cherry",
+      "image_id": "6520c1ba7df642e3",
+      "split": "holdout"
+    },
+    {
+      "category": "Mango",
+      "image_id": "6559fbeeef66a392",
+      "split": "holdout"
+    },
+    {
+      "category": "Mango",
+      "image_id": "65e4b3f97b43f1e0",
+      "split": "discovery"
+    },
+    {
+      "category": "Cherry",
+      "image_id": "669bdae3501628ae",
+      "split": "discovery"
+    },
+    {
+      "category": "Cherry",
+      "image_id": "66bdc0f27b124f58",
+      "split": "discovery"
+    },
+    {
+      "category": "Rockmelon",
+      "image_id": "670064d646574f3d",
+      "split": "discovery"
+    },
+    {
+      "category": "Mango",
+      "image_id": "67e51cbb98d64491",
+      "split": "discovery"
+    },
+    {
+      "category": "Cherry",
+      "image_id": "68346162602357b2",
+      "split": "discovery"
+    },
+    {
+      "category": "Blueberry",
+      "image_id": "68b4c5977021c67f",
+      "split": "discovery"
+    },
+    {
+      "category": "Rockmelon",
+      "image_id": "68d49e19b0341fed",
+      "split": "discovery"
+    },
+    {
+      "category": "Kiwi",
+      "image_id": "69112e3d70777c1d",
+      "split": "discovery"
+    },
+    {
+      "category": "Kiwi",
+      "image_id": "69a025af0deafa9e",
+      "split": "discovery"
+    },
+    {
+      "category": "Mango",
+      "image_id": "6ab403733e38d59b",
+      "split": "discovery"
+    },
+    {
+      "category": "Avocado",
+      "image_id": "6bac2ae044049d40",
+      "split": "discovery"
+    },
+    {
+      "category": "Blueberry",
+      "image_id": "6d307b303d6e5c3e",
+      "split": "discovery"
+    },
+    {
+      "category": "Avocado",
+      "image_id": "6d9830610109d29c",
+      "split": "discovery"
+    },
+    {
+      "category": "Kiwi",
+      "image_id": "6eb7d9cc40f86d2e",
+      "split": "discovery"
+    },
+    {
+      "category": "Mango",
+      "image_id": "6ede86a6cafbffad",
+      "split": "discovery"
+    },
+    {
+      "category": "Kiwi",
+      "image_id": "6ef1991c9c90773b",
+      "split": "discovery"
+    },
+    {
+      "category": "Kiwi",
+      "image_id": "701d9abe27f48bed",
+      "split": "discovery"
+    },
+    {
+      "category": "Cherry",
+      "image_id": "71122ea1ecaf8c65",
+      "split": "discovery"
+    },
+    {
+      "category": "Blueberry",
+      "image_id": "7113921abfaf4d0b",
+      "split": "holdout"
+    },
+    {
+      "category": "Cherry",
+      "image_id": "713fe5d564724eca",
+      "split": "discovery"
+    },
+    {
+      "category": "Rockmelon",
+      "image_id": "7143db289b6aea68",
+      "split": "holdout"
+    },
+    {
+      "category": "Cherry",
+      "image_id": "71a6196a48f29804",
+      "split": "discovery"
+    },
+    {
+      "category": "Mango",
+      "image_id": "71e04012d93079c2",
+      "split": "discovery"
+    },
+    {
+      "category": "Avocado",
+      "image_id": "723edd739c9293a3",
+      "split": "discovery"
+    },
+    {
+      "category": "Cherry",
+      "image_id": "7251232d4ac35ef5",
+      "split": "discovery"
+    },
+    {
+      "category": "Blueberry",
+      "image_id": "72700931736aadd1",
+      "split": "discovery"
+    },
+    {
+      "category": "Blueberry",
+      "image_id": "7289f73bff148825",
+      "split": "discovery"
+    },
+    {
+      "category": "Kiwi",
+      "image_id": "72f9b94eae2cca17",
+      "split": "holdout"
+    },
+    {
+      "category": "Mango",
+      "image_id": "73706feabb9b9cf5",
+      "split": "holdout"
+    },
+    {
+      "category": "Mango",
+      "image_id": "7385ba996b60e317",
+      "split": "holdout"
+    },
+    {
+      "category": "Kiwi",
+      "image_id": "74394f2d2b01115a",
+      "split": "holdout"
+    },
+    {
+      "category": "Cherry",
+      "image_id": "74775849ca6b10c0",
+      "split": "holdout"
+    },
+    {
+      "category": "Blueberry",
+      "image_id": "75d364df614c2872",
+      "split": "discovery"
+    },
+    {
+      "category": "Rockmelon",
+      "image_id": "760d56960fa0ff9e",
+      "split": "discovery"
+    },
+    {
+      "category": "Blueberry",
+      "image_id": "7655080dbad99e2d",
+      "split": "discovery"
+    },
+    {
+      "category": "Cherry",
+      "image_id": "76bf57a788168365",
+      "split": "discovery"
+    },
+    {
+      "category": "Blueberry",
+      "image_id": "77254be226a25fcb",
+      "split": "discovery"
+    },
+    {
+      "category": "Mango",
+      "image_id": "7734e88da82c6a87",
+      "split": "discovery"
+    },
+    {
+      "category": "Cherry",
+      "image_id": "7800a71f9e3c9e34",
+      "split": "discovery"
+    },
+    {
+      "category": "Cherry",
+      "image_id": "7805362077177dd2",
+      "split": "discovery"
+    },
+    {
+      "category": "Rockmelon",
+      "image_id": "782b0d63ea9d5366",
+      "split": "discovery"
+    },
+    {
+      "category": "Mango",
+      "image_id": "78453ad3e5528f54",
+      "split": "holdout"
+    },
+    {
+      "category": "Cherry",
+      "image_id": "789f24ca4e3b6969",
+      "split": "discovery"
+    },
+    {
+      "category": "Kiwi",
+      "image_id": "7990f860a81719f6",
+      "split": "discovery"
+    },
+    {
+      "category": "Mango",
+      "image_id": "7a7300b13a9ac245",
+      "split": "discovery"
+    },
+    {
+      "category": "Kiwi",
+      "image_id": "7aa6e365be49d9b1",
+      "split": "discovery"
+    },
+    {
+      "category": "Kiwi",
+      "image_id": "7b83a98d047774d0",
+      "split": "discovery"
+    },
+    {
+      "category": "Cherry",
+      "image_id": "7be05f985f7b847c",
+      "split": "discovery"
+    },
+    {
+      "category": "Cherry",
+      "image_id": "7c2f60521f48677b",
+      "split": "discovery"
+    },
+    {
+      "category": "Mango",
+      "image_id": "7c561535faf62e41",
+      "split": "discovery"
+    },
+    {
+      "category": "Avocado",
+      "image_id": "7c88292504888e4a",
+      "split": "holdout"
+    },
+    {
+      "category": "Kiwi",
+      "image_id": "7e2e02a8ccb9cacc",
+      "split": "holdout"
+    },
+    {
+      "category": "Avocado",
+      "image_id": "7fd596c7838b0328",
+      "split": "holdout"
+    },
+    {
+      "category": "Cherry",
+      "image_id": "7ff3a87e4a2d8ad9",
+      "split": "discovery"
+    },
+    {
+      "category": "Mango",
+      "image_id": "7ff93549188d5c9b",
+      "split": "discovery"
+    },
+    {
+      "category": "Mango",
+      "image_id": "804086799c58075a",
+      "split": "discovery"
+    },
+    {
+      "category": "Blueberry",
+      "image_id": "80aa449345487d10",
+      "split": "holdout"
+    },
+    {
+      "category": "Mango",
+      "image_id": "80b3e1c6decfe144",
+      "split": "holdout"
+    },
+    {
+      "category": "Mango",
+      "image_id": "80bafbb1739599ce",
+      "split": "holdout"
+    },
+    {
+      "category": "Mango",
+      "image_id": "80d27499e877c2f9",
+      "split": "discovery"
+    },
+    {
+      "category": "Kiwi",
+      "image_id": "80e36d0a2dd69418",
+      "split": "discovery"
+    },
+    {
+      "category": "Cherry",
+      "image_id": "8164a021705defe0",
+      "split": "discovery"
+    },
+    {
+      "category": "Mango",
+      "image_id": "81dc0471fc221a54",
+      "split": "discovery"
+    },
+    {
+      "category": "Mango",
+      "image_id": "8268b47b20ee4d00",
+      "split": "discovery"
+    },
+    {
+      "category": "Avocado",
+      "image_id": "82ff058a667e5772",
+      "split": "discovery"
+    },
+    {
+      "category": "Kiwi",
+      "image_id": "830cfac597879e76",
+      "split": "discovery"
+    },
+    {
+      "category": "Cherry",
+      "image_id": "841c102640e0b7a1",
+      "split": "holdout"
+    },
+    {
+      "category": "Kiwi",
+      "image_id": "84b8965109ee4b11",
+      "split": "discovery"
+    },
+    {
+      "category": "Kiwi",
+      "image_id": "8539c828265eb649",
+      "split": "discovery"
+    },
+    {
+      "category": "Cherry",
+      "image_id": "8576bf62073f3b5f",
+      "split": "discovery"
+    },
+    {
+      "category": "Cherry",
+      "image_id": "8580913de3d437d0",
+      "split": "holdout"
+    },
+    {
+      "category": "Blueberry",
+      "image_id": "86839c75357df07d",
+      "split": "discovery"
+    },
+    {
+      "category": "Mango",
+      "image_id": "86868a81d6cbcc25",
+      "split": "discovery"
+    },
+    {
+      "category": "Kiwi",
+      "image_id": "86a308873a79ddbe",
+      "split": "discovery"
+    },
+    {
+      "category": "Kiwi",
+      "image_id": "87dd0f5cd892c22d",
+      "split": "discovery"
+    },
+    {
+      "category": "Cherry",
+      "image_id": "87f53d123598d81d",
+      "split": "discovery"
+    },
+    {
+      "category": "Blueberry",
+      "image_id": "87fe13db6e609661",
+      "split": "holdout"
+    },
+    {
+      "category": "Kiwi",
+      "image_id": "88642f6474fc88c3",
+      "split": "holdout"
+    },
+    {
+      "category": "Mango",
+      "image_id": "887d76cd5291f890",
+      "split": "discovery"
+    },
+    {
+      "category": "Rockmelon",
+      "image_id": "88a79c0027d069e6",
+      "split": "holdout"
+    },
+    {
+      "category": "Cherry",
+      "image_id": "88c0687548bb1c6c",
+      "split": "discovery"
+    },
+    {
+      "category": "Mango",
+      "image_id": "88d9c54a734ef0d8",
+      "split": "discovery"
+    },
+    {
+      "category": "Rockmelon",
+      "image_id": "891dd593fa5c688d",
+      "split": "discovery"
+    },
+    {
+      "category": "Mango",
+      "image_id": "89761dd9e7b88720",
+      "split": "discovery"
+    },
+    {
+      "category": "Mango",
+      "image_id": "8a2bb1a0e4bb6d06",
+      "split": "holdout"
+    },
+    {
+      "category": "Mango",
+      "image_id": "8a6c39a0319b4917",
+      "split": "discovery"
+    },
+    {
+      "category": "Kiwi",
+      "image_id": "8b0f977990ebf025",
+      "split": "discovery"
+    },
+    {
+      "category": "Cherry",
+      "image_id": "8bfec422cd072fb3",
+      "split": "discovery"
+    },
+    {
+      "category": "Cherry",
+      "image_id": "8d63da9f9160e522",
+      "split": "discovery"
+    },
+    {
+      "category": "Kiwi",
+      "image_id": "8df801bdc1a0c775",
+      "split": "discovery"
+    },
+    {
+      "category": "Avocado",
+      "image_id": "8ec13904b93196e9",
+      "split": "holdout"
+    },
+    {
+      "category": "Kiwi",
+      "image_id": "8ed750c64a59973a",
+      "split": "discovery"
+    },
+    {
+      "category": "Rockmelon",
+      "image_id": "8f31d0a4335f9590",
+      "split": "holdout"
+    },
+    {
+      "category": "Avocado",
+      "image_id": "8fa87a902367a20d",
+      "split": "holdout"
+    },
+    {
+      "category": "Mango",
+      "image_id": "8fc8b4d50b13ba03",
+      "split": "discovery"
+    },
+    {
+      "category": "Kiwi",
+      "image_id": "902c652feb60cea6",
+      "split": "discovery"
+    },
+    {
+      "category": "Mango",
+      "image_id": "90ceeefb2e1dfaf7",
+      "split": "discovery"
+    },
+    {
+      "category": "Avocado",
+      "image_id": "90de819ed9def695",
+      "split": "discovery"
+    },
+    {
+      "category": "Mango",
+      "image_id": "918c1158f18065a6",
+      "split": "discovery"
+    },
+    {
+      "category": "Kiwi",
+      "image_id": "918ca26924778858",
+      "split": "discovery"
+    },
+    {
+      "category": "Avocado",
+      "image_id": "92889c364ec2ba9b",
+      "split": "discovery"
+    },
+    {
+      "category": "Mango",
+      "image_id": "93043532ab33516e",
+      "split": "discovery"
+    },
+    {
+      "category": "Rockmelon",
+      "image_id": "9334d2ebee918c53",
+      "split": "discovery"
+    },
+    {
+      "category": "Mango",
+      "image_id": "9344217df44c5b51",
+      "split": "discovery"
+    },
+    {
+      "category": "Kiwi",
+      "image_id": "93814a79cb056d0e",
+      "split": "discovery"
+    },
+    {
+      "category": "Kiwi",
+      "image_id": "93eac743486d27fb",
+      "split": "discovery"
+    },
+    {
+      "category": "Cherry",
+      "image_id": "9439d7924a3961e1",
+      "split": "discovery"
+    },
+    {
+      "category": "Mango",
+      "image_id": "947407c40b7d080d",
+      "split": "discovery"
+    },
+    {
+      "category": "Kiwi",
+      "image_id": "94d5b7605cec295b",
+      "split": "discovery"
+    },
+    {
+      "category": "Kiwi",
+      "image_id": "95adf849d36aadab",
+      "split": "discovery"
+    },
+    {
+      "category": "Blueberry",
+      "image_id": "95fcb830b4c51d79",
+      "split": "holdout"
+    },
+    {
+      "category": "Mango",
+      "image_id": "969d844f0a900a42",
+      "split": "discovery"
+    },
+    {
+      "category": "Kiwi",
+      "image_id": "970c33e9efc937d9",
+      "split": "discovery"
+    },
+    {
+      "category": "Mango",
+      "image_id": "975d5fc306c86ad1",
+      "split": "discovery"
+    },
+    {
+      "category": "Mango",
+      "image_id": "99e24d48acf66b03",
+      "split": "discovery"
+    },
+    {
+      "category": "Kiwi",
+      "image_id": "99ef39f01f882369",
+      "split": "discovery"
+    },
+    {
+      "category": "Blueberry",
+      "image_id": "9a03907651cad486",
+      "split": "discovery"
+    },
+    {
+      "category": "Mango",
+      "image_id": "9a65e315e8d80829",
+      "split": "discovery"
+    },
+    {
+      "category": "Mango",
+      "image_id": "9a844ee8b1927ed7",
+      "split": "discovery"
+    },
+    {
+      "category": "Avocado",
+      "image_id": "9acc9ddbfaad1284",
+      "split": "discovery"
+    },
+    {
+      "category": "Avocado",
+      "image_id": "9ae551045be8b45d",
+      "split": "discovery"
+    },
+    {
+      "category": "Cherry",
+      "image_id": "9af765ae700904a0",
+      "split": "discovery"
+    },
+    {
+      "category": "Blueberry",
+      "image_id": "9b49bef18de659cb",
+      "split": "discovery"
+    },
+    {
+      "category": "Cherry",
+      "image_id": "9b9daeb39c6295c3",
+      "split": "discovery"
+    },
+    {
+      "category": "Kiwi",
+      "image_id": "9bc7617d1508ff9a",
+      "split": "discovery"
+    },
+    {
+      "category": "Mango",
+      "image_id": "9bdd995987b3c3b4",
+      "split": "discovery"
+    },
+    {
+      "category": "Kiwi",
+      "image_id": "9c7a459ec8e6dfac",
+      "split": "discovery"
+    },
+    {
+      "category": "Rockmelon",
+      "image_id": "9cce09cc92ca029f",
+      "split": "discovery"
+    },
+    {
+      "category": "Blueberry",
+      "image_id": "9cf931b5fb6d74e7",
+      "split": "discovery"
+    },
+    {
+      "category": "Cherry",
+      "image_id": "9db526f58b2fdc86",
+      "split": "holdout"
+    },
+    {
+      "category": "Blueberry",
+      "image_id": "9dcf5b565676e128",
+      "split": "discovery"
+    },
+    {
+      "category": "Mango",
+      "image_id": "9ddc9b06ca2b5192",
+      "split": "discovery"
+    },
+    {
+      "category": "Avocado",
+      "image_id": "9de99ac563b0fbcc",
+      "split": "holdout"
+    },
+    {
+      "category": "Cherry",
+      "image_id": "9e368e45cd5ae0c3",
+      "split": "discovery"
+    },
+    {
+      "category": "Kiwi",
+      "image_id": "9e3c40fe007c9bc8",
+      "split": "discovery"
+    },
+    {
+      "category": "Rockmelon",
+      "image_id": "9ecc8caa6a41ef3e",
+      "split": "discovery"
+    },
+    {
+      "category": "Mango",
+      "image_id": "9edfd326a575b162",
+      "split": "holdout"
+    },
+    {
+      "category": "Cherry",
+      "image_id": "9eee808b177cff5e",
+      "split": "discovery"
+    },
+    {
+      "category": "Mango",
+      "image_id": "9f8e425757e0e4e1",
+      "split": "discovery"
+    },
+    {
+      "category": "Cherry",
+      "image_id": "9fa211af3878ae40",
+      "split": "discovery"
+    },
+    {
+      "category": "Blueberry",
+      "image_id": "a03eb253eb70e0b2",
+      "split": "discovery"
+    },
+    {
+      "category": "Kiwi",
+      "image_id": "a0a220b025b404e6",
+      "split": "discovery"
+    },
+    {
+      "category": "Cherry",
+      "image_id": "a0c6107ecb5581ab",
+      "split": "discovery"
+    },
+    {
+      "category": "Mango",
+      "image_id": "a0d8491ff92d6169",
+      "split": "discovery"
+    },
+    {
+      "category": "Kiwi",
+      "image_id": "a1c45967fbe02a89",
+      "split": "discovery"
+    },
+    {
+      "category": "Mango",
+      "image_id": "a1da54fb6ea19661",
+      "split": "discovery"
+    },
+    {
+      "category": "Rockmelon",
+      "image_id": "a1dc229325e7259c",
+      "split": "discovery"
+    },
+    {
+      "category": "Kiwi",
+      "image_id": "a232ef09fc28a298",
+      "split": "holdout"
+    },
+    {
+      "category": "Kiwi",
+      "image_id": "a2ed67d724ffbfc2",
+      "split": "holdout"
+    },
+    {
+      "category": "Kiwi",
+      "image_id": "a4551b402ded69e2",
+      "split": "discovery"
+    },
+    {
+      "category": "Kiwi",
+      "image_id": "a559f800acf866e0",
+      "split": "discovery"
+    },
+    {
+      "category": "Mango",
+      "image_id": "a5ace3e3d7ed66e3",
+      "split": "discovery"
+    },
+    {
+      "category": "Cherry",
+      "image_id": "a6c3841f129e9912",
+      "split": "discovery"
+    },
+    {
+      "category": "Cherry",
+      "image_id": "a70bd2a55563c451",
+      "split": "holdout"
+    },
+    {
+      "category": "Kiwi",
+      "image_id": "a7a9b98f8e168567",
+      "split": "discovery"
+    },
+    {
+      "category": "Cherry",
+      "image_id": "a7ffcd9f4487b627",
+      "split": "holdout"
+    },
+    {
+      "category": "Kiwi",
+      "image_id": "a87ec5326a7dc723",
+      "split": "discovery"
+    },
+    {
+      "category": "Rockmelon",
+      "image_id": "a887feb4374389c8",
+      "split": "discovery"
+    },
+    {
+      "category": "Kiwi",
+      "image_id": "a8a06ba6e20057f6",
+      "split": "discovery"
+    },
+    {
+      "category": "Cherry",
+      "image_id": "a8a6a6eee309f756",
+      "split": "discovery"
+    },
+    {
+      "category": "Cherry",
+      "image_id": "a9774543de52c23e",
+      "split": "holdout"
+    },
+    {
+      "category": "Avocado",
+      "image_id": "a9ced89f06aac539",
+      "split": "discovery"
+    },
+    {
+      "category": "Cherry",
+      "image_id": "a9fa3e05d6dfca0b",
+      "split": "holdout"
+    },
+    {
+      "category": "Mango",
+      "image_id": "aa1cd54aaaa2e67d",
+      "split": "discovery"
+    },
+    {
+      "category": "Cherry",
+      "image_id": "aa5ee1072fa7390e",
+      "split": "discovery"
+    },
+    {
+      "category": "Kiwi",
+      "image_id": "aac7ee278671976a",
+      "split": "discovery"
+    },
+    {
+      "category": "Kiwi",
+      "image_id": "ab9c4011ebcea954",
+      "split": "discovery"
+    },
+    {
+      "category": "Cherry",
+      "image_id": "ac25ebf91f8592b1",
+      "split": "discovery"
+    },
+    {
+      "category": "Mango",
+      "image_id": "aca450595f8be23a",
+      "split": "discovery"
+    },
+    {
+      "category": "Kiwi",
+      "image_id": "acc8752ba2952cef",
+      "split": "discovery"
+    },
+    {
+      "category": "Cherry",
+      "image_id": "ad23f6b414740c5a",
+      "split": "discovery"
+    },
+    {
+      "category": "Blueberry",
+      "image_id": "ad5d6a69b06c29c2",
+      "split": "holdout"
+    },
+    {
+      "category": "Avocado",
+      "image_id": "ad7da6c6b1ad2f0b",
+      "split": "holdout"
+    },
+    {
+      "category": "Blueberry",
+      "image_id": "ad87deb3890a977b",
+      "split": "discovery"
+    },
+    {
+      "category": "Kiwi",
+      "image_id": "add5b22f08cfbc98",
+      "split": "holdout"
+    },
+    {
+      "category": "Mango",
+      "image_id": "ae4d33ce3847dd4f",
+      "split": "discovery"
+    },
+    {
+      "category": "Avocado",
+      "image_id": "af7e8efd6e35ae66",
+      "split": "holdout"
+    },
+    {
+      "category": "Kiwi",
+      "image_id": "af81005d743850eb",
+      "split": "discovery"
+    },
+    {
+      "category": "Mango",
+      "image_id": "afd99e9a76e2b38a",
+      "split": "discovery"
+    },
+    {
+      "category": "Avocado",
+      "image_id": "b0376b65d572966a",
+      "split": "holdout"
+    },
+    {
+      "category": "Mango",
+      "image_id": "b11c91fca85d9a96",
+      "split": "discovery"
+    },
+    {
+      "category": "Blueberry",
+      "image_id": "b132d48e6fcaa3b7",
+      "split": "discovery"
+    },
+    {
+      "category": "Mango",
+      "image_id": "b19d29c4c80e00c8",
+      "split": "discovery"
+    },
+    {
+      "category": "Cherry",
+      "image_id": "b21f377f93a8272c",
+      "split": "holdout"
+    },
+    {
+      "category": "Cherry",
+      "image_id": "b2d7ba08db4a6682",
+      "split": "holdout"
+    },
+    {
+      "category": "Kiwi",
+      "image_id": "b342118e1b736fb4",
+      "split": "discovery"
+    },
+    {
+      "category": "Avocado",
+      "image_id": "b3803dcba6583e82",
+      "split": "discovery"
+    },
+    {
+      "category": "Mango",
+      "image_id": "b405f5823b4b050d",
+      "split": "discovery"
+    },
+    {
+      "category": "Mango",
+      "image_id": "b455882e249d0363",
+      "split": "discovery"
+    },
+    {
+      "category": "Avocado",
+      "image_id": "b4f1e1e5e276c162",
+      "split": "discovery"
+    },
+    {
+      "category": "Avocado",
+      "image_id": "b578d17b728703e0",
+      "split": "discovery"
+    },
+    {
+      "category": "Mango",
+      "image_id": "b61cf29ec01eab6b",
+      "split": "discovery"
+    },
+    {
+      "category": "Cherry",
+      "image_id": "b6fd6c9a3a03ff47",
+      "split": "discovery"
+    },
+    {
+      "category": "Mango",
+      "image_id": "b73ba247015af6d0",
+      "split": "holdout"
+    },
+    {
+      "category": "Mango",
+      "image_id": "b74b7b1e3d3db9c1",
+      "split": "discovery"
+    },
+    {
+      "category": "Kiwi",
+      "image_id": "b799664fb6b901bd",
+      "split": "discovery"
+    },
+    {
+      "category": "Avocado",
+      "image_id": "b7a6416c3f8f8f29",
+      "split": "discovery"
+    },
+    {
+      "category": "Blueberry",
+      "image_id": "b7b4a80ec9e4935f",
+      "split": "discovery"
+    },
+    {
+      "category": "Kiwi",
+      "image_id": "b7d2340e8692aa3d",
+      "split": "discovery"
+    },
+    {
+      "category": "Mango",
+      "image_id": "b7eea99884f3ff5e",
+      "split": "discovery"
+    },
+    {
+      "category": "Kiwi",
+      "image_id": "b81601dfe6776196",
+      "split": "discovery"
+    },
+    {
+      "category": "Cherry",
+      "image_id": "b8b30f93e8cc16f4",
+      "split": "discovery"
+    },
+    {
+      "category": "Kiwi",
+      "image_id": "b900f926e2cc83dd",
+      "split": "discovery"
+    },
+    {
+      "category": "Cherry",
+      "image_id": "b93542b4a703f684",
+      "split": "discovery"
+    },
+    {
+      "category": "Kiwi",
+      "image_id": "b9672303ac2e7908",
+      "split": "discovery"
+    },
+    {
+      "category": "Rockmelon",
+      "image_id": "b9a0e851e5ca4c0d",
+      "split": "discovery"
+    },
+    {
+      "category": "Mango",
+      "image_id": "ba45e4edca063d1e",
+      "split": "holdout"
+    },
+    {
+      "category": "Blueberry",
+      "image_id": "ba534d1227ba22ce",
+      "split": "discovery"
+    },
+    {
+      "category": "Cherry",
+      "image_id": "bba9db47f2e8f146",
+      "split": "discovery"
+    },
+    {
+      "category": "Cherry",
+      "image_id": "bcd94b61c8334f6b",
+      "split": "discovery"
+    },
+    {
+      "category": "Cherry",
+      "image_id": "bdcaddd933bb9214",
+      "split": "discovery"
+    },
+    {
+      "category": "Cherry",
+      "image_id": "bdd2dd0629922040",
+      "split": "holdout"
+    },
+    {
+      "category": "Kiwi",
+      "image_id": "be5557734fff8414",
+      "split": "discovery"
+    },
+    {
+      "category": "Avocado",
+      "image_id": "be6f10e5c6e4baa3",
+      "split": "discovery"
+    },
+    {
+      "category": "Kiwi",
+      "image_id": "bed66e00e5c53c8e",
+      "split": "discovery"
+    },
+    {
+      "category": "Cherry",
+      "image_id": "bef3fa63de5c2e4c",
+      "split": "discovery"
+    },
+    {
+      "category": "Blueberry",
+      "image_id": "bf31549fb6ef57c0",
+      "split": "holdout"
+    },
+    {
+      "category": "Rockmelon",
+      "image_id": "bf9f0241b54c51dd",
+      "split": "discovery"
+    },
+    {
+      "category": "Kiwi",
+      "image_id": "c042c80e3a88d101",
+      "split": "discovery"
+    },
+    {
+      "category": "Kiwi",
+      "image_id": "c0bbd1994423b69e",
+      "split": "holdout"
+    },
+    {
+      "category": "Rockmelon",
+      "image_id": "c1113880bfcdb3c7",
+      "split": "discovery"
+    },
+    {
+      "category": "Mango",
+      "image_id": "c155cdee3f55b85e",
+      "split": "discovery"
+    },
+    {
+      "category": "Mango",
+      "image_id": "c26d0f6139f3a6c4",
+      "split": "discovery"
+    },
+    {
+      "category": "Rockmelon",
+      "image_id": "c27cae800c0a39f1",
+      "split": "discovery"
+    },
+    {
+      "category": "Mango",
+      "image_id": "c2cbf0268ed911d3",
+      "split": "discovery"
+    },
+    {
+      "category": "Cherry",
+      "image_id": "c35b6183e7f7ca7f",
+      "split": "discovery"
+    },
+    {
+      "category": "Cherry",
+      "image_id": "c3eb89144725af7e",
+      "split": "discovery"
+    },
+    {
+      "category": "Blueberry",
+      "image_id": "c418f592f53e3cbc",
+      "split": "holdout"
+    },
+    {
+      "category": "Cherry",
+      "image_id": "c41a2f01e5a18738",
+      "split": "discovery"
+    },
+    {
+      "category": "Mango",
+      "image_id": "c491c6ee325fee8c",
+      "split": "discovery"
+    },
+    {
+      "category": "Mango",
+      "image_id": "c5522a93e7b2af99",
+      "split": "discovery"
+    },
+    {
+      "category": "Blueberry",
+      "image_id": "c576d04c5c129782",
+      "split": "discovery"
+    },
+    {
+      "category": "Cherry",
+      "image_id": "c594a1a8e3af0f5f",
+      "split": "holdout"
+    },
+    {
+      "category": "Cherry",
+      "image_id": "c5e9f2ec2a4cb6ad",
+      "split": "discovery"
+    },
+    {
+      "category": "Mango",
+      "image_id": "c5f5e4195d419ef9",
+      "split": "discovery"
+    },
+    {
+      "category": "Rockmelon",
+      "image_id": "c5fb0bf91e91a94e",
+      "split": "discovery"
+    },
+    {
+      "category": "Avocado",
+      "image_id": "c6532129a35e8b8c",
+      "split": "discovery"
+    },
+    {
+      "category": "Cherry",
+      "image_id": "c6a1fc6a1df55b22",
+      "split": "discovery"
+    },
+    {
+      "category": "Blueberry",
+      "image_id": "c72345d6094efe46",
+      "split": "discovery"
+    },
+    {
+      "category": "Mango",
+      "image_id": "c7ff178f2918cc00",
+      "split": "discovery"
+    },
+    {
+      "category": "Rockmelon",
+      "image_id": "c81d7e92deadf263",
+      "split": "holdout"
+    },
+    {
+      "category": "Cherry",
+      "image_id": "c8cd97dd68ed3cdc",
+      "split": "discovery"
+    },
+    {
+      "category": "Avocado",
+      "image_id": "c90965ac524fab64",
+      "split": "discovery"
+    },
+    {
+      "category": "Blueberry",
+      "image_id": "c9567914b2eeec94",
+      "split": "discovery"
+    },
+    {
+      "category": "Rockmelon",
+      "image_id": "c9ee58a577110068",
+      "split": "discovery"
+    },
+    {
+      "category": "Kiwi",
+      "image_id": "ca37c1b354f39835",
+      "split": "holdout"
+    },
+    {
+      "category": "Rockmelon",
+      "image_id": "ca7f5557ae4ce684",
+      "split": "discovery"
+    },
+    {
+      "category": "Blueberry",
+      "image_id": "ca7f89b4bf1745b4",
+      "split": "discovery"
+    },
+    {
+      "category": "Cherry",
+      "image_id": "cb088b6b1e42a321",
+      "split": "discovery"
+    },
+    {
+      "category": "Kiwi",
+      "image_id": "cc47c3e55b086642",
+      "split": "discovery"
+    },
+    {
+      "category": "Kiwi",
+      "image_id": "cc531ca57a1cf864",
+      "split": "discovery"
+    },
+    {
+      "category": "Cherry",
+      "image_id": "cc5db56091ecd462",
+      "split": "discovery"
+    },
+    {
+      "category": "Mango",
+      "image_id": "ccf0df1c7b12a0a9",
+      "split": "discovery"
+    },
+    {
+      "category": "Blueberry",
+      "image_id": "ceabf3e7f79a9ff0",
+      "split": "holdout"
+    },
+    {
+      "category": "Cherry",
+      "image_id": "cf55c3d8317fcdd9",
+      "split": "discovery"
+    },
+    {
+      "category": "Mango",
+      "image_id": "cf698848c11532e0",
+      "split": "discovery"
+    },
+    {
+      "category": "Mango",
+      "image_id": "cf97e0684454ba0d",
+      "split": "discovery"
+    },
+    {
+      "category": "Cherry",
+      "image_id": "cfa91543e08604a9",
+      "split": "discovery"
+    },
+    {
+      "category": "Kiwi",
+      "image_id": "cfbf1470aab11cf7",
+      "split": "discovery"
+    },
+    {
+      "category": "Cherry",
+      "image_id": "d02e5e94d879230a",
+      "split": "discovery"
+    },
+    {
+      "category": "Cherry",
+      "image_id": "d0905c17f5b36b86",
+      "split": "discovery"
+    },
+    {
+      "category": "Mango",
+      "image_id": "d11e85069a25d963",
+      "split": "discovery"
+    },
+    {
+      "category": "Mango",
+      "image_id": "d1cf515ed0573e9b",
+      "split": "discovery"
+    },
+    {
+      "category": "Mango",
+      "image_id": "d1df260b63e26b9e",
+      "split": "discovery"
+    },
+    {
+      "category": "Kiwi",
+      "image_id": "d1eac95e2083da4e",
+      "split": "discovery"
+    },
+    {
+      "category": "Avocado",
+      "image_id": "d38defd51ee080ee",
+      "split": "discovery"
+    },
+    {
+      "category": "Cherry",
+      "image_id": "d3fd822a407c585f",
+      "split": "discovery"
+    },
+    {
+      "category": "Blueberry",
+      "image_id": "d3fe19e98f35a1c0",
+      "split": "discovery"
+    },
+    {
+      "category": "Blueberry",
+      "image_id": "d4586c8b9c83132d",
+      "split": "discovery"
+    },
+    {
+      "category": "Blueberry",
+      "image_id": "d50091c5dd87759e",
+      "split": "discovery"
+    },
+    {
+      "category": "Avocado",
+      "image_id": "d5be7315c46c283c",
+      "split": "holdout"
+    },
+    {
+      "category": "Cherry",
+      "image_id": "d6822716a39f98fe",
+      "split": "discovery"
+    },
+    {
+      "category": "Blueberry",
+      "image_id": "d7baba4e7d673917",
+      "split": "discovery"
+    },
+    {
+      "category": "Blueberry",
+      "image_id": "d81d93c939bd7304",
+      "split": "discovery"
+    },
+    {
+      "category": "Mango",
+      "image_id": "d822f687e5ebe1a8",
+      "split": "discovery"
+    },
+    {
+      "category": "Cherry",
+      "image_id": "d8a32a82b3b5365a",
+      "split": "discovery"
+    },
+    {
+      "category": "Cherry",
+      "image_id": "d922d7054c4246be",
+      "split": "discovery"
+    },
+    {
+      "category": "Avocado",
+      "image_id": "d9438c647f58ec9f",
+      "split": "discovery"
+    },
+    {
+      "category": "Cherry",
+      "image_id": "da747e10da5d4183",
+      "split": "discovery"
+    },
+    {
+      "category": "Kiwi",
+      "image_id": "da8b25e1dfefbb3e",
+      "split": "holdout"
+    },
+    {
+      "category": "Cherry",
+      "image_id": "dab7ebfe5f708d37",
+      "split": "discovery"
+    },
+    {
+      "category": "Avocado",
+      "image_id": "daf2bb30beace55a",
+      "split": "discovery"
+    },
+    {
+      "category": "Mango",
+      "image_id": "db6b47d1e40e069e",
+      "split": "discovery"
+    },
+    {
+      "category": "Blueberry",
+      "image_id": "db81811f46d6ccd0",
+      "split": "holdout"
+    },
+    {
+      "category": "Mango",
+      "image_id": "dba015fc638e6cae",
+      "split": "discovery"
+    },
+    {
+      "category": "Kiwi",
+      "image_id": "dba49fff7f7a8c33",
+      "split": "discovery"
+    },
+    {
+      "category": "Kiwi",
+      "image_id": "dca36405d78b9876",
+      "split": "discovery"
+    },
+    {
+      "category": "Mango",
+      "image_id": "dcad4fed259ebc4b",
+      "split": "discovery"
+    },
+    {
+      "category": "Cherry",
+      "image_id": "dcc4a75287f4bdd3",
+      "split": "holdout"
+    },
+    {
+      "category": "Cherry",
+      "image_id": "dccf0ea8a800f2d9",
+      "split": "discovery"
+    },
+    {
+      "category": "Avocado",
+      "image_id": "dcef8fabcb577920",
+      "split": "discovery"
+    },
+    {
+      "category": "Kiwi",
+      "image_id": "dcf49aabb7b556d0",
+      "split": "discovery"
+    },
+    {
+      "category": "Mango",
+      "image_id": "dcf68576da828eb2",
+      "split": "discovery"
+    },
+    {
+      "category": "Cherry",
+      "image_id": "dd04e70ef86f340d",
+      "split": "discovery"
+    },
+    {
+      "category": "Rockmelon",
+      "image_id": "de95947061df0fe3",
+      "split": "holdout"
+    },
+    {
+      "category": "Blueberry",
+      "image_id": "df159b68c7f2dd7b",
+      "split": "holdout"
+    },
+    {
+      "category": "Avocado",
+      "image_id": "df5daad306010a6f",
+      "split": "discovery"
+    },
+    {
+      "category": "Avocado",
+      "image_id": "df765d1b26548c7b",
+      "split": "discovery"
+    },
+    {
+      "category": "Blueberry",
+      "image_id": "dfe5db70c620f018",
+      "split": "discovery"
+    },
+    {
+      "category": "Cherry",
+      "image_id": "e0251d736f220563",
+      "split": "discovery"
+    },
+    {
+      "category": "Avocado",
+      "image_id": "e0364047d077c210",
+      "split": "discovery"
+    },
+    {
+      "category": "Avocado",
+      "image_id": "e08f9d3043b6c44a",
+      "split": "discovery"
+    },
+    {
+      "category": "Mango",
+      "image_id": "e0b36da87b9a6c49",
+      "split": "discovery"
+    },
+    {
+      "category": "Mango",
+      "image_id": "e11fb1a00fca46e9",
+      "split": "holdout"
+    },
+    {
+      "category": "Cherry",
+      "image_id": "e1de97beabeae86f",
+      "split": "holdout"
+    },
+    {
+      "category": "Mango",
+      "image_id": "e29f87985526572f",
+      "split": "discovery"
+    },
+    {
+      "category": "Mango",
+      "image_id": "e3a9828b9af355f8",
+      "split": "discovery"
+    },
+    {
+      "category": "Kiwi",
+      "image_id": "e3d6e2389ee8effe",
+      "split": "discovery"
+    },
+    {
+      "category": "Cherry",
+      "image_id": "e3d94697878f198e",
+      "split": "discovery"
+    },
+    {
+      "category": "Avocado",
+      "image_id": "e4253ee2980f71b5",
+      "split": "discovery"
+    },
+    {
+      "category": "Kiwi",
+      "image_id": "e551a7a5629e6751",
+      "split": "discovery"
+    },
+    {
+      "category": "Kiwi",
+      "image_id": "e58ba05b07511934",
+      "split": "discovery"
+    },
+    {
+      "category": "Mango",
+      "image_id": "e5cbdeb73c49da2c",
+      "split": "discovery"
+    },
+    {
+      "category": "Avocado",
+      "image_id": "e5cc671f427d53ec",
+      "split": "discovery"
+    },
+    {
+      "category": "Cherry",
+      "image_id": "e5d10885bd5c9dd1",
+      "split": "discovery"
+    },
+    {
+      "category": "Kiwi",
+      "image_id": "e5dcdef6a8feca92",
+      "split": "discovery"
+    },
+    {
+      "category": "Mango",
+      "image_id": "e6b45d224738f95f",
+      "split": "discovery"
+    },
+    {
+      "category": "Avocado",
+      "image_id": "e6d518d31ef37b4c",
+      "split": "discovery"
+    },
+    {
+      "category": "Rockmelon",
+      "image_id": "e731c03aad075eb6",
+      "split": "holdout"
+    },
+    {
+      "category": "Cherry",
+      "image_id": "e893ec8f099a336f",
+      "split": "discovery"
+    },
+    {
+      "category": "Avocado",
+      "image_id": "e94218642c02c1ee",
+      "split": "discovery"
+    },
+    {
+      "category": "Mango",
+      "image_id": "e9a2a94d98e53763",
+      "split": "discovery"
+    },
+    {
+      "category": "Mango",
+      "image_id": "e9fda7e6fdd5394e",
+      "split": "discovery"
+    },
+    {
+      "category": "Cherry",
+      "image_id": "ea6a78401e53e4d3",
+      "split": "discovery"
+    },
+    {
+      "category": "Cherry",
+      "image_id": "eb3e6a7a70b6c983",
+      "split": "holdout"
+    },
+    {
+      "category": "Kiwi",
+      "image_id": "ec6ae297d7b90f30",
+      "split": "holdout"
+    },
+    {
+      "category": "Cherry",
+      "image_id": "ec8f593dbfe003b9",
+      "split": "discovery"
+    },
+    {
+      "category": "Mango",
+      "image_id": "ec93df9e9c67c5a2",
+      "split": "holdout"
+    },
+    {
+      "category": "Cherry",
+      "image_id": "ecf281bc96166605",
+      "split": "discovery"
+    },
+    {
+      "category": "Cherry",
+      "image_id": "ed6542a0003c83ed",
+      "split": "holdout"
+    },
+    {
+      "category": "Cherry",
+      "image_id": "edb6ed0f0aca5560",
+      "split": "discovery"
+    },
+    {
+      "category": "Kiwi",
+      "image_id": "ee1f99ae7ec87257",
+      "split": "discovery"
+    },
+    {
+      "category": "Kiwi",
+      "image_id": "ee9f4b2cbf8f4d33",
+      "split": "discovery"
+    },
+    {
+      "category": "Rockmelon",
+      "image_id": "eeca5df6feac96e8",
+      "split": "holdout"
+    },
+    {
+      "category": "Kiwi",
+      "image_id": "ef0d0324cee28aa2",
+      "split": "discovery"
+    },
+    {
+      "category": "Cherry",
+      "image_id": "ef45347375436d13",
+      "split": "holdout"
+    },
+    {
+      "category": "Cherry",
+      "image_id": "ef6ecc27493885ac",
+      "split": "discovery"
+    },
+    {
+      "category": "Mango",
+      "image_id": "effbc540105043c5",
+      "split": "discovery"
+    },
+    {
+      "category": "Cherry",
+      "image_id": "f19f9e51aad4c509",
+      "split": "discovery"
+    },
+    {
+      "category": "Cherry",
+      "image_id": "f1a559b967c0773b",
+      "split": "discovery"
+    },
+    {
+      "category": "Cherry",
+      "image_id": "f1f942eac78afec9",
+      "split": "holdout"
+    },
+    {
+      "category": "Mango",
+      "image_id": "f20cc129957dbf93",
+      "split": "discovery"
+    },
+    {
+      "category": "Mango",
+      "image_id": "f2154603b7961623",
+      "split": "discovery"
+    },
+    {
+      "category": "Rockmelon",
+      "image_id": "f25eb7037e1d3480",
+      "split": "discovery"
+    },
+    {
+      "category": "Mango",
+      "image_id": "f2da8b60faf905f1",
+      "split": "holdout"
+    },
+    {
+      "category": "Mango",
+      "image_id": "f2fe211fe465da25",
+      "split": "discovery"
+    },
+    {
+      "category": "Kiwi",
+      "image_id": "f3517609bf6ed965",
+      "split": "discovery"
+    },
+    {
+      "category": "Avocado",
+      "image_id": "f368a2a0e7d23085",
+      "split": "discovery"
+    },
+    {
+      "category": "Rockmelon",
+      "image_id": "f3801027f97738ba",
+      "split": "discovery"
+    },
+    {
+      "category": "Kiwi",
+      "image_id": "f4a2e539de58a277",
+      "split": "discovery"
+    },
+    {
+      "category": "Blueberry",
+      "image_id": "f4ac62c59b186ea7",
+      "split": "holdout"
+    },
+    {
+      "category": "Cherry",
+      "image_id": "f4ff6158db9a97da",
+      "split": "holdout"
+    },
+    {
+      "category": "Blueberry",
+      "image_id": "f5a9f70d15c91c2a",
+      "split": "discovery"
+    },
+    {
+      "category": "Avocado",
+      "image_id": "f6cc7afbd9c77a61",
+      "split": "discovery"
+    },
+    {
+      "category": "Mango",
+      "image_id": "f70707d7dd4cbbf1",
+      "split": "holdout"
+    },
+    {
+      "category": "Kiwi",
+      "image_id": "f853479e93be3bac",
+      "split": "holdout"
+    },
+    {
+      "category": "Avocado",
+      "image_id": "f97a642b89e1ff30",
+      "split": "discovery"
+    },
+    {
+      "category": "Cherry",
+      "image_id": "f9d1422b68e1be23",
+      "split": "discovery"
+    },
+    {
+      "category": "Kiwi",
+      "image_id": "fa03325089f0a151",
+      "split": "discovery"
+    },
+    {
+      "category": "Mango",
+      "image_id": "fa27b7d99117938b",
+      "split": "holdout"
+    },
+    {
+      "category": "Cherry",
+      "image_id": "fb28f555c23d0aac",
+      "split": "discovery"
+    },
+    {
+      "category": "Avocado",
+      "image_id": "fb77242607cd94b8",
+      "split": "discovery"
+    },
+    {
+      "category": "Mango",
+      "image_id": "fb905af16b6f85e6",
+      "split": "discovery"
+    },
+    {
+      "category": "Kiwi",
+      "image_id": "fbaa5ff2f20d1d8d",
+      "split": "holdout"
+    },
+    {
+      "category": "Mango",
+      "image_id": "fbb9d2812334b26c",
+      "split": "holdout"
+    },
+    {
+      "category": "Kiwi",
+      "image_id": "fbe34b5f3d4fea2f",
+      "split": "holdout"
+    },
+    {
+      "category": "Kiwi",
+      "image_id": "fce6d39433087af1",
+      "split": "discovery"
+    },
+    {
+      "category": "Mango",
+      "image_id": "fd151ea415aa9a5f",
+      "split": "discovery"
+    },
+    {
+      "category": "Blueberry",
+      "image_id": "fd1df988a6b937da",
+      "split": "discovery"
+    },
+    {
+      "category": "Avocado",
+      "image_id": "fd9016eb058cec6a",
+      "split": "discovery"
+    },
+    {
+      "category": "Kiwi",
+      "image_id": "fde8036d6f090e92",
+      "split": "discovery"
+    },
+    {
+      "category": "Cherry",
+      "image_id": "fe5c6533258249f5",
+      "split": "discovery"
+    },
+    {
+      "category": "Kiwi",
+      "image_id": "ff53f6c67969c56b",
+      "split": "holdout"
+    },
+    {
+      "category": "Blueberry",
+      "image_id": "ffc7fda7efdcbfc3",
+      "split": "discovery"
+    }
+  ],
+  "schema_version": "1.0"
+}

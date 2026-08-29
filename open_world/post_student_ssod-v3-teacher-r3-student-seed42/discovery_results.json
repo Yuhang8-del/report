@@ -1,0 +1,107 @@
+{
+  "artifact_type": "post_student_open_world_discovery",
+  "clustering": {
+    "algorithm": "deterministic_kmeans",
+    "clusters": 6,
+    "seed": 42
+  },
+  "known_registry": [
+    "Apple",
+    "Banana",
+    "Orange",
+    "Strawberry",
+    "Pineapple"
+  ],
+  "limitations": [
+    "Cluster names are post-hoc evaluation mappings, not training labels.",
+    "The first extension reports image-level unknown proposals; box-level open-world mAP remains a follow-up experiment.",
+    "No new class ID is added to the five-class runtime registry by this command."
+  ],
+  "metrics": {
+    "discovery": {
+      "ari": 0.5133494347089719,
+      "image_count": 510,
+      "nmi": 0.5952490851160434,
+      "posthoc_cluster_to_category": {
+        "0": "Rockmelon",
+        "1": "Kiwi",
+        "2": "Kiwi",
+        "3": "Cherry",
+        "4": "Mango",
+        "5": "Blueberry"
+      },
+      "purity": 0.7372549019607844
+    },
+    "holdout": {
+      "ari": 0.5095625103268935,
+      "image_count": 129,
+      "nmi": 0.5828162178995046,
+      "posthoc_cluster_to_category": {
+        "0": "Rockmelon",
+        "1": "Kiwi",
+        "2": "Kiwi",
+        "3": "Cherry",
+        "4": "Mango",
+        "5": "Blueberry"
+      },
+      "purity": 0.7286821705426356
+    }
+  },
+  "novel_categories_for_protected_evaluation": [
+    "Avocado",
+    "Blueberry",
+    "Cherry",
+    "Kiwi",
+    "Mango",
+    "Rockmelon"
+  ],
+  "novelty": {
+    "candidate_count": 377,
+    "candidate_rate": 0.5899843505477308,
+    "known_false_positive_rate": 0.2777777777777778,
+    "known_fixed_test_count": 90,
+    "score": "1 - max_known_student_confidence",
+    "threshold": 0.5
+  },
+  "schema_version": "1.0",
+  "self_supervised": {
+    "batch_size": 32,
+    "checkpoint": "E:\\fruit_ssod_runtime\\artifacts_v17\\open_world\\post_student_ssod-v3-teacher-r3-student-seed42\\self_supervised_encoder.pt",
+    "device": "cuda:0",
+    "epochs": 10,
+    "learning_rate": 0.0001,
+    "loss_curve": [
+      1.8293813149134317,
+      1.076294688383738,
+      0.8813239137331644,
+      0.8102292935053508,
+      0.7400179465611776,
+      0.7139309843381246,
+      0.6960003892580668,
+      0.6267338077227275,
+      0.6239692171414694,
+      0.5945927182833354
+    ],
+    "method": "augmentation_consistency_simclr_style"
+  },
+  "source_root": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\raw\\deepnir\\extracted_sanitized\\yolov5",
+  "split": {
+    "category_counts": {
+      "Avocado": 54,
+      "Blueberry": 78,
+      "Cherry": 154,
+      "Kiwi": 125,
+      "Mango": 170,
+      "Rockmelon": 58
+    },
+    "discovery_count": 510,
+    "holdout_count": 129,
+    "holdout_fraction": 0.2,
+    "image_count": 639,
+    "seed": 42
+  },
+  "student_checkpoint": {
+    "path": "E:\\fruit_ssod_runtime\\artifacts_v17\\runs\\ssod-v3-teacher-r3-student-seed42\\weights\\best.pt",
+    "sha256": "fef2314905d48028ebbe3d94ea52af222bde7e8255d6475081606e2c309020e4"
+  }
+}
