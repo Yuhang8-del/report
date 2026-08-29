@@ -1,0 +1,109 @@
+{
+  "artifact_type": "sealed_task14_filter_decisions",
+  "candidate_artifact_sha256": "6aa356ec30783bde52afd1e840d840259f9cf2237c19ffdf7165684f754c6e38",
+  "decision_record_count": 840,
+  "decision_records_sha256": "f209b01fff52268d167b7a77d122af19dee0751c6c957f0d7638d0e81746bfc2",
+  "filter_policy": {
+    "aspect_ratio_bounds": {
+      "path": "E:\\fruit_ssod_runtime\\artifacts_v15\\calibration\\supervised_v2_teacher_seed42\\fixed_aspect_ratio_bounds.json",
+      "sha256": "cd05516123acbe14e42c87be95405045810d960dd8de5321167174f862a2481d"
+    },
+    "filter_config": {
+      "cross_view_iou": 0.6,
+      "global_confidence": 0.5,
+      "max_area_fraction": 0.9,
+      "max_aspect_ratio": 10.0,
+      "max_boxes_per_image": 20,
+      "min_aspect_ratio": 0.1,
+      "min_pixels_at_640": 16.0,
+      "nms_iou": 0.6
+    },
+    "policy_id": "trust_filter_v1",
+    "require_size_filter": true,
+    "require_view_consistency": true,
+    "resolved_thresholds": {
+      "maximum": 0.85,
+      "minimum": 0.5,
+      "target_precision": 0.7,
+      "thresholds": {
+        "0": 0.5489850044250488,
+        "1": 0.85,
+        "2": 0.85,
+        "3": 0.5,
+        "4": 0.5
+      }
+    },
+    "threshold_calibration": {
+      "maximum": 0.85,
+      "minimum": 0.5,
+      "target_precision": 0.7,
+      "validation_pr": {
+        "path": "E:\\fruit_ssod_runtime\\artifacts_v15\\calibration\\supervised_v2_teacher_seed42\\fixed_validation_pr.json",
+        "sha256": "be2b65f7f2b513dea8261dc8de38a7e227f2931f00c184585f3b71cdb45d69c9"
+      }
+    },
+    "use_per_class_thresholds": true
+  },
+  "filter_policy_sha256": "893e9c34d464e53ba94f8d6313afa1060453a362455dcaad3bc5859855a27ae2",
+  "filter_provenance": {
+    "aspect_ratio_bounds": {
+      "artifact_id": "train-pool-ar-p01-p99-be5728f60515496d",
+      "artifact_type": "sealed_aspect_ratio_bounds",
+      "bounds": {
+        "0": [
+          0.310431628091664,
+          1.991863275575039
+        ],
+        "1": [
+          0.18694296794364873,
+          3.194620917256636
+        ],
+        "2": [
+          0.4248609378063732,
+          3.2145379257831803
+        ],
+        "3": [
+          0.5920827454453582,
+          2.7241532250665017
+        ],
+        "4": [
+          0.31488429277730473,
+          2.6701433118733453
+        ]
+      },
+      "canonical_classes": [
+        {
+          "id": 0,
+          "name": "Apple"
+        },
+        {
+          "id": 1,
+          "name": "Banana"
+        },
+        {
+          "id": 2,
+          "name": "Orange"
+        },
+        {
+          "id": 3,
+          "name": "Strawberry"
+        },
+        {
+          "id": 4,
+          "name": "Pineapple"
+        }
+      ],
+      "class_registry_version": "1.0.1",
+      "provenance": {
+        "contains_human_labels": false,
+        "sealed": true,
+        "source_kind": "approved_aggregate_statistics",
+        "source_split": "train_pool"
+      },
+      "sha256": "cd05516123acbe14e42c87be95405045810d960dd8de5321167174f862a2481d"
+    }
+  },
+  "filter_provenance_sha256": "aed7b406b616f9c6188f7882d8a3f4e5117c8188a64e1bcfeea2251e050ad99e",
+  "schema_version": "1.0",
+  "teacher_run_id": "supervised-v3-domain-balanced-yolov8m-1024-seed42-r3"
+}
