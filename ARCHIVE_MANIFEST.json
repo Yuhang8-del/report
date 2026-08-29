@@ -1,0 +1,14 @@
+{
+  "full_training_data.tar.zst": {
+    "bytes": 38098532464,
+    "sha256": "76e09ced833a609a78f867f03576d20f8b0fb08589b7de3392a48c78380ab0ef",
+    "entries": 292133,
+    "validation": "full archive listing passed"
+  },
+  "full_v17_artifacts.tar.zst": {
+    "bytes": 19434588112,
+    "sha256": "7d025a38f281a9aed778a5ca9542a0f9519ac3b768b60f77582be49290f3fc3a",
+    "entries": 36954,
+    "validation": "full archive listing passed"
+  }
+}
