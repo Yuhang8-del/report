@@ -1,0 +1,18 @@
+# Install CUDA-enabled PyTorch first. PyPI alone may select CPU wheels:
+# pip install --index-url https://download.pytorch.org/whl/cu121 torch==2.5.1+cu121 torchvision==0.20.1+cu121
+# For Conda, persist isolation from globally installed user packages:
+# conda env config vars set -n fruit-ssod PYTHONNOUSERSITE=1
+# Deactivate/reactivate the environment (or use conda run -n fruit-ssod) and verify:
+# conda run -n fruit-ssod python -c "import os, site; print(os.environ['PYTHONNOUSERSITE'], site.ENABLE_USER_SITE)"
+# conda run -n fruit-ssod python -m pip check
+ultralytics>=8.3,<9
+opencv-python>=4.10,<5
+numpy>=1.26,<3
+pandas>=2.2,<3
+PyYAML>=6.0,<7
+Pillow>=10.4,<12
+imagehash>=4.3,<5
+matplotlib>=3.8,<4
+seaborn>=0.13,<1
+PySide6>=6.7,<7
+python-docx>=1.1,<2
