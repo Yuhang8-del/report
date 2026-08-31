@@ -1,0 +1,6 @@
+pyproject.toml
+src/fruit_ssod/__init__.py
+src/fruit_ssod.egg-info/PKG-INFO
+src/fruit_ssod.egg-info/SOURCES.txt
+src/fruit_ssod.egg-info/dependency_links.txt
+src/fruit_ssod.egg-info/top_level.txt

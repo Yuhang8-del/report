@@ -1,0 +1,15 @@
+[
+  {
+    "source": "open_images_v7",
+    "source_category": "Apple",
+    "source_image_id": "fixture-image",
+    "file_path": "fixture-image.png",
+    "width": 10,
+    "height": 8,
+    "class_id": 0,
+    "xyxy": [-1, 1, 11, 7],
+    "split": "train_pool",
+    "label_status": "labeled",
+    "license_metadata": {"name": "fixture"}
+  }
+]

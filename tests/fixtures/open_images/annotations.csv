@@ -1,0 +1,7 @@
+ImageID,LabelName,XMin,XMax,YMin,YMax,IsDepiction,IsInside,IsGroupOf
+img-apple,/m/apple,0.10,0.50,0.20,0.60,0,0,0
+img-orange,/m/orange,-0.10,1.10,0.25,0.75,0,0,0
+img-depiction,/m/banana,0.10,0.50,0.20,0.60,1,0,0
+img-inside,/m/strawberry,0.10,0.50,0.20,0.60,0,1,0
+img-group,/m/pineapple,0.10,0.50,0.20,0.60,0,0,1
+img-zero,/m/apple,1.10,1.20,0.20,0.60,0,0,0

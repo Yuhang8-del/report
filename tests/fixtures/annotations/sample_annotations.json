@@ -1,0 +1,35 @@
+[
+  {
+    "source": "canonical",
+    "source_category": "Apple",
+    "source_image_id": "demo-apple-001",
+    "file_path": "fixtures/images/apple-001.jpg",
+    "width": 640,
+    "height": 480,
+    "class_id": 0,
+    "xyxy": [40, 35, 260, 310],
+    "split": "train_pool",
+    "label_status": "labeled",
+    "license_metadata": {
+      "name": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/",
+      "attribution": "Synthetic fixture"
+    }
+  },
+  {
+    "source": "fruit_360",
+    "source_category": "Pineapple",
+    "source_image_id": "demo-pineapple-001",
+    "file_path": "fixtures/images/pineapple-001.jpg",
+    "width": 320,
+    "height": 320,
+    "class_id": 4,
+    "xyxy": [20, 15, 290, 305],
+    "split": "pseudo_audit",
+    "label_status": "pseudo",
+    "license_metadata": {
+      "name": "CC0 1.0",
+      "url": "https://creativecommons.org/publicdomain/zero/1.0/"
+    }
+  }
+]
