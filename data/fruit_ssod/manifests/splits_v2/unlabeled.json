@@ -1,0 +1,1908 @@
+{
+  "records": [
+    {
+      "file_path": "images/01629ab4e5f0d759.jpg",
+      "height": 768,
+      "label_status": "unlabeled",
+      "license_metadata": {
+        "attribution": "abdallahh",
+        "name": "Open Images recorded image license",
+        "url": "https://creativecommons.org/licenses/by/2.0/"
+      },
+      "source": "open_images_v7",
+      "source_image_id": "01629ab4e5f0d759",
+      "split": "train_pool",
+      "width": 1024
+    },
+    {
+      "file_path": "images/02aa2ee596ee27f5.jpg",
+      "height": 768,
+      "label_status": "unlabeled",
+      "license_metadata": {
+        "attribution": "Michael Coté",
+        "name": "Open Images recorded image license",
+        "url": "https://creativecommons.org/licenses/by/2.0/"
+      },
+      "source": "open_images_v7",
+      "source_image_id": "02aa2ee596ee27f5",
+      "split": "train_pool",
+      "width": 1024
+    },
+    {
+      "file_path": "images/0a4827f20c8aef05.jpg",
+      "height": 769,
+      "label_status": "unlabeled",
+      "license_metadata": {
+        "attribution": "Dennis Yang",
+        "name": "Open Images recorded image license",
+        "url": "https://creativecommons.org/licenses/by/2.0/"
+      },
+      "source": "open_images_v7",
+      "source_image_id": "0a4827f20c8aef05",
+      "split": "train_pool",
+      "width": 1024
+    },
+    {
+      "file_path": "images/132fc68df66515b0.jpg",
+      "height": 682,
+      "label_status": "unlabeled",
+      "license_metadata": {
+        "attribution": "matthewreid",
+        "name": "Open Images recorded image license",
+        "url": "https://creativecommons.org/licenses/by/2.0/"
+      },
+      "source": "open_images_v7",
+      "source_image_id": "132fc68df66515b0",
+      "split": "train_pool",
+      "width": 1024
+    },
+    {
+      "file_path": "images/156456a6e3ebe7d9.jpg",
+      "height": 1024,
+      "label_status": "unlabeled",
+      "license_metadata": {
+        "attribution": "bertholf",
+        "name": "Open Images recorded image license",
+        "url": "https://creativecommons.org/licenses/by/2.0/"
+      },
+      "source": "open_images_v7",
+      "source_image_id": "156456a6e3ebe7d9",
+      "split": "train_pool",
+      "width": 678
+    },
+    {
+      "file_path": "images/15cc05949c6a175c.jpg",
+      "height": 683,
+      "label_status": "unlabeled",
+      "license_metadata": {
+        "attribution": "Hafiz Issadeen",
+        "name": "Open Images recorded image license",
+        "url": "https://creativecommons.org/licenses/by/2.0/"
+      },
+      "source": "open_images_v7",
+      "source_image_id": "15cc05949c6a175c",
+      "split": "train_pool",
+      "width": 1024
+    },
+    {
+      "file_path": "images/246a3fcaed6a20b2.jpg",
+      "height": 1024,
+      "label_status": "unlabeled",
+      "license_metadata": {
+        "attribution": "midiman",
+        "name": "Open Images recorded image license",
+        "url": "https://creativecommons.org/licenses/by/2.0/"
+      },
+      "source": "open_images_v7",
+      "source_image_id": "246a3fcaed6a20b2",
+      "split": "train_pool",
+      "width": 683
+    },
+    {
+      "file_path": "images/24ff021903b1c8aa.jpg",
+      "height": 768,
+      "label_status": "unlabeled",
+      "license_metadata": {
+        "attribution": "Shoshanah",
+        "name": "Open Images recorded image license",
+        "url": "https://creativecommons.org/licenses/by/2.0/"
+      },
+      "source": "open_images_v7",
+      "source_image_id": "24ff021903b1c8aa",
+      "split": "train_pool",
+      "width": 1024
+    },
+    {
+      "file_path": "images/25f37739ea5e6461.jpg",
+      "height": 1024,
+      "label_status": "unlabeled",
+      "license_metadata": {
+        "attribution": "Francesc Genové",
+        "name": "Open Images recorded image license",
+        "url": "https://creativecommons.org/licenses/by/2.0/"
+      },
+      "source": "open_images_v7",
+      "source_image_id": "25f37739ea5e6461",
+      "split": "train_pool",
+      "width": 1024
+    },
+    {
+      "file_path": "images/2924736e50889cb2.jpg",
+      "height": 768,
+      "label_status": "unlabeled",
+      "license_metadata": {
+        "attribution": "Anna M",
+        "name": "Open Images recorded image license",
+        "url": "https://creativecommons.org/licenses/by/2.0/"
+      },
+      "source": "open_images_v7",
+      "source_image_id": "2924736e50889cb2",
+      "split": "train_pool",
+      "width": 1024
+    },
+    {
+      "file_path": "images/36a03ae855149d71.jpg",
+      "height": 686,
+      "label_status": "unlabeled",
+      "license_metadata": {
+        "attribution": "Thomas Abbs",
+        "name": "Open Images recorded image license",
+        "url": "https://creativecommons.org/licenses/by/2.0/"
+      },
+      "source": "open_images_v7",
+      "source_image_id": "36a03ae855149d71",
+      "split": "train_pool",
+      "width": 1024
+    },
+    {
+      "file_path": "images/37740cdc9ce3f682.jpg",
+      "height": 768,
+      "label_status": "unlabeled",
+      "license_metadata": {
+        "attribution": "Beta-J",
+        "name": "Open Images recorded image license",
+        "url": "https://creativecommons.org/licenses/by/2.0/"
+      },
+      "source": "open_images_v7",
+      "source_image_id": "37740cdc9ce3f682",
+      "split": "train_pool",
+      "width": 1024
+    },
+    {
+      "file_path": "images/3a0f98128471086d.jpg",
+      "height": 1011,
+      "label_status": "unlabeled",
+      "license_metadata": {
+        "attribution": "Breville USA",
+        "name": "Open Images recorded image license",
+        "url": "https://creativecommons.org/licenses/by/2.0/"
+      },
+      "source": "open_images_v7",
+      "source_image_id": "3a0f98128471086d",
+      "split": "train_pool",
+      "width": 768
+    },
+    {
+      "file_path": "images/3b6fe6b0edcd1fc9.jpg",
+      "height": 685,
+      "label_status": "unlabeled",
+      "license_metadata": {
+        "attribution": "American Center Ho Chi Minh City",
+        "name": "Open Images recorded image license",
+        "url": "https://creativecommons.org/licenses/by/2.0/"
+      },
+      "source": "open_images_v7",
+      "source_image_id": "3b6fe6b0edcd1fc9",
+      "split": "train_pool",
+      "width": 1024
+    },
+    {
+      "file_path": "images/4258cf8d7b08daed.jpg",
+      "height": 1024,
+      "label_status": "unlabeled",
+      "license_metadata": {
+        "attribution": "MATAVI@",
+        "name": "Open Images recorded image license",
+        "url": "https://creativecommons.org/licenses/by/2.0/"
+      },
+      "source": "open_images_v7",
+      "source_image_id": "4258cf8d7b08daed",
+      "split": "train_pool",
+      "width": 768
+    },
+    {
+      "file_path": "images/4e9960b35151ea84.jpg",
+      "height": 683,
+      "label_status": "unlabeled",
+      "license_metadata": {
+        "attribution": "Trocaire",
+        "name": "Open Images recorded image license",
+        "url": "https://creativecommons.org/licenses/by/2.0/"
+      },
+      "source": "open_images_v7",
+      "source_image_id": "4e9960b35151ea84",
+      "split": "train_pool",
+      "width": 1024
+    },
+    {
+      "file_path": "images/532fdd384c1955ea.jpg",
+      "height": 1024,
+      "label_status": "unlabeled",
+      "license_metadata": {
+        "attribution": "Sodanie Chea",
+        "name": "Open Images recorded image license",
+        "url": "https://creativecommons.org/licenses/by/2.0/"
+      },
+      "source": "open_images_v7",
+      "source_image_id": "532fdd384c1955ea",
+      "split": "train_pool",
+      "width": 683
+    },
+    {
+      "file_path": "images/553017b46b3eee10.jpg",
+      "height": 1024,
+      "label_status": "unlabeled",
+      "license_metadata": {
+        "attribution": "dave.see",
+        "name": "Open Images recorded image license",
+        "url": "https://creativecommons.org/licenses/by/2.0/"
+      },
+      "source": "open_images_v7",
+      "source_image_id": "553017b46b3eee10",
+      "split": "train_pool",
+      "width": 683
+    },
+    {
+      "file_path": "images/631a3329b0cb7dbb.jpg",
+      "height": 577,
+      "label_status": "unlabeled",
+      "license_metadata": {
+        "attribution": "John Tann",
+        "name": "Open Images recorded image license",
+        "url": "https://creativecommons.org/licenses/by/2.0/"
+      },
+      "source": "open_images_v7",
+      "source_image_id": "631a3329b0cb7dbb",
+      "split": "train_pool",
+      "width": 1024
+    },
+    {
+      "file_path": "images/6d93eca2bcf148fd.jpg",
+      "height": 768,
+      "label_status": "unlabeled",
+      "license_metadata": {
+        "attribution": "Sarvodaya Shramadana Movement",
+        "name": "Open Images recorded image license",
+        "url": "https://creativecommons.org/licenses/by/2.0/"
+      },
+      "source": "open_images_v7",
+      "source_image_id": "6d93eca2bcf148fd",
+      "split": "train_pool",
+      "width": 1024
+    },
+    {
+      "file_path": "images/7243bb39ae8d770d.jpg",
+      "height": 1024,
+      "label_status": "unlabeled",
+      "license_metadata": {
+        "attribution": "Capture Queen",
+        "name": "Open Images recorded image license",
+        "url": "https://creativecommons.org/licenses/by/2.0/"
+      },
+      "source": "open_images_v7",
+      "source_image_id": "7243bb39ae8d770d",
+      "split": "train_pool",
+      "width": 683
+    },
+    {
+      "file_path": "images/7a278c2574b58d66.jpg",
+      "height": 1024,
+      "label_status": "unlabeled",
+      "license_metadata": {
+        "attribution": "gnomonic",
+        "name": "Open Images recorded image license",
+        "url": "https://creativecommons.org/licenses/by/2.0/"
+      },
+      "source": "open_images_v7",
+      "source_image_id": "7a278c2574b58d66",
+      "split": "train_pool",
+      "width": 768
+    },
+    {
+      "file_path": "images/7c39d883dfe25943.jpg",
+      "height": 1024,
+      "label_status": "unlabeled",
+      "license_metadata": {
+        "attribution": "Sherry Kang",
+        "name": "Open Images recorded image license",
+        "url": "https://creativecommons.org/licenses/by/2.0/"
+      },
+      "source": "open_images_v7",
+      "source_image_id": "7c39d883dfe25943",
+      "split": "train_pool",
+      "width": 768
+    },
+    {
+      "file_path": "images/7ca9e5260a5885d4.jpg",
+      "height": 1024,
+      "label_status": "unlabeled",
+      "license_metadata": {
+        "attribution": "Didriks",
+        "name": "Open Images recorded image license",
+        "url": "https://creativecommons.org/licenses/by/2.0/"
+      },
+      "source": "open_images_v7",
+      "source_image_id": "7ca9e5260a5885d4",
+      "split": "train_pool",
+      "width": 683
+    },
+    {
+      "file_path": "images/856841a5b385c465.jpg",
+      "height": 1024,
+      "label_status": "unlabeled",
+      "license_metadata": {
+        "attribution": "leighklotz",
+        "name": "Open Images recorded image license",
+        "url": "https://creativecommons.org/licenses/by/2.0/"
+      },
+      "source": "open_images_v7",
+      "source_image_id": "856841a5b385c465",
+      "split": "train_pool",
+      "width": 584
+    },
+    {
+      "file_path": "images/91f7f54bbfee37f7.jpg",
+      "height": 1024,
+      "label_status": "unlabeled",
+      "license_metadata": {
+        "attribution": "Hobbies on a Budget",
+        "name": "Open Images recorded image license",
+        "url": "https://creativecommons.org/licenses/by/2.0/"
+      },
+      "source": "open_images_v7",
+      "source_image_id": "91f7f54bbfee37f7",
+      "split": "train_pool",
+      "width": 992
+    },
+    {
+      "file_path": "images/9809a8952b8c29c1.jpg",
+      "height": 1024,
+      "label_status": "unlabeled",
+      "license_metadata": {
+        "attribution": "Fred Bigio",
+        "name": "Open Images recorded image license",
+        "url": "https://creativecommons.org/licenses/by/2.0/"
+      },
+      "source": "open_images_v7",
+      "source_image_id": "9809a8952b8c29c1",
+      "split": "train_pool",
+      "width": 816
+    },
+    {
+      "file_path": "images/9d7e7a3f3af62836.jpg",
+      "height": 768,
+      "label_status": "unlabeled",
+      "license_metadata": {
+        "attribution": "Caya!!",
+        "name": "Open Images recorded image license",
+        "url": "https://creativecommons.org/licenses/by/2.0/"
+      },
+      "source": "open_images_v7",
+      "source_image_id": "9d7e7a3f3af62836",
+      "split": "train_pool",
+      "width": 1024
+    },
+    {
+      "file_path": "images/9e8e450b879429df.jpg",
+      "height": 768,
+      "label_status": "unlabeled",
+      "license_metadata": {
+        "attribution": "Dan Brickley",
+        "name": "Open Images recorded image license",
+        "url": "https://creativecommons.org/licenses/by/2.0/"
+      },
+      "source": "open_images_v7",
+      "source_image_id": "9e8e450b879429df",
+      "split": "train_pool",
+      "width": 1024
+    },
+    {
+      "file_path": "images/9fd4fd63bb18f8bf.jpg",
+      "height": 1024,
+      "label_status": "unlabeled",
+      "license_metadata": {
+        "attribution": "Sarah_Ackerman",
+        "name": "Open Images recorded image license",
+        "url": "https://creativecommons.org/licenses/by/2.0/"
+      },
+      "source": "open_images_v7",
+      "source_image_id": "9fd4fd63bb18f8bf",
+      "split": "train_pool",
+      "width": 722
+    },
+    {
+      "file_path": "images/a30d502fade25820.jpg",
+      "height": 768,
+      "label_status": "unlabeled",
+      "license_metadata": {
+        "attribution": "goldsmiths09",
+        "name": "Open Images recorded image license",
+        "url": "https://creativecommons.org/licenses/by/2.0/"
+      },
+      "source": "open_images_v7",
+      "source_image_id": "a30d502fade25820",
+      "split": "train_pool",
+      "width": 1024
+    },
+    {
+      "file_path": "images/a4d119d4c197f721.jpg",
+      "height": 683,
+      "label_status": "unlabeled",
+      "license_metadata": {
+        "attribution": "City Foodsters",
+        "name": "Open Images recorded image license",
+        "url": "https://creativecommons.org/licenses/by/2.0/"
+      },
+      "source": "open_images_v7",
+      "source_image_id": "a4d119d4c197f721",
+      "split": "train_pool",
+      "width": 1024
+    },
+    {
+      "file_path": "images/a60db198a4a0aa5b.jpg",
+      "height": 768,
+      "label_status": "unlabeled",
+      "license_metadata": {
+        "attribution": "Jeremy Keith",
+        "name": "Open Images recorded image license",
+        "url": "https://creativecommons.org/licenses/by/2.0/"
+      },
+      "source": "open_images_v7",
+      "source_image_id": "a60db198a4a0aa5b",
+      "split": "train_pool",
+      "width": 1024
+    },
+    {
+      "file_path": "images/a71e805e53998d94.jpg",
+      "height": 768,
+      "label_status": "unlabeled",
+      "license_metadata": {
+        "attribution": "Roberto Verzo",
+        "name": "Open Images recorded image license",
+        "url": "https://creativecommons.org/licenses/by/2.0/"
+      },
+      "source": "open_images_v7",
+      "source_image_id": "a71e805e53998d94",
+      "split": "train_pool",
+      "width": 1024
+    },
+    {
+      "file_path": "images/a8a3f65f00052bda.jpg",
+      "height": 768,
+      "label_status": "unlabeled",
+      "license_metadata": {
+        "attribution": "Kate Ter Haar",
+        "name": "Open Images recorded image license",
+        "url": "https://creativecommons.org/licenses/by/2.0/"
+      },
+      "source": "open_images_v7",
+      "source_image_id": "a8a3f65f00052bda",
+      "split": "train_pool",
+      "width": 1024
+    },
+    {
+      "file_path": "images/a908c401d28b086d.jpg",
+      "height": 669,
+      "label_status": "unlabeled",
+      "license_metadata": {
+        "attribution": "waferboard",
+        "name": "Open Images recorded image license",
+        "url": "https://creativecommons.org/licenses/by/2.0/"
+      },
+      "source": "open_images_v7",
+      "source_image_id": "a908c401d28b086d",
+      "split": "train_pool",
+      "width": 1024
+    },
+    {
+      "file_path": "images/b1ce6250dad71e9e.jpg",
+      "height": 768,
+      "label_status": "unlabeled",
+      "license_metadata": {
+        "attribution": "Ana Rodríguez  Carrington",
+        "name": "Open Images recorded image license",
+        "url": "https://creativecommons.org/licenses/by/2.0/"
+      },
+      "source": "open_images_v7",
+      "source_image_id": "b1ce6250dad71e9e",
+      "split": "train_pool",
+      "width": 1024
+    },
+    {
+      "file_path": "images/b2fe5a6289c1bb93.jpg",
+      "height": 1024,
+      "label_status": "unlabeled",
+      "license_metadata": {
+        "attribution": "David Hilowitz",
+        "name": "Open Images recorded image license",
+        "url": "https://creativecommons.org/licenses/by/2.0/"
+      },
+      "source": "open_images_v7",
+      "source_image_id": "b2fe5a6289c1bb93",
+      "split": "train_pool",
+      "width": 683
+    },
+    {
+      "file_path": "images/b3a3d1ccac526eb5.jpg",
+      "height": 783,
+      "label_status": "unlabeled",
+      "license_metadata": {
+        "attribution": "Rosmarie Voegtli",
+        "name": "Open Images recorded image license",
+        "url": "https://creativecommons.org/licenses/by/2.0/"
+      },
+      "source": "open_images_v7",
+      "source_image_id": "b3a3d1ccac526eb5",
+      "split": "train_pool",
+      "width": 1024
+    },
+    {
+      "file_path": "images/b59bd491687cefea.jpg",
+      "height": 768,
+      "label_status": "unlabeled",
+      "license_metadata": {
+        "attribution": "giant mice kill rabbits",
+        "name": "Open Images recorded image license",
+        "url": "https://creativecommons.org/licenses/by/2.0/"
+      },
+      "source": "open_images_v7",
+      "source_image_id": "b59bd491687cefea",
+      "split": "train_pool",
+      "width": 1024
+    },
+    {
+      "file_path": "images/b5b7cf02daa190d8.jpg",
+      "height": 1024,
+      "label_status": "unlabeled",
+      "license_metadata": {
+        "attribution": "John Fowler",
+        "name": "Open Images recorded image license",
+        "url": "https://creativecommons.org/licenses/by/2.0/"
+      },
+      "source": "open_images_v7",
+      "source_image_id": "b5b7cf02daa190d8",
+      "split": "train_pool",
+      "width": 703
+    },
+    {
+      "file_path": "images/b6980597213fd1da.jpg",
+      "height": 768,
+      "label_status": "unlabeled",
+      "license_metadata": {
+        "attribution": "Rusty Clark - On the Air M-F 8am-noon",
+        "name": "Open Images recorded image license",
+        "url": "https://creativecommons.org/licenses/by/2.0/"
+      },
+      "source": "open_images_v7",
+      "source_image_id": "b6980597213fd1da",
+      "split": "train_pool",
+      "width": 1024
+    },
+    {
+      "file_path": "images/b8cd7c5fed29e2b5.jpg",
+      "height": 1024,
+      "label_status": "unlabeled",
+      "license_metadata": {
+        "attribution": "sookie",
+        "name": "Open Images recorded image license",
+        "url": "https://creativecommons.org/licenses/by/2.0/"
+      },
+      "source": "open_images_v7",
+      "source_image_id": "b8cd7c5fed29e2b5",
+      "split": "train_pool",
+      "width": 768
+    },
+    {
+      "file_path": "images/ba98855942c7941f.jpg",
+      "height": 680,
+      "label_status": "unlabeled",
+      "license_metadata": {
+        "attribution": "Jennifer Boyer",
+        "name": "Open Images recorded image license",
+        "url": "https://creativecommons.org/licenses/by/2.0/"
+      },
+      "source": "open_images_v7",
+      "source_image_id": "ba98855942c7941f",
+      "split": "train_pool",
+      "width": 1024
+    },
+    {
+      "file_path": "images/bdca0de8a4d360a3.jpg",
+      "height": 683,
+      "label_status": "unlabeled",
+      "license_metadata": {
+        "attribution": "Chad Skeers",
+        "name": "Open Images recorded image license",
+        "url": "https://creativecommons.org/licenses/by/2.0/"
+      },
+      "source": "open_images_v7",
+      "source_image_id": "bdca0de8a4d360a3",
+      "split": "train_pool",
+      "width": 1024
+    },
+    {
+      "file_path": "images/c04829a8332854d3.jpg",
+      "height": 1023,
+      "label_status": "unlabeled",
+      "license_metadata": {
+        "attribution": "Mike Mozart",
+        "name": "Open Images recorded image license",
+        "url": "https://creativecommons.org/licenses/by/2.0/"
+      },
+      "source": "open_images_v7",
+      "source_image_id": "c04829a8332854d3",
+      "split": "train_pool",
+      "width": 1024
+    },
+    {
+      "file_path": "images/c2d68d42030199a1.jpg",
+      "height": 1024,
+      "label_status": "unlabeled",
+      "license_metadata": {
+        "attribution": "Kees Romkes",
+        "name": "Open Images recorded image license",
+        "url": "https://creativecommons.org/licenses/by/2.0/"
+      },
+      "source": "open_images_v7",
+      "source_image_id": "c2d68d42030199a1",
+      "split": "train_pool",
+      "width": 1024
+    },
+    {
+      "file_path": "images/c56560e6b587cd2a.jpg",
+      "height": 640,
+      "label_status": "unlabeled",
+      "license_metadata": {
+        "attribution": "Incase",
+        "name": "Open Images recorded image license",
+        "url": "https://creativecommons.org/licenses/by/2.0/"
+      },
+      "source": "open_images_v7",
+      "source_image_id": "c56560e6b587cd2a",
+      "split": "train_pool",
+      "width": 1024
+    },
+    {
+      "file_path": "images/c58938143366f81d.jpg",
+      "height": 683,
+      "label_status": "unlabeled",
+      "license_metadata": {
+        "attribution": "Tim &amp; Selena Middleton",
+        "name": "Open Images recorded image license",
+        "url": "https://creativecommons.org/licenses/by/2.0/"
+      },
+      "source": "open_images_v7",
+      "source_image_id": "c58938143366f81d",
+      "split": "train_pool",
+      "width": 1024
+    },
+    {
+      "file_path": "images/c8aeeb234241cf87.jpg",
+      "height": 683,
+      "label_status": "unlabeled",
+      "license_metadata": {
+        "attribution": "Nick Hubbard",
+        "name": "Open Images recorded image license",
+        "url": "https://creativecommons.org/licenses/by/2.0/"
+      },
+      "source": "open_images_v7",
+      "source_image_id": "c8aeeb234241cf87",
+      "split": "train_pool",
+      "width": 1024
+    },
+    {
+      "file_path": "images/c93a0979b7a28e6a.jpg",
+      "height": 768,
+      "label_status": "unlabeled",
+      "license_metadata": {
+        "attribution": "Zorka Ostojic Espinoza",
+        "name": "Open Images recorded image license",
+        "url": "https://creativecommons.org/licenses/by/2.0/"
+      },
+      "source": "open_images_v7",
+      "source_image_id": "c93a0979b7a28e6a",
+      "split": "train_pool",
+      "width": 1024
+    },
+    {
+      "file_path": "images/cafa7041a4541808.jpg",
+      "height": 683,
+      "label_status": "unlabeled",
+      "license_metadata": {
+        "attribution": "Ramnath Bhat",
+        "name": "Open Images recorded image license",
+        "url": "https://creativecommons.org/licenses/by/2.0/"
+      },
+      "source": "open_images_v7",
+      "source_image_id": "cafa7041a4541808",
+      "split": "train_pool",
+      "width": 1024
+    },
+    {
+      "file_path": "images/cb6b698c9603b542.jpg",
+      "height": 768,
+      "label_status": "unlabeled",
+      "license_metadata": {
+        "attribution": "Leon Brocard",
+        "name": "Open Images recorded image license",
+        "url": "https://creativecommons.org/licenses/by/2.0/"
+      },
+      "source": "open_images_v7",
+      "source_image_id": "cb6b698c9603b542",
+      "split": "train_pool",
+      "width": 1024
+    },
+    {
+      "file_path": "images/cc05a9f8ad54501f.jpg",
+      "height": 683,
+      "label_status": "unlabeled",
+      "license_metadata": {
+        "attribution": "U.S. Department of Agriculture",
+        "name": "Open Images recorded image license",
+        "url": "https://creativecommons.org/licenses/by/2.0/"
+      },
+      "source": "open_images_v7",
+      "source_image_id": "cc05a9f8ad54501f",
+      "split": "train_pool",
+      "width": 1024
+    },
+    {
+      "file_path": "images/cc7497f20d88361a.jpg",
+      "height": 768,
+      "label_status": "unlabeled",
+      "license_metadata": {
+        "attribution": "Orin Zebest",
+        "name": "Open Images recorded image license",
+        "url": "https://creativecommons.org/licenses/by/2.0/"
+      },
+      "source": "open_images_v7",
+      "source_image_id": "cc7497f20d88361a",
+      "split": "train_pool",
+      "width": 1024
+    },
+    {
+      "file_path": "images/cd6b764e4ca7209a.jpg",
+      "height": 683,
+      "label_status": "unlabeled",
+      "license_metadata": {
+        "attribution": "Family O&#x27;Abé",
+        "name": "Open Images recorded image license",
+        "url": "https://creativecommons.org/licenses/by/2.0/"
+      },
+      "source": "open_images_v7",
+      "source_image_id": "cd6b764e4ca7209a",
+      "split": "train_pool",
+      "width": 1024
+    },
+    {
+      "file_path": "images/cdd688f81d32d94e.jpg",
+      "height": 1024,
+      "label_status": "unlabeled",
+      "license_metadata": {
+        "attribution": "Emily C",
+        "name": "Open Images recorded image license",
+        "url": "https://creativecommons.org/licenses/by/2.0/"
+      },
+      "source": "open_images_v7",
+      "source_image_id": "cdd688f81d32d94e",
+      "split": "train_pool",
+      "width": 768
+    },
+    {
+      "file_path": "images/ce9ea2c1f24c13f1.jpg",
+      "height": 1024,
+      "label_status": "unlabeled",
+      "license_metadata": {
+        "attribution": "Vernon Chan",
+        "name": "Open Images recorded image license",
+        "url": "https://creativecommons.org/licenses/by/2.0/"
+      },
+      "source": "open_images_v7",
+      "source_image_id": "ce9ea2c1f24c13f1",
+      "split": "train_pool",
+      "width": 1024
+    },
+    {
+      "file_path": "images/cf365ebd6e695ce7.jpg",
+      "height": 1024,
+      "label_status": "unlabeled",
+      "license_metadata": {
+        "attribution": "Joy",
+        "name": "Open Images recorded image license",
+        "url": "https://creativecommons.org/licenses/by/2.0/"
+      },
+      "source": "open_images_v7",
+      "source_image_id": "cf365ebd6e695ce7",
+      "split": "train_pool",
+      "width": 1024
+    },
+    {
+      "file_path": "images/cfe8a663c7d42246.jpg",
+      "height": 697,
+      "label_status": "unlabeled",
+      "license_metadata": {
+        "attribution": "waferboard",
+        "name": "Open Images recorded image license",
+        "url": "https://creativecommons.org/licenses/by/2.0/"
+      },
+      "source": "open_images_v7",
+      "source_image_id": "cfe8a663c7d42246",
+      "split": "train_pool",
+      "width": 1024
+    },
+    {
+      "file_path": "images/d005e60f7a3c7083.jpg",
+      "height": 575,
+      "label_status": "unlabeled",
+      "license_metadata": {
+        "attribution": "Hiltrud Möller-Eberth",
+        "name": "Open Images recorded image license",
+        "url": "https://creativecommons.org/licenses/by/2.0/"
+      },
+      "source": "open_images_v7",
+      "source_image_id": "d005e60f7a3c7083",
+      "split": "train_pool",
+      "width": 1024
+    },
+    {
+      "file_path": "images/d059da2010f30fca.jpg",
+      "height": 768,
+      "label_status": "unlabeled",
+      "license_metadata": {
+        "attribution": "Dmitry Grigoriev",
+        "name": "Open Images recorded image license",
+        "url": "https://creativecommons.org/licenses/by/2.0/"
+      },
+      "source": "open_images_v7",
+      "source_image_id": "d059da2010f30fca",
+      "split": "train_pool",
+      "width": 1024
+    },
+    {
+      "file_path": "images/d102e55955a6c855.jpg",
+      "height": 768,
+      "label_status": "unlabeled",
+      "license_metadata": {
+        "attribution": "Jackie Waters",
+        "name": "Open Images recorded image license",
+        "url": "https://creativecommons.org/licenses/by/2.0/"
+      },
+      "source": "open_images_v7",
+      "source_image_id": "d102e55955a6c855",
+      "split": "train_pool",
+      "width": 1024
+    },
+    {
+      "file_path": "images/d11f5fa14a0e9ba0.jpg",
+      "height": 1024,
+      "label_status": "unlabeled",
+      "license_metadata": {
+        "attribution": "antiel_eldar",
+        "name": "Open Images recorded image license",
+        "url": "https://creativecommons.org/licenses/by/2.0/"
+      },
+      "source": "open_images_v7",
+      "source_image_id": "d11f5fa14a0e9ba0",
+      "split": "train_pool",
+      "width": 1024
+    },
+    {
+      "file_path": "images/d247b50570b23f3d.jpg",
+      "height": 493,
+      "label_status": "unlabeled",
+      "license_metadata": {
+        "attribution": "Rory MacLeod",
+        "name": "Open Images recorded image license",
+        "url": "https://creativecommons.org/licenses/by/2.0/"
+      },
+      "source": "open_images_v7",
+      "source_image_id": "d247b50570b23f3d",
+      "split": "train_pool",
+      "width": 1024
+    },
+    {
+      "file_path": "images/d3d6ed1c06824d58.jpg",
+      "height": 683,
+      "label_status": "unlabeled",
+      "license_metadata": {
+        "attribution": "thebittenword.com",
+        "name": "Open Images recorded image license",
+        "url": "https://creativecommons.org/licenses/by/2.0/"
+      },
+      "source": "open_images_v7",
+      "source_image_id": "d3d6ed1c06824d58",
+      "split": "train_pool",
+      "width": 1024
+    },
+    {
+      "file_path": "images/d54721940333a55f.jpg",
+      "height": 685,
+      "label_status": "unlabeled",
+      "license_metadata": {
+        "attribution": "Kyle McDonald",
+        "name": "Open Images recorded image license",
+        "url": "https://creativecommons.org/licenses/by/2.0/"
+      },
+      "source": "open_images_v7",
+      "source_image_id": "d54721940333a55f",
+      "split": "train_pool",
+      "width": 1024
+    },
+    {
+      "file_path": "images/d5a8037bd9d0215c.jpg",
+      "height": 576,
+      "label_status": "unlabeled",
+      "license_metadata": {
+        "attribution": "Mr Thinktank",
+        "name": "Open Images recorded image license",
+        "url": "https://creativecommons.org/licenses/by/2.0/"
+      },
+      "source": "open_images_v7",
+      "source_image_id": "d5a8037bd9d0215c",
+      "split": "train_pool",
+      "width": 1024
+    },
+    {
+      "file_path": "images/d6c2b0a101bf5d10.jpg",
+      "height": 561,
+      "label_status": "unlabeled",
+      "license_metadata": {
+        "attribution": "Mike Licht",
+        "name": "Open Images recorded image license",
+        "url": "https://creativecommons.org/licenses/by/2.0/"
+      },
+      "source": "open_images_v7",
+      "source_image_id": "d6c2b0a101bf5d10",
+      "split": "train_pool",
+      "width": 1024
+    },
+    {
+      "file_path": "images/d80277c3788739f8.jpg",
+      "height": 1024,
+      "label_status": "unlabeled",
+      "license_metadata": {
+        "attribution": "Daniel Farrell",
+        "name": "Open Images recorded image license",
+        "url": "https://creativecommons.org/licenses/by/2.0/"
+      },
+      "source": "open_images_v7",
+      "source_image_id": "d80277c3788739f8",
+      "split": "train_pool",
+      "width": 768
+    },
+    {
+      "file_path": "images/d8076673ff70a1c3.jpg",
+      "height": 768,
+      "label_status": "unlabeled",
+      "license_metadata": {
+        "attribution": "Rhonda",
+        "name": "Open Images recorded image license",
+        "url": "https://creativecommons.org/licenses/by/2.0/"
+      },
+      "source": "open_images_v7",
+      "source_image_id": "d8076673ff70a1c3",
+      "split": "train_pool",
+      "width": 1024
+    },
+    {
+      "file_path": "images/d80dbf0adf3268c4.jpg",
+      "height": 1024,
+      "label_status": "unlabeled",
+      "license_metadata": {
+        "attribution": "Takekazu Omi",
+        "name": "Open Images recorded image license",
+        "url": "https://creativecommons.org/licenses/by/2.0/"
+      },
+      "source": "open_images_v7",
+      "source_image_id": "d80dbf0adf3268c4",
+      "split": "train_pool",
+      "width": 1024
+    },
+    {
+      "file_path": "images/d9dbe693bbac5e9f.jpg",
+      "height": 768,
+      "label_status": "unlabeled",
+      "license_metadata": {
+        "attribution": "MAURO CATEB",
+        "name": "Open Images recorded image license",
+        "url": "https://creativecommons.org/licenses/by/2.0/"
+      },
+      "source": "open_images_v7",
+      "source_image_id": "d9dbe693bbac5e9f",
+      "split": "train_pool",
+      "width": 1024
+    },
+    {
+      "file_path": "images/daf226433d7d3814.jpg",
+      "height": 683,
+      "label_status": "unlabeled",
+      "license_metadata": {
+        "attribution": "宁 夏",
+        "name": "Open Images recorded image license",
+        "url": "https://creativecommons.org/licenses/by/2.0/"
+      },
+      "source": "open_images_v7",
+      "source_image_id": "daf226433d7d3814",
+      "split": "train_pool",
+      "width": 1024
+    },
+    {
+      "file_path": "images/db39cc1ce398506d.jpg",
+      "height": 768,
+      "label_status": "unlabeled",
+      "license_metadata": {
+        "attribution": "Scott Rubin",
+        "name": "Open Images recorded image license",
+        "url": "https://creativecommons.org/licenses/by/2.0/"
+      },
+      "source": "open_images_v7",
+      "source_image_id": "db39cc1ce398506d",
+      "split": "train_pool",
+      "width": 1024
+    },
+    {
+      "file_path": "images/db670b28bbafb427.jpg",
+      "height": 678,
+      "label_status": "unlabeled",
+      "license_metadata": {
+        "attribution": "Rob Bertholf",
+        "name": "Open Images recorded image license",
+        "url": "https://creativecommons.org/licenses/by/2.0/"
+      },
+      "source": "open_images_v7",
+      "source_image_id": "db670b28bbafb427",
+      "split": "train_pool",
+      "width": 1024
+    },
+    {
+      "file_path": "images/dbd1c41a69c53ed2.jpg",
+      "height": 768,
+      "label_status": "unlabeled",
+      "license_metadata": {
+        "attribution": "SantaRosa OLD SKOOL",
+        "name": "Open Images recorded image license",
+        "url": "https://creativecommons.org/licenses/by/2.0/"
+      },
+      "source": "open_images_v7",
+      "source_image_id": "dbd1c41a69c53ed2",
+      "split": "train_pool",
+      "width": 1024
+    },
+    {
+      "file_path": "images/dc2ac5c58374e4ce.jpg",
+      "height": 576,
+      "label_status": "unlabeled",
+      "license_metadata": {
+        "attribution": "ukahbob777",
+        "name": "Open Images recorded image license",
+        "url": "https://creativecommons.org/licenses/by/2.0/"
+      },
+      "source": "open_images_v7",
+      "source_image_id": "dc2ac5c58374e4ce",
+      "split": "train_pool",
+      "width": 1024
+    },
+    {
+      "file_path": "images/dc9c947f5851dfd1.jpg",
+      "height": 1024,
+      "label_status": "unlabeled",
+      "license_metadata": {
+        "attribution": "Miss Teacher Lady",
+        "name": "Open Images recorded image license",
+        "url": "https://creativecommons.org/licenses/by/2.0/"
+      },
+      "source": "open_images_v7",
+      "source_image_id": "dc9c947f5851dfd1",
+      "split": "train_pool",
+      "width": 786
+    },
+    {
+      "file_path": "images/dcf020cebe37d225.jpg",
+      "height": 683,
+      "label_status": "unlabeled",
+      "license_metadata": {
+        "attribution": "Cesar I. Martins",
+        "name": "Open Images recorded image license",
+        "url": "https://creativecommons.org/licenses/by/2.0/"
+      },
+      "source": "open_images_v7",
+      "source_image_id": "dcf020cebe37d225",
+      "split": "train_pool",
+      "width": 1024
+    },
+    {
+      "file_path": "images/dd2de25c19be05a8.jpg",
+      "height": 1024,
+      "label_status": "unlabeled",
+      "license_metadata": {
+        "attribution": "Dwight Sipler",
+        "name": "Open Images recorded image license",
+        "url": "https://creativecommons.org/licenses/by/2.0/"
+      },
+      "source": "open_images_v7",
+      "source_image_id": "dd2de25c19be05a8",
+      "split": "train_pool",
+      "width": 682
+    },
+    {
+      "file_path": "images/de1c47c9683dc2e8.jpg",
+      "height": 680,
+      "label_status": "unlabeled",
+      "license_metadata": {
+        "attribution": "Kimberly Vardeman",
+        "name": "Open Images recorded image license",
+        "url": "https://creativecommons.org/licenses/by/2.0/"
+      },
+      "source": "open_images_v7",
+      "source_image_id": "de1c47c9683dc2e8",
+      "split": "train_pool",
+      "width": 1024
+    },
+    {
+      "file_path": "images/de5fb163284a4d5e.jpg",
+      "height": 683,
+      "label_status": "unlabeled",
+      "license_metadata": {
+        "attribution": "Brent Hoard",
+        "name": "Open Images recorded image license",
+        "url": "https://creativecommons.org/licenses/by/2.0/"
+      },
+      "source": "open_images_v7",
+      "source_image_id": "de5fb163284a4d5e",
+      "split": "train_pool",
+      "width": 1024
+    },
+    {
+      "file_path": "images/deaaa1ef200b228a.jpg",
+      "height": 678,
+      "label_status": "unlabeled",
+      "license_metadata": {
+        "attribution": "Rob Bertholf",
+        "name": "Open Images recorded image license",
+        "url": "https://creativecommons.org/licenses/by/2.0/"
+      },
+      "source": "open_images_v7",
+      "source_image_id": "deaaa1ef200b228a",
+      "split": "train_pool",
+      "width": 1024
+    },
+    {
+      "file_path": "images/df3fa9ddd474cd16.jpg",
+      "height": 683,
+      "label_status": "unlabeled",
+      "license_metadata": {
+        "attribution": "Sam Howzit",
+        "name": "Open Images recorded image license",
+        "url": "https://creativecommons.org/licenses/by/2.0/"
+      },
+      "source": "open_images_v7",
+      "source_image_id": "df3fa9ddd474cd16",
+      "split": "train_pool",
+      "width": 1024
+    },
+    {
+      "file_path": "images/e0c7f61c4e41c958.jpg",
+      "height": 683,
+      "label_status": "unlabeled",
+      "license_metadata": {
+        "attribution": "Peter",
+        "name": "Open Images recorded image license",
+        "url": "https://creativecommons.org/licenses/by/2.0/"
+      },
+      "source": "open_images_v7",
+      "source_image_id": "e0c7f61c4e41c958",
+      "split": "train_pool",
+      "width": 1024
+    },
+    {
+      "file_path": "images/e0df4f542ce42736.jpg",
+      "height": 720,
+      "label_status": "unlabeled",
+      "license_metadata": {
+        "attribution": "Ralph Daily",
+        "name": "Open Images recorded image license",
+        "url": "https://creativecommons.org/licenses/by/2.0/"
+      },
+      "source": "open_images_v7",
+      "source_image_id": "e0df4f542ce42736",
+      "split": "train_pool",
+      "width": 1024
+    },
+    {
+      "file_path": "images/e18e21b659c87dde.jpg",
+      "height": 575,
+      "label_status": "unlabeled",
+      "license_metadata": {
+        "attribution": "Joselu Blanco",
+        "name": "Open Images recorded image license",
+        "url": "https://creativecommons.org/licenses/by/2.0/"
+      },
+      "source": "open_images_v7",
+      "source_image_id": "e18e21b659c87dde",
+      "split": "train_pool",
+      "width": 1024
+    },
+    {
+      "file_path": "images/e3b723597edc29d6.jpg",
+      "height": 685,
+      "label_status": "unlabeled",
+      "license_metadata": {
+        "attribution": "Emily Woods",
+        "name": "Open Images recorded image license",
+        "url": "https://creativecommons.org/licenses/by/2.0/"
+      },
+      "source": "open_images_v7",
+      "source_image_id": "e3b723597edc29d6",
+      "split": "train_pool",
+      "width": 1024
+    },
+    {
+      "file_path": "images/e47ba777216e0ff6.jpg",
+      "height": 683,
+      "label_status": "unlabeled",
+      "license_metadata": {
+        "attribution": "Personal Creations",
+        "name": "Open Images recorded image license",
+        "url": "https://creativecommons.org/licenses/by/2.0/"
+      },
+      "source": "open_images_v7",
+      "source_image_id": "e47ba777216e0ff6",
+      "split": "train_pool",
+      "width": 1024
+    },
+    {
+      "file_path": "images/e4e597b6d5e2e05b.jpg",
+      "height": 1024,
+      "label_status": "unlabeled",
+      "license_metadata": {
+        "attribution": "John  Jewell",
+        "name": "Open Images recorded image license",
+        "url": "https://creativecommons.org/licenses/by/2.0/"
+      },
+      "source": "open_images_v7",
+      "source_image_id": "e4e597b6d5e2e05b",
+      "split": "train_pool",
+      "width": 683
+    },
+    {
+      "file_path": "images/e5dca2a1c5815a48.jpg",
+      "height": 1024,
+      "label_status": "unlabeled",
+      "license_metadata": {
+        "attribution": "Daniel Ramirez",
+        "name": "Open Images recorded image license",
+        "url": "https://creativecommons.org/licenses/by/2.0/"
+      },
+      "source": "open_images_v7",
+      "source_image_id": "e5dca2a1c5815a48",
+      "split": "train_pool",
+      "width": 1024
+    },
+    {
+      "file_path": "images/e5f594914ea457c5.jpg",
+      "height": 682,
+      "label_status": "unlabeled",
+      "license_metadata": {
+        "attribution": "Sh4rp_i",
+        "name": "Open Images recorded image license",
+        "url": "https://creativecommons.org/licenses/by/2.0/"
+      },
+      "source": "open_images_v7",
+      "source_image_id": "e5f594914ea457c5",
+      "split": "train_pool",
+      "width": 1024
+    },
+    {
+      "file_path": "images/e66505d6e83200c2.jpg",
+      "height": 1024,
+      "label_status": "unlabeled",
+      "license_metadata": {
+        "attribution": "Crystal",
+        "name": "Open Images recorded image license",
+        "url": "https://creativecommons.org/licenses/by/2.0/"
+      },
+      "source": "open_images_v7",
+      "source_image_id": "e66505d6e83200c2",
+      "split": "train_pool",
+      "width": 768
+    },
+    {
+      "file_path": "images/e77349f618bc67a7.jpg",
+      "height": 681,
+      "label_status": "unlabeled",
+      "license_metadata": {
+        "attribution": "Wonderlane",
+        "name": "Open Images recorded image license",
+        "url": "https://creativecommons.org/licenses/by/2.0/"
+      },
+      "source": "open_images_v7",
+      "source_image_id": "e77349f618bc67a7",
+      "split": "train_pool",
+      "width": 1024
+    },
+    {
+      "file_path": "images/e787d40fe8464782.jpg",
+      "height": 683,
+      "label_status": "unlabeled",
+      "license_metadata": {
+        "attribution": "Kate Ter Haar",
+        "name": "Open Images recorded image license",
+        "url": "https://creativecommons.org/licenses/by/2.0/"
+      },
+      "source": "open_images_v7",
+      "source_image_id": "e787d40fe8464782",
+      "split": "train_pool",
+      "width": 1024
+    },
+    {
+      "file_path": "images/e83f363b1ef1bc2f.jpg",
+      "height": 1024,
+      "label_status": "unlabeled",
+      "license_metadata": {
+        "attribution": "benstein",
+        "name": "Open Images recorded image license",
+        "url": "https://creativecommons.org/licenses/by/2.0/"
+      },
+      "source": "open_images_v7",
+      "source_image_id": "e83f363b1ef1bc2f",
+      "split": "train_pool",
+      "width": 768
+    },
+    {
+      "file_path": "images/e894806736856c2e.jpg",
+      "height": 768,
+      "label_status": "unlabeled",
+      "license_metadata": {
+        "attribution": "designatednaphour",
+        "name": "Open Images recorded image license",
+        "url": "https://creativecommons.org/licenses/by/2.0/"
+      },
+      "source": "open_images_v7",
+      "source_image_id": "e894806736856c2e",
+      "split": "train_pool",
+      "width": 1024
+    },
+    {
+      "file_path": "images/e8b2c32963458c61.jpg",
+      "height": 1024,
+      "label_status": "unlabeled",
+      "license_metadata": {
+        "attribution": "Arnold Gatilao",
+        "name": "Open Images recorded image license",
+        "url": "https://creativecommons.org/licenses/by/2.0/"
+      },
+      "source": "open_images_v7",
+      "source_image_id": "e8b2c32963458c61",
+      "split": "train_pool",
+      "width": 1024
+    },
+    {
+      "file_path": "images/e97ea7fdb2af746e.jpg",
+      "height": 742,
+      "label_status": "unlabeled",
+      "license_metadata": {
+        "attribution": "Henry Hemming",
+        "name": "Open Images recorded image license",
+        "url": "https://creativecommons.org/licenses/by/2.0/"
+      },
+      "source": "open_images_v7",
+      "source_image_id": "e97ea7fdb2af746e",
+      "split": "train_pool",
+      "width": 1024
+    },
+    {
+      "file_path": "images/e986f38bcc901aed.jpg",
+      "height": 1024,
+      "label_status": "unlabeled",
+      "license_metadata": {
+        "attribution": "Vivera Siregar",
+        "name": "Open Images recorded image license",
+        "url": "https://creativecommons.org/licenses/by/2.0/"
+      },
+      "source": "open_images_v7",
+      "source_image_id": "e986f38bcc901aed",
+      "split": "train_pool",
+      "width": 1024
+    },
+    {
+      "file_path": "images/e9b24f8eae058f0d.jpg",
+      "height": 768,
+      "label_status": "unlabeled",
+      "license_metadata": {
+        "attribution": "hmomoy",
+        "name": "Open Images recorded image license",
+        "url": "https://creativecommons.org/licenses/by/2.0/"
+      },
+      "source": "open_images_v7",
+      "source_image_id": "e9b24f8eae058f0d",
+      "split": "train_pool",
+      "width": 1024
+    },
+    {
+      "file_path": "images/ea5ca76a2d232fe2.jpg",
+      "height": 1024,
+      "label_status": "unlabeled",
+      "license_metadata": {
+        "attribution": "Vegan Feast Catering",
+        "name": "Open Images recorded image license",
+        "url": "https://creativecommons.org/licenses/by/2.0/"
+      },
+      "source": "open_images_v7",
+      "source_image_id": "ea5ca76a2d232fe2",
+      "split": "train_pool",
+      "width": 768
+    },
+    {
+      "file_path": "images/ea7316e0961388c7.jpg",
+      "height": 1024,
+      "label_status": "unlabeled",
+      "license_metadata": {
+        "attribution": "Cabaret Voltaire",
+        "name": "Open Images recorded image license",
+        "url": "https://creativecommons.org/licenses/by/2.0/"
+      },
+      "source": "open_images_v7",
+      "source_image_id": "ea7316e0961388c7",
+      "split": "train_pool",
+      "width": 748
+    },
+    {
+      "file_path": "images/ea99f6017722d74f.jpg",
+      "height": 1024,
+      "label_status": "unlabeled",
+      "license_metadata": {
+        "attribution": "The MisAdventures of Maja",
+        "name": "Open Images recorded image license",
+        "url": "https://creativecommons.org/licenses/by/2.0/"
+      },
+      "source": "open_images_v7",
+      "source_image_id": "ea99f6017722d74f",
+      "split": "train_pool",
+      "width": 1024
+    },
+    {
+      "file_path": "images/eb507ff8e2b5c4e6.jpg",
+      "height": 1024,
+      "label_status": "unlabeled",
+      "license_metadata": {
+        "attribution": "Alex Popovkin, Bahia, Brazil",
+        "name": "Open Images recorded image license",
+        "url": "https://creativecommons.org/licenses/by/2.0/"
+      },
+      "source": "open_images_v7",
+      "source_image_id": "eb507ff8e2b5c4e6",
+      "split": "train_pool",
+      "width": 573
+    },
+    {
+      "file_path": "images/ebe3607606216402.jpg",
+      "height": 768,
+      "label_status": "unlabeled",
+      "license_metadata": {
+        "attribution": "KELANTAN JOTTINGS",
+        "name": "Open Images recorded image license",
+        "url": "https://creativecommons.org/licenses/by/2.0/"
+      },
+      "source": "open_images_v7",
+      "source_image_id": "ebe3607606216402",
+      "split": "train_pool",
+      "width": 1024
+    },
+    {
+      "file_path": "images/ec6b73b9aa6be3b5.jpg",
+      "height": 683,
+      "label_status": "unlabeled",
+      "license_metadata": {
+        "attribution": "Trevor King",
+        "name": "Open Images recorded image license",
+        "url": "https://creativecommons.org/licenses/by/2.0/"
+      },
+      "source": "open_images_v7",
+      "source_image_id": "ec6b73b9aa6be3b5",
+      "split": "train_pool",
+      "width": 1024
+    },
+    {
+      "file_path": "images/ed1c32cd2fe2c6be.jpg",
+      "height": 1024,
+      "label_status": "unlabeled",
+      "license_metadata": {
+        "attribution": "Dee Deedee",
+        "name": "Open Images recorded image license",
+        "url": "https://creativecommons.org/licenses/by/2.0/"
+      },
+      "source": "open_images_v7",
+      "source_image_id": "ed1c32cd2fe2c6be",
+      "split": "train_pool",
+      "width": 751
+    },
+    {
+      "file_path": "images/edd7dae5e541f508.jpg",
+      "height": 1024,
+      "label_status": "unlabeled",
+      "license_metadata": {
+        "attribution": "y kawahara",
+        "name": "Open Images recorded image license",
+        "url": "https://creativecommons.org/licenses/by/2.0/"
+      },
+      "source": "open_images_v7",
+      "source_image_id": "edd7dae5e541f508",
+      "split": "train_pool",
+      "width": 683
+    },
+    {
+      "file_path": "images/eebc35ed349bd521.jpg",
+      "height": 1024,
+      "label_status": "unlabeled",
+      "license_metadata": {
+        "attribution": "jessica mullen",
+        "name": "Open Images recorded image license",
+        "url": "https://creativecommons.org/licenses/by/2.0/"
+      },
+      "source": "open_images_v7",
+      "source_image_id": "eebc35ed349bd521",
+      "split": "train_pool",
+      "width": 1024
+    },
+    {
+      "file_path": "images/eec1802f20e12551.jpg",
+      "height": 1024,
+      "label_status": "unlabeled",
+      "license_metadata": {
+        "attribution": "Luigi Guarino",
+        "name": "Open Images recorded image license",
+        "url": "https://creativecommons.org/licenses/by/2.0/"
+      },
+      "source": "open_images_v7",
+      "source_image_id": "eec1802f20e12551",
+      "split": "train_pool",
+      "width": 768
+    },
+    {
+      "file_path": "images/ef3b2f32a1465594.jpg",
+      "height": 769,
+      "label_status": "unlabeled",
+      "license_metadata": {
+        "attribution": "Bjoern G",
+        "name": "Open Images recorded image license",
+        "url": "https://creativecommons.org/licenses/by/2.0/"
+      },
+      "source": "open_images_v7",
+      "source_image_id": "ef3b2f32a1465594",
+      "split": "train_pool",
+      "width": 1024
+    },
+    {
+      "file_path": "images/efd5dcb1d757a29c.jpg",
+      "height": 683,
+      "label_status": "unlabeled",
+      "license_metadata": {
+        "attribution": "rochelle hartman",
+        "name": "Open Images recorded image license",
+        "url": "https://creativecommons.org/licenses/by/2.0/"
+      },
+      "source": "open_images_v7",
+      "source_image_id": "efd5dcb1d757a29c",
+      "split": "train_pool",
+      "width": 1024
+    },
+    {
+      "file_path": "images/f03732561119d5ed.jpg",
+      "height": 765,
+      "label_status": "unlabeled",
+      "license_metadata": {
+        "attribution": "Lorenzo Tlacaelel",
+        "name": "Open Images recorded image license",
+        "url": "https://creativecommons.org/licenses/by/2.0/"
+      },
+      "source": "open_images_v7",
+      "source_image_id": "f03732561119d5ed",
+      "split": "train_pool",
+      "width": 1024
+    },
+    {
+      "file_path": "images/f0505c535fa9fba3.jpg",
+      "height": 1024,
+      "label_status": "unlabeled",
+      "license_metadata": {
+        "attribution": "Juan Cabanillas",
+        "name": "Open Images recorded image license",
+        "url": "https://creativecommons.org/licenses/by/2.0/"
+      },
+      "source": "open_images_v7",
+      "source_image_id": "f0505c535fa9fba3",
+      "split": "train_pool",
+      "width": 768
+    },
+    {
+      "file_path": "images/f18cd6a3357a4b4c.jpg",
+      "height": 768,
+      "label_status": "unlabeled",
+      "license_metadata": {
+        "attribution": "Jessica Spengler",
+        "name": "Open Images recorded image license",
+        "url": "https://creativecommons.org/licenses/by/2.0/"
+      },
+      "source": "open_images_v7",
+      "source_image_id": "f18cd6a3357a4b4c",
+      "split": "train_pool",
+      "width": 1024
+    },
+    {
+      "file_path": "images/f22081db147ebc2d.jpg",
+      "height": 1024,
+      "label_status": "unlabeled",
+      "license_metadata": {
+        "attribution": "Jeremy Keith",
+        "name": "Open Images recorded image license",
+        "url": "https://creativecommons.org/licenses/by/2.0/"
+      },
+      "source": "open_images_v7",
+      "source_image_id": "f22081db147ebc2d",
+      "split": "train_pool",
+      "width": 1024
+    },
+    {
+      "file_path": "images/f2c76a0167957276.jpg",
+      "height": 681,
+      "label_status": "unlabeled",
+      "license_metadata": {
+        "attribution": "randychiu",
+        "name": "Open Images recorded image license",
+        "url": "https://creativecommons.org/licenses/by/2.0/"
+      },
+      "source": "open_images_v7",
+      "source_image_id": "f2c76a0167957276",
+      "split": "train_pool",
+      "width": 1024
+    },
+    {
+      "file_path": "images/f32780ba624f90fa.jpg",
+      "height": 768,
+      "label_status": "unlabeled",
+      "license_metadata": {
+        "attribution": "Vegan Feast Catering",
+        "name": "Open Images recorded image license",
+        "url": "https://creativecommons.org/licenses/by/2.0/"
+      },
+      "source": "open_images_v7",
+      "source_image_id": "f32780ba624f90fa",
+      "split": "train_pool",
+      "width": 1024
+    },
+    {
+      "file_path": "images/f32b99e476b9ceb0.jpg",
+      "height": 768,
+      "label_status": "unlabeled",
+      "license_metadata": {
+        "attribution": "Nori Norisa",
+        "name": "Open Images recorded image license",
+        "url": "https://creativecommons.org/licenses/by/2.0/"
+      },
+      "source": "open_images_v7",
+      "source_image_id": "f32b99e476b9ceb0",
+      "split": "train_pool",
+      "width": 1024
+    },
+    {
+      "file_path": "images/f3e95f00921a6971.jpg",
+      "height": 768,
+      "label_status": "unlabeled",
+      "license_metadata": {
+        "attribution": "SantaRosa OLD SKOOL",
+        "name": "Open Images recorded image license",
+        "url": "https://creativecommons.org/licenses/by/2.0/"
+      },
+      "source": "open_images_v7",
+      "source_image_id": "f3e95f00921a6971",
+      "split": "train_pool",
+      "width": 1024
+    },
+    {
+      "file_path": "images/f6504f7db22cc749.jpg",
+      "height": 683,
+      "label_status": "unlabeled",
+      "license_metadata": {
+        "attribution": "CityTree עץבעיר",
+        "name": "Open Images recorded image license",
+        "url": "https://creativecommons.org/licenses/by/2.0/"
+      },
+      "source": "open_images_v7",
+      "source_image_id": "f6504f7db22cc749",
+      "split": "train_pool",
+      "width": 1024
+    },
+    {
+      "file_path": "images/f69f4081c9b14920.jpg",
+      "height": 726,
+      "label_status": "unlabeled",
+      "license_metadata": {
+        "attribution": "Dawn Huczek",
+        "name": "Open Images recorded image license",
+        "url": "https://creativecommons.org/licenses/by/2.0/"
+      },
+      "source": "open_images_v7",
+      "source_image_id": "f69f4081c9b14920",
+      "split": "train_pool",
+      "width": 1024
+    },
+    {
+      "file_path": "images/f6c89bf445ecffce.jpg",
+      "height": 765,
+      "label_status": "unlabeled",
+      "license_metadata": {
+        "attribution": "André-Pierre du Plessis",
+        "name": "Open Images recorded image license",
+        "url": "https://creativecommons.org/licenses/by/2.0/"
+      },
+      "source": "open_images_v7",
+      "source_image_id": "f6c89bf445ecffce",
+      "split": "train_pool",
+      "width": 1024
+    },
+    {
+      "file_path": "images/f75d1b754fdc3233.jpg",
+      "height": 767,
+      "label_status": "unlabeled",
+      "license_metadata": {
+        "attribution": "Malik Abdallah",
+        "name": "Open Images recorded image license",
+        "url": "https://creativecommons.org/licenses/by/2.0/"
+      },
+      "source": "open_images_v7",
+      "source_image_id": "f75d1b754fdc3233",
+      "split": "train_pool",
+      "width": 1024
+    },
+    {
+      "file_path": "images/f7a803347c88e788.jpg",
+      "height": 768,
+      "label_status": "unlabeled",
+      "license_metadata": {
+        "attribution": "Ivana Sokolović",
+        "name": "Open Images recorded image license",
+        "url": "https://creativecommons.org/licenses/by/2.0/"
+      },
+      "source": "open_images_v7",
+      "source_image_id": "f7a803347c88e788",
+      "split": "train_pool",
+      "width": 1024
+    },
+    {
+      "file_path": "images/f7d37962c336cc04.jpg",
+      "height": 819,
+      "label_status": "unlabeled",
+      "license_metadata": {
+        "attribution": "Alex Brown",
+        "name": "Open Images recorded image license",
+        "url": "https://creativecommons.org/licenses/by/2.0/"
+      },
+      "source": "open_images_v7",
+      "source_image_id": "f7d37962c336cc04",
+      "split": "train_pool",
+      "width": 1024
+    },
+    {
+      "file_path": "images/f7fbd9c6ca1a2bc3.jpg",
+      "height": 1024,
+      "label_status": "unlabeled",
+      "license_metadata": {
+        "attribution": "Anna Majkowska",
+        "name": "Open Images recorded image license",
+        "url": "https://creativecommons.org/licenses/by/2.0/"
+      },
+      "source": "open_images_v7",
+      "source_image_id": "f7fbd9c6ca1a2bc3",
+      "split": "train_pool",
+      "width": 813
+    },
+    {
+      "file_path": "images/f87ce03870ef7d31.jpg",
+      "height": 768,
+      "label_status": "unlabeled",
+      "license_metadata": {
+        "attribution": "Gina Gleeson",
+        "name": "Open Images recorded image license",
+        "url": "https://creativecommons.org/licenses/by/2.0/"
+      },
+      "source": "open_images_v7",
+      "source_image_id": "f87ce03870ef7d31",
+      "split": "train_pool",
+      "width": 1024
+    },
+    {
+      "file_path": "images/fa2c03c9dad1f0e1.jpg",
+      "height": 846,
+      "label_status": "unlabeled",
+      "license_metadata": {
+        "attribution": "Richard North",
+        "name": "Open Images recorded image license",
+        "url": "https://creativecommons.org/licenses/by/2.0/"
+      },
+      "source": "open_images_v7",
+      "source_image_id": "fa2c03c9dad1f0e1",
+      "split": "train_pool",
+      "width": 1024
+    },
+    {
+      "file_path": "images/fa41bc94efed37b6.jpg",
+      "height": 1024,
+      "label_status": "unlabeled",
+      "license_metadata": {
+        "attribution": "Marcelo Medeiros",
+        "name": "Open Images recorded image license",
+        "url": "https://creativecommons.org/licenses/by/2.0/"
+      },
+      "source": "open_images_v7",
+      "source_image_id": "fa41bc94efed37b6",
+      "split": "train_pool",
+      "width": 768
+    },
+    {
+      "file_path": "images/fb86df596039744a.jpg",
+      "height": 1007,
+      "label_status": "unlabeled",
+      "license_metadata": {
+        "attribution": "brett jordan",
+        "name": "Open Images recorded image license",
+        "url": "https://creativecommons.org/licenses/by/2.0/"
+      },
+      "source": "open_images_v7",
+      "source_image_id": "fb86df596039744a",
+      "split": "train_pool",
+      "width": 1024
+    },
+    {
+      "file_path": "images/fcdcdfa19ed6046e.jpg",
+      "height": 768,
+      "label_status": "unlabeled",
+      "license_metadata": {
+        "attribution": "frankieleon",
+        "name": "Open Images recorded image license",
+        "url": "https://creativecommons.org/licenses/by/2.0/"
+      },
+      "source": "open_images_v7",
+      "source_image_id": "fcdcdfa19ed6046e",
+      "split": "train_pool",
+      "width": 1024
+    },
+    {
+      "file_path": "images/fd28c1f3006d7d66.jpg",
+      "height": 1024,
+      "label_status": "unlabeled",
+      "license_metadata": {
+        "attribution": "yoppy",
+        "name": "Open Images recorded image license",
+        "url": "https://creativecommons.org/licenses/by/2.0/"
+      },
+      "source": "open_images_v7",
+      "source_image_id": "fd28c1f3006d7d66",
+      "split": "train_pool",
+      "width": 1024
+    },
+    {
+      "file_path": "images/ff2ae958e4c189e0.jpg",
+      "height": 683,
+      "label_status": "unlabeled",
+      "license_metadata": {
+        "attribution": "Sheila López",
+        "name": "Open Images recorded image license",
+        "url": "https://creativecommons.org/licenses/by/2.0/"
+      },
+      "source": "open_images_v7",
+      "source_image_id": "ff2ae958e4c189e0",
+      "split": "train_pool",
+      "width": 1024
+    }
+  ]
+}

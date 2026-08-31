@@ -1,0 +1,436 @@
+{
+  "records": [
+    {
+      "duplicate_group_id": "unique:open_images_v7:19970f22cc5ff7f8",
+      "file_path": "images/19970f22cc5ff7f8.jpg",
+      "height": 768,
+      "source": "open_images_v7",
+      "source_image_id": "19970f22cc5ff7f8",
+      "width": 1024
+    },
+    {
+      "duplicate_group_id": "unique:open_images_v7:2005ef39393df600",
+      "file_path": "images/2005ef39393df600.jpg",
+      "height": 768,
+      "source": "open_images_v7",
+      "source_image_id": "2005ef39393df600",
+      "width": 1024
+    },
+    {
+      "duplicate_group_id": "unique:open_images_v7:2db22a154f3c7b7d",
+      "file_path": "images/2db22a154f3c7b7d.jpg",
+      "height": 1024,
+      "source": "open_images_v7",
+      "source_image_id": "2db22a154f3c7b7d",
+      "width": 683
+    },
+    {
+      "duplicate_group_id": "unique:open_images_v7:31466f6bf2049d6d",
+      "file_path": "images/31466f6bf2049d6d.jpg",
+      "height": 1024,
+      "source": "open_images_v7",
+      "source_image_id": "31466f6bf2049d6d",
+      "width": 683
+    },
+    {
+      "duplicate_group_id": "unique:open_images_v7:4a33c14deaf80c42",
+      "file_path": "images/4a33c14deaf80c42.jpg",
+      "height": 576,
+      "source": "open_images_v7",
+      "source_image_id": "4a33c14deaf80c42",
+      "width": 1024
+    },
+    {
+      "duplicate_group_id": "unique:open_images_v7:594de6d23060d83f",
+      "file_path": "images/594de6d23060d83f.jpg",
+      "height": 768,
+      "source": "open_images_v7",
+      "source_image_id": "594de6d23060d83f",
+      "width": 1024
+    },
+    {
+      "duplicate_group_id": "unique:open_images_v7:6a3919704047dc9c",
+      "file_path": "images/6a3919704047dc9c.jpg",
+      "height": 1024,
+      "source": "open_images_v7",
+      "source_image_id": "6a3919704047dc9c",
+      "width": 514
+    },
+    {
+      "duplicate_group_id": "unique:open_images_v7:6f0e8508159bdefe",
+      "file_path": "images/6f0e8508159bdefe.jpg",
+      "height": 1024,
+      "source": "open_images_v7",
+      "source_image_id": "6f0e8508159bdefe",
+      "width": 685
+    },
+    {
+      "duplicate_group_id": "unique:open_images_v7:8c56ae1870625300",
+      "file_path": "images/8c56ae1870625300.jpg",
+      "height": 1024,
+      "source": "open_images_v7",
+      "source_image_id": "8c56ae1870625300",
+      "width": 1024
+    },
+    {
+      "duplicate_group_id": "unique:open_images_v7:99c6494860e1139f",
+      "file_path": "images/99c6494860e1139f.jpg",
+      "height": 1024,
+      "source": "open_images_v7",
+      "source_image_id": "99c6494860e1139f",
+      "width": 768
+    },
+    {
+      "duplicate_group_id": "unique:open_images_v7:9f238af9862017fd",
+      "file_path": "images/9f238af9862017fd.jpg",
+      "height": 683,
+      "source": "open_images_v7",
+      "source_image_id": "9f238af9862017fd",
+      "width": 1024
+    },
+    {
+      "duplicate_group_id": "unique:open_images_v7:a7ca21f0782f755e",
+      "file_path": "images/a7ca21f0782f755e.jpg",
+      "height": 768,
+      "source": "open_images_v7",
+      "source_image_id": "a7ca21f0782f755e",
+      "width": 1024
+    },
+    {
+      "duplicate_group_id": "unique:open_images_v7:b0e3afa628f396ab",
+      "file_path": "images/b0e3afa628f396ab.jpg",
+      "height": 680,
+      "source": "open_images_v7",
+      "source_image_id": "b0e3afa628f396ab",
+      "width": 1024
+    },
+    {
+      "duplicate_group_id": "unique:open_images_v7:bfbc16dcf70d7882",
+      "file_path": "images/bfbc16dcf70d7882.jpg",
+      "height": 768,
+      "source": "open_images_v7",
+      "source_image_id": "bfbc16dcf70d7882",
+      "width": 1024
+    },
+    {
+      "duplicate_group_id": "unique:open_images_v7:c460c977d7620fc1",
+      "file_path": "images/c460c977d7620fc1.jpg",
+      "height": 768,
+      "source": "open_images_v7",
+      "source_image_id": "c460c977d7620fc1",
+      "width": 1024
+    },
+    {
+      "duplicate_group_id": "unique:open_images_v7:c659162b927f0cfe",
+      "file_path": "images/c659162b927f0cfe.jpg",
+      "height": 683,
+      "source": "open_images_v7",
+      "source_image_id": "c659162b927f0cfe",
+      "width": 1024
+    },
+    {
+      "duplicate_group_id": "unique:open_images_v7:cb8e3685dbdde829",
+      "file_path": "images/cb8e3685dbdde829.jpg",
+      "height": 578,
+      "source": "open_images_v7",
+      "source_image_id": "cb8e3685dbdde829",
+      "width": 1024
+    },
+    {
+      "duplicate_group_id": "unique:open_images_v7:ce038085d874d8e7",
+      "file_path": "images/ce038085d874d8e7.jpg",
+      "height": 683,
+      "source": "open_images_v7",
+      "source_image_id": "ce038085d874d8e7",
+      "width": 1024
+    },
+    {
+      "duplicate_group_id": "unique:open_images_v7:ce25b3f2af17881f",
+      "file_path": "images/ce25b3f2af17881f.jpg",
+      "height": 681,
+      "source": "open_images_v7",
+      "source_image_id": "ce25b3f2af17881f",
+      "width": 1024
+    },
+    {
+      "duplicate_group_id": "unique:open_images_v7:d1cb19c94c3ecec5",
+      "file_path": "images/d1cb19c94c3ecec5.jpg",
+      "height": 765,
+      "source": "open_images_v7",
+      "source_image_id": "d1cb19c94c3ecec5",
+      "width": 1024
+    },
+    {
+      "duplicate_group_id": "unique:open_images_v7:d2f3d934b8fc3897",
+      "file_path": "images/d2f3d934b8fc3897.jpg",
+      "height": 1024,
+      "source": "open_images_v7",
+      "source_image_id": "d2f3d934b8fc3897",
+      "width": 1024
+    },
+    {
+      "duplicate_group_id": "unique:open_images_v7:d6d8b2f5842f427a",
+      "file_path": "images/d6d8b2f5842f427a.jpg",
+      "height": 768,
+      "source": "open_images_v7",
+      "source_image_id": "d6d8b2f5842f427a",
+      "width": 1024
+    },
+    {
+      "duplicate_group_id": "unique:open_images_v7:d7d98d566a956034",
+      "file_path": "images/d7d98d566a956034.jpg",
+      "height": 577,
+      "source": "open_images_v7",
+      "source_image_id": "d7d98d566a956034",
+      "width": 1024
+    },
+    {
+      "duplicate_group_id": "unique:open_images_v7:d8c2dfbc72e389b2",
+      "file_path": "images/d8c2dfbc72e389b2.jpg",
+      "height": 1024,
+      "source": "open_images_v7",
+      "source_image_id": "d8c2dfbc72e389b2",
+      "width": 1024
+    },
+    {
+      "duplicate_group_id": "unique:open_images_v7:dafe3c0291bf887a",
+      "file_path": "images/dafe3c0291bf887a.jpg",
+      "height": 768,
+      "source": "open_images_v7",
+      "source_image_id": "dafe3c0291bf887a",
+      "width": 1024
+    },
+    {
+      "duplicate_group_id": "unique:open_images_v7:db308633315d3b98",
+      "file_path": "images/db308633315d3b98.jpg",
+      "height": 1024,
+      "source": "open_images_v7",
+      "source_image_id": "db308633315d3b98",
+      "width": 1024
+    },
+    {
+      "duplicate_group_id": "unique:open_images_v7:db4226ed93fa8414",
+      "file_path": "images/db4226ed93fa8414.jpg",
+      "height": 768,
+      "source": "open_images_v7",
+      "source_image_id": "db4226ed93fa8414",
+      "width": 1024
+    },
+    {
+      "duplicate_group_id": "unique:open_images_v7:dc7d87b8f18ec173",
+      "file_path": "images/dc7d87b8f18ec173.jpg",
+      "height": 768,
+      "source": "open_images_v7",
+      "source_image_id": "dc7d87b8f18ec173",
+      "width": 1024
+    },
+    {
+      "duplicate_group_id": "unique:open_images_v7:dfa024349f708759",
+      "file_path": "images/dfa024349f708759.jpg",
+      "height": 685,
+      "source": "open_images_v7",
+      "source_image_id": "dfa024349f708759",
+      "width": 1024
+    },
+    {
+      "duplicate_group_id": "unique:open_images_v7:dfa428b4f51d26bc",
+      "file_path": "images/dfa428b4f51d26bc.jpg",
+      "height": 683,
+      "source": "open_images_v7",
+      "source_image_id": "dfa428b4f51d26bc",
+      "width": 1024
+    },
+    {
+      "duplicate_group_id": "unique:open_images_v7:dfae83e3780f1a5c",
+      "file_path": "images/dfae83e3780f1a5c.jpg",
+      "height": 683,
+      "source": "open_images_v7",
+      "source_image_id": "dfae83e3780f1a5c",
+      "width": 1024
+    },
+    {
+      "duplicate_group_id": "unique:open_images_v7:e1e44fcfaac394e6",
+      "file_path": "images/e1e44fcfaac394e6.jpg",
+      "height": 768,
+      "source": "open_images_v7",
+      "source_image_id": "e1e44fcfaac394e6",
+      "width": 1024
+    },
+    {
+      "duplicate_group_id": "unique:open_images_v7:e3c0fb856bced812",
+      "file_path": "images/e3c0fb856bced812.jpg",
+      "height": 1024,
+      "source": "open_images_v7",
+      "source_image_id": "e3c0fb856bced812",
+      "width": 1024
+    },
+    {
+      "duplicate_group_id": "unique:open_images_v7:e49811afed2e66ae",
+      "file_path": "images/e49811afed2e66ae.jpg",
+      "height": 1024,
+      "source": "open_images_v7",
+      "source_image_id": "e49811afed2e66ae",
+      "width": 747
+    },
+    {
+      "duplicate_group_id": "unique:open_images_v7:e4fc8317ea1614f8",
+      "file_path": "images/e4fc8317ea1614f8.jpg",
+      "height": 1024,
+      "source": "open_images_v7",
+      "source_image_id": "e4fc8317ea1614f8",
+      "width": 768
+    },
+    {
+      "duplicate_group_id": "unique:open_images_v7:e5adc91188192d67",
+      "file_path": "images/e5adc91188192d67.jpg",
+      "height": 683,
+      "source": "open_images_v7",
+      "source_image_id": "e5adc91188192d67",
+      "width": 1024
+    },
+    {
+      "duplicate_group_id": "unique:open_images_v7:e7af175f5b8e7d4b",
+      "file_path": "images/e7af175f5b8e7d4b.jpg",
+      "height": 776,
+      "source": "open_images_v7",
+      "source_image_id": "e7af175f5b8e7d4b",
+      "width": 1024
+    },
+    {
+      "duplicate_group_id": "unique:open_images_v7:e84a9e936c275937",
+      "file_path": "images/e84a9e936c275937.jpg",
+      "height": 1024,
+      "source": "open_images_v7",
+      "source_image_id": "e84a9e936c275937",
+      "width": 1024
+    },
+    {
+      "duplicate_group_id": "unique:open_images_v7:ea9bc9f56a079c65",
+      "file_path": "images/ea9bc9f56a079c65.jpg",
+      "height": 682,
+      "source": "open_images_v7",
+      "source_image_id": "ea9bc9f56a079c65",
+      "width": 1024
+    },
+    {
+      "duplicate_group_id": "unique:open_images_v7:eb72157a906a3d92",
+      "file_path": "images/eb72157a906a3d92.jpg",
+      "height": 1024,
+      "source": "open_images_v7",
+      "source_image_id": "eb72157a906a3d92",
+      "width": 1024
+    },
+    {
+      "duplicate_group_id": "unique:open_images_v7:ebc3554c84d7cef4",
+      "file_path": "images/ebc3554c84d7cef4.jpg",
+      "height": 1024,
+      "source": "open_images_v7",
+      "source_image_id": "ebc3554c84d7cef4",
+      "width": 1024
+    },
+    {
+      "duplicate_group_id": "unique:open_images_v7:ecde5ba3f794c582",
+      "file_path": "images/ecde5ba3f794c582.jpg",
+      "height": 1009,
+      "source": "open_images_v7",
+      "source_image_id": "ecde5ba3f794c582",
+      "width": 1024
+    },
+    {
+      "duplicate_group_id": "unique:open_images_v7:ed3565ea4631a039",
+      "file_path": "images/ed3565ea4631a039.jpg",
+      "height": 1024,
+      "source": "open_images_v7",
+      "source_image_id": "ed3565ea4631a039",
+      "width": 1024
+    },
+    {
+      "duplicate_group_id": "unique:open_images_v7:ed42621f64eacc45",
+      "file_path": "images/ed42621f64eacc45.jpg",
+      "height": 768,
+      "source": "open_images_v7",
+      "source_image_id": "ed42621f64eacc45",
+      "width": 1024
+    },
+    {
+      "duplicate_group_id": "unique:open_images_v7:ed672bae759779b5",
+      "file_path": "images/ed672bae759779b5.jpg",
+      "height": 683,
+      "source": "open_images_v7",
+      "source_image_id": "ed672bae759779b5",
+      "width": 1024
+    },
+    {
+      "duplicate_group_id": "unique:open_images_v7:edd7d5160f7e8f7d",
+      "file_path": "images/edd7d5160f7e8f7d.jpg",
+      "height": 683,
+      "source": "open_images_v7",
+      "source_image_id": "edd7d5160f7e8f7d",
+      "width": 1024
+    },
+    {
+      "duplicate_group_id": "unique:open_images_v7:f10a2568d1f5b086",
+      "file_path": "images/f10a2568d1f5b086.jpg",
+      "height": 683,
+      "source": "open_images_v7",
+      "source_image_id": "f10a2568d1f5b086",
+      "width": 1024
+    },
+    {
+      "duplicate_group_id": "unique:open_images_v7:f34aa81dac316e5c",
+      "file_path": "images/f34aa81dac316e5c.jpg",
+      "height": 683,
+      "source": "open_images_v7",
+      "source_image_id": "f34aa81dac316e5c",
+      "width": 1024
+    },
+    {
+      "duplicate_group_id": "unique:open_images_v7:f35e9a47de77e2de",
+      "file_path": "images/f35e9a47de77e2de.jpg",
+      "height": 686,
+      "source": "open_images_v7",
+      "source_image_id": "f35e9a47de77e2de",
+      "width": 1024
+    },
+    {
+      "duplicate_group_id": "unique:open_images_v7:f4090be22692b417",
+      "file_path": "images/f4090be22692b417.jpg",
+      "height": 1024,
+      "source": "open_images_v7",
+      "source_image_id": "f4090be22692b417",
+      "width": 1024
+    },
+    {
+      "duplicate_group_id": "unique:open_images_v7:f9da313c17c94dc9",
+      "file_path": "images/f9da313c17c94dc9.jpg",
+      "height": 1024,
+      "source": "open_images_v7",
+      "source_image_id": "f9da313c17c94dc9",
+      "width": 1024
+    },
+    {
+      "duplicate_group_id": "unique:open_images_v7:fda78d1fac57e14d",
+      "file_path": "images/fda78d1fac57e14d.jpg",
+      "height": 768,
+      "source": "open_images_v7",
+      "source_image_id": "fda78d1fac57e14d",
+      "width": 1024
+    },
+    {
+      "duplicate_group_id": "unique:open_images_v7:fe1718a82a01761c",
+      "file_path": "images/fe1718a82a01761c.jpg",
+      "height": 678,
+      "source": "open_images_v7",
+      "source_image_id": "fe1718a82a01761c",
+      "width": 1024
+    },
+    {
+      "duplicate_group_id": "unique:open_images_v7:fe545aa31a3144d5",
+      "file_path": "images/fe545aa31a3144d5.jpg",
+      "height": 1024,
+      "source": "open_images_v7",
+      "source_image_id": "fe545aa31a3144d5",
+      "width": 685
+    }
+  ]
+}

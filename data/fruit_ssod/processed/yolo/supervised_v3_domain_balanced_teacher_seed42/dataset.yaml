@@ -1,0 +1,10 @@
+path: E:\fruit_ssod_runtime\data\fruit_ssod\processed\yolo\supervised_v3_domain_balanced_teacher_seed42
+train: E:\fruit_ssod_runtime\data\fruit_ssod\processed\yolo\supervised_v3_domain_balanced_teacher_seed42\train_domain_balanced.txt
+val: E:\fruit_ssod_runtime\data\fruit_ssod\processed\yolo\supervised_v3_domain_balanced_teacher_seed42\val.txt
+test: E:\fruit_ssod_runtime\data\fruit_ssod\processed\yolo\supervised_v3_domain_balanced_teacher_seed42\test.txt
+names:
+- Apple
+- Banana
+- Orange
+- Strawberry
+- Pineapple

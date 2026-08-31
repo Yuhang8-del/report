@@ -1,0 +1,2401 @@
+{
+  "records": [
+    {
+      "class_presence": [
+        0,
+        3
+      ],
+      "duplicate_group_id": "unique:open_images_v7:0125268651daa59c",
+      "file_path": "images/0125268651daa59c.jpg",
+      "height": 768,
+      "labels": [
+        {
+          "class_id": 0,
+          "xyxy": [
+            126.976,
+            196.607616,
+            331.776,
+            292.86336
+          ]
+        },
+        {
+          "class_id": 3,
+          "xyxy": [
+            0.0,
+            473.087616,
+            120.832,
+            643.07136
+          ]
+        },
+        {
+          "class_id": 3,
+          "xyxy": [
+            26.623999999999995,
+            382.97625600000003,
+            190.464,
+            493.568256
+          ]
+        },
+        {
+          "class_id": 3,
+          "xyxy": [
+            126.976,
+            471.03974400000004,
+            249.856,
+            567.2962560000001
+          ]
+        },
+        {
+          "class_id": 3,
+          "xyxy": [
+            163.84,
+            616.448256,
+            299.00800000000004,
+            714.752256
+          ]
+        },
+        {
+          "class_id": 3,
+          "xyxy": [
+            190.464,
+            372.73574400000007,
+            354.30400000000003,
+            487.42425600000007
+          ]
+        },
+        {
+          "class_id": 3,
+          "xyxy": [
+            229.37600000000003,
+            303.10425599999996,
+            321.536,
+            401.408256
+          ]
+        },
+        {
+          "class_id": 3,
+          "xyxy": [
+            241.66400000000002,
+            532.479744,
+            321.536,
+            636.9277440000001
+          ]
+        },
+        {
+          "class_id": 3,
+          "xyxy": [
+            299.00800000000004,
+            253.95225600000003,
+            393.216,
+            389.120256
+          ]
+        },
+        {
+          "class_id": 3,
+          "xyxy": [
+            303.10400000000004,
+            675.840384,
+            382.976,
+            747.5201280000001
+          ]
+        },
+        {
+          "class_id": 3,
+          "xyxy": [
+            315.392,
+            516.096384,
+            425.984,
+            598.01664
+          ]
+        },
+        {
+          "class_id": 3,
+          "xyxy": [
+            370.688,
+            671.7442560000001,
+            466.94399999999996,
+            722.9437439999999
+          ]
+        }
+      ],
+      "license_metadata": {
+        "attribution": "Arya Ziai",
+        "name": "Open Images recorded image license",
+        "url": "https://creativecommons.org/licenses/by/2.0/"
+      },
+      "protected_split": null,
+      "source": "open_images_v7",
+      "source_image_id": "0125268651daa59c",
+      "width": 1024
+    },
+    {
+      "class_presence": [
+        1,
+        2
+      ],
+      "duplicate_group_id": "unique:open_images_v7:01d567b45a25e202",
+      "file_path": "images/01d567b45a25e202.jpg",
+      "height": 769,
+      "labels": [
+        {
+          "class_id": 1,
+          "xyxy": [
+            187.51948800000002,
+            443.727611,
+            759.039488,
+            768.359423
+          ]
+        },
+        {
+          "class_id": 2,
+          "xyxy": [
+            456.96000000000004,
+            314.38719399999997,
+            657.9200000000001,
+            523.124554
+          ]
+        }
+      ],
+      "license_metadata": {
+        "attribution": "Ged Carroll",
+        "name": "Open Images recorded image license",
+        "url": "https://creativecommons.org/licenses/by/2.0/"
+      },
+      "protected_split": null,
+      "source": "open_images_v7",
+      "source_image_id": "01d567b45a25e202",
+      "width": 1024
+    },
+    {
+      "class_presence": [
+        1,
+        2
+      ],
+      "duplicate_group_id": "unique:open_images_v7:069ee71de0456c3b",
+      "file_path": "images/069ee71de0456c3b.jpg",
+      "height": 680,
+      "labels": [
+        {
+          "class_id": 1,
+          "xyxy": [
+            253.44000000000005,
+            33.29551999999999,
+            778.24,
+            320.15079999999995
+          ]
+        },
+        {
+          "class_id": 2,
+          "xyxy": [
+            259.84000000000003,
+            272.7684,
+            439.03999999999996,
+            467.41975999999994
+          ]
+        },
+        {
+          "class_id": 2,
+          "xyxy": [
+            591.36,
+            256.12098,
+            742.4,
+            439.24702
+          ]
+        }
+      ],
+      "license_metadata": {
+        "attribution": "David Santaolalla",
+        "name": "Open Images recorded image license",
+        "url": "https://creativecommons.org/licenses/by/2.0/"
+      },
+      "protected_split": null,
+      "source": "open_images_v7",
+      "source_image_id": "069ee71de0456c3b",
+      "width": 1024
+    },
+    {
+      "class_presence": [
+        0,
+        1
+      ],
+      "duplicate_group_id": "unique:open_images_v7:137086dd395a56e4",
+      "file_path": "images/137086dd395a56e4.jpg",
+      "height": 768,
+      "labels": [
+        {
+          "class_id": 0,
+          "xyxy": [
+            83.19948799999999,
+            124.79999999999998,
+            233.599488,
+            268.79999999999995
+          ]
+        },
+        {
+          "class_id": 0,
+          "xyxy": [
+            241.28000000000003,
+            123.51974399999997,
+            397.44,
+            273.920256
+          ]
+        },
+        {
+          "class_id": 1,
+          "xyxy": [
+            46.72,
+            252.159744,
+            442.24,
+            464.00025600000004
+          ]
+        },
+        {
+          "class_id": 1,
+          "xyxy": [
+            606.7194880000001,
+            293.76038400000004,
+            988.799488,
+            460.16063999999994
+          ]
+        }
+      ],
+      "license_metadata": {
+        "attribution": "Oliver Tacke",
+        "name": "Open Images recorded image license",
+        "url": "https://creativecommons.org/licenses/by/2.0/"
+      },
+      "protected_split": null,
+      "source": "open_images_v7",
+      "source_image_id": "137086dd395a56e4",
+      "width": 1024
+    },
+    {
+      "class_presence": [
+        4
+      ],
+      "duplicate_group_id": "unique:open_images_v7:1b4139581de7c462",
+      "file_path": "images/1b4139581de7c462.jpg",
+      "height": 685,
+      "labels": [
+        {
+          "class_id": 4,
+          "xyxy": [
+            3.000320000000002,
+            44.99970500000001,
+            152.00051200000001,
+            155.99984500000002
+          ]
+        },
+        {
+          "class_id": 4,
+          "xyxy": [
+            25.000448000000006,
+            0.0,
+            212.000256,
+            97.00011
+          ]
+        },
+        {
+          "class_id": 4,
+          "xyxy": [
+            522.0003839999999,
+            0.0,
+            686.999552,
+            67.99995
+          ]
+        },
+        {
+          "class_id": 4,
+          "xyxy": [
+            638.00064,
+            0.00034250000000034253,
+            768.0005120000001,
+            100.0000675
+          ]
+        },
+        {
+          "class_id": 4,
+          "xyxy": [
+            732.000256,
+            0.0,
+            842.999808,
+            118.99991250000001
+          ]
+        }
+      ],
+      "license_metadata": {
+        "attribution": "Janine",
+        "name": "Open Images recorded image license",
+        "url": "https://creativecommons.org/licenses/by/2.0/"
+      },
+      "protected_split": null,
+      "source": "open_images_v7",
+      "source_image_id": "1b4139581de7c462",
+      "width": 1024
+    },
+    {
+      "class_presence": [
+        0,
+        2
+      ],
+      "duplicate_group_id": "unique:open_images_v7:1bfdec75635e4765",
+      "file_path": "images/1bfdec75635e4765.jpg",
+      "height": 681,
+      "labels": [
+        {
+          "class_id": 0,
+          "xyxy": [
+            403.20000000000005,
+            417.6964575,
+            576.0,
+            568.2471705
+          ]
+        },
+        {
+          "class_id": 0,
+          "xyxy": [
+            501.76000000000005,
+            318.39814500000006,
+            604.1600000000001,
+            424.744467
+          ]
+        },
+        {
+          "class_id": 2,
+          "xyxy": [
+            226.56,
+            401.04021900000004,
+            392.96,
+            571.450935
+          ]
+        },
+        {
+          "class_id": 2,
+          "xyxy": [
+            557.4399999999999,
+            395.2745325,
+            735.36,
+            544.5436034999999
+          ]
+        }
+      ],
+      "license_metadata": {
+        "attribution": "Ali from Riyadh : )",
+        "name": "Open Images recorded image license",
+        "url": "https://creativecommons.org/licenses/by/2.0/"
+      },
+      "protected_split": null,
+      "source": "open_images_v7",
+      "source_image_id": "1bfdec75635e4765",
+      "width": 1024
+    },
+    {
+      "class_presence": [
+        4
+      ],
+      "duplicate_group_id": "unique:open_images_v7:1df90bbb0bc17f77",
+      "file_path": "images/1df90bbb0bc17f77.jpg",
+      "height": 1024,
+      "labels": [
+        {
+          "class_id": 4,
+          "xyxy": [
+            249.60000000000002,
+            271.200768,
+            436.79999999999995,
+            572.800512
+          ]
+        },
+        {
+          "class_id": 4,
+          "xyxy": [
+            307.999872,
+            101.600768,
+            339.199872,
+            166.400512
+          ]
+        },
+        {
+          "class_id": 4,
+          "xyxy": [
+            576.80064,
+            154.399744,
+            622.4006400000001,
+            233.60000000000002
+          ]
+        }
+      ],
+      "license_metadata": {
+        "attribution": "WorldIslandInfo.com",
+        "name": "Open Images recorded image license",
+        "url": "https://creativecommons.org/licenses/by/2.0/"
+      },
+      "protected_split": null,
+      "source": "open_images_v7",
+      "source_image_id": "1df90bbb0bc17f77",
+      "width": 768
+    },
+    {
+      "class_presence": [
+        4
+      ],
+      "duplicate_group_id": "unique:open_images_v7:229466b266bd6574",
+      "file_path": "images/229466b266bd6574.jpg",
+      "height": 768,
+      "labels": [
+        {
+          "class_id": 4,
+          "xyxy": [
+            652.8000000000001,
+            0.0,
+            943.36,
+            451.20000000000005
+          ]
+        }
+      ],
+      "license_metadata": {
+        "attribution": "Jed",
+        "name": "Open Images recorded image license",
+        "url": "https://creativecommons.org/licenses/by/2.0/"
+      },
+      "protected_split": null,
+      "source": "open_images_v7",
+      "source_image_id": "229466b266bd6574",
+      "width": 1024
+    },
+    {
+      "class_presence": [
+        4
+      ],
+      "duplicate_group_id": "unique:open_images_v7:477e101ffb217fb0",
+      "file_path": "images/477e101ffb217fb0.jpg",
+      "height": 683,
+      "labels": [
+        {
+          "class_id": 4,
+          "xyxy": [
+            218.24,
+            0.0,
+            586.88,
+            655.4751
+          ]
+        }
+      ],
+      "license_metadata": {
+        "attribution": "midiman",
+        "name": "Open Images recorded image license",
+        "url": "https://creativecommons.org/licenses/by/2.0/"
+      },
+      "protected_split": null,
+      "source": "open_images_v7",
+      "source_image_id": "477e101ffb217fb0",
+      "width": 1024
+    },
+    {
+      "class_presence": [
+        0,
+        4
+      ],
+      "duplicate_group_id": "unique:open_images_v7:47a3cbd0e66d6f4a",
+      "file_path": "images/47a3cbd0e66d6f4a.jpg",
+      "height": 1024,
+      "labels": [
+        {
+          "class_id": 0,
+          "xyxy": [
+            215.279551,
+            640.64,
+            320.997023,
+            753.2800000000001
+          ]
+        },
+        {
+          "class_id": 0,
+          "xyxy": [
+            320.3560275,
+            659.200512,
+            415.1816984999999,
+            771.200512
+          ]
+        },
+        {
+          "class_id": 0,
+          "xyxy": [
+            410.056125,
+            646.4,
+            509.36705700000005,
+            751.36
+          ]
+        },
+        {
+          "class_id": 4,
+          "xyxy": [
+            291.52386550000006,
+            231.68051200000002,
+            504.24080050000003,
+            668.800512
+          ]
+        }
+      ],
+      "license_metadata": {
+        "attribution": "Tony Alter",
+        "name": "Open Images recorded image license",
+        "url": "https://creativecommons.org/licenses/by/2.0/"
+      },
+      "protected_split": null,
+      "source": "open_images_v7",
+      "source_image_id": "47a3cbd0e66d6f4a",
+      "width": 683
+    },
+    {
+      "class_presence": [
+        0,
+        1
+      ],
+      "duplicate_group_id": "unique:open_images_v7:6a971f8c08817a82",
+      "file_path": "images/6a971f8c08817a82.jpg",
+      "height": 768,
+      "labels": [
+        {
+          "class_id": 0,
+          "xyxy": [
+            281.3184,
+            336.749952,
+            615.150592,
+            682.499712
+          ]
+        },
+        {
+          "class_id": 0,
+          "xyxy": [
+            567.889408,
+            357.749376,
+            966.98624,
+            755.999616
+          ]
+        },
+        {
+          "class_id": 1,
+          "xyxy": [
+            135.78342400000002,
+            128.99980800000003,
+            303.074304,
+            698.9994240000001
+          ]
+        },
+        {
+          "class_id": 1,
+          "xyxy": [
+            216.80383999999998,
+            152.249856,
+            977.4894079999999,
+            410.999808
+          ]
+        },
+        {
+          "class_id": 1,
+          "xyxy": [
+            244.55987199999998,
+            170.25024,
+            387.094528,
+            432.0
+          ]
+        }
+      ],
+      "license_metadata": {
+        "attribution": "Larry Jacobsen",
+        "name": "Open Images recorded image license",
+        "url": "https://creativecommons.org/licenses/by/2.0/"
+      },
+      "protected_split": null,
+      "source": "open_images_v7",
+      "source_image_id": "6a971f8c08817a82",
+      "width": 1024
+    },
+    {
+      "class_presence": [
+        4
+      ],
+      "duplicate_group_id": "unique:open_images_v7:78bc63851b383c1e",
+      "file_path": "images/78bc63851b383c1e.jpg",
+      "height": 1024,
+      "labels": [
+        {
+          "class_id": 4,
+          "xyxy": [
+            73.60012799999997,
+            160.00051200000001,
+            729.6003840000001,
+            936.320512
+          ]
+        }
+      ],
+      "license_metadata": {
+        "attribution": "Yun Huang Yong",
+        "name": "Open Images recorded image license",
+        "url": "https://creativecommons.org/licenses/by/2.0/"
+      },
+      "protected_split": null,
+      "source": "open_images_v7",
+      "source_image_id": "78bc63851b383c1e",
+      "width": 768
+    },
+    {
+      "class_presence": [
+        4
+      ],
+      "duplicate_group_id": "unique:open_images_v7:9f80a1e515b1af95",
+      "file_path": "images/9f80a1e515b1af95.jpg",
+      "height": 768,
+      "labels": [
+        {
+          "class_id": 4,
+          "xyxy": [
+            368.640512,
+            360.96,
+            420.48051200000003,
+            462.72
+          ]
+        }
+      ],
+      "license_metadata": {
+        "attribution": "Herry Lawford",
+        "name": "Open Images recorded image license",
+        "url": "https://creativecommons.org/licenses/by/2.0/"
+      },
+      "protected_split": null,
+      "source": "open_images_v7",
+      "source_image_id": "9f80a1e515b1af95",
+      "width": 1024
+    },
+    {
+      "class_presence": [
+        1
+      ],
+      "duplicate_group_id": "unique:open_images_v7:b99a92dc2a7b97b1",
+      "file_path": "images/b99a92dc2a7b97b1.jpg",
+      "height": 685,
+      "labels": [
+        {
+          "class_id": 1,
+          "xyxy": [
+            96.00051199999999,
+            466.2606625,
+            429.440512,
+            643.4270075000001
+          ]
+        }
+      ],
+      "license_metadata": {
+        "attribution": "Anselmo Garrido",
+        "name": "Open Images recorded image license",
+        "url": "https://creativecommons.org/licenses/by/2.0/"
+      },
+      "protected_split": null,
+      "source": "open_images_v7",
+      "source_image_id": "b99a92dc2a7b97b1",
+      "width": 1024
+    },
+    {
+      "class_presence": [
+        1
+      ],
+      "duplicate_group_id": "unique:open_images_v7:be216f777ec70a9f",
+      "file_path": "images/be216f777ec70a9f.jpg",
+      "height": 638,
+      "labels": [
+        {
+          "class_id": 1,
+          "xyxy": [
+            206.08051200000003,
+            423.41188999999997,
+            384.64051200000006,
+            520.1365179999999
+          ]
+        }
+      ],
+      "license_metadata": {
+        "attribution": "Erich Ferdinand",
+        "name": "Open Images recorded image license",
+        "url": "https://creativecommons.org/licenses/by/2.0/"
+      },
+      "protected_split": null,
+      "source": "open_images_v7",
+      "source_image_id": "be216f777ec70a9f",
+      "width": 1024
+    },
+    {
+      "class_presence": [
+        0,
+        1
+      ],
+      "duplicate_group_id": "unique:open_images_v7:c332dafc225470a4",
+      "file_path": "images/c332dafc225470a4.jpg",
+      "height": 680,
+      "labels": [
+        {
+          "class_id": 0,
+          "xyxy": [
+            0.0,
+            250.35763999999998,
+            56.32,
+            369.4542
+          ]
+        },
+        {
+          "class_id": 0,
+          "xyxy": [
+            0.0,
+            352.1658800000001,
+            34.56,
+            436.04524
+          ]
+        },
+        {
+          "class_id": 0,
+          "xyxy": [
+            0.0,
+            437.32568,
+            44.8,
+            535.93248
+          ]
+        },
+        {
+          "class_id": 0,
+          "xyxy": [
+            5.120000000000001,
+            178.0036,
+            60.16,
+            276.61039999999997
+          ]
+        },
+        {
+          "class_id": 0,
+          "xyxy": [
+            228.479488,
+            525.68794,
+            358.39948799999996,
+            634.53894
+          ]
+        },
+        {
+          "class_id": 1,
+          "xyxy": [
+            0.0,
+            448.85065999999995,
+            90.88,
+            652.46646
+          ]
+        },
+        {
+          "class_id": 1,
+          "xyxy": [
+            56.960511999999994,
+            108.85100000000001,
+            103.680512,
+            348.96443999999997
+          ]
+        },
+        {
+          "class_id": 1,
+          "xyxy": [
+            63.36,
+            501.35583999999994,
+            118.39999999999999,
+            679.35944
+          ]
+        },
+        {
+          "class_id": 1,
+          "xyxy": [
+            90.87948800000001,
+            61.468939999999996,
+            168.319488,
+            262.52386
+          ]
+        },
+        {
+          "class_id": 1,
+          "xyxy": [
+            102.40051199999999,
+            142.78708,
+            177.280512,
+            321.43124
+          ]
+        },
+        {
+          "class_id": 1,
+          "xyxy": [
+            117.12,
+            506.47862000000003,
+            168.32,
+            649.90626
+          ]
+        },
+        {
+          "class_id": 1,
+          "xyxy": [
+            902.4000000000001,
+            242.67432000000002,
+            1024.0,
+            414.27504
+          ]
+        }
+      ],
+      "license_metadata": {
+        "attribution": "Malte Sörensen",
+        "name": "Open Images recorded image license",
+        "url": "https://creativecommons.org/licenses/by/2.0/"
+      },
+      "protected_split": null,
+      "source": "open_images_v7",
+      "source_image_id": "c332dafc225470a4",
+      "width": 1024
+    },
+    {
+      "class_presence": [
+        1
+      ],
+      "duplicate_group_id": "unique:open_images_v7:c823004742a524ae",
+      "file_path": "images/c823004742a524ae.jpg",
+      "height": 683,
+      "labels": [
+        {
+          "class_id": 1,
+          "xyxy": [
+            302.000128,
+            169.41610100000003,
+            412.00025600000004,
+            245.453125
+          ]
+        }
+      ],
+      "license_metadata": {
+        "attribution": "Jean-Pierre Dalbéra",
+        "name": "Open Images recorded image license",
+        "url": "https://creativecommons.org/licenses/by/2.0/"
+      },
+      "protected_split": null,
+      "source": "open_images_v7",
+      "source_image_id": "c823004742a524ae",
+      "width": 1024
+    },
+    {
+      "class_presence": [
+        4
+      ],
+      "duplicate_group_id": "unique:open_images_v7:cb594bcf0f6c6086",
+      "file_path": "images/cb594bcf0f6c6086.jpg",
+      "height": 768,
+      "labels": [
+        {
+          "class_id": 4,
+          "xyxy": [
+            234.23999999999998,
+            550.4006400000001,
+            518.4,
+            756.480384
+          ]
+        }
+      ],
+      "license_metadata": {
+        "attribution": "Steven Depolo",
+        "name": "Open Images recorded image license",
+        "url": "https://creativecommons.org/licenses/by/2.0/"
+      },
+      "protected_split": null,
+      "source": "open_images_v7",
+      "source_image_id": "cb594bcf0f6c6086",
+      "width": 1024
+    },
+    {
+      "class_presence": [
+        3
+      ],
+      "duplicate_group_id": "unique:open_images_v7:d0b0d08f1e3a1c1e",
+      "file_path": "images/d0b0d08f1e3a1c1e.jpg",
+      "height": 686,
+      "labels": [
+        {
+          "class_id": 3,
+          "xyxy": [
+            346.42175999999995,
+            68.40106,
+            580.68736,
+            273.602868
+          ]
+        }
+      ],
+      "license_metadata": {
+        "attribution": "Thomas Quine",
+        "name": "Open Images recorded image license",
+        "url": "https://creativecommons.org/licenses/by/2.0/"
+      },
+      "protected_split": null,
+      "source": "open_images_v7",
+      "source_image_id": "d0b0d08f1e3a1c1e",
+      "width": 1024
+    },
+    {
+      "class_presence": [
+        4
+      ],
+      "duplicate_group_id": "unique:open_images_v7:d14ce35e1633c77c",
+      "file_path": "images/d14ce35e1633c77c.jpg",
+      "height": 768,
+      "labels": [
+        {
+          "class_id": 4,
+          "xyxy": [
+            435.83948799999996,
+            350.72025600000006,
+            609.279488,
+            646.400256
+          ]
+        }
+      ],
+      "license_metadata": {
+        "attribution": "Kyle Taylor",
+        "name": "Open Images recorded image license",
+        "url": "https://creativecommons.org/licenses/by/2.0/"
+      },
+      "protected_split": null,
+      "source": "open_images_v7",
+      "source_image_id": "d14ce35e1633c77c",
+      "width": 1024
+    },
+    {
+      "class_presence": [
+        3
+      ],
+      "duplicate_group_id": "unique:open_images_v7:d69f6ec757ecb192",
+      "file_path": "images/d69f6ec757ecb192.jpg",
+      "height": 1024,
+      "labels": [
+        {
+          "class_id": 3,
+          "xyxy": [
+            204.79999999999995,
+            468.799488,
+            372.799488,
+            673.599488
+          ]
+        },
+        {
+          "class_id": 3,
+          "xyxy": [
+            235.19948800000003,
+            273.600512,
+            444.8,
+            467.20000000000005
+          ]
+        },
+        {
+          "class_id": 3,
+          "xyxy": [
+            345.60051200000004,
+            604.799488,
+            548.8000000000001,
+            844.799488
+          ]
+        },
+        {
+          "class_id": 3,
+          "xyxy": [
+            348.80000000000007,
+            344.0,
+            676.799488,
+            649.599488
+          ]
+        },
+        {
+          "class_id": 3,
+          "xyxy": [
+            438.4,
+            91.20000000000002,
+            699.200512,
+            382.4
+          ]
+        },
+        {
+          "class_id": 3,
+          "xyxy": [
+            536.0,
+            577.599488,
+            758.399488,
+            820.799488
+          ]
+        },
+        {
+          "class_id": 3,
+          "xyxy": [
+            679.999488,
+            331.200512,
+            889.6,
+            564.799488
+          ]
+        }
+      ],
+      "license_metadata": {
+        "attribution": "Hiroyuki Yamaoka",
+        "name": "Open Images recorded image license",
+        "url": "https://creativecommons.org/licenses/by/2.0/"
+      },
+      "protected_split": null,
+      "source": "open_images_v7",
+      "source_image_id": "d69f6ec757ecb192",
+      "width": 1024
+    },
+    {
+      "class_presence": [
+        2
+      ],
+      "duplicate_group_id": "unique:open_images_v7:db5186f6ea17c8df",
+      "file_path": "images/db5186f6ea17c8df.jpg",
+      "height": 1024,
+      "labels": [
+        {
+          "class_id": 2,
+          "xyxy": [
+            371.93688000000003,
+            356.480512,
+            624.1635,
+            682.240512
+          ]
+        }
+      ],
+      "license_metadata": {
+        "attribution": "Robert Gray",
+        "name": "Open Images recorded image license",
+        "url": "https://creativecommons.org/licenses/by/2.0/"
+      },
+      "protected_split": null,
+      "source": "open_images_v7",
+      "source_image_id": "db5186f6ea17c8df",
+      "width": 765
+    },
+    {
+      "class_presence": [
+        1,
+        4
+      ],
+      "duplicate_group_id": "unique:open_images_v7:dd2895e2455e2e06",
+      "file_path": "images/dd2895e2455e2e06.jpg",
+      "height": 1024,
+      "labels": [
+        {
+          "class_id": 1,
+          "xyxy": [
+            429.9558655,
+            789.76,
+            586.9438785,
+            963.8399999999999
+          ]
+        },
+        {
+          "class_id": 4,
+          "xyxy": [
+            221.706282,
+            337.920512,
+            391.51,
+            539.5205119999999
+          ]
+        },
+        {
+          "class_id": 4,
+          "xyxy": [
+            268.482564,
+            514.5594880000001,
+            435.082564,
+            707.199488
+          ]
+        },
+        {
+          "class_id": 4,
+          "xyxy": [
+            321.025705,
+            684.799488,
+            485.7031410000001,
+            840.319488
+          ]
+        },
+        {
+          "class_id": 4,
+          "xyxy": [
+            358.19,
+            847.360512,
+            468.40256400000004,
+            955.520512
+          ]
+        },
+        {
+          "class_id": 4,
+          "xyxy": [
+            477.37314100000003,
+            642.5594880000001,
+            615.779423,
+            803.199488
+          ]
+        },
+        {
+          "class_id": 4,
+          "xyxy": [
+            504.92628200000007,
+            462.079488,
+            635.002564,
+            654.719488
+          ]
+        },
+        {
+          "class_id": 4,
+          "xyxy": [
+            531.1978525,
+            332.800512,
+            650.3809934999999,
+            483.200512
+          ]
+        }
+      ],
+      "license_metadata": {
+        "attribution": "ttnk",
+        "name": "Open Images recorded image license",
+        "url": "https://creativecommons.org/licenses/by/2.0/"
+      },
+      "protected_split": null,
+      "source": "open_images_v7",
+      "source_image_id": "dd2895e2455e2e06",
+      "width": 833
+    },
+    {
+      "class_presence": [
+        2
+      ],
+      "duplicate_group_id": "unique:open_images_v7:e255aabec6c2d25e",
+      "file_path": "images/e255aabec6c2d25e.jpg",
+      "height": 768,
+      "labels": [
+        {
+          "class_id": 2,
+          "xyxy": [
+            411.59923200000003,
+            146.4,
+            628.799616,
+            372.0
+          ]
+        },
+        {
+          "class_id": 2,
+          "xyxy": [
+            512.400768,
+            358.799232,
+            669.6003840000001,
+            417.59961599999997
+          ]
+        },
+        {
+          "class_id": 2,
+          "xyxy": [
+            588.000384,
+            211.20038399999999,
+            766.8007680000001,
+            391.200384
+          ]
+        }
+      ],
+      "license_metadata": {
+        "attribution": "Alex &quot;Skud&quot; Bayley",
+        "name": "Open Images recorded image license",
+        "url": "https://creativecommons.org/licenses/by/2.0/"
+      },
+      "protected_split": null,
+      "source": "open_images_v7",
+      "source_image_id": "e255aabec6c2d25e",
+      "width": 768
+    },
+    {
+      "class_presence": [
+        0,
+        2
+      ],
+      "duplicate_group_id": "unique:open_images_v7:e3214fceb5cc1e6e",
+      "file_path": "images/e3214fceb5cc1e6e.jpg",
+      "height": 1024,
+      "labels": [
+        {
+          "class_id": 0,
+          "xyxy": [
+            340.47936000000004,
+            89.6,
+            543.3596160000001,
+            303.36
+          ]
+        },
+        {
+          "class_id": 0,
+          "xyxy": [
+            394.879872,
+            282.88051199999995,
+            729.5996160000001,
+            611.200512
+          ]
+        },
+        {
+          "class_id": 2,
+          "xyxy": [
+            184.319616,
+            309.12,
+            414.079872,
+            595.84
+          ]
+        }
+      ],
+      "license_metadata": {
+        "attribution": "Michael Matuzak",
+        "name": "Open Images recorded image license",
+        "url": "https://creativecommons.org/licenses/by/2.0/"
+      },
+      "protected_split": null,
+      "source": "open_images_v7",
+      "source_image_id": "e3214fceb5cc1e6e",
+      "width": 768
+    },
+    {
+      "class_presence": [
+        0
+      ],
+      "duplicate_group_id": "unique:open_images_v7:e402e91f72149790",
+      "file_path": "images/e402e91f72149790.jpg",
+      "height": 768,
+      "labels": [
+        {
+          "class_id": 0,
+          "xyxy": [
+            115.83948799999996,
+            177.279744,
+            668.159488,
+            767.3602559999999
+          ]
+        },
+        {
+          "class_id": 0,
+          "xyxy": [
+            128.64051200000003,
+            0.0,
+            398.080512,
+            206.71987199999998
+          ]
+        },
+        {
+          "class_id": 0,
+          "xyxy": [
+            513.279488,
+            44.16,
+            936.319488,
+            380.15999999999997
+          ]
+        }
+      ],
+      "license_metadata": {
+        "attribution": "kmare",
+        "name": "Open Images recorded image license",
+        "url": "https://creativecommons.org/licenses/by/2.0/"
+      },
+      "protected_split": null,
+      "source": "open_images_v7",
+      "source_image_id": "e402e91f72149790",
+      "width": 1024
+    },
+    {
+      "class_presence": [
+        2
+      ],
+      "duplicate_group_id": "unique:open_images_v7:e4a6474363e26441",
+      "file_path": "images/e4a6474363e26441.jpg",
+      "height": 1024,
+      "labels": [
+        {
+          "class_id": 2,
+          "xyxy": [
+            105.39123600000002,
+            74.405888,
+            901.352184,
+            804.466688
+          ]
+        }
+      ],
+      "license_metadata": {
+        "attribution": "Richard North",
+        "name": "Open Images recorded image license",
+        "url": "https://creativecommons.org/licenses/by/2.0/"
+      },
+      "protected_split": null,
+      "source": "open_images_v7",
+      "source_image_id": "e4a6474363e26441",
+      "width": 978
+    },
+    {
+      "class_presence": [
+        1
+      ],
+      "duplicate_group_id": "unique:open_images_v7:e5507868035955cb",
+      "file_path": "images/e5507868035955cb.jpg",
+      "height": 768,
+      "labels": [
+        {
+          "class_id": 1,
+          "xyxy": [
+            577.920512,
+            439.680384,
+            669.440512,
+            563.84064
+          ]
+        },
+        {
+          "class_id": 1,
+          "xyxy": [
+            579.8399999999999,
+            547.83936,
+            712.96,
+            610.559616
+          ]
+        },
+        {
+          "class_id": 1,
+          "xyxy": [
+            613.76,
+            444.800256,
+            670.0799999999999,
+            577.280256
+          ]
+        }
+      ],
+      "license_metadata": {
+        "attribution": "Michael (a.k.a. moik) McCullough",
+        "name": "Open Images recorded image license",
+        "url": "https://creativecommons.org/licenses/by/2.0/"
+      },
+      "protected_split": null,
+      "source": "open_images_v7",
+      "source_image_id": "e5507868035955cb",
+      "width": 1024
+    },
+    {
+      "class_presence": [
+        3
+      ],
+      "duplicate_group_id": "unique:open_images_v7:e92121aad88c24e6",
+      "file_path": "images/e92121aad88c24e6.jpg",
+      "height": 683,
+      "labels": [
+        {
+          "class_id": 3,
+          "xyxy": [
+            681.600512,
+            312.667838,
+            825.600512,
+            460.03191799999996
+          ]
+        }
+      ],
+      "license_metadata": {
+        "attribution": "Chilli Chill House @chillichill",
+        "name": "Open Images recorded image license",
+        "url": "https://creativecommons.org/licenses/by/2.0/"
+      },
+      "protected_split": null,
+      "source": "open_images_v7",
+      "source_image_id": "e92121aad88c24e6",
+      "width": 1024
+    },
+    {
+      "class_presence": [
+        0,
+        2
+      ],
+      "duplicate_group_id": "unique:open_images_v7:eaf7825bffec3b73",
+      "file_path": "images/eaf7825bffec3b73.jpg",
+      "height": 643,
+      "labels": [
+        {
+          "class_id": 0,
+          "xyxy": [
+            30.72,
+            320.930945,
+            460.79999999999995,
+            633.895763
+          ]
+        },
+        {
+          "class_id": 0,
+          "xyxy": [
+            769.1381759999999,
+            392.6283385,
+            868.125184,
+            518.9527615
+          ]
+        },
+        {
+          "class_id": 0,
+          "xyxy": [
+            832.852992,
+            446.1162935,
+            1022.862336,
+            591.7873005
+          ]
+        },
+        {
+          "class_id": 2,
+          "xyxy": [
+            249.17299200000002,
+            295.893811,
+            387.98233600000003,
+            327.759605
+          ]
+        },
+        {
+          "class_id": 2,
+          "xyxy": [
+            391.39583999999996,
+            516.6762200000001,
+            529.06752,
+            641.86189
+          ]
+        },
+        {
+          "class_id": 2,
+          "xyxy": [
+            457.3870079999999,
+            273.13289699999996,
+            582.542336,
+            347.106189
+          ]
+        },
+        {
+          "class_id": 2,
+          "xyxy": [
+            720.212992,
+            309.5501665,
+            785.067008,
+            393.7658055
+          ]
+        },
+        {
+          "class_id": 2,
+          "xyxy": [
+            764.58752,
+            287.9280055,
+            878.365184,
+            378.9723045
+          ]
+        },
+        {
+          "class_id": 2,
+          "xyxy": [
+            862.4353279999999,
+            307.274268,
+            921.6,
+            380.10945000000004
+          ]
+        }
+      ],
+      "license_metadata": {
+        "attribution": "Deutscher Webvideopreis",
+        "name": "Open Images recorded image license",
+        "url": "https://creativecommons.org/licenses/by/2.0/"
+      },
+      "protected_split": null,
+      "source": "open_images_v7",
+      "source_image_id": "eaf7825bffec3b73",
+      "width": 1024
+    },
+    {
+      "class_presence": [
+        0
+      ],
+      "duplicate_group_id": "unique:open_images_v7:eb10a67823ea8148",
+      "file_path": "images/eb10a67823ea8148.jpg",
+      "height": 1024,
+      "labels": [
+        {
+          "class_id": 0,
+          "xyxy": [
+            126.11672000000002,
+            408.96000000000004,
+            393.714984,
+            653.44
+          ]
+        },
+        {
+          "class_id": 0,
+          "xyxy": [
+            156.20575600000004,
+            196.47999999999996,
+            432.125948,
+            446.08
+          ]
+        }
+      ],
+      "license_metadata": {
+        "attribution": "Biodiversity Heritage Library",
+        "name": "Open Images recorded image license",
+        "url": "https://creativecommons.org/licenses/by/2.0/"
+      },
+      "protected_split": null,
+      "source": "open_images_v7",
+      "source_image_id": "eb10a67823ea8148",
+      "width": 548
+    },
+    {
+      "class_presence": [
+        2
+      ],
+      "duplicate_group_id": "unique:open_images_v7:ec65ba7556943948",
+      "file_path": "images/ec65ba7556943948.jpg",
+      "height": 683,
+      "labels": [
+        {
+          "class_id": 2,
+          "xyxy": [
+            0.0,
+            513.8512935,
+            183.04,
+            682.3590045000001
+          ]
+        },
+        {
+          "class_id": 2,
+          "xyxy": [
+            39.03999999999999,
+            375.45807700000006,
+            250.23999999999998,
+            568.953343
+          ]
+        },
+        {
+          "class_id": 2,
+          "xyxy": [
+            168.95999999999998,
+            604.1923865,
+            322.56,
+            682.3596875
+          ]
+        },
+        {
+          "class_id": 2,
+          "xyxy": [
+            328.960512,
+            547.809712,
+            558.720512,
+            682.359346
+          ]
+        },
+        {
+          "class_id": 2,
+          "xyxy": [
+            416.64,
+            452.984041,
+            522.88,
+            543.965105
+          ]
+        },
+        {
+          "class_id": 2,
+          "xyxy": [
+            514.5600000000001,
+            440.16959499999996,
+            741.12,
+            633.024207
+          ]
+        },
+        {
+          "class_id": 2,
+          "xyxy": [
+            558.72,
+            650.323914,
+            663.6800000000001,
+            682.359346
+          ]
+        },
+        {
+          "class_id": 2,
+          "xyxy": [
+            683.52,
+            604.1923865,
+            903.6800000000001,
+            682.3596875
+          ]
+        },
+        {
+          "class_id": 2,
+          "xyxy": [
+            731.52,
+            509.3673985,
+            833.9200000000001,
+            606.7556855
+          ]
+        },
+        {
+          "class_id": 2,
+          "xyxy": [
+            832.639488,
+            552.934944,
+            998.399488,
+            682.359346
+          ]
+        },
+        {
+          "class_id": 2,
+          "xyxy": [
+            993.92,
+            599.0671545,
+            1023.36,
+            682.3596875
+          ]
+        }
+      ],
+      "license_metadata": {
+        "attribution": "Hendrik Wieduwilt",
+        "name": "Open Images recorded image license",
+        "url": "https://creativecommons.org/licenses/by/2.0/"
+      },
+      "protected_split": null,
+      "source": "open_images_v7",
+      "source_image_id": "ec65ba7556943948",
+      "width": 1024
+    },
+    {
+      "class_presence": [
+        3
+      ],
+      "duplicate_group_id": "unique:open_images_v7:ee61e1d4e937f19b",
+      "file_path": "images/ee61e1d4e937f19b.jpg",
+      "height": 1024,
+      "labels": [
+        {
+          "class_id": 3,
+          "xyxy": [
+            270.40000000000003,
+            440.00000000000006,
+            910.401024,
+            956.7994880000001
+          ]
+        }
+      ],
+      "license_metadata": {
+        "attribution": "Mark Hillary",
+        "name": "Open Images recorded image license",
+        "url": "https://creativecommons.org/licenses/by/2.0/"
+      },
+      "protected_split": null,
+      "source": "open_images_v7",
+      "source_image_id": "ee61e1d4e937f19b",
+      "width": 1024
+    },
+    {
+      "class_presence": [
+        3
+      ],
+      "duplicate_group_id": "unique:open_images_v7:ee7244f76d44ab4b",
+      "file_path": "images/ee7244f76d44ab4b.jpg",
+      "height": 683,
+      "labels": [
+        {
+          "class_id": 3,
+          "xyxy": [
+            215.67948800000002,
+            169.789019,
+            634.879488,
+            441.45090300000004
+          ]
+        }
+      ],
+      "license_metadata": {
+        "attribution": "Tatsuo Yamashita",
+        "name": "Open Images recorded image license",
+        "url": "https://creativecommons.org/licenses/by/2.0/"
+      },
+      "protected_split": null,
+      "source": "open_images_v7",
+      "source_image_id": "ee7244f76d44ab4b",
+      "width": 1024
+    },
+    {
+      "class_presence": [
+        3
+      ],
+      "duplicate_group_id": "unique:open_images_v7:f54c5dbbbc1c3646",
+      "file_path": "images/f54c5dbbbc1c3646.jpg",
+      "height": 768,
+      "labels": [
+        {
+          "class_id": 3,
+          "xyxy": [
+            212.480512,
+            341.76038400000004,
+            245.120512,
+            434.56012799999996
+          ]
+        },
+        {
+          "class_id": 3,
+          "xyxy": [
+            341.12,
+            531.839616,
+            552.32,
+            728.959872
+          ]
+        },
+        {
+          "class_id": 3,
+          "xyxy": [
+            361.60051200000004,
+            97.28025600000001,
+            570.8805120000001,
+            279.680256
+          ]
+        }
+      ],
+      "license_metadata": {
+        "attribution": "Nori Norisa",
+        "name": "Open Images recorded image license",
+        "url": "https://creativecommons.org/licenses/by/2.0/"
+      },
+      "protected_split": null,
+      "source": "open_images_v7",
+      "source_image_id": "f54c5dbbbc1c3646",
+      "width": 1024
+    },
+    {
+      "class_presence": [
+        3
+      ],
+      "duplicate_group_id": "unique:open_images_v7:f56c556020f0fb3d",
+      "file_path": "images/f56c556020f0fb3d.jpg",
+      "height": 768,
+      "labels": [
+        {
+          "class_id": 3,
+          "xyxy": [
+            399.36,
+            244.47974399999998,
+            570.88,
+            430.719744
+          ]
+        }
+      ],
+      "license_metadata": {
+        "attribution": "Jon Åslund",
+        "name": "Open Images recorded image license",
+        "url": "https://creativecommons.org/licenses/by/2.0/"
+      },
+      "protected_split": null,
+      "source": "open_images_v7",
+      "source_image_id": "f56c556020f0fb3d",
+      "width": 1024
+    },
+    {
+      "class_presence": [
+        3
+      ],
+      "duplicate_group_id": "unique:open_images_v7:f7135448f95076ce",
+      "file_path": "images/f7135448f95076ce.jpg",
+      "height": 1024,
+      "labels": [
+        {
+          "class_id": 3,
+          "xyxy": [
+            60.924966000000005,
+            740.357632,
+            309.43451600000003,
+            948.683264
+          ]
+        },
+        {
+          "class_id": 3,
+          "xyxy": [
+            275.765348,
+            536.83968,
+            452.126876,
+            665.03936
+          ]
+        }
+      ],
+      "license_metadata": {
+        "attribution": "thebittenword.com",
+        "name": "Open Images recorded image license",
+        "url": "https://creativecommons.org/licenses/by/2.0/"
+      },
+      "protected_split": null,
+      "source": "open_images_v7",
+      "source_image_id": "f7135448f95076ce",
+      "width": 683
+    },
+    {
+      "class_presence": [
+        1
+      ],
+      "duplicate_group_id": "unique:open_images_v7:f7cb94b068939713",
+      "file_path": "images/f7cb94b068939713.jpg",
+      "height": 768,
+      "labels": [
+        {
+          "class_id": 1,
+          "xyxy": [
+            351.35999999999996,
+            376.959744,
+            547.1999999999999,
+            553.599744
+          ]
+        }
+      ],
+      "license_metadata": {
+        "attribution": "sshreeves",
+        "name": "Open Images recorded image license",
+        "url": "https://creativecommons.org/licenses/by/2.0/"
+      },
+      "protected_split": null,
+      "source": "open_images_v7",
+      "source_image_id": "f7cb94b068939713",
+      "width": 1024
+    },
+    {
+      "class_presence": [
+        2
+      ],
+      "duplicate_group_id": "unique:open_images_v7:f96d94bd52fcbc8f",
+      "file_path": "images/f96d94bd52fcbc8f.jpg",
+      "height": 678,
+      "labels": [
+        {
+          "class_id": 2,
+          "xyxy": [
+            442.000896,
+            464.00048699999996,
+            494.00064,
+            509.00002499999994
+          ]
+        },
+        {
+          "class_id": 2,
+          "xyxy": [
+            483.00032000000004,
+            410.000499,
+            533.9996160000001,
+            461.000337
+          ]
+        },
+        {
+          "class_id": 2,
+          "xyxy": [
+            538.000896,
+            521.000286,
+            590.00064,
+            573.000174
+          ]
+        },
+        {
+          "class_id": 2,
+          "xyxy": [
+            542.00064,
+            484.99984199999994,
+            586.000896,
+            521.0002860000001
+          ]
+        },
+        {
+          "class_id": 2,
+          "xyxy": [
+            555.00032,
+            400.000338,
+            595.0008320000001,
+            432.99995400000006
+          ]
+        },
+        {
+          "class_id": 2,
+          "xyxy": [
+            574.99904,
+            281.999523,
+            622.99904,
+            323.999589
+          ]
+        },
+        {
+          "class_id": 2,
+          "xyxy": [
+            645.999104,
+            404.00019899999995,
+            706.999808,
+            461.000337
+          ]
+        },
+        {
+          "class_id": 2,
+          "xyxy": [
+            678.000128,
+            172.999497,
+            725.0007039999999,
+            216.99966299999997
+          ]
+        },
+        {
+          "class_id": 2,
+          "xyxy": [
+            707.00032,
+            389.999499,
+            771.00032,
+            440.999337
+          ]
+        },
+        {
+          "class_id": 2,
+          "xyxy": [
+            755.00032,
+            180.99989699999998,
+            823.000064,
+            248.99990699999998
+          ]
+        },
+        {
+          "class_id": 2,
+          "xyxy": [
+            755.0008320000001,
+            38.000205,
+            811.00032,
+            114.000615
+          ]
+        },
+        {
+          "class_id": 2,
+          "xyxy": [
+            763.9997440000001,
+            408.00006,
+            840.999424,
+            472.99992
+          ]
+        },
+        {
+          "class_id": 2,
+          "xyxy": [
+            826.999808,
+            19.000272,
+            897.000448,
+            92.99990400000002
+          ]
+        },
+        {
+          "class_id": 2,
+          "xyxy": [
+            839.000064,
+            97.99981500000001,
+            885.999616,
+            176.999697
+          ]
+        },
+        {
+          "class_id": 2,
+          "xyxy": [
+            885.999616,
+            149.999703,
+            956.99968,
+            224.99938500000002
+          ]
+        },
+        {
+          "class_id": 2,
+          "xyxy": [
+            930.0003839999999,
+            448.00002600000005,
+            985.000448,
+            512.999886
+          ]
+        },
+        {
+          "class_id": 2,
+          "xyxy": [
+            944.999936,
+            521.0002860000001,
+            996.99968,
+            603.99969
+          ]
+        },
+        {
+          "class_id": 2,
+          "xyxy": [
+            993.9998720000001,
+            300.000084,
+            1022.999552,
+            354.00007200000005
+          ]
+        }
+      ],
+      "license_metadata": {
+        "attribution": "dominique Bernardini",
+        "name": "Open Images recorded image license",
+        "url": "https://creativecommons.org/licenses/by/2.0/"
+      },
+      "protected_split": null,
+      "source": "open_images_v7",
+      "source_image_id": "f96d94bd52fcbc8f",
+      "width": 1024
+    },
+    {
+      "class_presence": [
+        1
+      ],
+      "duplicate_group_id": "unique:open_images_v7:fa416dab8d4ad0f9",
+      "file_path": "images/fa416dab8d4ad0f9.jpg",
+      "height": 1024,
+      "labels": [
+        {
+          "class_id": 1,
+          "xyxy": [
+            0.0,
+            84.79999999999998,
+            327.999488,
+            422.399488
+          ]
+        }
+      ],
+      "license_metadata": {
+        "attribution": "Rebecca Chesney",
+        "name": "Open Images recorded image license",
+        "url": "https://creativecommons.org/licenses/by/2.0/"
+      },
+      "protected_split": null,
+      "source": "open_images_v7",
+      "source_image_id": "fa416dab8d4ad0f9",
+      "width": 1024
+    },
+    {
+      "class_presence": [
+        4
+      ],
+      "duplicate_group_id": "unique:open_images_v7:fa91037766f83ced",
+      "file_path": "images/fa91037766f83ced.jpg",
+      "height": 768,
+      "labels": [
+        {
+          "class_id": 4,
+          "xyxy": [
+            33.919488,
+            571.52064,
+            176.639488,
+            664.320384
+          ]
+        },
+        {
+          "class_id": 4,
+          "xyxy": [
+            351.36051199999997,
+            578.560128,
+            492.800512,
+            695.040384
+          ]
+        },
+        {
+          "class_id": 4,
+          "xyxy": [
+            531.199488,
+            370.559616,
+            673.919488,
+            492.15936
+          ]
+        },
+        {
+          "class_id": 4,
+          "xyxy": [
+            700.159488,
+            365.43935999999997,
+            955.5194879999999,
+            489.59961599999997
+          ]
+        },
+        {
+          "class_id": 4,
+          "xyxy": [
+            711.04,
+            587.520384,
+            833.9200000000001,
+            641.920128
+          ]
+        },
+        {
+          "class_id": 4,
+          "xyxy": [
+            856.32,
+            588.800256,
+            977.92,
+            636.800256
+          ]
+        }
+      ],
+      "license_metadata": {
+        "attribution": "Lwp Kommunikáció",
+        "name": "Open Images recorded image license",
+        "url": "https://creativecommons.org/licenses/by/2.0/"
+      },
+      "protected_split": null,
+      "source": "open_images_v7",
+      "source_image_id": "fa91037766f83ced",
+      "width": 1024
+    },
+    {
+      "class_presence": [
+        0
+      ],
+      "duplicate_group_id": "unique:open_images_v7:fa99e4bc841c28b2",
+      "file_path": "images/fa99e4bc841c28b2.jpg",
+      "height": 685,
+      "labels": [
+        {
+          "class_id": 0,
+          "xyxy": [
+            290.56,
+            267.3483075,
+            679.6800000000001,
+            601.2138825
+          ]
+        }
+      ],
+      "license_metadata": {
+        "attribution": "Kristina Servant",
+        "name": "Open Images recorded image license",
+        "url": "https://creativecommons.org/licenses/by/2.0/"
+      },
+      "protected_split": null,
+      "source": "open_images_v7",
+      "source_image_id": "fa99e4bc841c28b2",
+      "width": 1024
+    },
+    {
+      "class_presence": [
+        3
+      ],
+      "duplicate_group_id": "unique:open_images_v7:fad970c55b2e376c",
+      "file_path": "images/fad970c55b2e376c.jpg",
+      "height": 1024,
+      "labels": [
+        {
+          "class_id": 3,
+          "xyxy": [
+            120.47103999999999,
+            617.411072,
+            282.771968,
+            823.2156160000001
+          ]
+        },
+        {
+          "class_id": 3,
+          "xyxy": [
+            219.18924800000002,
+            652.5491199999999,
+            513.673216,
+            936.993792
+          ]
+        },
+        {
+          "class_id": 3,
+          "xyxy": [
+            269.38572800000003,
+            527.058944,
+            446.744576,
+            739.555328
+          ]
+        },
+        {
+          "class_id": 3,
+          "xyxy": [
+            302.85004799999996,
+            455.110144,
+            446.744576,
+            602.352128
+          ]
+        },
+        {
+          "class_id": 3,
+          "xyxy": [
+            349.69856000000004,
+            732.862464,
+            570.562048,
+            997.228544
+          ]
+        },
+        {
+          "class_id": 3,
+          "xyxy": [
+            403.241984,
+            461.803008,
+            597.332992,
+            694.379008
+          ]
+        },
+        {
+          "class_id": 3,
+          "xyxy": [
+            493.594624,
+            389.856768,
+            712.783872,
+            567.21664
+          ]
+        },
+        {
+          "class_id": 3,
+          "xyxy": [
+            542.117888,
+            567.216128,
+            752.9410560000001,
+            793.09824
+          ]
+        },
+        {
+          "class_id": 3,
+          "xyxy": [
+            545.464832,
+            721.149952,
+            860.0263679999999,
+            990.53568
+          ]
+        },
+        {
+          "class_id": 3,
+          "xyxy": [
+            716.130816,
+            565.542912,
+            861.6995840000001,
+            789.7518080000001
+          ]
+        }
+      ],
+      "license_metadata": {
+        "attribution": "Fox Wu",
+        "name": "Open Images recorded image license",
+        "url": "https://creativecommons.org/licenses/by/2.0/"
+      },
+      "protected_split": null,
+      "source": "open_images_v7",
+      "source_image_id": "fad970c55b2e376c",
+      "width": 1024
+    },
+    {
+      "class_presence": [
+        0,
+        2
+      ],
+      "duplicate_group_id": "unique:open_images_v7:fbd0358b7c6a441a",
+      "file_path": "images/fbd0358b7c6a441a.jpg",
+      "height": 680,
+      "labels": [
+        {
+          "class_id": 0,
+          "xyxy": [
+            397.44,
+            583.95476,
+            467.84,
+            654.3878
+          ]
+        },
+        {
+          "class_id": 2,
+          "xyxy": [
+            341.76,
+            578.8326599999999,
+            405.76,
+            647.3447
+          ]
+        }
+      ],
+      "license_metadata": {
+        "attribution": "Andre Charland",
+        "name": "Open Images recorded image license",
+        "url": "https://creativecommons.org/licenses/by/2.0/"
+      },
+      "protected_split": null,
+      "source": "open_images_v7",
+      "source_image_id": "fbd0358b7c6a441a",
+      "width": 1024
+    },
+    {
+      "class_presence": [
+        3
+      ],
+      "duplicate_group_id": "unique:open_images_v7:fbfe4aede963b672",
+      "file_path": "images/fbfe4aede963b672.jpg",
+      "height": 768,
+      "labels": [
+        {
+          "class_id": 3,
+          "xyxy": [
+            0.0,
+            291.59999999999997,
+            125.999616,
+            398.40038400000003
+          ]
+        },
+        {
+          "class_id": 3,
+          "xyxy": [
+            115.20038399999999,
+            325.20038399999993,
+            241.20076799999998,
+            475.19999999999993
+          ]
+        },
+        {
+          "class_id": 3,
+          "xyxy": [
+            180.0,
+            373.200384,
+            411.59961599999997,
+            533.999616
+          ]
+        },
+        {
+          "class_id": 3,
+          "xyxy": [
+            235.20000000000002,
+            344.40038400000003,
+            369.59999999999997,
+            413.99961600000006
+          ]
+        },
+        {
+          "class_id": 3,
+          "xyxy": [
+            296.40000000000003,
+            488.40038400000003,
+            472.799616,
+            711.599616
+          ]
+        },
+        {
+          "class_id": 3,
+          "xyxy": [
+            313.20000000000005,
+            278.40000000000003,
+            575.9996160000001,
+            408.0
+          ]
+        },
+        {
+          "class_id": 3,
+          "xyxy": [
+            495.5992319999999,
+            463.199616,
+            669.599616,
+            647.9996160000001
+          ]
+        }
+      ],
+      "license_metadata": {
+        "attribution": "Bit Boy",
+        "name": "Open Images recorded image license",
+        "url": "https://creativecommons.org/licenses/by/2.0/"
+      },
+      "protected_split": null,
+      "source": "open_images_v7",
+      "source_image_id": "fbfe4aede963b672",
+      "width": 768
+    }
+  ]
+}

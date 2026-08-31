@@ -1,0 +1,46 @@
+{
+  "status": "passed",
+  "python": "3.10.20",
+  "torch": "2.5.1+cu121",
+  "cuda_available": true,
+  "device": "0",
+  "gpu": "NVIDIA GeForce RTX 3080",
+  "student_sha256": "fef2314905d48028ebbe3d94ea52af222bde7e8255d6475081606e2c309020e4",
+  "student_classes": {
+    "0": "Apple",
+    "1": "Banana",
+    "2": "Orange",
+    "3": "Strawberry",
+    "4": "Pineapple"
+  },
+  "incremental_sha256": "ee524c94ef0cac731d8d11dac697ee17ad90700d9138477a80b14a7bd47d249c",
+  "incremental_classes": {
+    "0": "Apple",
+    "1": "Banana",
+    "2": "Orange",
+    "3": "Strawberry",
+    "4": "Pineapple",
+    "5": "Avocado",
+    "6": "Blueberry",
+    "7": "Cherry",
+    "8": "Kiwi",
+    "9": "Mango",
+    "10": "Rockmelon"
+  },
+  "open_world_files": {
+    "open_world_objectness": "D:\\fruit_ssod_runnable_code_english\\models\\open_world_objectness.pt",
+    "open_world_encoder": "D:\\fruit_ssod_runnable_code_english\\models\\open_world_encoder.pt",
+    "open_world_clusters": "D:\\fruit_ssod_runnable_code_english\\models\\open_world_box_clusters.npz",
+    "open_world_names": "D:\\fruit_ssod_runnable_code_english\\models\\open_world_cluster_names.json"
+  },
+  "sample_image": "D:\\fruit_ssod_runnable_code_english\\samples\\images\\00a70c466ad1fe24.jpg",
+  "sample_detections": 4,
+  "incremental_sample_detections": 3,
+  "camera_profiles": [
+    "Semi-Supervised Student (5 Classes)",
+    "Extended Detector (11 Classes)"
+  ],
+  "opencv": "4.14.0",
+  "camera_device_note": "Device scanning and access occur only after the user clicks Refresh Devices or Start Detection in the GUI.",
+  "data_root": "D:\\fruit_ssod_runnable_code_english\\data"
+}
