@@ -1,0 +1,9 @@
+{
+  "manifest_version": "1.0",
+  "teacher_run_id": "teacher-20",
+  "candidate_count": 2,
+  "candidates": [
+    {"teacher_run_id": "teacher-20", "source_image_id": "fixture-image", "source_file_path": "fixture-image.jpg", "view": "original", "class_id": 0, "class_name": "Apple", "confidence": 0.91, "raw_xyxy": [100, 100, 200, 200], "xyxy": [100, 100, 200, 200], "source_model": "teacher.pt"},
+    {"teacher_run_id": "teacher-20", "source_image_id": "fixture-image", "source_file_path": "fixture-image.jpg", "view": "horizontal_flip", "class_id": 0, "class_name": "Apple", "confidence": 0.90, "raw_xyxy": [440, 100, 540, 200], "xyxy": [100, 100, 200, 200], "source_model": "teacher.pt"}
+  ]
+}
