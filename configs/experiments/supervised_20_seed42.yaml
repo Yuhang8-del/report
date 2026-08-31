@@ -1,0 +1,15 @@
+# Generated from supervised_reference_template.yaml; do not edit independently.
+template_id: supervised_reference_v1
+experiment_name: supervised_20_seed42
+model_config: ../models/yolov8s_640.yaml
+dataset_yaml: ${FRUIT_SSOD_DATA_ROOT}/fruit_ssod/processed/yolo/supervised_v2_20_seed42/dataset.yaml
+split_manifest: ${FRUIT_SSOD_DATA_ROOT}/fruit_ssod/manifests/splits_v2/split_manifest.json
+artifact_root: ${FRUIT_SSOD_ARTIFACT_ROOT}
+seed: 42
+label_budget_percent: 20
+epochs: 100
+pretrained_weights: ${FRUIT_SSOD_PRETRAINED_WEIGHTS}
+initialization_policy:
+  policy_id: ssod_student_init_v1
+  model_initialization: shared_pretrained_weights
+  comparison_group: ssod_main_seed42

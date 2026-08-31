@@ -1,0 +1,17 @@
+# Copy locally and adjust paths; do not commit local configuration or credentials.
+# The data root is a literal UNC path with no embedded username or password.
+data_root: '\\fileserver\fruit-data\approved'
+artifact_root: 'D:\fruit-ssod-artifacts'
+
+classes:
+  - {id: 0, name: Apple}
+  - {id: 1, name: Banana}
+  - {id: 2, name: Orange}
+  - {id: 3, name: Strawberry}
+  - {id: 4, name: Pineapple}
+
+image_size: 640
+device: 'cuda:0'
+workers: 4
+seed: 42
+experiment_name: fruit-ssod-local

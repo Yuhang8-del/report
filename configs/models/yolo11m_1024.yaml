@@ -1,0 +1,6 @@
+# Higher-capacity YOLO11 comparison using the same v12 data protocol.
+model: yolo11m.yaml
+image_size: 1024
+amp: true
+batch: 2
+names: [Apple, Banana, Orange, Strawberry, Pineapple]

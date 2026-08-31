@@ -1,0 +1,21 @@
+# Exploratory Teacher continuation for the current splits_v2 protocol.
+# This is not a member of the eight-entry Task-17 matrix and does not access
+# the fixed test during training. Its only purpose is to provide a stronger,
+# leakage-controlled Teacher for a fresh Task-13/14/15 pseudo-label audit.
+experiment_name: supervised_v2_full_yolov8m_1024_teacher_seed42
+model_config: ../models/yolov8m_1024.yaml
+dataset_yaml: ${FRUIT_SSOD_DATA_ROOT}/fruit_ssod/processed/yolo/supervised_v2_100_seed42/dataset.yaml
+split_manifest: ${FRUIT_SSOD_DATA_ROOT}/fruit_ssod/manifests/splits_v2/split_manifest.json
+artifact_root: ${FRUIT_SSOD_ARTIFACT_ROOT}
+seed: 42
+epochs: 60
+patience: 15
+image_size: 1024
+amp: true
+batch: 2
+device: cuda:0
+pretrained_weights: ${FRUIT_SSOD_PRETRAINED_WEIGHTS}
+initialization_policy:
+  policy_id: exploratory_v2_full_teacher_yolov8m_v1
+  model_initialization: shared_pretrained_weights
+  comparison_group: exploratory_v2_full_teacher_seed42

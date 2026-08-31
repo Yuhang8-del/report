@@ -1,0 +1,15 @@
+# v7 upper reference: five audited public labeled sources. deepNIR contributes
+# Apple, Orange and Strawberry boxes only after directory-based label auditing.
+experiment_name: supervised_v7_deepnir_100_seed42
+model_config: ../models/yolov8s_640.yaml
+dataset_yaml: ${FRUIT_SSOD_DATA_ROOT}/fruit_ssod/processed/yolo/supervised_v7_deepnir_100_seed42/dataset.yaml
+split_manifest: ${FRUIT_SSOD_DATA_ROOT}/fruit_ssod/manifests/splits_v7_deepnir_seed42/split_manifest.json
+artifact_root: ${FRUIT_SSOD_ARTIFACT_ROOT}
+seed: 42
+label_budget_percent: 100
+epochs: 100
+pretrained_weights: ${FRUIT_SSOD_PRETRAINED_WEIGHTS}
+initialization_policy:
+  policy_id: deepnir_expanded_source_student_init_v1
+  model_initialization: shared_pretrained_weights
+  comparison_group: deepnir_expanded_source_v7_seed42

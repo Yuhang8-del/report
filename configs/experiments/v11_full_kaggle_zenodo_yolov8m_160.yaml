@@ -1,0 +1,16 @@
+# Aggressive supervised upper-bound recovery after full Kaggle + Zenodo import.
+# The fixed v11 test partition is never passed to training or hyperparameter
+# selection.  SSOD remains disabled unless its fixed-test gate is later met.
+experiment_name: supervised_v11_full_kaggle_zenodo_yolov8m_160_seed42
+model_config: ../models/yolov8m_768.yaml
+dataset_yaml: ${FRUIT_SSOD_DATA_ROOT}/fruit_ssod/processed/yolo/supervised_v11_full_kaggle_zenodo_yolov8m_160_seed42/dataset.yaml
+split_manifest: ${FRUIT_SSOD_DATA_ROOT}/fruit_ssod/manifests/splits_v11_full_kaggle_zenodo_seed42/split_manifest.json
+artifact_root: ${FRUIT_SSOD_ARTIFACT_ROOT}
+seed: 42
+label_budget_percent: 100
+epochs: 160
+pretrained_weights: ${FRUIT_SSOD_PRETRAINED_WEIGHTS}
+initialization_policy:
+  policy_id: full_kaggle_zenodo_yolov8m_aggressive_upper_bound_v1
+  model_initialization: shared_pretrained_weights
+  comparison_group: full_kaggle_zenodo_v11_seed42

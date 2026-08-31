@@ -1,0 +1,123 @@
+{
+  "registry_version": "1.0.1",
+  "classes": [
+    {"id": 0, "name": "Apple"},
+    {"id": 1, "name": "Banana"},
+    {"id": 2, "name": "Orange"},
+    {"id": 3, "name": "Strawberry"},
+    {"id": 4, "name": "Pineapple"}
+  ],
+  "source_aliases": {
+    "canonical": {
+      "Apple": "Apple",
+      "apple": "Apple",
+      "Banana": "Banana",
+      "banana": "Banana",
+      "Orange": "Orange",
+      "orange": "Orange",
+      "Strawberry": "Strawberry",
+      "strawberry": "Strawberry",
+      "Pineapple": "Pineapple",
+      "pineapple": "Pineapple"
+    },
+    "fruit_360": {
+      "Apple": "Apple",
+      "apple": "Apple",
+      "Banana": "Banana",
+      "banana": "Banana",
+      "Orange": "Orange",
+      "orange": "Orange",
+      "Strawberry": "Strawberry",
+      "strawberry": "Strawberry",
+      "Pineapple": "Pineapple",
+      "pineapple": "Pineapple",
+      "Apple 6": "Apple",
+      "Banana 1": "Banana",
+      "Orange 1": "Orange",
+      "Strawberry 1": "Strawberry",
+      "Pineapple 1": "Pineapple"
+    },
+    "open_images_v7": {
+      "Apple": "Apple",
+      "apple": "Apple",
+      "Banana": "Banana",
+      "banana": "Banana",
+      "Orange": "Orange",
+      "orange": "Orange",
+      "Orange (fruit)": "Orange",
+      "Strawberry": "Strawberry",
+      "strawberry": "Strawberry",
+      "Pineapple": "Pineapple",
+      "pineapple": "Pineapple"
+    },
+    "common_fruit_labels": {
+      "apple": "Apple",
+      "apples": "Apple",
+      "banana": "Banana",
+      "bananas": "Banana",
+      "orange": "Orange",
+      "oranges": "Orange",
+      "strawberry": "Strawberry",
+      "strawberries": "Strawberry",
+      "pineapple": "Pineapple",
+      "pineapples": "Pineapple"
+    },
+    "snacks_detection": {
+      "apple": "Apple",
+      "banana": "Banana",
+      "orange": "Orange",
+      "strawberry": "Strawberry",
+      "pineapple": "Pineapple"
+    },
+    "strawberry_ds": {
+      "Early-Turning": "Strawberry",
+      "Green": "Strawberry",
+      "Late-Turning": "Strawberry",
+      "Red": "Strawberry",
+      "Turning": "Strawberry",
+      "White": "Strawberry"
+    },
+    "kaggle_fruit_detection": {
+      "Apple": "Apple",
+      "apple": "Apple",
+      "Banana": "Banana",
+      "banana": "Banana",
+      "Orange": "Orange",
+      "orange": "Orange",
+      "Strawberry": "Strawberry",
+      "strawberry": "Strawberry",
+      "Pineapple": "Pineapple",
+      "pineapple": "Pineapple"
+    },
+    "hf_crop_plant_25k": {
+      "apple fruit": "Apple",
+      "banana": "Banana",
+      "orange": "Orange",
+      "strawberry": "Strawberry",
+      "pineapple": "Pineapple"
+    },
+    "berremangra_orange": {
+      "orange": "Orange",
+      "Orange": "Orange"
+    },
+    "deepnir": {
+      "apple": "Apple",
+      "orange": "Orange",
+      "strawberry": "Strawberry"
+    },
+    "zenodo_strawberry_6126677": {
+      "ripe": "Strawberry",
+      "unripe": "Strawberry"
+    },
+    "limited_external_set": {
+      "Apple": "Apple",
+      "apple": "Apple",
+      "Banana": "Banana",
+      "banana": "Banana",
+      "Orange": "Orange",
+      "orange": "Orange",
+      "Strawberry": "Strawberry",
+      "strawberry": "Strawberry"
+    }
+  }
+}

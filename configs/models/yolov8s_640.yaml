@@ -1,0 +1,8 @@
+# Fixed first-version supervised detector contract.  This file names an
+# Ultralytics architecture; training is not started until a prepared dataset
+# and immutable Task 8 split manifest are supplied by the experiment config.
+model: yolov8s.yaml
+image_size: 640
+amp: true
+batch: 4
+names: [Apple, Banana, Orange, Strawberry, Pineapple]

@@ -1,0 +1,17 @@
+# The only editable source for Task 12 supervised-reference configurations.
+# `fruit_ssod.training.supervised_matrix` renders the five committed configs
+# below from these placeholders, preventing silent changes between budgets.
+template_id: supervised_reference_v1
+experiment_name: supervised_{label_budget}_seed{seed}
+model_config: ../models/yolov8s_640.yaml
+dataset_yaml: ${FRUIT_SSOD_DATA_ROOT}/fruit_ssod/processed/yolo/supervised_v2_{label_budget}_seed{seed}/dataset.yaml
+split_manifest: ${FRUIT_SSOD_DATA_ROOT}/fruit_ssod/manifests/splits_v2/split_manifest.json
+artifact_root: ${FRUIT_SSOD_ARTIFACT_ROOT}
+seed: "{seed}"
+label_budget_percent: "{label_budget}"
+epochs: 100
+pretrained_weights: ${FRUIT_SSOD_PRETRAINED_WEIGHTS}
+initialization_policy:
+  policy_id: ssod_student_init_v1
+  model_initialization: shared_pretrained_weights
+  comparison_group: ssod_main_seed42

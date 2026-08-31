@@ -1,0 +1,20 @@
+# Validation-only v13 natural-scene recovery.  The materializer appends
+# source-disjoint Open Images records to training while preserving v12 val/test.
+experiment_name: supervised_v13_v8m_natural_1024_finetune_seed42
+model_config: ../models/yolov8m_1024.yaml
+dataset_yaml: ${FRUIT_SSOD_DATA_ROOT}/fruit_ssod/processed/yolo/supervised_v13_open_images_train_only_seed42/dataset.yaml
+split_manifest: ${FRUIT_SSOD_DATA_ROOT}/fruit_ssod/manifests/splits_v11_full_kaggle_zenodo_seed42/split_manifest.json
+artifact_root: ${FRUIT_SSOD_ARTIFACT_ROOT}
+seed: 42
+epochs: 60
+patience: 15
+pretrained_weights: ${FRUIT_SSOD_V12N_BEST_WEIGHTS}
+initialization_policy:
+  policy_id: v13_v12n_best_natural_scene_finetune_v1
+  model_initialization: shared_pretrained_weights
+  comparison_group: v13_train_only_natural_scene_seed42
+model: yolov8m.yaml
+image_size: 1024
+amp: true
+batch: 2
+names: [Apple, Banana, Orange, Strawberry, Pineapple]
