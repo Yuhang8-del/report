@@ -1,0 +1,24 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "fruit-ssod"
+version = "0.1.0"
+description = "Semi-supervised fruit detection tools."
+requires-python = ">=3.10,<3.11"
+dependencies = [
+    "Pillow>=10.4,<12",
+    "ImageHash>=4.3,<5",
+    "PyYAML>=6,<7",
+    "pyarrow>=17,<21",
+]
+
+[tool.setuptools]
+package-dir = {"" = "src"}
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]

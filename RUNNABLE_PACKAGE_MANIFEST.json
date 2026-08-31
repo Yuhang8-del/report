@@ -1,0 +1,129 @@
+{
+  "package": "fruit_ssod_runnable_code_english_final",
+  "platform": "Windows 10/11 + Conda Python 3.10",
+  "language_policy": {
+    "code_comments_and_runtime_messages": "English",
+    "filenames": "English ASCII names only",
+    "preserved_source_attribution": "Original contributor names in dataset metadata are retained without translation"
+  },
+  "verified": {
+    "python_syntax": "245 files parsed; 0 errors",
+    "powershell_syntax": "0 parse errors",
+    "gui_contract_tests": "9 passed",
+    "self_check": "passed",
+    "gpu": "NVIDIA GeForce RTX 3080",
+    "student_sample_detections": 4,
+    "incremental_sample_detections": 3
+  },
+  "contents": {
+    "files": 464,
+    "bytes": 350566551.0
+  },
+  "core_files": [
+    {
+      "path": "01_install_environment.bat",
+      "bytes": 200,
+      "sha256": "cd3ecec46e8f8bb5ac0f946199b9a31da5d1110de31d87cc384b76ed8651efc3"
+    },
+    {
+      "path": "02_run_self_check.bat",
+      "bytes": 188,
+      "sha256": "7b3829bd4481a344a7ce2e86a4c642b1839ce0948d17e0a6ebe3da5032c30ee9"
+    },
+    {
+      "path": "03_launch_fruit_detection_gui.bat",
+      "bytes": 130,
+      "sha256": "b19993bdbb734bc7b81e60f58fdfcc5306ff45d17cb4a7874e48160ae8126c3b"
+    },
+    {
+      "path": "04_launch_open_category_demo.bat",
+      "bytes": 141,
+      "sha256": "aa1ae31adc4a72a9ffcf558734279abd3da844fcadf0cdb17d2c0d38a8d63b55"
+    },
+    {
+      "path": "README.md",
+      "bytes": 3132,
+      "sha256": "3a6f79c15e00ffe22f19b98f2ba7a9e44c1644a91995d1f8b6949a6d12767c67"
+    },
+    {
+      "path": "CODE_FILE_FUNCTIONS.md",
+      "bytes": 8632,
+      "sha256": "ce82c77367f9c18fd474be9f671b6de406a63826cddf5a7e96633b3ff2139d76"
+    },
+    {
+      "path": "CUSTOMER_DEPLOYMENT_AND_USAGE_GUIDE.md",
+      "bytes": 19615,
+      "sha256": "0b45a66450a1a7417198de5bb86ff5422f066c80e459912aa24062ecc6009f08"
+    },
+    {
+      "path": "models\\student_best.pt",
+      "bytes": 155701392,
+      "sha256": "fef2314905d48028ebbe3d94ea52af222bde7e8255d6475081606e2c309020e4"
+    },
+    {
+      "path": "models\\teacher_best.pt",
+      "bytes": 52063819,
+      "sha256": "466ffb62b60f5900629c25013fe6e42a91f0b48e3aac49337387add288beeecb"
+    },
+    {
+      "path": "models\\incremental_11class_best.pt",
+      "bytes": 52016203,
+      "sha256": "ee524c94ef0cac731d8d11dac697ee17ad90700d9138477a80b14a7bd47d249c"
+    },
+    {
+      "path": "models\\open_world_objectness.pt",
+      "bytes": 22511139,
+      "sha256": "7bb05de998d2123e38f363f33eb9ce526ed1df3f8017c3f723f8830b7140d3c3"
+    },
+    {
+      "path": "models\\open_world_encoder.pt",
+      "bytes": 46102778,
+      "sha256": "84028d097153771d7183545a0e5c191a35d16ff6f721f1c7ca56efb7a9faa1c0"
+    },
+    {
+      "path": "models\\open_world_box_clusters.npz",
+      "bytes": 14098,
+      "sha256": "a3e67326f0d0dd9fa665fd8a7b25760cc8c3195b8bec638128388fe37955d9d1"
+    },
+    {
+      "path": "models\\open_world_cluster_names.json",
+      "bytes": 108,
+      "sha256": "76bac7518c48fc2c94fae986521d9a3a4e220d9335ff19238c98d05c4c62b2fc"
+    },
+    {
+      "path": "project\\scripts\\delivery_gui.py",
+      "bytes": 911,
+      "sha256": "65a5536bad75c4355568e255fdbab82e6c6d3ad0a8cf367e5af2f6d38da0186c"
+    },
+    {
+      "path": "project\\scripts\\delivery_self_check.py",
+      "bytes": 4851,
+      "sha256": "04d6d9327fd5eb74d8a57f7eabcb39030e93726c0b59b23067ca6e45f1cf5c5a"
+    },
+    {
+      "path": "project\\scripts\\open_world_demo.py",
+      "bytes": 3317,
+      "sha256": "c630d3b0a3ae9033870262ea3e1bc8be7ca4e4b4bbfba7262d7db2a11d9f7b04"
+    },
+    {
+      "path": "project\\src\\fruit_ssod\\gui\\main_window.py",
+      "bytes": 15783,
+      "sha256": "214030c6d5778b71c47e9db220990e1607baaa1d0b13f65f03293675c62876ee"
+    },
+    {
+      "path": "project\\src\\fruit_ssod\\gui\\widgets\\camera_view.py",
+      "bytes": 21482,
+      "sha256": "dec9da183d6983bd56e9baf87bc8d8c7d97e72259ca387c4f5a65f011c6aad0e"
+    },
+    {
+      "path": "project\\src\\fruit_ssod\\gui\\workers\\camera_worker.py",
+      "bytes": 14578,
+      "sha256": "45dc878620fb6a3bee51dfcf026479ed668cc9b83f0df73f5b3286ee2842cf95"
+    },
+    {
+      "path": "outputs\\self_check.json",
+      "bytes": 1677,
+      "sha256": "272b89967954c919e4a5ff5036709870edc90e92ebe79e0a4ec1d9fe7116c291"
+    }
+  ]
+}
