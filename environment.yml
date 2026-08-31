@@ -1,0 +1,8 @@
+name: fruit-ssod
+channels:
+  - defaults
+dependencies:
+  - python=3.10
+  - pip
+  - pip:
+      - -r project/requirements-lock.txt

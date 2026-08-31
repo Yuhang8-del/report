@@ -1,18 +1,30 @@
+param([string]$EnvName = "fruit-ssod")
+
 $ErrorActionPreference = 'Stop'
 $deliveryRoot = Split-Path -Parent $MyInvocation.MyCommand.Path
 $projectRoot = Join-Path $deliveryRoot 'project'
-$python = 'E:\anaconda\envs\fruit-ssod\python.exe'
-
-if (-not (Test-Path -LiteralPath $python)) {
-    throw "未找到 fruit-ssod Conda 环境：$python"
-}
-
+$env:PYTHONNOUSERSITE = '1'
 $env:PYTHONPATH = Join-Path $projectRoot 'src'
+$env:FRUIT_SSOD_DATA_ROOT = Join-Path $deliveryRoot 'data'
+$env:FRUIT_SSOD_ARTIFACT_ROOT = Join-Path $deliveryRoot 'artifacts\v17'
+
+$command = Get-Command conda -ErrorAction SilentlyContinue
+$candidates = @(
+    $(if ($command) { $command.Source }),
+    "E:\anaconda\Scripts\conda.exe",
+    "$env:USERPROFILE\anaconda3\Scripts\conda.exe",
+    "$env:USERPROFILE\miniconda3\Scripts\conda.exe"
+) | Where-Object { $_ -and (Test-Path -LiteralPath $_) }
+if (-not $candidates) {
+    throw "Conda was not found. Run setup_environment.ps1 first."
+}
+$conda = [string]($candidates | Select-Object -First 1)
+
 Push-Location $projectRoot
 try {
-    & $python (Join-Path $projectRoot 'scripts\open_world_demo.py')
+    & $conda run --no-capture-output -n $EnvName python (Join-Path $projectRoot 'scripts\open_world_demo.py')
     if ($LASTEXITCODE -ne 0) {
-        throw "开放世界 GUI 启动失败，退出码：$LASTEXITCODE"
+        throw "The open-world GUI failed to start. Exit code: $LASTEXITCODE"
     }
 } finally {
     Pop-Location
