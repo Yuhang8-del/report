@@ -1,0 +1,168 @@
+{
+  "filter_policy": {
+    "aspect_ratio_bounds": {
+      "path": "E:\\fruit_ssod_runtime\\artifacts_v15\\calibration\\supervised_v2_teacher_seed42\\fixed_aspect_ratio_bounds.json",
+      "sha256": "cd05516123acbe14e42c87be95405045810d960dd8de5321167174f862a2481d"
+    },
+    "filter_config": {
+      "cross_view_iou": 0.6,
+      "global_confidence": 0.5,
+      "max_area_fraction": 0.9,
+      "max_aspect_ratio": 10.0,
+      "max_boxes_per_image": 20,
+      "min_aspect_ratio": 0.1,
+      "min_pixels_at_640": 16.0,
+      "nms_iou": 0.6
+    },
+    "policy_id": "trust_filter_v1",
+    "require_size_filter": true,
+    "require_view_consistency": true,
+    "resolved_thresholds": {
+      "maximum": 0.85,
+      "minimum": 0.5,
+      "target_precision": 0.7,
+      "thresholds": {
+        "0": 0.5489850044250488,
+        "1": 0.85,
+        "2": 0.85,
+        "3": 0.5,
+        "4": 0.5
+      }
+    },
+    "threshold_calibration": {
+      "maximum": 0.85,
+      "minimum": 0.5,
+      "target_precision": 0.7,
+      "validation_pr": {
+        "path": "E:\\fruit_ssod_runtime\\artifacts_v15\\calibration\\supervised_v2_teacher_seed42\\fixed_validation_pr.json",
+        "sha256": "be2b65f7f2b513dea8261dc8de38a7e227f2931f00c184585f3b71cdb45d69c9"
+      }
+    },
+    "use_per_class_thresholds": true
+  },
+  "filter_policy_sha256": "893e9c34d464e53ba94f8d6313afa1060453a362455dcaad3bc5859855a27ae2",
+  "iou_threshold": 0.5,
+  "metrics": {
+    "after_filter": {
+      "overall": {
+        "f1": 0.32195121951219513,
+        "fn": 137,
+        "fp": 2,
+        "precision": 0.9428571428571428,
+        "recall": 0.19411764705882353,
+        "tp": 33
+      },
+      "per_class": {
+        "0": {
+          "f1": 0.45714285714285713,
+          "fn": 19,
+          "fp": 0,
+          "precision": 1.0,
+          "recall": 0.2962962962962963,
+          "tp": 8
+        },
+        "1": {
+          "f1": 0.3571428571428571,
+          "fn": 18,
+          "fp": 0,
+          "precision": 1.0,
+          "recall": 0.21739130434782608,
+          "tp": 5
+        },
+        "2": {
+          "f1": 0.04166666666666667,
+          "fn": 46,
+          "fp": 0,
+          "precision": 1.0,
+          "recall": 0.02127659574468085,
+          "tp": 1
+        },
+        "3": {
+          "f1": 0.32727272727272727,
+          "fn": 36,
+          "fp": 1,
+          "precision": 0.9,
+          "recall": 0.2,
+          "tp": 9
+        },
+        "4": {
+          "f1": 0.5128205128205129,
+          "fn": 18,
+          "fp": 1,
+          "precision": 0.9090909090909091,
+          "recall": 0.35714285714285715,
+          "tp": 10
+        }
+      }
+    },
+    "before_filter": {
+      "overall": {
+        "f1": 0.4726027397260274,
+        "fn": 32,
+        "fp": 276,
+        "precision": 0.3333333333333333,
+        "recall": 0.8117647058823529,
+        "tp": 138
+      },
+      "per_class": {
+        "0": {
+          "f1": 0.4158415841584159,
+          "fn": 6,
+          "fp": 53,
+          "precision": 0.28378378378378377,
+          "recall": 0.7777777777777778,
+          "tp": 21
+        },
+        "1": {
+          "f1": 0.3478260869565218,
+          "fn": 3,
+          "fp": 72,
+          "precision": 0.21739130434782608,
+          "recall": 0.8695652173913043,
+          "tp": 20
+        },
+        "2": {
+          "f1": 0.5822784810126581,
+          "fn": 1,
+          "fp": 65,
+          "precision": 0.4144144144144144,
+          "recall": 0.9787234042553191,
+          "tp": 46
+        },
+        "3": {
+          "f1": 0.5499999999999999,
+          "fn": 12,
+          "fp": 42,
+          "precision": 0.44,
+          "recall": 0.7333333333333333,
+          "tp": 33
+        },
+        "4": {
+          "f1": 0.4,
+          "fn": 10,
+          "fp": 44,
+          "precision": 0.2903225806451613,
+          "recall": 0.6428571428571429,
+          "tp": 18
+        }
+      }
+    }
+  },
+  "minimum_precision": 0.9,
+  "provenance": {
+    "after_accepted_prediction_count": 35,
+    "before_original_prediction_count": 414,
+    "candidate_artifact_sha256": "6aa356ec30783bde52afd1e840d840259f9cf2237c19ffdf7165684f754c6e38",
+    "candidate_count": 840,
+    "filter_audit_sha256": "f209b01fff52268d167b7a77d122af19dee0751c6c957f0d7638d0e81746bfc2",
+    "filter_decision_manifest_sha256": "8a98d3ce106832b6e2bb5317ef1c89d404661e11cb91a2e5a0118c9687174278",
+    "pseudo_audit_labels_sha256": "e7a8993a8b259f085d6fafc665388601919ea9afa77aab51c2d00fb84c9c4e8c",
+    "pseudo_audit_split_fingerprint": "d472185ad5d8869f72c3c7e081a975562306eb68f8c9f3c1b7268bdcabc022ca"
+  },
+  "pseudo_refresh": {
+    "allowed": true,
+    "reason": "precision_at_or_above_threshold"
+  },
+  "schema_version": "1.0",
+  "teacher_run_id": "supervised-v3-domain-balanced-yolov8m-1024-seed42-r3"
+}

@@ -1,0 +1,56 @@
+{
+  "artifact_id": "train-pool-ar-p01-p99-be5728f60515496d",
+  "artifact_type": "sealed_aspect_ratio_bounds",
+  "artifact_version": "1.0",
+  "bounds": {
+    "0": [
+      0.310431628091664,
+      1.991863275575039
+    ],
+    "1": [
+      0.18694296794364873,
+      3.194620917256636
+    ],
+    "2": [
+      0.4248609378063732,
+      3.2145379257831803
+    ],
+    "3": [
+      0.5920827454453582,
+      2.7241532250665017
+    ],
+    "4": [
+      0.31488429277730473,
+      2.6701433118733453
+    ]
+  },
+  "class_registry_version": "1.0.1",
+  "classes": [
+    {
+      "id": 0,
+      "name": "Apple"
+    },
+    {
+      "id": 1,
+      "name": "Banana"
+    },
+    {
+      "id": 2,
+      "name": "Orange"
+    },
+    {
+      "id": 3,
+      "name": "Strawberry"
+    },
+    {
+      "id": 4,
+      "name": "Pineapple"
+    }
+  ],
+  "provenance": {
+    "contains_human_labels": false,
+    "sealed": true,
+    "source_kind": "approved_aggregate_statistics",
+    "source_split": "train_pool"
+  }
+}

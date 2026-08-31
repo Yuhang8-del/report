@@ -1,0 +1,47 @@
+{
+  "artifact_type": "student_fixed_test_evaluation",
+  "checkpoint": {
+    "bytes": 155701392,
+    "path": "E:\\fruit_ssod_runtime\\artifacts_v17\\runs\\ssod-v3-teacher-r3-student-seed42\\weights\\best.pt",
+    "relative_path": "weights/best.pt",
+    "sha256": "fef2314905d48028ebbe3d94ea52af222bde7e8255d6475081606e2c309020e4"
+  },
+  "dataset_yaml": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\processed\\yolo\\supervised_v2_100_seed42\\dataset.yaml",
+  "dataset_yaml_sha256": "2b92ab67785e1247b92ca254e0fb8c9380dfbac3e38257e8a3dc6fee5b3892be",
+  "exploratory": true,
+  "membership": {
+    "split_fingerprint": "0653d942deab2f42d96066a2ad402c3c53618ddd5a4a03989e0f7880a9b173d9",
+    "test_image_count": 90,
+    "test_list_sha256": "05098552f20d691f108773aa0e175f87fb4057066f2391aac26d45302dbdc181"
+  },
+  "metrics": {
+    "f1": 0.541678648665367,
+    "map50": 0.5322762373618877,
+    "map50_95": 0.3748697875183038,
+    "per_class_ap50": {
+      "0": 0.5447466358648928,
+      "1": 0.5156747863807696,
+      "2": 0.5709312367201418,
+      "3": 0.29017624382845697,
+      "4": 0.7398522840151776
+    },
+    "precision": 0.563110020902776,
+    "recall": 0.5218187775102372
+  },
+  "raw_evaluator_outputs": {
+    "confusion_matrix": {
+      "bytes": 151548,
+      "path": "E:\\fruit_ssod_runtime\\artifacts_v17\\runs\\ssod-v3-teacher-r3-student-seed42\\evaluations\\raw\\test\\confusion_matrix.png",
+      "relative_path": "evaluations/raw/test/confusion_matrix.png",
+      "sha256": "bae6094c0731e0248d1b3f7f8946497421b8716e6fcb6e58d16b7511bc10ecad",
+      "source_filename": "confusion_matrix.png",
+      "split": "test"
+    }
+  },
+  "run_id": "ssod-v3-teacher-r3-student-seed42",
+  "schema_version": "1.0",
+  "split": "test",
+  "split_fingerprint": "0653d942deab2f42d96066a2ad402c3c53618ddd5a4a03989e0f7880a9b173d9",
+  "split_manifest": "E:\\fruit_ssod_runtime\\data\\fruit_ssod\\processed\\ssod_unlabeled_pool_fruits360_v2_openimages_v13b\\split_manifest.json",
+  "split_manifest_sha256": "eb640aa9657cc5bcb121754a80c377a2c4d5e05b73076096217aaf273bc713df"
+}
