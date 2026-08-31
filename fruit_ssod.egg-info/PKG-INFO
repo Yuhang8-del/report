@@ -1,0 +1,5 @@
+Metadata-Version: 2.4
+Name: fruit-ssod
+Version: 0.1.0
+Summary: Semi-supervised fruit detection tools.
+Requires-Python: <3.11,>=3.10
