@@ -1,0 +1,16 @@
+# v5 20% label-budget reference.  It shares the exact v5 held-out protocol
+# with the 100% upper reference and will be used only after the upper bound is
+# measured and judged adequate for semi-supervised continuation.
+experiment_name: supervised_v5_strawberry_ds_20_seed42
+model_config: ../models/yolov8s_640.yaml
+dataset_yaml: ${FRUIT_SSOD_DATA_ROOT}/fruit_ssod/processed/yolo/supervised_v5_20_seed42/dataset.yaml
+split_manifest: ${FRUIT_SSOD_DATA_ROOT}/fruit_ssod/manifests/splits_v5_strawberry_ds_seed42/split_manifest.json
+artifact_root: ${FRUIT_SSOD_ARTIFACT_ROOT}
+seed: 42
+label_budget_percent: 20
+epochs: 100
+pretrained_weights: ${FRUIT_SSOD_PRETRAINED_WEIGHTS}
+initialization_policy:
+  policy_id: strawberry_ds_expanded_source_student_init_v1
+  model_initialization: shared_pretrained_weights
+  comparison_group: strawberry_ds_expanded_source_v5_seed42

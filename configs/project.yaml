@@ -1,0 +1,16 @@
+# Machine-specific locations are deliberately supplied through the environment.
+data_root: '${FRUIT_SSOD_DATA_ROOT}'
+artifact_root: '${FRUIT_SSOD_ARTIFACT_ROOT}'
+
+classes:
+  - {id: 0, name: Apple}
+  - {id: 1, name: Banana}
+  - {id: 2, name: Orange}
+  - {id: 3, name: Strawberry}
+  - {id: 4, name: Pineapple}
+
+image_size: 640
+device: 'cuda:0'
+workers: 4
+seed: 42
+experiment_name: fruit-ssod

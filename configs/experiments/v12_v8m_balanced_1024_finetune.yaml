@@ -1,0 +1,20 @@
+# Stage-1 v12 validation-only recovery. FRUIT_SSOD_PRETRAINED_WEIGHTS must
+# resolve to the retained v11 best.pt; the fixed test is not inspected here.
+experiment_name: supervised_v12_v8m_balanced_1024_finetune_seed42
+model_config: ../models/yolov8m_1024.yaml
+dataset_yaml: ${FRUIT_SSOD_DATA_ROOT}/fruit_ssod/processed/yolo/supervised_v12n_full_label_balanced_seed42/dataset.yaml
+split_manifest: ${FRUIT_SSOD_DATA_ROOT}/fruit_ssod/manifests/splits_v11_full_kaggle_zenodo_seed42/split_manifest.json
+artifact_root: ${FRUIT_SSOD_ARTIFACT_ROOT}
+seed: 42
+epochs: 40
+patience: 10
+pretrained_weights: ${FRUIT_SSOD_PRETRAINED_WEIGHTS}
+initialization_policy:
+  policy_id: v12_v11_best_high_resolution_finetune_v1
+  model_initialization: shared_pretrained_weights
+  comparison_group: full_label_balanced_v12_seed42
+model: yolov8m.yaml
+image_size: 1024
+amp: true
+batch: 2
+names: [Apple, Banana, Orange, Strawberry, Pineapple]

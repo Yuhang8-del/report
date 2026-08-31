@@ -1,0 +1,15 @@
+data_root: 'D:\fruit_ssod_complete_project1\data'
+artifact_root: 'D:\fruit_ssod_complete_project1\artifacts\v17'
+
+classes:
+  - {id: 0, name: Apple}
+  - {id: 1, name: Banana}
+  - {id: 2, name: Orange}
+  - {id: 3, name: Strawberry}
+  - {id: 4, name: Pineapple}
+
+image_size: 640
+device: 'cuda:0'
+workers: 4
+seed: 42
+experiment_name: fruit-ssod-d-drive-delivery

@@ -1,0 +1,20 @@
+# Exploratory Teacher continuation for the current splits_v2 protocol.
+# The run is isolated from the earlier v15 artifacts and never trains on the
+# protected validation, pseudo-audit, or fixed-test labels.
+experiment_name: supervised_v2_full_yolov8m_1024_teacher_seed42_r2
+model_config: ../models/yolov8m_1024.yaml
+dataset_yaml: ${FRUIT_SSOD_DATA_ROOT}/fruit_ssod/processed/yolo/supervised_v2_100_seed42/dataset.yaml
+split_manifest: ${FRUIT_SSOD_DATA_ROOT}/fruit_ssod/manifests/splits_v2/split_manifest.json
+artifact_root: ${FRUIT_SSOD_ARTIFACT_ROOT}
+seed: 42
+epochs: 100
+patience: 20
+image_size: 1024
+amp: true
+batch: 2
+device: cuda:0
+pretrained_weights: E:/fruit_ssod_runtime/artifacts_v15/runs/supervised-v2-full-yolov8m-1024-teacher-seed42/weights/best.pt
+initialization_policy:
+  policy_id: exploratory_v2_full_teacher_yolov8m_continuation_v1
+  model_initialization: shared_pretrained_weights
+  comparison_group: exploratory_v2_full_teacher_seed42_r2

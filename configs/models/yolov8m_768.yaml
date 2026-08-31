@@ -1,0 +1,8 @@
+# Higher-capacity, RTX 3080-compatible supervised recovery model.  The batch
+# size is deliberately conservative for 10 GB VRAM at 768 pixels; AMP is
+# required for the documented training profile.
+model: yolov8m.yaml
+image_size: 768
+amp: true
+batch: 2
+names: [Apple, Banana, Orange, Strawberry, Pineapple]

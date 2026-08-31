@@ -1,0 +1,53 @@
+# Student SSOD baseline: one global confidence threshold prepared by Task 14.
+experiment_name: ssod_global_seed42
+model_config: ../models/yolov8s_640.yaml
+pretrained_weights: ${FRUIT_SSOD_PRETRAINED_WEIGHTS}
+artifact_root: ${FRUIT_SSOD_ARTIFACT_ROOT}
+source_root: ${FRUIT_SSOD_DATA_ROOT}/fruit_ssod/processed/ssod_unlabeled_pool_fruits360_v2/image_root_materialized_v2
+split_manifest: ${FRUIT_SSOD_DATA_ROOT}/fruit_ssod/manifests/ssod_unlabeled_pool_fruits360_v2/split_manifest.json
+human_images: ${FRUIT_SSOD_DATA_ROOT}/fruit_ssod/manifests/splits_v2/budgets/20/images.json
+human_labels: ${FRUIT_SSOD_DATA_ROOT}/fruit_ssod/manifests/splits_v2/budgets/20/labels.json
+validation_labels: ${FRUIT_SSOD_DATA_ROOT}/fruit_ssod/manifests/splits_v2/protected_splits/validation_labels.json
+unlabeled_manifest: ${FRUIT_SSOD_DATA_ROOT}/fruit_ssod/manifests/ssod_unlabeled_pool_fruits360_v2/unlabeled.json
+candidates: ${FRUIT_SSOD_ARTIFACT_ROOT}/pseudo/ssod_trust_seed42/candidates.json
+filter_audit: ${FRUIT_SSOD_ARTIFACT_ROOT}/pseudo/ssod_global_seed42/filter/audit.jsonl
+filter_decision_manifest: ${FRUIT_SSOD_ARTIFACT_ROOT}/pseudo/ssod_global_seed42/filter/decision_manifest.json
+pseudo_audit_report: ${FRUIT_SSOD_ARTIFACT_ROOT}/pseudo/ssod_global_seed42/audit_report/pseudo_audit.json
+seed: 42
+label_budget_percent: 20
+human_sample_probability: 0.5
+initialization_policy:
+  policy_id: ssod_student_init_v1
+  model_initialization: shared_pretrained_weights
+  comparison_group: ssod_main_seed42
+  teacher_experiment_config: supervised_20_seed42.yaml
+  teacher_run_id: supervised_20_seed42
+epochs: 100
+image_size: 640
+amp: true
+batch: 4
+sampling_strategy: balanced_50_50
+evaluation_protocol:
+  protocol_id: fixed_primary_test_v1
+  split: test
+  dataset_role: primary_fixed_test
+filter_calibration: &common_filter_calibration
+  global_confidence: 0.50
+  cross_view_iou: 0.60
+  min_pixels_at_640: 16.0
+  max_area_fraction: 0.90
+  min_aspect_ratio: 0.10
+  max_aspect_ratio: 10.0
+  max_boxes_per_image: 20
+  nms_iou: 0.60
+  target_precision: 0.90
+  threshold_minimum: 0.50
+  threshold_maximum: 0.85
+  validation_pr: ${FRUIT_SSOD_ARTIFACT_ROOT}/calibration/fixed_validation_pr.json
+  aspect_ratio_bounds: ${FRUIT_SSOD_ARTIFACT_ROOT}/calibration/fixed_aspect_ratio_bounds.json
+pseudo_filter:
+  policy_id: global_threshold_v1
+  use_per_class_thresholds: false
+  require_view_consistency: false
+  require_size_filter: false
+matrix_role: global_baseline

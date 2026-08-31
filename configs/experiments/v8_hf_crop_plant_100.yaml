@@ -1,0 +1,15 @@
+# v8 upper reference: five prior audited sources plus the reviewed Hugging Face
+# crop/plant source. Its original partitions are discarded for a fresh project split.
+experiment_name: supervised_v8_hf_crop_plant_100_seed42
+model_config: ../models/yolov8s_640.yaml
+dataset_yaml: ${FRUIT_SSOD_DATA_ROOT}/fruit_ssod/processed/yolo/supervised_v8_hf_crop_plant_100_seed42/dataset.yaml
+split_manifest: ${FRUIT_SSOD_DATA_ROOT}/fruit_ssod/manifests/splits_v8_hf_crop_plant_seed42/split_manifest.json
+artifact_root: ${FRUIT_SSOD_ARTIFACT_ROOT}
+seed: 42
+label_budget_percent: 100
+epochs: 100
+pretrained_weights: ${FRUIT_SSOD_PRETRAINED_WEIGHTS}
+initialization_policy:
+  policy_id: hf_crop_plant_expanded_source_student_init_v1
+  model_initialization: shared_pretrained_weights
+  comparison_group: hf_crop_plant_expanded_source_v8_seed42

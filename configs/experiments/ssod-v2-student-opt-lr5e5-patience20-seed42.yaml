@@ -1,0 +1,69 @@
+# Non-overwriting Student optimization after the first exploratory delivery.
+# It keeps the same v12 Teacher and sealed pseudo-label snapshot so the result
+# remains comparable to the delivered Student rather than changing data and
+# training simultaneously.
+experiment_name: ssod_v2_student_opt_lr5e5_patience20_seed42
+model_config: ../models/yolov8m_1024.yaml
+pretrained_weights: E:/fruit_ssod_runtime/artifacts_v12/runs/run-v12n-v8m-balanced-1024-ft40-seed42/weights/best.pt
+artifact_root: E:/fruit_ssod_runtime/artifacts_v17
+source_root: E:/fruit_ssod_runtime/data/fruit_ssod/processed/ssod_combined_image_root_v2
+split_manifest: E:/fruit_ssod_runtime/data/fruit_ssod/processed/ssod_unlabeled_pool_fruits360_v2_openimages_v13b/split_manifest.json
+human_images: E:/fruit_ssod_runtime/data/fruit_ssod/manifests/splits_v2/budgets/20/images.json
+human_labels: E:/fruit_ssod_runtime/data/fruit_ssod/manifests/splits_v2/budgets/20/labels.json
+validation_labels: E:/fruit_ssod_runtime/data/fruit_ssod/manifests/splits_v2/protected_splits/validation_labels.json
+unlabeled_manifest: E:/fruit_ssod_runtime/data/fruit_ssod/processed/ssod_unlabeled_pool_fruits360_v2_openimages_v13b/unlabeled.json
+candidates: E:/fruit_ssod_runtime/artifacts_v17/pseudo/aggressive_best_run-v12n-v8m-balanced-1024-ft40-seed42/candidates.json
+filter_audit: E:/fruit_ssod_runtime/artifacts_v17/pseudo/aggressive_best_run-v12n-v8m-balanced-1024-ft40-seed42/filter/audit.jsonl
+filter_decision_manifest: E:/fruit_ssod_runtime/artifacts_v17/pseudo/aggressive_best_run-v12n-v8m-balanced-1024-ft40-seed42/filter/decision_manifest.json
+pseudo_audit_report: E:/fruit_ssod_runtime/artifacts_v17/pseudo/aggressive_best_run-v12n-v8m-balanced-1024-ft40-seed42/audit_report/pseudo_audit.json
+seed: 42
+label_budget_percent: 20
+human_sample_probability: 0.5
+sampling_strategy: balanced_50_50
+allow_below_precision_gate: true
+initialization_policy:
+  policy_id: aggressive_teacher_checkpoint_init_v1
+  model_initialization: teacher_checkpoint
+  comparison_group: aggressive_teacher_run-v12n-v8m-balanced-1024-ft40-seed42_student_opt_lr5e5
+  teacher_experiment_config: E:/bishe/fruit/.worktrees/fruit-ssod-implementation/configs/experiments/teacher_compat_v12.yaml
+  teacher_run_id: run-v12n-v8m-balanced-1024-ft40-seed42
+  teacher_checkpoint: E:/fruit_ssod_runtime/artifacts_v12/runs/run-v12n-v8m-balanced-1024-ft40-seed42/weights/best.pt
+  teacher_run_record: E:/fruit_ssod_runtime/artifacts_v12/runs/run-v12n-v8m-balanced-1024-ft40-seed42/run_record.json
+epochs: 80
+patience: 20
+learning_rate: 0.00005
+optimizer: AdamW
+cos_lr: true
+close_mosaic: 20
+mosaic: 1.0
+mixup: 0.05
+freeze: 0
+save_period: 1
+image_size: 768
+amp: false
+batch: 4
+workers: 0
+device: cuda:0
+filter_calibration:
+  global_confidence: 0.50
+  cross_view_iou: 0.60
+  min_pixels_at_640: 16.0
+  max_area_fraction: 0.90
+  min_aspect_ratio: 0.10
+  max_aspect_ratio: 10.0
+  max_boxes_per_image: 20
+  nms_iou: 0.60
+  target_precision: 0.70
+  threshold_minimum: 0.50
+  threshold_maximum: 0.85
+  validation_pr: E:/fruit_ssod_runtime/artifacts_v15/calibration/supervised_v2_teacher_seed42/fixed_validation_pr.json
+  aspect_ratio_bounds: E:/fruit_ssod_runtime/artifacts_v15/calibration/supervised_v2_teacher_seed42/fixed_aspect_ratio_bounds.json
+pseudo_filter:
+  policy_id: trust_filter_v1
+  use_per_class_thresholds: true
+  require_view_consistency: true
+  require_size_filter: true
+evaluation_protocol:
+  protocol_id: first_result_validation_then_fixed_test
+  split: test
+  dataset_role: primary_fixed_test

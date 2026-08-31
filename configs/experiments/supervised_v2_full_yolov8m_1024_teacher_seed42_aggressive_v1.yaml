@@ -1,0 +1,29 @@
+# Aggressive Teacher quality optimization selected from the GitHub review.
+# It stays inside the existing Ultralytics executor: longer schedule,
+# AdamW, cosine decay, late mosaic shutdown, and moderate MixUp. The fixed
+# test is never read during this run; it is evaluated only after completion.
+experiment_name: supervised_v2_full_yolov8m_1024_teacher_seed42_aggressive_v1
+model_config: ../models/yolov8m_1024.yaml
+dataset_yaml: E:/fruit_ssod_runtime/data/fruit_ssod/processed/yolo/supervised_v2_expanded_teacher_seed42/dataset.yaml
+split_manifest: E:/fruit_ssod_runtime/data/fruit_ssod/manifests/splits_v2/split_manifest.json
+artifact_root: E:/fruit_ssod_runtime/artifacts_v17
+seed: 42
+epochs: 150
+patience: 30
+image_size: 1024
+amp: true
+batch: 2
+workers: 0
+device: cuda:0
+learning_rate: 0.0005
+optimizer: AdamW
+cos_lr: true
+close_mosaic: 15
+mosaic: 1.0
+mixup: 0.10
+pretrained_weights: E:/fruit_ssod_runtime/artifacts_v12/runs/run-v12n-v8m-balanced-1024-ft40-seed42/weights/best.pt
+initialization_policy:
+  policy_id: exploratory_aggressive_teacher_v1
+  model_initialization: shared_pretrained_weights
+  comparison_group: exploratory_aggressive_teacher_seed42
+dataset_extension_manifest: E:/fruit_ssod_runtime/data/fruit_ssod/processed/yolo/supervised_v2_expanded_teacher_seed42/expansion_manifest.json

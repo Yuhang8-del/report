@@ -1,0 +1,28 @@
+# v3 Teacher optimization: keep the expanded, deduplicated pool, but repeat
+# the v2 fixed-domain training members four additional times.  Validation and
+# test are the protected v2 lists copied into the generated dataset view.
+experiment_name: supervised_v3_domain_balanced_yolov8m_1024_seed42
+model_config: ../models/yolov8m_1024.yaml
+dataset_yaml: E:/fruit_ssod_runtime/data/fruit_ssod/processed/yolo/supervised_v3_domain_balanced_teacher_seed42/dataset.yaml
+split_manifest: E:/fruit_ssod_runtime/data/fruit_ssod/manifests/splits_v2/split_manifest.json
+artifact_root: E:/fruit_ssod_runtime/artifacts_v17
+seed: 42
+epochs: 120
+patience: 30
+image_size: 1024
+amp: false
+batch: 2
+workers: 0
+device: cuda:0
+learning_rate: 0.0001
+optimizer: AdamW
+cos_lr: true
+close_mosaic: 20
+mosaic: 0.65
+mixup: 0.05
+save_period: 1
+pretrained_weights: E:/fruit_ssod_runtime/artifacts_v12/runs/run-v12n-v8m-balanced-1024-ft40-seed42/weights/best.pt
+initialization_policy:
+  policy_id: v3_domain_balanced_teacher_from_v12n_v1
+  model_initialization: shared_pretrained_weights
+  comparison_group: optimized_teacher_v3_domain_balanced_seed42

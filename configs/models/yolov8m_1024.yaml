@@ -1,0 +1,6 @@
+# RTX 3080 recovery profile for validation-only v12 screening.
+model: yolov8m.yaml
+image_size: 1024
+amp: true
+batch: 2
+names: [Apple, Banana, Orange, Strawberry, Pineapple]

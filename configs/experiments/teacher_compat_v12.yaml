@@ -1,0 +1,20 @@
+# Compatibility reconstruction for the completed v12 Teacher checkpoint.
+# The original run predates the current source-config field; all paths and
+# the experiment identity are taken from its immutable run_record.json.
+experiment_name: supervised_v12_v8m_balanced_1024_finetune_seed42
+model_config: ../models/yolov8m_1024.yaml
+dataset_yaml: E:/fruit_ssod_runtime/data/fruit_ssod/processed/yolo/supervised_v12n_full_label_balanced_seed42/dataset.yaml
+split_manifest: E:/fruit_ssod_runtime/data/fruit_ssod/manifests/splits_v11_full_kaggle_zenodo_seed42/split_manifest.json
+artifact_root: E:/fruit_ssod_runtime/artifacts_v12
+seed: 42
+image_size: 1024
+amp: true
+batch: 2
+epochs: 40
+patience: 10
+workers: 0
+device: cuda:0
+initialization_policy:
+  policy_id: v12_v11_best_high_resolution_finetune_v1
+  model_initialization: shared_pretrained_weights
+  comparison_group: full_label_balanced_v12_seed42
