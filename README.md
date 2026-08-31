@@ -1,97 +1,76 @@
-# Fruit SSOD
+# Semi-Supervised Fruit Detection - Runnable Customer Package
 
-Windows-native research and demonstration prototype for five-class
-semi-supervised fruit detection: Apple, Banana, Orange, Strawberry, and
-Pineapple. The delivered desktop interface is file based: single images,
-folders, and video files. It contains no camera control. The first
-customer-authorized open-world experiment is complete as a separate offline
-artifact, producing reviewable Unknown clusters for Avocado, Blueberry,
-Cherry, Kiwi, Mango and Rockmelon without mutating the five-class runtime
-registry. The GUI does not silently expose those clusters as semantic runtime
-classes.
+This Windows delivery contains the runnable source code, trained checkpoints,
+sample photographs, camera integration, experiment evidence and environment
+launchers. Large historical training archives and intermediate checkpoints are
+not required for normal inference and are not duplicated here.
 
-## Current scope and evidence boundary
+See `CODE_FILE_FUNCTIONS.md` for a file-by-file code overview and
+`CUSTOMER_DEPLOYMENT_AND_USAGE_GUIDE.md` for the detailed deployment procedure.
+Metric evidence is stored under `evidence/` and described in
+`evidence/README_EVIDENCE.md`.
 
-The repository provides data preparation, leakage-safe split, supervised/SSOD
-matrix, result aggregation, RTX 3080 benchmark, and PySide6 demonstrator code.
-A customer-authorized real-data v0 chain (Teacher → pseudo-label audit →
-Student → fixed test → offline GUI export) is complete and documented in
-`docs/experiments/v0-first-result-summary.md`. The formal multi-seed matrix,
-final report release has not yet been completed, and an accuracy target of 0.80
-is still pending; consult
-the immutable run records before making any metric claim. The formal
-multi-seed matrix remains a separate pending evidence track.
+## Included capabilities
 
-## Delivery status
+- Five-class semi-supervised Student detector: Apple, Banana, Orange,
+  Strawberry and Pineapple.
+- Eleven-class extended detector: the five known fruits plus Avocado,
+  Blueberry, Cherry, Kiwi, Mango and Rockmelon.
+- Single-image, batch-image and video inference.
+- Real-time USB or external-camera inference.
+- Experimental open-category analysis interface.
+- Automated checks for Python, PyTorch, CUDA, checkpoints, class registries and
+  sample inference.
 
-The customer-facing GUI is Chinese, file based (single image, batch folder and
-video file; no camera control), and contains an experiment overview page. The
-final evidence-bound report follows the supplied Word/PPT requirements and is
-available as Word/PDF at:
+## First run
 
-- `E:/fruit_ssod_runtime/artifacts_v17/exports/final_report_v2_r2/final_report.docx`
-- `E:/fruit_ssod_runtime/artifacts_v17/exports/final_report_v2_r2/final_report.pdf`
-- `E:/fruit_ssod_runtime/artifacts_v17/exports/final_report_v2_r2/requirements_alignment.md`
+Requirements: Windows 10/11, Anaconda or Miniconda, and Python 3.10. An NVIDIA
+GPU is recommended. CPU inference is possible for some static images but is
+considerably slower.
 
-The report uses sealed fixed-test evidence and explicitly keeps image-level
-novel-category discovery separate from the five-class runtime detector. It does
-not claim that the historical 0.80 target has been met.
+1. Extract the complete ZIP file. Do not copy only a single Python file or
+   checkpoint.
+2. Run `01_install_environment.bat` once.
+3. Run `02_run_self_check.bat`. A successful installation reports
+   `"status": "passed"`.
+4. Run `03_launch_fruit_detection_gui.bat` to open the English desktop GUI.
+5. Run `04_launch_open_category_demo.bat` when the experimental open-category
+   workflow is required.
 
-## Quick start on Windows
-
-Use a named Conda environment (default: `fruit-ssod`). The active Conda
-environment may be overridden per invocation with `-CondaEnvironment`, or by
-setting `FRUIT_SSOD_CONDA_ENV`. Copy `.env.example` only as a local reminder;
-PowerShell does not load it automatically.
+Equivalent PowerShell commands are:
 
 ```powershell
-conda create -n fruit-ssod python=3.10
-conda run -n fruit-ssod python -m pip install --index-url https://download.pytorch.org/whl/cu121 torch==2.5.1+cu121 torchvision==0.20.1+cu121
-conda run -n fruit-ssod python -m pip install -r requirements.txt
-conda env config vars set -n fruit-ssod PYTHONNOUSERSITE=1
-
-$env:FRUIT_SSOD_DATA_ROOT = '\\10.16.57.94\dataset2\lyg\detect_datasets'
-$env:FRUIT_SSOD_ARTIFACT_ROOT = 'D:\fruit-ssod-artifacts'
-New-Item -ItemType Directory -Force $env:FRUIT_SSOD_ARTIFACT_ROOT
+powershell -ExecutionPolicy Bypass -File .\setup_environment.ps1
+powershell -ExecutionPolicy Bypass -File .\self_check.ps1
+powershell -ExecutionPolicy Bypass -File .\run_gui.ps1
 ```
 
-The CUDA-enabled PyTorch command must run before `requirements.txt`; select a
-compatible wheel for the installed NVIDIA driver if the documented CUDA 12.1
-build is not appropriate. Then run a no-GUI diagnostic:
+## Camera workflow
 
-```powershell
-.\scripts\start_gui.ps1 -PreflightOnly
-```
+Open the `Live Camera` page, click `Refresh Devices`, select a camera and model,
+and click `Start Detection`. The page can switch between the five-class Student
+and eleven-class extended detector and displays multiple boxes, class names,
+confidence, FPS and inference latency.
 
-Start the desktop program only after preflight passes:
+## Key locations
 
-```powershell
-.\scripts\start_gui.ps1
-```
+- `project/src/fruit_ssod/`: core Python package.
+- `project/scripts/delivery_gui.py`: main GUI entry point.
+- `models/student_best.pt`: five-class semi-supervised Student checkpoint.
+- `models/incremental_11class_best.pt`: eleven-class extended checkpoint.
+- `models/open_world_*`: open-category experiment resources.
+- `samples/images/`: demonstration and self-check photographs.
+- `outputs/`: self-check and inference outputs.
 
-For data preparation, smoke validation, controlled training, result locations,
-and limitations, read the [Chinese customer user guide](docs/user-guide-chinese-reference.md)
-or the [English reproduction guide](docs/user-guide.md). For common Windows,
-CUDA, network-share, checkpoint, video, and configuration failures, read
-[troubleshooting](docs/troubleshooting.md).
+## Scope boundary
 
-The v0 and subsequent exploratory reproduction paths are recorded in
-`docs/handoff/reproduction.md`; the current customer-directed track records
-the best available fixed-test result and labels it exploratory. The historical
-formal gates remain documented only for a separate formal-claim matrix.
+The five-class and eleven-class checkpoints are box-level object detectors. The
+open-category workflow is an experimental aid for analysing additional fruit
+categories and requires human review. It must not be treated as an unattended
+grading, inventory or safety-critical decision system.
 
-## Final QA and report release
+## Verified environment
 
-The final English report is evidence bound: report figures, tables, DOCX and
-PDF are generated from the completed immutable result package. Run the
-automated source checks with:
+The package was checked on Windows with Conda Python 3.10.20, PyTorch
+2.5.1+cu121, Ultralytics 8.4.113 and an NVIDIA GeForce RTX 3080.
 
-```powershell
-.\scripts\run_all_checks.ps1
-```
-
-Then complete the manual [final QA checklist](docs/testing/final-qa-checklist.md)
-and follow the [reproduction handoff](docs/handoff/reproduction.md).
-
-Packaging with PyInstaller is optional and outside the research prototype's
-acceptance criteria.
